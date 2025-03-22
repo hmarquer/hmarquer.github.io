@@ -1,4 +1,5 @@
 [[orden-edp.pdf]]
+![[orden-edp.pdf]]
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)

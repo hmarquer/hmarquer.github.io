@@ -1,4 +1,5 @@
 [[prop-indep-pi-sistemas-imp-indep-sigma-algebras.pdf]]
+![[prop-indep-pi-sistemas-imp-indep-sigma-algebras.pdf]]
 
 ## Referencias
 - [independencia-pi-sistemas](./independencia-pi-sistemas.md)

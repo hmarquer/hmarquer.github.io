@@ -1,4 +1,5 @@
 [[teo-cartas-adaptadas-inmersion.pdf]]
+![[teo-cartas-adaptadas-inmersion.pdf]]
 
 ## Referencias
 - [inmersion](./inmersion.md)

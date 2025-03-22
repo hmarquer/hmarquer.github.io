@@ -1,4 +1,5 @@
 [[convergencia-probabilidad-imp-subsucesion-casi-segura.pdf]]
+![[convergencia-probabilidad-imp-subsucesion-casi-segura.pdf]]
 
 ## Referencias
 - [convergencia-probabilidad](./convergencia-probabilidad.md)

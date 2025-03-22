@@ -1,4 +1,5 @@
 [[zermelo-fraenkel.pdf]]
+![[zermelo-fraenkel.pdf]]
 
 ## Referencias
 - [axm-extensionalidad](./axm-extensionalidad.md)

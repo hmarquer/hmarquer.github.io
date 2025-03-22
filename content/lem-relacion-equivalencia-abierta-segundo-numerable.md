@@ -1,4 +1,5 @@
 [[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
+![[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
 
 ## Referencias
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)

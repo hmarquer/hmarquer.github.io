@@ -1,4 +1,5 @@
 [[convergencia-serie.pdf]]
+![[convergencia-serie.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

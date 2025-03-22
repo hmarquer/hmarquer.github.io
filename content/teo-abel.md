@@ -1,4 +1,5 @@
 [[teo-abel.pdf]]
+![[teo-abel.pdf]]
 
 ## Referencias
 - [serie-formal-potencias](./serie-formal-potencias.md)

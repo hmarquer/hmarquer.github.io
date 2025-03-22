@@ -1,2 +1,3 @@
 [[metrica.pdf]]
+![[metrica.pdf]]
 

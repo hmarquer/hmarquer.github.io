@@ -1,4 +1,5 @@
 [[base-topologia-subespacio.pdf]]
+![[base-topologia-subespacio.pdf]]
 
 ## Referencias
 - [base-topologia](./base-topologia.md)

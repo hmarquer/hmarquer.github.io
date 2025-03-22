@@ -1,4 +1,5 @@
 [[independencia-var-aleatorias.pdf]]
+![[independencia-var-aleatorias.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)

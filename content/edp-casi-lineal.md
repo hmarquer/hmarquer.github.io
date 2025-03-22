@@ -1,4 +1,5 @@
 [[edp-casi-lineal.pdf]]
+![[edp-casi-lineal.pdf]]
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)

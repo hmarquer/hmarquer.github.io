@@ -1,4 +1,5 @@
 [[prop-base-alguna-topologia.pdf]]
+![[prop-base-alguna-topologia.pdf]]
 
 ## Referencias
 - [topologia](./topologia.md)

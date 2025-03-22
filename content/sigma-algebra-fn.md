@@ -1,4 +1,5 @@
 [[sigma-algebra-fn.pdf]]
+![[sigma-algebra-fn.pdf]]
 
 ## Referencias
 - [sigma-algebra](./sigma-algebra.md)

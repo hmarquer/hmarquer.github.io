@@ -1,4 +1,5 @@
 [[prop-fn-continua-cociente-iff-composicion-continua.pdf]]
+![[prop-fn-continua-cociente-iff-composicion-continua.pdf]]
 
 ## Referencias
 - [relacion-equivalencia](./relacion-equivalencia.md)

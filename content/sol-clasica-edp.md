@@ -1,4 +1,5 @@
 [[sol-clasica-edp.pdf]]
+![[sol-clasica-edp.pdf]]
 
 ## Referencias
 - [orden-edp](./orden-edp.md)

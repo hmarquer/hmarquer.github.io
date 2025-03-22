@@ -1,4 +1,5 @@
 [[esp-medida.pdf]]
+![[esp-medida.pdf]]
 
 ## Referencias
 - [sigma-algebra](./sigma-algebra.md)

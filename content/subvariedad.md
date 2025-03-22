@@ -1,4 +1,5 @@
 [[subvariedad.pdf]]
+![[subvariedad.pdf]]
 
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)

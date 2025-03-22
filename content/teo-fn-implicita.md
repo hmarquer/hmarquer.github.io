@@ -1,4 +1,5 @@
 [[teo-fn-implicita.pdf]]
+![[teo-fn-implicita.pdf]]
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)

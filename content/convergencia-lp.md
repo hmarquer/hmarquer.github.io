@@ -1,4 +1,5 @@
 [[convergencia-lp.pdf]]
+![[convergencia-lp.pdf]]
 
 ## Referencias
 - [esp-lp](./esp-lp.md)

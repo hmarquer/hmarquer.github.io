@@ -1,4 +1,5 @@
 [[compatibilidad-atlas-diferenciables.pdf]]
+![[compatibilidad-atlas-diferenciables.pdf]]
 
 ## Referencias
 - [atlas-diferenciable](./atlas-diferenciable.md)

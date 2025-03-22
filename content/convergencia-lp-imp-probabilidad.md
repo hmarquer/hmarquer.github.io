@@ -1,4 +1,5 @@
 [[convergencia-lp-imp-probabilidad.pdf]]
+![[convergencia-lp-imp-probabilidad.pdf]]
 
 ## Referencias
 - [convergencia-lp](./convergencia-lp.md)

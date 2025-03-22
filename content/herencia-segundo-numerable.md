@@ -1,4 +1,5 @@
 [[herencia-segundo-numerable.pdf]]
+![[herencia-segundo-numerable.pdf]]
 
 ## Referencias
 - [segundo-numerable](./segundo-numerable.md)

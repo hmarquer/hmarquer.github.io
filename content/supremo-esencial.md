@@ -1,4 +1,5 @@
 [[supremo-esencial.pdf]]
+![[supremo-esencial.pdf]]
 
 ## Referencias
 - [esp-medida](./esp-medida.md)

@@ -1,4 +1,5 @@
 [[teo-fundamental-algebra.pdf]]
+![[teo-fundamental-algebra.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

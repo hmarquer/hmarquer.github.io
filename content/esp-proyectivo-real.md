@@ -1,4 +1,5 @@
 [[esp-proyectivo-real.pdf]]
+![[esp-proyectivo-real.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

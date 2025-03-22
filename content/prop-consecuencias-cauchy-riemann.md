@@ -1,4 +1,5 @@
 [[prop-consecuencias-cauchy-riemann.pdf]]
+![[prop-consecuencias-cauchy-riemann.pdf]]
 
 ## Referencias
 - [dominio](./dominio.md)

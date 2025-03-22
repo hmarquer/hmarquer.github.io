@@ -1,4 +1,5 @@
 [[norma-lp.pdf]]
+![[norma-lp.pdf]]
 
 ## Referencias
 - [fn-medible](./fn-medible.md)

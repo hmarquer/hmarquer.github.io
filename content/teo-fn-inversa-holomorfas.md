@@ -1,4 +1,5 @@
 [[teo-fn-inversa-holomorfas.pdf]]
+![[teo-fn-inversa-holomorfas.pdf]]
 
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)

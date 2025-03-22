@@ -1,4 +1,5 @@
 [[lem-fatou.pdf]]
+![[lem-fatou.pdf]]
 
 ## Referencias
 - [fn-medible](./fn-medible.md)

@@ -1,4 +1,5 @@
 [[topologia-producto.pdf]]
+![[topologia-producto.pdf]]
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)

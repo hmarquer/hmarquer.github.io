@@ -1,4 +1,5 @@
 [[prop-esperanza-fn.pdf]]
+![[prop-esperanza-fn.pdf]]
 
 ## Referencias
 - [fn-medible](./fn-medible.md)

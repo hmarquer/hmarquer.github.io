@@ -1,4 +1,5 @@
 [[ley-0-1-kolmogorov.pdf]]
+![[ley-0-1-kolmogorov.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
