@@ -1,4 +1,4 @@
-[laplaciano](pdf/laplaciano.pdf)
+![[laplaciano.pdf]]
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)

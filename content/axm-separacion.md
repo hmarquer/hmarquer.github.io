@@ -1,4 +1,4 @@
-[axm-separacion](pdf/axm-separacion.pdf)
+![[axm-separacion.pdf]]
 
 ## Referencias
 - [hausdorff-topologia](./hausdorff-topologia.md)

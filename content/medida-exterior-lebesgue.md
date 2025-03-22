@@ -1,4 +1,4 @@
-[medida-exterior-lebesgue](pdf/medida-exterior-lebesgue.pdf)
+![[medida-exterior-lebesgue.pdf]]
 
 
 ## Etiquetas

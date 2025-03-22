@@ -1,4 +1,4 @@
-[atlas](pdf/atlas.pdf)
+![[atlas.pdf]]
 
 ## Referencias
 - [carta](./carta.md)

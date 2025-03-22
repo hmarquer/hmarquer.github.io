@@ -1,2 +1,2 @@
-[fibra](pdf/fibra.pdf)
+![[fibra.pdf]]
 

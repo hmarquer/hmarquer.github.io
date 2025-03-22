@@ -1,4 +1,4 @@
-[fn-trigonometricas-complejas](pdf/fn-trigonometricas-complejas.pdf)
+![[fn-trigonometricas-complejas.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

@@ -1,4 +1,4 @@
-[desigualdad-holder](pdf/desigualdad-holder.pdf)
+![[desigualdad-holder.pdf]]
 
 ## Referencias
 - [esp-lp](./esp-lp.md)

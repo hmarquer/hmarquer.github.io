@@ -1,4 +1,4 @@
-[gradiente](pdf/gradiente.pdf)
+![[gradiente.pdf]]
 
 
 ## Etiquetas

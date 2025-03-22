@@ -1,4 +1,4 @@
-[forma-bilineal](pdf/forma-bilineal.pdf)
+![[forma-bilineal.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

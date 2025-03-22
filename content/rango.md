@@ -1,2 +1,2 @@
-[rango](pdf/rango.pdf)
+![[rango.pdf]]
 

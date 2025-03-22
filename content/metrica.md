@@ -1,2 +1,2 @@
-[metrica](pdf/metrica.pdf)
+![[metrica.pdf]]
 

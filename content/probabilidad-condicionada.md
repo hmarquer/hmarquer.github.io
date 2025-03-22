@@ -1,2 +1,2 @@
-[probabilidad-condicionada](pdf/probabilidad-condicionada.pdf)
+![[probabilidad-condicionada.pdf]]
 

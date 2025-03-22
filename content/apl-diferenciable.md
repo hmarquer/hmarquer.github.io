@@ -1,4 +1,4 @@
-[apl-diferenciable](pdf/apl-diferenciable.pdf)
+![[apl-diferenciable.pdf]]
 
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)

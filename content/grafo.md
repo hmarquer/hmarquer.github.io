@@ -1,2 +1,2 @@
-[grafo](pdf/grafo.pdf)
+![[grafo.pdf]]
 

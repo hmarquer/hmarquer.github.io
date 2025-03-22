@@ -1,2 +1,2 @@
-[topologia](pdf/topologia.pdf)
+![[topologia.pdf]]
 

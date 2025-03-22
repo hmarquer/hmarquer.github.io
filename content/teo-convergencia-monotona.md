@@ -1,4 +1,4 @@
-[teo-convergencia-monotona](pdf/teo-convergencia-monotona.pdf)
+![[teo-convergencia-monotona.pdf]]
 
 ## Referencias
 - [medida](./medida.md)

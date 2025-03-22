@@ -1,4 +1,4 @@
-[fn-masa](pdf/fn-masa.pdf)
+![[fn-masa.pdf]]
 
 ## Referencias
 - [var-aleatoria-discreta](./var-aleatoria-discreta.md)

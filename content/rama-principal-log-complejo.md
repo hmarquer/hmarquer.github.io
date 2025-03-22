@@ -1,4 +1,4 @@
-[rama-principal-log-complejo](pdf/rama-principal-log-complejo.pdf)
+![[rama-principal-log-complejo.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

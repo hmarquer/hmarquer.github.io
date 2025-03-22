@@ -1,4 +1,4 @@
-[morfismos](pdf/morfismos.pdf)
+![[morfismos.pdf]]
 
 ## Referencias
 - [morfismo-anillos](./morfismo-anillos.md)

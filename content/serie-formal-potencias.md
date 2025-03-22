@@ -1,4 +1,4 @@
-[serie-formal-potencias](pdf/serie-formal-potencias.pdf)
+![[serie-formal-potencias.pdf]]
 
 ## Referencias
 - [anillo](./anillo.md)

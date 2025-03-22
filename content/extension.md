@@ -1,4 +1,4 @@
-[extension](pdf/extension.pdf)
+![[extension.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

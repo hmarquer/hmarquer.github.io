@@ -1,4 +1,4 @@
-[cadena-markov-homogenea](pdf/cadena-markov-homogenea.pdf)
+![[cadena-markov-homogenea.pdf]]
 
 ## Referencias
 - [cadena-markov](./cadena-markov.md)

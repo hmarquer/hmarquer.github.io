@@ -1,4 +1,4 @@
-[topologia-metrica](pdf/topologia-metrica.pdf)
+![[topologia-metrica.pdf]]
 
 ## Referencias
 - [esp-metrico](./esp-metrico.md)

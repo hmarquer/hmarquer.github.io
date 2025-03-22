@@ -1,4 +1,4 @@
-[norma-inducida](pdf/norma-inducida.pdf)
+![[norma-inducida.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

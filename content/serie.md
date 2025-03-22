@@ -1,4 +1,4 @@
-[serie](pdf/serie.pdf)
+![[serie.pdf]]
 
 ## Referencias
 - [grupo](./grupo.md)

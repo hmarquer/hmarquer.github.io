@@ -1,4 +1,4 @@
-[integral](pdf/integral.pdf)
+![[integral.pdf]]
 
 ## Referencias
 - [fn-medible](./fn-medible.md)

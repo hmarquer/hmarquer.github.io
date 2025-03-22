@@ -1,4 +1,4 @@
-[teo-fundamental-calculo](pdf/teo-fundamental-calculo.pdf)
+![[teo-fundamental-calculo.pdf]]
 
 ## Referencias
 - [continuidad](./continuidad.md)

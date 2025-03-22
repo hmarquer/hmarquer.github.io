@@ -1,4 +1,4 @@
-[esp-lp](pdf/esp-lp.pdf)
+![[esp-lp.pdf]]
 
 ## Referencias
 - [norma-lp](./norma-lp.md)

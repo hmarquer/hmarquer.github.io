@@ -1,4 +1,4 @@
-[desigualdad-maximal-kolmogorov](pdf/desigualdad-maximal-kolmogorov.pdf)
+![[desigualdad-maximal-kolmogorov.pdf]]
 
 ## Referencias
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)

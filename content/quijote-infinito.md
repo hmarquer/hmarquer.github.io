@@ -1,4 +1,4 @@
-[quijote-infinito](pdf/quijote-infinito.pdf)
+![[quijote-infinito.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)

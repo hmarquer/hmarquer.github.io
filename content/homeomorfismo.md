@@ -1,4 +1,4 @@
-[homeomorfismo](pdf/homeomorfismo.pdf)
+![[homeomorfismo.pdf]]
 
 ## Referencias
 - [continuidad](./continuidad.md)

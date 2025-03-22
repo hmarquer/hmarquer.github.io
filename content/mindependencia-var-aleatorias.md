@@ -1,4 +1,4 @@
-[mindependencia-var-aleatorias](pdf/mindependencia-var-aleatorias.pdf)
+![[mindependencia-var-aleatorias.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)

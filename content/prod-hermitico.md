@@ -1,4 +1,4 @@
-[prod-hermitico](pdf/prod-hermitico.pdf)
+![[prod-hermitico.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

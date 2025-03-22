@@ -1,2 +1,2 @@
-[algebra](pdf/algebra.pdf)
+![[algebra.pdf]]
 

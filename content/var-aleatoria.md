@@ -1,4 +1,4 @@
-[var-aleatoria](pdf/var-aleatoria.pdf)
+![[var-aleatoria.pdf]]
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)

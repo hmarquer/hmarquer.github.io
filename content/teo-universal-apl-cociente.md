@@ -1,4 +1,4 @@
-[teo-universal-apl-cociente](pdf/teo-universal-apl-cociente.pdf)
+![[teo-universal-apl-cociente.pdf]]
 
 ## Referencias
 - [apl-cociente](./apl-cociente.md)

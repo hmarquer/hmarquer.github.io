@@ -1,4 +1,4 @@
-[atlas-diferenciable](pdf/atlas-diferenciable.pdf)
+![[atlas-diferenciable.pdf]]
 
 ## Referencias
 - [atlas](./atlas.md)

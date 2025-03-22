@@ -1,4 +1,4 @@
-[num-complejo-conjugado](pdf/num-complejo-conjugado.pdf)
+![[num-complejo-conjugado.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)
