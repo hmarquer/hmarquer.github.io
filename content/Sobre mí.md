@@ -1,0 +1,3 @@
+<!-- # Introducción -->
+
+Soy Hugo Marquerie, estudiante de tercer curso del [Grado en Matemáticas](https://www.uam.es/uam/matematicas) en la [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio). He empezado este año a tomar apuntes en clase siguiendo el método [Zettelkasten](https://es.wikipedia.org/wiki/Zettelkasten), en particular, utilizando el software [TeXNotes](https://github.com/alfredholmes/TeXNotes) para poder escribir matemáticas a [LaTeX](https://www.latex-project.org/).
