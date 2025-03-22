@@ -1,3 +1,4 @@
+[[seccion-apl-diferenciable.pdf]]
 ![[seccion-apl-diferenciable.pdf]]
 
 ## Referencias

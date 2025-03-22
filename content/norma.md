@@ -1,3 +1,4 @@
+[[norma.pdf]]
 ![[norma.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[grafo-asociado-cadena-markov-homogenea.pdf]]
 ![[grafo-asociado-cadena-markov-homogenea.pdf]]
 
 ## Referencias

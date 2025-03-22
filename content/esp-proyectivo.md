@@ -1,3 +1,4 @@
+[[esp-proyectivo.pdf]]
 ![[esp-proyectivo.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[esp-tangente-variedad.pdf]]
 ![[esp-tangente-variedad.pdf]]
 
 ## Referencias

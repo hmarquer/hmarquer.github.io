@@ -1,3 +1,4 @@
+[[norma-lp.pdf]]
 ![[norma-lp.pdf]]
 
 ## Referencias

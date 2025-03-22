@@ -1,3 +1,4 @@
+[[num-naturales.pdf]]
 ![[num-naturales.pdf]]
 
 ## Referencias

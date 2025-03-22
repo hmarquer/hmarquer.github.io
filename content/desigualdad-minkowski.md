@@ -1,3 +1,4 @@
+[[desigualdad-minkowski.pdf]]
 ![[desigualdad-minkowski.pdf]]
 
 ## Referencias

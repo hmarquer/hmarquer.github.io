@@ -1,3 +1,4 @@
+[[herencia-segundo-numerable.pdf]]
 ![[herencia-segundo-numerable.pdf]]
 
 ## Referencias

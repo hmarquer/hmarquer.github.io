@@ -1,3 +1,4 @@
+[[independencia-var-aleatorias.pdf]]
 ![[independencia-var-aleatorias.pdf]]
 
 ## Referencias

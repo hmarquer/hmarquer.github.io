@@ -1,3 +1,4 @@
+[[medida.pdf]]
 ![[medida.pdf]]
 
 ## Referencias

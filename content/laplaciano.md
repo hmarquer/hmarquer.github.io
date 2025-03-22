@@ -1,3 +1,4 @@
+[[laplaciano.pdf]]
 ![[laplaciano.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[serie.pdf]]
 ![[serie.pdf]]
 
 ## Referencias

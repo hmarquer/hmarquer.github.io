@@ -1,3 +1,4 @@
+[[sol-clasica-edp.pdf]]
 ![[sol-clasica-edp.pdf]]
 
 ## Referencias

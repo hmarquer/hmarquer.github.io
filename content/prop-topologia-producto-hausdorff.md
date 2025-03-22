@@ -1,3 +1,4 @@
+[[prop-topologia-producto-hausdorff.pdf]]
 ![[prop-topologia-producto-hausdorff.pdf]]
 
 ## Referencias

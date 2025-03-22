@@ -1,3 +1,4 @@
+[[desigualdad-holder-generalizada.pdf]]
 ![[desigualdad-holder-generalizada.pdf]]
 
 ## Referencias

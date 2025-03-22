@@ -1,3 +1,4 @@
+[[lem-borel-cantelli-i.pdf]]
 ![[lem-borel-cantelli-i.pdf]]
 
 ## Referencias

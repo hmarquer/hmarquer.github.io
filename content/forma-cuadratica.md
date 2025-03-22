@@ -1,3 +1,4 @@
+[[forma-cuadratica.pdf]]
 ![[forma-cuadratica.pdf]]
 
 ## Referencias

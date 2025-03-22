@@ -1,3 +1,4 @@
+[[estructura-diferenciable.pdf]]
 ![[estructura-diferenciable.pdf]]
 
 ## Referencias

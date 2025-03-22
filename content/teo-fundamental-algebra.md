@@ -1,3 +1,4 @@
+[[teo-fundamental-algebra.pdf]]
 ![[teo-fundamental-algebra.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[fn-lipschitz2-uniforme1-local.pdf]]
 ![[fn-lipschitz2-uniforme1-local.pdf]]
 
 ## Referencias

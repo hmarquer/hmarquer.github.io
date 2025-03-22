@@ -1,3 +1,4 @@
+[[log-complejo.pdf]]
 ![[log-complejo.pdf]]
 
 ## Referencias

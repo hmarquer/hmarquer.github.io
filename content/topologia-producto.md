@@ -1,3 +1,4 @@
+[[topologia-producto.pdf]]
 ![[topologia-producto.pdf]]
 
 ## Referencias

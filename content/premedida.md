@@ -1,3 +1,4 @@
+[[premedida.pdf]]
 ![[premedida.pdf]]
 
 ## Referencias

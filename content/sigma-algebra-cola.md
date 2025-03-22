@@ -1,3 +1,4 @@
+[[sigma-algebra-cola.pdf]]
 ![[sigma-algebra-cola.pdf]]
 
 ## Referencias

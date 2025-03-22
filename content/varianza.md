@@ -1,3 +1,4 @@
+[[varianza.pdf]]
 ![[varianza.pdf]]
 
 ## Referencias

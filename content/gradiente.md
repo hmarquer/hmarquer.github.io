@@ -1,3 +1,4 @@
+[[gradiente.pdf]]
 ![[gradiente.pdf]]
 
 

@@ -1,3 +1,4 @@
+[[linealidad-integral.pdf]]
 ![[linealidad-integral.pdf]]
 
 ## Referencias

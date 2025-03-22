@@ -1,3 +1,4 @@
+[[mindependencia-sucesos.pdf]]
 ![[mindependencia-sucesos.pdf]]
 
 ## Referencias

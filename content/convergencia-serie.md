@@ -1,3 +1,4 @@
+[[convergencia-serie.pdf]]
 ![[convergencia-serie.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[mindependencia-var-aleatorias.pdf]]
 ![[mindependencia-var-aleatorias.pdf]]
 
 ## Referencias

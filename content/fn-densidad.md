@@ -1,3 +1,4 @@
+[[fn-densidad.pdf]]
 ![[fn-densidad.pdf]]
 
 ## Referencias

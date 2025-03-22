@@ -1,3 +1,4 @@
+[[desigualdad-chebyshev.pdf]]
 ![[desigualdad-chebyshev.pdf]]
 
 ## Referencias

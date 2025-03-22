@@ -1,3 +1,4 @@
+[[var-aleatoria.pdf]]
 ![[var-aleatoria.pdf]]
 
 ## Referencias

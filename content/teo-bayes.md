@@ -1,3 +1,4 @@
+[[teo-bayes.pdf]]
 ![[teo-bayes.pdf]]
 
 ## Referencias

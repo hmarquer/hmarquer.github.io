@@ -1,3 +1,4 @@
+[[apl-cociente.pdf]]
 ![[apl-cociente.pdf]]
 
 ## Referencias

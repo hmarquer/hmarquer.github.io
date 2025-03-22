@@ -1,3 +1,4 @@
+[[axm-separacion.pdf]]
 ![[axm-separacion.pdf]]
 
 ## Referencias

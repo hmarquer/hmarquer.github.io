@@ -1,3 +1,4 @@
+[[convergencia-lp.pdf]]
 ![[convergencia-lp.pdf]]
 
 ## Referencias

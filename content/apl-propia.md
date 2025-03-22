@@ -1,3 +1,4 @@
+[[apl-propia.pdf]]
 ![[apl-propia.pdf]]
 
 ## Referencias

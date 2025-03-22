@@ -1,2 +1,3 @@
+[[algebra.pdf]]
 ![[algebra.pdf]]
 

@@ -1,3 +1,4 @@
+[[vec-aleatorio.pdf]]
 ![[vec-aleatorio.pdf]]
 
 ## Referencias

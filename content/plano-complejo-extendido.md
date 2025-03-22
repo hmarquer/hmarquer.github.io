@@ -1,3 +1,4 @@
+[[plano-complejo-extendido.pdf]]
 ![[plano-complejo-extendido.pdf]]
 
 ## Referencias

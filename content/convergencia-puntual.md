@@ -1,3 +1,4 @@
+[[convergencia-puntual.pdf]]
 ![[convergencia-puntual.pdf]]
 
 ## Referencias

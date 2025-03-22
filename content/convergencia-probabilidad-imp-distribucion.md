@@ -1,3 +1,4 @@
+[[convergencia-probabilidad-imp-distribucion.pdf]]
 ![[convergencia-probabilidad-imp-distribucion.pdf]]
 
 ## Referencias

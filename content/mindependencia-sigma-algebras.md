@@ -1,3 +1,4 @@
+[[mindependencia-sigma-algebras.pdf]]
 ![[mindependencia-sigma-algebras.pdf]]
 
 ## Referencias

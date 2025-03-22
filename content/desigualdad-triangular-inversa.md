@@ -1,3 +1,4 @@
+[[desigualdad-triangular-inversa.pdf]]
 ![[desigualdad-triangular-inversa.pdf]]
 
 ## Referencias

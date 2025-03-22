@@ -1,3 +1,4 @@
+[[curva-diferenciable.pdf]]
 ![[curva-diferenciable.pdf]]
 
 ## Referencias

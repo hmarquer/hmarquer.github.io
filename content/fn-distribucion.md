@@ -1,3 +1,4 @@
+[[fn-distribucion.pdf]]
 ![[fn-distribucion.pdf]]
 
 ## Referencias

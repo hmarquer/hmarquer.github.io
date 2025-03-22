@@ -1,3 +1,4 @@
+[[pnt-acumulacion.pdf]]
 ![[pnt-acumulacion.pdf]]
 
 ## Referencias

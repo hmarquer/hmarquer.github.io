@@ -1,3 +1,4 @@
+[[apl-lineales-equivalentes.pdf]]
 ![[apl-lineales-equivalentes.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[independencia-pi-sistemas.pdf]]
 ![[independencia-pi-sistemas.pdf]]
 
 ## Referencias

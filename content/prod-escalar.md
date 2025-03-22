@@ -1,3 +1,4 @@
+[[prod-escalar.pdf]]
 ![[prod-escalar.pdf]]
 
 ## Referencias

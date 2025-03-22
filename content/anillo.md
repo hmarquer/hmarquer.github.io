@@ -1,3 +1,4 @@
+[[anillo.pdf]]
 ![[anillo.pdf]]
 
 ## Referencias

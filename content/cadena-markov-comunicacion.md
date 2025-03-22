@@ -1,3 +1,4 @@
+[[cadena-markov-comunicacion.pdf]]
 ![[cadena-markov-comunicacion.pdf]]
 
 ## Referencias

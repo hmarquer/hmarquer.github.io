@@ -1,3 +1,4 @@
+[[serie-formal-potencias-radio-convergencia.pdf]]
 ![[serie-formal-potencias-radio-convergencia.pdf]]
 
 ## Referencias

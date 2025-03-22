@@ -1,3 +1,4 @@
+[[teo-universal-apl-cociente.pdf]]
 ![[teo-universal-apl-cociente.pdf]]
 
 ## Referencias

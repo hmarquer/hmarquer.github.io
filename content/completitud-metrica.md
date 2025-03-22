@@ -1,3 +1,4 @@
+[[completitud-metrica.pdf]]
 ![[completitud-metrica.pdf]]
 
 ## Referencias

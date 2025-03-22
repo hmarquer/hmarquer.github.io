@@ -1,3 +1,4 @@
+[[continuidad-uniforme.pdf]]
 ![[continuidad-uniforme.pdf]]
 
 ## Referencias

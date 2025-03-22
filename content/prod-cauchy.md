@@ -1,3 +1,4 @@
+[[prod-cauchy.pdf]]
 ![[prod-cauchy.pdf]]
 
 ## Referencias

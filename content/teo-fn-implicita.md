@@ -1,3 +1,4 @@
+[[teo-fn-implicita.pdf]]
 ![[teo-fn-implicita.pdf]]
 
 ## Referencias

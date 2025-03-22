@@ -1,3 +1,4 @@
+[[sigma-algebra-fn.pdf]]
 ![[sigma-algebra-fn.pdf]]
 
 ## Referencias

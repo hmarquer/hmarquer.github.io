@@ -1,3 +1,4 @@
+[[operadores-wirtinger.pdf]]
 ![[operadores-wirtinger.pdf]]
 
 ## Referencias

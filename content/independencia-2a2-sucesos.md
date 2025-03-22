@@ -1,3 +1,4 @@
+[[independencia-2a2-sucesos.pdf]]
 ![[independencia-2a2-sucesos.pdf]]
 
 ## Referencias

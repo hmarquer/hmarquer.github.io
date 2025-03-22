@@ -1,3 +1,4 @@
+[[num-complejo-modulo.pdf]]
 ![[num-complejo-modulo.pdf]]
 
 ## Referencias

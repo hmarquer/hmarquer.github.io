@@ -1,3 +1,4 @@
+[[convergencia-casi-segura-imp-probabilidad.pdf]]
 ![[convergencia-casi-segura-imp-probabilidad.pdf]]
 
 ## Referencias

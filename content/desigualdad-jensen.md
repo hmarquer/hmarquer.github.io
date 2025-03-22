@@ -1,3 +1,4 @@
+[[desigualdad-jensen.pdf]]
 ![[desigualdad-jensen.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[cadena-markov-irreducible.pdf]]
 ![[cadena-markov-irreducible.pdf]]
 
 ## Referencias

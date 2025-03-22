@@ -1,3 +1,4 @@
+[[circunferencia-generalizada.pdf]]
 ![[circunferencia-generalizada.pdf]]
 
 ## Referencias

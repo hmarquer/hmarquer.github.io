@@ -1,3 +1,4 @@
+[[fn-generatriz-probabilidad.pdf]]
 ![[fn-generatriz-probabilidad.pdf]]
 
 ## Referencias

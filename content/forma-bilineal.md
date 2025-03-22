@@ -1,3 +1,4 @@
+[[forma-bilineal.pdf]]
 ![[forma-bilineal.pdf]]
 
 ## Referencias

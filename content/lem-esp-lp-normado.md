@@ -1,3 +1,4 @@
+[[lem-esp-lp-normado.pdf]]
 ![[lem-esp-lp-normado.pdf]]
 
 ## Referencias

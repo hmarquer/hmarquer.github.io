@@ -1,3 +1,4 @@
+[[compacidad.pdf]]
 ![[compacidad.pdf]]
 
 ## Referencias

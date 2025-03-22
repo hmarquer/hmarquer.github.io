@@ -1,3 +1,4 @@
+[[carta.pdf]]
 ![[carta.pdf]]
 
 ## Referencias

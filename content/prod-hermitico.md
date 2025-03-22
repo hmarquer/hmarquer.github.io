@@ -1,3 +1,4 @@
+[[prod-hermitico.pdf]]
 ![[prod-hermitico.pdf]]
 
 ## Referencias

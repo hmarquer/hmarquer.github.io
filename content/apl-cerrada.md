@@ -1,3 +1,4 @@
+[[apl-cerrada.pdf]]
 ![[apl-cerrada.pdf]]
 
 ## Referencias

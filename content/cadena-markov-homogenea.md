@@ -1,3 +1,4 @@
+[[cadena-markov-homogenea.pdf]]
 ![[cadena-markov-homogenea.pdf]]
 
 ## Referencias

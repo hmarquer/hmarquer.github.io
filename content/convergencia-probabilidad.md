@@ -1,3 +1,4 @@
+[[convergencia-probabilidad.pdf]]
 ![[convergencia-probabilidad.pdf]]
 
 ## Referencias

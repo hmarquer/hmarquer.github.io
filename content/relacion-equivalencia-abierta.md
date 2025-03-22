@@ -1,3 +1,4 @@
+[[relacion-equivalencia-abierta.pdf]]
 ![[relacion-equivalencia-abierta.pdf]]
 
 ## Referencias

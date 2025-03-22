@@ -1,3 +1,4 @@
+[[convergencia-uniforme.pdf]]
 ![[convergencia-uniforme.pdf]]
 
 ## Referencias

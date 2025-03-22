@@ -1,3 +1,4 @@
+[[esp-probabilidad.pdf]]
 ![[esp-probabilidad.pdf]]
 
 ## Referencias

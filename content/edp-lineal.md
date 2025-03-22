@@ -1,3 +1,4 @@
+[[edp-lineal.pdf]]
 ![[edp-lineal.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[norma-inducida.pdf]]
 ![[norma-inducida.pdf]]
 
 ## Referencias

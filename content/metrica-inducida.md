@@ -1,3 +1,4 @@
+[[metrica-inducida.pdf]]
 ![[metrica-inducida.pdf]]
 
 ## Referencias

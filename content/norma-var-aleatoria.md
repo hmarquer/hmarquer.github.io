@@ -1,3 +1,4 @@
+[[norma-var-aleatoria.pdf]]
 ![[norma-var-aleatoria.pdf]]
 
 ## Referencias

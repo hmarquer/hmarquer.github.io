@@ -1,3 +1,4 @@
+[[velocidad-curva-diferenciable.pdf]]
 ![[velocidad-curva-diferenciable.pdf]]
 
 ## Referencias

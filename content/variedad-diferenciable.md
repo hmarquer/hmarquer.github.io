@@ -1,3 +1,4 @@
+[[variedad-diferenciable.pdf]]
 ![[variedad-diferenciable.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[conjugada-armonica.pdf]]
 ![[conjugada-armonica.pdf]]
 
 ## Referencias

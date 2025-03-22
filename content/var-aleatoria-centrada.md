@@ -1,3 +1,4 @@
+[[var-aleatoria-centrada.pdf]]
 ![[var-aleatoria-centrada.pdf]]
 
 ## Referencias

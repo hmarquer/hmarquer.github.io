@@ -1,3 +1,4 @@
+[[num-complejo-conjugado.pdf]]
 ![[num-complejo-conjugado.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[esp-metrizable.pdf]]
 ![[esp-metrizable.pdf]]
 
 ## Referencias

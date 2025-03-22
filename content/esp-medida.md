@@ -1,3 +1,4 @@
+[[esp-medida.pdf]]
 ![[esp-medida.pdf]]
 
 ## Referencias

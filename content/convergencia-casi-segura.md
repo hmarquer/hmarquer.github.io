@@ -1,3 +1,4 @@
+[[convergencia-casi-segura.pdf]]
 ![[convergencia-casi-segura.pdf]]
 
 ## Referencias

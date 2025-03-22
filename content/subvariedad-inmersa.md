@@ -1,3 +1,4 @@
+[[subvariedad-inmersa.pdf]]
 ![[subvariedad-inmersa.pdf]]
 
 ## Referencias

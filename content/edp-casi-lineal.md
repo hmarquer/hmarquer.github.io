@@ -1,3 +1,4 @@
+[[edp-casi-lineal.pdf]]
 ![[edp-casi-lineal.pdf]]
 
 ## Referencias

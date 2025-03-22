@@ -1,3 +1,4 @@
+[[alg-cerrado.pdf]]
 ![[alg-cerrado.pdf]]
 
 ## Referencias

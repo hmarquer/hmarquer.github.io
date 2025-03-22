@@ -1,3 +1,4 @@
+[[lem-relacion-equivalencia-abierta-hausdorff.pdf]]
 ![[lem-relacion-equivalencia-abierta-hausdorff.pdf]]
 
 ## Referencias

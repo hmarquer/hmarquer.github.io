@@ -1,3 +1,4 @@
+[[digrafo-ponderado.pdf]]
 ![[digrafo-ponderado.pdf]]
 
 ## Referencias

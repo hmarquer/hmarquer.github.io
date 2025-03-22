@@ -1,3 +1,4 @@
+[[prop-interseccion-sigma-algebra.pdf]]
 ![[prop-interseccion-sigma-algebra.pdf]]
 
 ## Referencias

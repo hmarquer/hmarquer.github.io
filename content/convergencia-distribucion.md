@@ -1,3 +1,4 @@
+[[convergencia-distribucion.pdf]]
 ![[convergencia-distribucion.pdf]]
 
 ## Referencias

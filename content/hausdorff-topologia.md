@@ -1,3 +1,4 @@
+[[hausdorff-topologia.pdf]]
 ![[hausdorff-topologia.pdf]]
 
 ## Referencias

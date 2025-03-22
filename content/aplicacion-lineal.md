@@ -1,3 +1,4 @@
+[[aplicacion-lineal.pdf]]
 ![[aplicacion-lineal.pdf]]
 
 ## Referencias

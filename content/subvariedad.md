@@ -1,3 +1,4 @@
+[[subvariedad.pdf]]
 ![[subvariedad.pdf]]
 
 ## Referencias

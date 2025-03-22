@@ -1,3 +1,4 @@
+[[prop-medida-exterior-asociada.pdf]]
 ![[prop-medida-exterior-asociada.pdf]]
 
 ## Referencias

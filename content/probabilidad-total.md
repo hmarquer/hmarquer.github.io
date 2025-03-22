@@ -1,3 +1,4 @@
+[[probabilidad-total.pdf]]
 ![[probabilidad-total.pdf]]
 
 ## Referencias

@@ -1,3 +1,4 @@
+[[prop-sigma-algebra-generada.pdf]]
 ![[prop-sigma-algebra-generada.pdf]]
 
 ## Referencias
