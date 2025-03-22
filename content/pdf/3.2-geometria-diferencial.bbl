@@ -1,0 +1,225 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{boothbyIntroductionDifferentiableManifolds1986}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b12f79e614e88ff6c34b2a0f614a42d}{%
+           family={Boothby},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Orlando}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{fullhash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{fullhashraw}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{bibnamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorbibnamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authornamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorfullhash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorfullhashraw}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-0-12-116052-4 978-0-12-116053-1}
+      \field{number}{v. 120}
+      \field{pagetotal}{430}
+      \field{series}{Pure and Applied Mathematics}
+      \field{title}{An Introduction to Differentiable Manifolds and {{Riemannian}} Geometry}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /home/hugo/Zotero/storage/LCL4TXNV/Boothby - 1986 - An introduction to differentiable manifolds and Riemannian geometry.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.academia.edu/8405433/An_introduction_to_differentiable_manifolds_and_riemannian_geometry
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/8405433/An_introduction_to_differentiable_manifolds_and_riemannian_geometry
+      \endverb
+      \keyw{Differentiable manifolds,Riemannian manifolds}
+    \endentry
+    \entry{leeIntroductionSmoothManifolds2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36896354ee3aedc1a13d683ea773634e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York Heidelberg Dordrecht London}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{fullhash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{fullhashraw}{36896354ee3aedc1a13d683ea773634e}
+      \strng{bibnamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorbibnamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authornamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorfullhash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorfullhashraw}{36896354ee3aedc1a13d683ea773634e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. Smooth manifolds -- 2. Smooth maps -- 3. Tangent vectors -- 4. Submersions, Immersions, and embeddings -- 5. Submanifolds -- 6. Sard's theorem -- 7. Lie groups -- 8. Vector fields -- 9. Integral curves and flows -- 10. Vector bundles -- 11. The contangent bundle -- 12. Tensors -- 13. Riemannian metrics -- 14. Differential forms -- 15. Orientations -- 16. Integration on manifolds -- 17. De Rham cohomology -- 18. The de Rham theorem -- 19. Distributions and foliations -- 20. The exponential map -- 21. Quotient manifolds -- 22. Symplectic manifolds -- Appendices}
+      \field{edition}{Second edition}
+      \field{isbn}{978-1-4419-9981-8}
+      \field{langid}{english}
+      \field{number}{218}
+      \field{pagetotal}{708}
+      \field{series}{Graduate Texts in Mathematics}
+      \field{title}{Introduction to Smooth Manifolds}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /home/hugo/Zotero/storage/GDGD5TUP/Lee-Intro-to-Smooth-Manifolds.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://julianchaidez.net/materials/reu/lee_smooth_manifolds.pdf
+      \endverb
+      \verb{url}
+      \verb https://julianchaidez.net/materials/reu/lee_smooth_manifolds.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{boothbyIntroductionDifferentiableManifolds1986}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b12f79e614e88ff6c34b2a0f614a42d}{%
+           family={Boothby},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Orlando}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{fullhash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{fullhashraw}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{bibnamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorbibnamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authornamehash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorfullhash}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \strng{authorfullhashraw}{9b12f79e614e88ff6c34b2a0f614a42d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-0-12-116052-4 978-0-12-116053-1}
+      \field{number}{v. 120}
+      \field{pagetotal}{430}
+      \field{series}{Pure and Applied Mathematics}
+      \field{title}{An Introduction to Differentiable Manifolds and {{Riemannian}} Geometry}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /home/hugo/Zotero/storage/LCL4TXNV/Boothby - 1986 - An introduction to differentiable manifolds and Riemannian geometry.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.academia.edu/8405433/An_introduction_to_differentiable_manifolds_and_riemannian_geometry
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/8405433/An_introduction_to_differentiable_manifolds_and_riemannian_geometry
+      \endverb
+      \keyw{Differentiable manifolds,Riemannian manifolds}
+    \endentry
+    \entry{leeIntroductionSmoothManifolds2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36896354ee3aedc1a13d683ea773634e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York Heidelberg Dordrecht London}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{fullhash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{fullhashraw}{36896354ee3aedc1a13d683ea773634e}
+      \strng{bibnamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorbibnamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authornamehash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorfullhash}{36896354ee3aedc1a13d683ea773634e}
+      \strng{authorfullhashraw}{36896354ee3aedc1a13d683ea773634e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. Smooth manifolds -- 2. Smooth maps -- 3. Tangent vectors -- 4. Submersions, Immersions, and embeddings -- 5. Submanifolds -- 6. Sard's theorem -- 7. Lie groups -- 8. Vector fields -- 9. Integral curves and flows -- 10. Vector bundles -- 11. The contangent bundle -- 12. Tensors -- 13. Riemannian metrics -- 14. Differential forms -- 15. Orientations -- 16. Integration on manifolds -- 17. De Rham cohomology -- 18. The de Rham theorem -- 19. Distributions and foliations -- 20. The exponential map -- 21. Quotient manifolds -- 22. Symplectic manifolds -- Appendices}
+      \field{edition}{Second edition}
+      \field{isbn}{978-1-4419-9981-8}
+      \field{langid}{english}
+      \field{number}{218}
+      \field{pagetotal}{708}
+      \field{series}{Graduate Texts in Mathematics}
+      \field{title}{Introduction to Smooth Manifolds}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /home/hugo/Zotero/storage/GDGD5TUP/Lee-Intro-to-Smooth-Manifolds.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://julianchaidez.net/materials/reu/lee_smooth_manifolds.pdf
+      \endverb
+      \verb{url}
+      \verb https://julianchaidez.net/materials/reu/lee_smooth_manifolds.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
