@@ -1,5 +1,4 @@
 [[lem-sim-abierta-iff-pi-abierta.pdf]]
-![[lem-sim-abierta-iff-pi-abierta.pdf]]
 
 ## Referencias
 - [relacion-equivalencia](./relacion-equivalencia.md)

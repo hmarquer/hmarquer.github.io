@@ -1,5 +1,4 @@
 [[teo-cartas-adaptadas-submersion.pdf]]
-![[teo-cartas-adaptadas-submersion.pdf]]
 
 ## Referencias
 - [submersion](./submersion.md)

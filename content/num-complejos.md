@@ -1,5 +1,4 @@
 [[num-complejos.pdf]]
-![[num-complejos.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

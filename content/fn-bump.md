@@ -1,5 +1,4 @@
 [[fn-bump.pdf]]
-![[fn-bump.pdf]]
 
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)

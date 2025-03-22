@@ -1,5 +1,4 @@
 [[topologia-cociente.pdf]]
-![[topologia-cociente.pdf]]
 
 ## Referencias
 - [relacion-equivalencia](./relacion-equivalencia.md)

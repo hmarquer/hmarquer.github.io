@@ -1,5 +1,4 @@
 [[num-complejo-arg-principal.pdf]]
-![[num-complejo-arg-principal.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

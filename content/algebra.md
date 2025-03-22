@@ -1,3 +1,2 @@
 [[algebra.pdf]]
-![[algebra.pdf]]
 

@@ -1,5 +1,4 @@
 [[independencia-pi-sistemas.pdf]]
-![[independencia-pi-sistemas.pdf]]
 
 ## Referencias
 - [pi-sistema](./pi-sistema.md)

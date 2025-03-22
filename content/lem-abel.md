@@ -1,5 +1,4 @@
 [[lem-abel.pdf]]
-![[lem-abel.pdf]]
 
 ## Referencias
 - [serie-formal-potencias](./serie-formal-potencias.md)

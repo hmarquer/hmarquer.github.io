@@ -1,5 +1,4 @@
 [[rama-log-complejo.pdf]]
-![[rama-log-complejo.pdf]]
 
 ## Referencias
 - [continuidad](./continuidad.md)

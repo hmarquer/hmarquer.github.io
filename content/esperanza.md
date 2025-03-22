@@ -1,5 +1,4 @@
 [[esperanza.pdf]]
-![[esperanza.pdf]]
 
 ## Referencias
 - [fn-integrable](./fn-integrable.md)

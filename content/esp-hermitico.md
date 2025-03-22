@@ -1,5 +1,4 @@
 [[esp-hermitico.pdf]]
-![[esp-hermitico.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

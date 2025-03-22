@@ -1,5 +1,4 @@
 [[teo-picard-lindelof.pdf]]
-![[teo-picard-lindelof.pdf]]
 
 ## Referencias
 - [continuidad](./continuidad.md)

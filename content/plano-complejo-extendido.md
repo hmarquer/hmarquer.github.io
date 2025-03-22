@@ -1,5 +1,4 @@
 [[plano-complejo-extendido.pdf]]
-![[plano-complejo-extendido.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

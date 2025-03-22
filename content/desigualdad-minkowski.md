@@ -1,5 +1,4 @@
 [[desigualdad-minkowski.pdf]]
-![[desigualdad-minkowski.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)

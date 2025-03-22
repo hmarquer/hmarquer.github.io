@@ -1,5 +1,4 @@
 [[apl-propia.pdf]]
-![[apl-propia.pdf]]
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)

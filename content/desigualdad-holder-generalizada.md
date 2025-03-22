@@ -1,5 +1,4 @@
 [[desigualdad-holder-generalizada.pdf]]
-![[desigualdad-holder-generalizada.pdf]]
 
 ## Referencias
 - [esp-lp](./esp-lp.md)

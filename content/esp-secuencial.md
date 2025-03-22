@@ -1,5 +1,4 @@
 [[esp-secuencial.pdf]]
-![[esp-secuencial.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

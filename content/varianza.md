@@ -1,5 +1,4 @@
 [[varianza.pdf]]
-![[varianza.pdf]]
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)

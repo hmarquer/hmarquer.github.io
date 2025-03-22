@@ -1,5 +1,4 @@
 [[sigma-algebra-borel.pdf]]
-![[sigma-algebra-borel.pdf]]
 
 ## Referencias
 - [sigma-algebra-generada](./sigma-algebra-generada.md)

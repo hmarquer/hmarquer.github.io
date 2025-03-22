@@ -1,5 +1,4 @@
 [[gradiente.pdf]]
-![[gradiente.pdf]]
 
 
 ## Etiquetas

@@ -1,5 +1,4 @@
 [[fn-holomorfa.pdf]]
-![[fn-holomorfa.pdf]]
 
 ## Referencias
 - [num-complejos](./num-complejos.md)

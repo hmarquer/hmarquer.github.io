@@ -1,5 +1,4 @@
 [[estructura-diferenciable.pdf]]
-![[estructura-diferenciable.pdf]]
 
 ## Referencias
 - [atlas-diferenciable](./atlas-diferenciable.md)

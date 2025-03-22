@@ -1,5 +1,4 @@
 [[c-infty-compatibilidad.pdf]]
-![[c-infty-compatibilidad.pdf]]
 
 ## Referencias
 - [carta](./carta.md)

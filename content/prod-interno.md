@@ -1,5 +1,4 @@
 [[prod-interno.pdf]]
-![[prod-interno.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

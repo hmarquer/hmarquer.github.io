@@ -1,5 +1,4 @@
 [[asignaturas.pdf]]
-![[asignaturas.pdf]]
 
 ## Referencias
 - [3.2-variable-compleja-i](./3.2-variable-compleja-i.md)

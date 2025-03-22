@@ -1,5 +1,4 @@
 [[completitud-metrica.pdf]]
-![[completitud-metrica.pdf]]
 
 ## Referencias
 - [metrica](./metrica.md)

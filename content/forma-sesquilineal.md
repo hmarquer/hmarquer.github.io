@@ -1,5 +1,4 @@
 [[forma-sesquilineal.pdf]]
-![[forma-sesquilineal.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

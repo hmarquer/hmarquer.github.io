@@ -1,5 +1,4 @@
 [[lem-esp-lp-vectorial.pdf]]
-![[lem-esp-lp-vectorial.pdf]]
 
 ## Referencias
 - [esp-medida](./esp-medida.md)

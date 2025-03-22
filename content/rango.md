@@ -1,3 +1,2 @@
 [[rango.pdf]]
-![[rango.pdf]]
 

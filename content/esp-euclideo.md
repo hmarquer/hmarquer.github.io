@@ -1,5 +1,4 @@
 [[esp-euclideo.pdf]]
-![[esp-euclideo.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

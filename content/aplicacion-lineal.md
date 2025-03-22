@@ -1,5 +1,4 @@
 [[aplicacion-lineal.pdf]]
-![[aplicacion-lineal.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

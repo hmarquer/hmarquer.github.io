@@ -1,5 +1,4 @@
 [[extension.pdf]]
-![[extension.pdf]]
 
 ## Referencias
 - [cuerpo](./cuerpo.md)

@@ -1,5 +1,4 @@
 [[fn-generatriz-probabilidad.pdf]]
-![[fn-generatriz-probabilidad.pdf]]
 
 ## Referencias
 - [var-aleatoria-discreta](./var-aleatoria-discreta.md)

@@ -1,5 +1,4 @@
 [[esp-banach.pdf]]
-![[esp-banach.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)

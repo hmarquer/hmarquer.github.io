@@ -1,5 +1,4 @@
 [[esp-metrizable.pdf]]
-![[esp-metrizable.pdf]]
 
 ## Referencias
 - [metrica](./metrica.md)

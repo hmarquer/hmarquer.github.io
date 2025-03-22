@@ -1,5 +1,4 @@
 [[probabilidad-total.pdf]]
-![[probabilidad-total.pdf]]
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)

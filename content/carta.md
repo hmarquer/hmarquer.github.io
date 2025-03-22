@@ -1,5 +1,4 @@
 [[carta.pdf]]
-![[carta.pdf]]
 
 ## Referencias
 - [homeomorfismo](./homeomorfismo.md)

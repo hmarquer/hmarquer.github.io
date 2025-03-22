@@ -1,3 +1,2 @@
 [[fibra.pdf]]
-![[fibra.pdf]]
 
