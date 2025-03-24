@@ -6,4 +6,5 @@
 - [convergencia-serie](./convergencia-serie.md)
 
 ## Etiquetas
-#REVISAR convergencia uniforme de series??
+#ORDENAR referenciar (falta también crear la nota)
+#ORDENAR referenciar
