@@ -2,4 +2,4 @@
 ![[esp-probabilidad.pdf]]
 
 ## Referencias
-- [sigma-algebra](./sigma-algebra.md)
+- [esp-medida](./esp-medida.md)
