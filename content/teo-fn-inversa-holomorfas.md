@@ -5,6 +5,9 @@
 - [fn-holomorfa](./fn-holomorfa.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-
-## Etiquetas
-#DEMOSTRACIÓN mirar moodle
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [teo-fn-inversa](./teo-fn-inversa.md)
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
