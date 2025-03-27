@@ -10,3 +10,4 @@
 - [norma](./norma.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [norma](./norma.md)
+- [desigualdad-holder](./desigualdad-holder.md)

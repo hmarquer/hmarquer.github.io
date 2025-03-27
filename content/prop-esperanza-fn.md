@@ -14,7 +14,9 @@
 - [fn-medible](./fn-medible.md)
 - [fn-medible](./fn-medible.md)
 - [linealidad-integral](./linealidad-integral.md)
+- [esp-lp](./esp-lp.md)
+- [medida-inducida](./medida-inducida.md)
+- [medida-inducida](./medida-inducida.md)
 
 ## Etiquetas
-#ORDENAR indicar dónde se usan los pasos anteriores en cada paso
-#ORDENAR referenciar (y hacer la nota primero)
+#ORDENAR referenciar el lema técnico (y hacer la nota primero)

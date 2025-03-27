@@ -3,3 +3,4 @@
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
+- [momento-p](./momento-p.md)

@@ -8,6 +8,4 @@
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [exponente-conjugado](./exponente-conjugado.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
-
-## Etiquetas
-#REVISAR esta demostración
+- [desigualdad-young](./desigualdad-young.md)
