@@ -12,4 +12,4 @@
 - [sucesion-cauchy](./sucesion-cauchy.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#REVISAR 

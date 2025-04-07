@@ -10,5 +10,5 @@
 - [difeomorfismo](./difeomorfismo.md)
 
 ## Etiquetas
-#COMPLETAR de la foto
+#COMPLETAR diagrama de la foto (realmente no es necesario)
 #COMPLETAR de la foto
