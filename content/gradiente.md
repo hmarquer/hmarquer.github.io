@@ -1,6 +1,5 @@
 [[gradiente.pdf]]
 ![[gradiente.pdf]]
 
-
-## Etiquetas
-#TODO hacer nota para diferenciabilidad
+## Referencias
+- [fn-diferenciable](./fn-diferenciable.md)

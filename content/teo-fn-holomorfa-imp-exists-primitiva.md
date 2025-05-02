@@ -9,6 +9,7 @@
 - [regla-barrow-compleja](./regla-barrow-compleja.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 - [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
+- [integral-linea-compleja](./integral-linea-compleja.md)
 
 ## Etiquetas
 #COMPLETAR con el dibujo
