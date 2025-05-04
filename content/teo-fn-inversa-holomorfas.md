@@ -11,3 +11,4 @@
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [fn-diferenciable](./fn-diferenciable.md)
