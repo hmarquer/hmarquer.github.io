@@ -10,6 +10,7 @@
 - [metrica-inducida](./metrica-inducida.md)
 - [completitud-metrica](./completitud-metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
+- [esp-lp](./esp-lp.md)
 
 ## Etiquetas
 #REVISAR 
