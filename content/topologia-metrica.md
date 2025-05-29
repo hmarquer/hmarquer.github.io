@@ -5,6 +5,7 @@
 - [esp-metrico](./esp-metrico.md)
 - [base-topologia](./base-topologia.md)
 - [topologia](./topologia.md)
+- [bola-abierta](./bola-abierta.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

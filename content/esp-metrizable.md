@@ -5,3 +5,5 @@
 - [metrica](./metrica.md)
 - [base-topologia](./base-topologia.md)
 - [esp-topologico](./esp-topologico.md)
+- [topologia-metrica](./topologia-metrica.md)
+- [topologia](./topologia.md)
