@@ -3,3 +3,4 @@
 
 ## Referencias
 - [metrica](./metrica.md)
+- [sucesion](./sucesion.md)
