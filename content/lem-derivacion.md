@@ -1,7 +1,7 @@
-[[derivacion.pdf]]
-![[derivacion.pdf]]
+[[lem-derivacion.pdf]]
+![[lem-derivacion.pdf]]
 
 ## Referencias
-- [aplicacion-lineal](./aplicacion-lineal.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
+- [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [fn-diferenciable-variedad](./fn-diferenciable-variedad.md)
