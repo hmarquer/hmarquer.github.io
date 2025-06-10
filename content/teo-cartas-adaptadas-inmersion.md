@@ -8,7 +8,3 @@
 - [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 - [teo-fn-inversa](./teo-fn-inversa.md)
 - [difeomorfismo](./difeomorfismo.md)
-
-## Etiquetas
-#COMPLETAR diagrama de la foto (realmente no es necesario)
-#COMPLETAR de la foto
