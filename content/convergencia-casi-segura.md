@@ -3,3 +3,4 @@
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
+- [convergencia-puntual](./convergencia-puntual.md)

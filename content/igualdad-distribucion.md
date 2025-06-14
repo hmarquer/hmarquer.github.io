@@ -8,3 +8,7 @@
 - [fn-distribucion](./fn-distribucion.md)
 - [medida-inducida](./medida-inducida.md)
 - [medida-inducida](./medida-inducida.md)
+- [igualdad-distribucion](./igualdad-distribucion.md)
+
+## Etiquetas
+#EJERCICIO demostrar que $X \overset{d}{=} Y$.

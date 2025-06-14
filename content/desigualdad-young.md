@@ -5,4 +5,4 @@
 - [exponente-conjugado](./exponente-conjugado.md)
 
 ## Etiquetas
-#COMPLETAR 
+#DEMOSTRACIÓN :

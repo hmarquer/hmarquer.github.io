@@ -7,3 +7,4 @@
 - [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
+- [fn-convexa](./fn-convexa.md)

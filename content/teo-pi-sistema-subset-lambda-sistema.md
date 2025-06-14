@@ -4,3 +4,4 @@
 ## Referencias
 - [pi-sistema](./pi-sistema.md)
 - [lambda-sistema](./lambda-sistema.md)
+- [sigma-algebra-generada](./sigma-algebra-generada.md)

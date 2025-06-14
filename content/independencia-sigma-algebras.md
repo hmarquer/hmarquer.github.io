@@ -4,3 +4,4 @@
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
+- [independencia-sucesos](./independencia-sucesos.md)

@@ -7,6 +7,4 @@
 - [varianza](./varianza.md)
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
-
-## Etiquetas
-#DEMOSTRACIÓN 
+- [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
