@@ -5,5 +5,5 @@
 - [martingala](./martingala.md)
 - [fn-convexa](./fn-convexa.md)
 - [submartingala](./submartingala.md)
-- [desigualdad-jensen-condicionada](./desigualdad-jensen-condicionada.md)
 - [martingala](./martingala.md)
+- [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
