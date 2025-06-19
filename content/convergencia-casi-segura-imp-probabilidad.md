@@ -4,7 +4,4 @@
 ## Referencias
 - [convergencia-casi-segura](./convergencia-casi-segura.md)
 - [convergencia-probabilidad](./convergencia-probabilidad.md)
-- [lem-fatou](./lem-fatou.md)
-
-## Etiquetas
-#EJERCICIO 
+- [lem-fatou-probabilidades](./lem-fatou-probabilidades.md)

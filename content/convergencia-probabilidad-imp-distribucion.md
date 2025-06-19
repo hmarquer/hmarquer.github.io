@@ -4,6 +4,3 @@
 ## Referencias
 - [convergencia-probabilidad](./convergencia-probabilidad.md)
 - [convergencia-distribucion](./convergencia-distribucion.md)
-
-## Etiquetas
-#DEMOSTRACIÓN 

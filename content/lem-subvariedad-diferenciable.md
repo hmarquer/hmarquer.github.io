@@ -10,6 +10,8 @@
 - [inmersion](./inmersion.md)
 - [embebimiento](./embebimiento.md)
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
-
-## Etiquetas
-#DEMOSTRACIÓN completar la demostración
+- [variedad-diferenciable](./variedad-diferenciable.md)
+- [prop-estructura-diferenciable-inducida-homeomorfismo](./prop-estructura-diferenciable-inducida-homeomorfismo.md)
+- [difeomorfismo](./difeomorfismo.md)
+- [difeomorfismo](./difeomorfismo.md)
+- [homeomorfismo](./homeomorfismo.md)
