@@ -5,6 +5,6 @@
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [variedad-topologica](./variedad-topologica.md)
 - [difeomorfismo](./difeomorfismo.md)
-
-## Etiquetas
-#DEMOSTRACIÓN 
+- [apl-diferenciable](./apl-diferenciable.md)
+- [apl-diferenciable](./apl-diferenciable.md)
+- [c-infty-compatibilidad](./c-infty-compatibilidad.md)

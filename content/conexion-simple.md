@@ -4,6 +4,4 @@
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
 - [conexion-arcos](./conexion-arcos.md)
-
-## Etiquetas
-#ORDENAR referenciar
+- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
