@@ -8,6 +8,7 @@
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
+- [apl-abierta](./apl-abierta.md)
 
 ## Etiquetas
 #ORDENAR referenciar

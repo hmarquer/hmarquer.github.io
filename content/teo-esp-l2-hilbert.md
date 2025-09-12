@@ -9,7 +9,6 @@
 - [linealidad-integral](./linealidad-integral.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [esp-banach](./esp-banach.md)
-- [norma-inducida](./norma-inducida.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)

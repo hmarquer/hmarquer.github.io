@@ -4,4 +4,4 @@
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [carta](./carta.md)
-- [fn-diferenciable](./fn-diferenciable.md)
+- [fn-clase-ck](./fn-clase-ck.md)

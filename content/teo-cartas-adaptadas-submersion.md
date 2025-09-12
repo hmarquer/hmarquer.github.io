@@ -5,6 +5,7 @@
 - [submersion](./submersion.md)
 - [carta](./carta.md)
 - [carta](./carta.md)
+- [apl-diferenciable](./apl-diferenciable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

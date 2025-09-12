@@ -7,4 +7,4 @@
 - [norma](./norma.md)
 
 ## Etiquetas
-#COMPLETAR probar que es una norma
+#DEMOSTRACIÓN probar que es una norma

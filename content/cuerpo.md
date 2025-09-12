@@ -3,3 +3,5 @@
 
 ## Referencias
 - [anillo](./anillo.md)
+- [anillo](./anillo.md)
+- [cuerpo](./cuerpo.md)

@@ -5,3 +5,5 @@
 - [fn-medible](./fn-medible.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [lem-fatou](./lem-fatou.md)
+- [esp-medida](./esp-medida.md)
+- [fn-integrable](./fn-integrable.md)
