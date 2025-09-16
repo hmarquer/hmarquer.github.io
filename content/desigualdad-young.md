@@ -3,6 +3,3 @@
 
 ## Referencias
 - [exponente-conjugado](./exponente-conjugado.md)
-
-## Etiquetas
-#DEMOSTRACIÓN :
