@@ -7,10 +7,15 @@
 - [norma-lp](./norma-lp.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [norma](./norma.md)
-- [metrica-inducida](./metrica-inducida.md)
 - [completitud-metrica](./completitud-metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [esp-lp](./esp-lp.md)
+- [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [lem-fatou](./lem-fatou.md)
+- [lem-fatou](./lem-fatou.md)
 
 ## Etiquetas
-#REVISAR 
+#COMPLETAR falta el caso $p = \infty$
