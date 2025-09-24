@@ -18,4 +18,4 @@
 - [lem-fatou](./lem-fatou.md)
 
 ## Etiquetas
-#COMPLETAR falta el caso $p = \infty$
+#ORDENAR referenciar ejercicio de variable real

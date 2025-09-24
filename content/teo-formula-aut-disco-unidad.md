@@ -9,5 +9,7 @@
 - [lem-schwarz](./lem-schwarz.md)
 
 ## Etiquetas
+#ORDENAR referenciando el lema
+#COMPLETAR y ORDENAR referenciando el lema
 #ORDENAR referenciar cómo sabemos que $h^{-1} \in \mathcal{H}\left(\mathbb{D}\right)$
 #REVISAR 
