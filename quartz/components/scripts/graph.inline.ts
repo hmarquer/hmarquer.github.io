@@ -279,8 +279,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     tweens.get("label")?.stop()
     const tweenGroup = new TweenGroup()
 
-    const defaultScale = 1 / scale
-    const activeScale = defaultScale * 1.1
+    const fixedScale = 1 / scale // Fixed scale independent of zoom
+    const activeScale = fixedScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
 
@@ -289,7 +289,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           new Tweened<Text>(n.label).to(
             {
               alpha: 1,
-              scale: { x: activeScale, y: activeScale },
+              scale: { x: activeScale / currentTransform.k, y: activeScale / currentTransform.k },
             },
             100,
           ),
@@ -299,7 +299,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           new Tweened<Text>(n.label).to(
             {
               alpha: n.label.alpha,
-              scale: { x: defaultScale, y: defaultScale },
+              scale: { x: fixedScale / currentTransform.k, y: fixedScale / currentTransform.k },
             },
             100,
           ),
@@ -387,7 +387,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       },
       resolution: window.devicePixelRatio * 4,
     })
-    label.scale.set(1 / scale)
 
     let oldLabelOpacity = 0
     const isTagNode = nodeId.startsWith("tags/")
@@ -450,6 +449,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   let currentTransform = zoomIdentity
+  
+  // Initialize label scales with fixed size
+  for (const n of nodeRenderData) {
+    n.label.scale.set(1 / scale / currentTransform.k)
+  }
   if (enableDrag) {
     select<HTMLCanvasElement, NodeData | undefined>(app.canvas).call(
       drag<HTMLCanvasElement, NodeData | undefined>()
@@ -519,6 +523,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
               label.alpha = scaleOpacity
             }
           }
+
+          // Re-render labels to maintain constant size
+          renderLabels()
         }),
     )
   }

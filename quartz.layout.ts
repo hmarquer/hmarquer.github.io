@@ -19,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     // Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showReadingTime: false }),
     // Component.TagList(), // Uncomment to display tags
   ],
   left: [
@@ -37,7 +37,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false,
+        fontSize: 1.,
+      },
+      globalGraph: {
+        showTags: false,
+        fontSize: 1.,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -48,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     // Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta()
+    Component.ContentMeta({ showReadingTime: false })
 ],
   left: [
     Component.PageTitle(),
