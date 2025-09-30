@@ -6,6 +6,4 @@
 - [aditividad](./aditividad.md)
 - [continuidad](./continuidad.md)
 - [homogeneidad](./homogeneidad.md)
-
-## Etiquetas
-#DEMOSTRACIÓN de los apuntes
+- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
