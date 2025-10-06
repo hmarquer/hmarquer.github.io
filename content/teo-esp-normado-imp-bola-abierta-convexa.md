@@ -6,6 +6,3 @@
 - [norma](./norma.md)
 - [bola-abierta](./bola-abierta.md)
 - [con-convexo](./con-convexo.md)
-
-## Etiquetas
-#DEMOSTRACIÓN 
