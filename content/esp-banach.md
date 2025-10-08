@@ -5,3 +5,4 @@
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 - [completitud-metrica](./completitud-metrica.md)
+- [metrica-inducida](./metrica-inducida.md)
