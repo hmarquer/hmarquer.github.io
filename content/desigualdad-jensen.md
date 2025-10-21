@@ -8,3 +8,6 @@
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
 - [fn-clase-ck](./fn-clase-ck.md)
+- [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
+- [esp-probabilidad](./esp-probabilidad.md)

@@ -2,4 +2,4 @@
 ![[fn-simple.pdf]]
 
 ## Referencias
-- [esp-medida](./esp-medida.md)
+- [esp-medible](./esp-medible.md)
