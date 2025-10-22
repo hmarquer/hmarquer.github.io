@@ -6,6 +6,3 @@
 - [metrica](./metrica.md)
 - [norma](./norma.md)
 - [metrica-inducida](./metrica-inducida.md)
-
-## Etiquetas
-#DEMOSTRACIÓN 
