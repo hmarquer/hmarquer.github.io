@@ -12,6 +12,3 @@
 - [metrica](./metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [metrica](./metrica.md)
-
-## Etiquetas
-#COMPLETAR 
