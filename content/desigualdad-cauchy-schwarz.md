@@ -6,6 +6,3 @@
 - [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
 - [indep-lineal](./indep-lineal.md)
-
-## Etiquetas
-#DEMOSTRACIÓN en los apuntes

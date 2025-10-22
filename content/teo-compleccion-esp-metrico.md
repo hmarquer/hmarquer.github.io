@@ -7,7 +7,11 @@
 - [isometria](./isometria.md)
 - [con-denso](./con-denso.md)
 - [esp-isometricos](./esp-isometricos.md)
+- [sucesion-cauchy](./sucesion-cauchy.md)
+- [relacion-equivalencia](./relacion-equivalencia.md)
+- [metrica](./metrica.md)
+- [sucesion-cauchy](./sucesion-cauchy.md)
+- [metrica](./metrica.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN de los apuntes
-#COMPLETAR DEMOSTRACIÓN de los apuntes
+#COMPLETAR 
