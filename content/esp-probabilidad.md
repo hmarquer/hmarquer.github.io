@@ -3,3 +3,4 @@
 
 ## Referencias
 - [esp-medida](./esp-medida.md)
+- [esp-medida-finito](./esp-medida-finito.md)

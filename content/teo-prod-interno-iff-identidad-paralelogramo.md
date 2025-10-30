@@ -7,6 +7,7 @@
 - [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [identidad-polarizacion](./identidad-polarizacion.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

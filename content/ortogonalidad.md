@@ -2,5 +2,5 @@
 ![[ortogonalidad.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
 - [prod-interno](./prod-interno.md)
+- [esp-prehilbert](./esp-prehilbert.md)
