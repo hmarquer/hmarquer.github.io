@@ -6,6 +6,5 @@
 - [convergencia-lp](./convergencia-lp.md)
 - [norma-lp](./norma-lp.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
-
-## Etiquetas
-#ORDENAR : referenciar de dónde sale esto
+- [convergencia-puntual](./convergencia-puntual.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)

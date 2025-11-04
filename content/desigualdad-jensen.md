@@ -12,3 +12,4 @@
 - [fn-medible](./fn-medible.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medida-finito](./esp-medida-finito.md)
+- [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
