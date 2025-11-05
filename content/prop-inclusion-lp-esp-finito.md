@@ -8,3 +8,6 @@
 - [esp-lp](./esp-lp.md)
 - [esp-lp](./esp-lp.md)
 - [desigualdad-holder](./desigualdad-holder.md)
+- [desigualdad-jensen](./desigualdad-jensen.md)
+- [fn-convexa](./fn-convexa.md)
+- [desigualdad-jensen](./desigualdad-jensen.md)
