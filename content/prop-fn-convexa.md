@@ -7,3 +7,9 @@
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-convexa](./fn-convexa.md)
 - [continuidad](./continuidad.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/tema1
+#probabilidad-ii/tema2

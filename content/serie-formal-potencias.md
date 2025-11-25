@@ -6,3 +6,9 @@
 - [esp-secuencial](./esp-secuencial.md)
 - [serie](./serie.md)
 - [esp-vectorial](./esp-vectorial.md)
+
+## Etiquetas
+
+### Asignaturas
+#modelizacion/tema2
+#variable-compleja-i/tema3

@@ -10,3 +10,9 @@
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
+
+## Etiquetas
+
+### Asignaturas
+#analisis-funcional/tema2
+#variable-real/tema3

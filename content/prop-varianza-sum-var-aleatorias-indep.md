@@ -12,3 +12,8 @@
 - [prop-esperanza-prod-var-aleatorias-indep](./prop-esperanza-prod-var-aleatorias-indep.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 - [prop-formula-varianza](./prop-formula-varianza.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

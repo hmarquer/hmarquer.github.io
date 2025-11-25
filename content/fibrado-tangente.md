@@ -5,3 +5,8 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

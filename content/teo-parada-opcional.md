@@ -14,3 +14,8 @@
 - [supermartingala](./supermartingala.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [sigma-algebra-tiempo-parada](./sigma-algebra-tiempo-parada.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema4

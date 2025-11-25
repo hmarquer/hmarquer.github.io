@@ -9,3 +9,9 @@
 - [norma](./norma.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
+
+## Etiquetas
+
+### Asignaturas
+#ecuaciones-en-derivadas-parciales/tema4
+#variable-real/tema1

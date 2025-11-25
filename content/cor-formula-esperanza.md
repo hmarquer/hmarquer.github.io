@@ -7,3 +7,8 @@
 - [esperanza](./esperanza.md)
 - [medida-inducida](./medida-inducida.md)
 - [prop-esperanza-fn](./prop-esperanza-fn.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

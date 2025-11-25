@@ -9,3 +9,9 @@
 - [desigualdad-young](./desigualdad-young.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/tema1
+#probabilidad-ii/tema2

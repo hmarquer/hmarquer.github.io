@@ -3,3 +3,8 @@
 
 ## Referencias
 - [continuidad](./continuidad.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

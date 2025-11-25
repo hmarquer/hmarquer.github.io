@@ -5,3 +5,8 @@
 - [pi-sistema](./pi-sistema.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [independencia-sucesos](./independencia-sucesos.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

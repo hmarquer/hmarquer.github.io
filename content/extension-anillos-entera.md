@@ -4,3 +4,8 @@
 ## Referencias
 - [extension-anillos](./extension-anillos.md)
 - [elemento-entero-sobre-anillo](./elemento-entero-sobre-anillo.md)
+
+## Etiquetas
+
+### Asignaturas
+#algebra-conmutativa/tema4

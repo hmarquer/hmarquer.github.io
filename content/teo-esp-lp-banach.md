@@ -19,3 +19,8 @@
 
 ## Etiquetas
 #ORDENAR referenciar ejercicio de variable real
+
+### Asignaturas
+#analisis-funcional/tema2
+#ecuaciones-en-derivadas-parciales/tema4
+#variable-real/tema1

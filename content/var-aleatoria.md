@@ -5,3 +5,8 @@
 - [fn-medible](./fn-medible.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medida](./esp-medida.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

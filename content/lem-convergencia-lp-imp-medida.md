@@ -4,3 +4,8 @@
 ## Referencias
 - [convergencia-lp](./convergencia-lp.md)
 - [convergencia-medida](./convergencia-medida.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/tema2

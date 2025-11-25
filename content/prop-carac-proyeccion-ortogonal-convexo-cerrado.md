@@ -9,3 +9,7 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN de la foto del 30/09/2025
+
+### Asignaturas
+#analisis-funcional/tema2
+#variable-real/tema3

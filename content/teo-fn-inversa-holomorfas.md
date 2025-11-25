@@ -7,3 +7,8 @@
 - [fn-holomorfa](./fn-holomorfa.md)
 - [teo-fn-inversa](./teo-fn-inversa.md)
 - [fn-diferenciable](./fn-diferenciable.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-compleja-i/tema2

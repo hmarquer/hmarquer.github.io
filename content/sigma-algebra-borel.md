@@ -4,3 +4,8 @@
 ## Referencias
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 - [esp-topologico](./esp-topologico.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/hoja0

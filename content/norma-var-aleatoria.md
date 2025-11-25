@@ -4,3 +4,8 @@
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
 - [momento-p](./momento-p.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

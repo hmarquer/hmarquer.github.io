@@ -4,3 +4,8 @@
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
 - [equivalencia-homotopica](./equivalencia-homotopica.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

@@ -17,3 +17,6 @@
 ## Etiquetas
 #EJERCICIO ver que $\nu$ es una medida con signo
 #EJERCICIO ver que si $Z$ es simple, se tiene por linealidad de la integral
+
+### Asignaturas
+#probabilidad-ii/tema4

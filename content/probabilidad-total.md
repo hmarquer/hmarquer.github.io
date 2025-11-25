@@ -6,3 +6,8 @@
 - [probabilidad-condicionada](./probabilidad-condicionada.md)
 - [medida](./medida.md)
 - [probabilidad-condicionada](./probabilidad-condicionada.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

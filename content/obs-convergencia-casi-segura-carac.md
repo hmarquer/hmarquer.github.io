@@ -8,3 +8,8 @@
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 - [lem-fatou-probabilidades](./lem-fatou-probabilidades.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema3

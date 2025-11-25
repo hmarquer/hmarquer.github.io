@@ -6,3 +6,9 @@
 - [convergencia-uniforme](./convergencia-uniforme.md)
 - [teo-comparacion-weierstrass](./teo-comparacion-weierstrass.md)
 - [convergencia-serie](./convergencia-serie.md)
+
+## Etiquetas
+
+### Asignaturas
+#modelizacion/tema2
+#variable-compleja-i/tema3

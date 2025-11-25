@@ -4,3 +4,8 @@
 ## Referencias
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 - [subvariedad-inmersa](./subvariedad-inmersa.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema4

@@ -11,3 +11,8 @@
 - [lem-fatou](./lem-fatou.md)
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

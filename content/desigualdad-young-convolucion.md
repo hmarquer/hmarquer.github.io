@@ -11,3 +11,9 @@
 - [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/parcial
+#variable-real/tema2

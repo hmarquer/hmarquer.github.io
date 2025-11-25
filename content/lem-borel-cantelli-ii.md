@@ -4,3 +4,8 @@
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
 - [mindependencia-sucesos](./mindependencia-sucesos.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

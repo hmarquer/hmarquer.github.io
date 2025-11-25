@@ -12,3 +12,6 @@
 ## Etiquetas
 #DEMOSTRACIÓN 
 #EJERCICIO Si $\mathcal{F} = \sigma (A_1, \dots, A_n)$ es fácil, en el caso general es difícil.
+
+### Asignaturas
+#probabilidad-ii/tema4

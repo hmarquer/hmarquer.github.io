@@ -4,3 +4,8 @@
 ## Referencias
 - [convergencia-probabilidad](./convergencia-probabilidad.md)
 - [convergencia-distribucion](./convergencia-distribucion.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema3

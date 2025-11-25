@@ -9,3 +9,9 @@
 - [prod-interno](./prod-interno.md)
 - [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
+
+## Etiquetas
+
+### Asignaturas
+#analisis-funcional/tema2
+#variable-real/tema3

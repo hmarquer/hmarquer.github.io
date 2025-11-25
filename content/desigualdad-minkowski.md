@@ -11,3 +11,9 @@
 - [linealidad-integral](./linealidad-integral.md)
 - [norma](./norma.md)
 - [desigualdad-holder](./desigualdad-holder.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/tema1
+#probabilidad-ii/tema2

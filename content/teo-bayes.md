@@ -4,3 +4,8 @@
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
 - [probabilidad-condicionada](./probabilidad-condicionada.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

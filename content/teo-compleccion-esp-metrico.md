@@ -12,3 +12,9 @@
 - [metrica](./metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [metrica](./metrica.md)
+
+## Etiquetas
+
+### Asignaturas
+#analisis-funcional/tema2
+#teoria-descriptiva-de-conjuntos/tema1

@@ -7,3 +7,8 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [accion-grupo](./accion-grupo.md)
 - [apl-diferenciable](./apl-diferenciable.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

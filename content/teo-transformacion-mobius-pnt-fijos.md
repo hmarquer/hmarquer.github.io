@@ -5,3 +5,8 @@
 - [transformacion-mobius](./transformacion-mobius.md)
 - [pnt-fijo](./pnt-fijo.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-compleja-i/tema2

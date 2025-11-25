@@ -4,3 +4,8 @@
 ## Referencias
 - [num-complejos](./num-complejos.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-compleja-i/tema2

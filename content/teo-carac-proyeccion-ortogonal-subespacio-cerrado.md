@@ -8,3 +8,9 @@
 - [prop-carac-proyeccion-ortogonal-convexo-cerrado](./prop-carac-proyeccion-ortogonal-convexo-cerrado.md)
 - [ortogonalidad](./ortogonalidad.md)
 - [esp-hilbert](./esp-hilbert.md)
+
+## Etiquetas
+
+### Asignaturas
+#analisis-funcional/tema2
+#variable-real/tema3

@@ -4,3 +4,8 @@
 ## Referencias
 - [continuidad](./continuidad.md)
 - [log-complejo](./log-complejo.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-compleja-i/tema2

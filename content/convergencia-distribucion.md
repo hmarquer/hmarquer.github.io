@@ -6,3 +6,8 @@
 - [fn-distribucion](./fn-distribucion.md)
 - [fn-distribucion](./fn-distribucion.md)
 - [fn-distribucion](./fn-distribucion.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema3

@@ -8,3 +8,8 @@
 - [norma-lp](./norma-lp.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
 - [fn-convexa](./fn-convexa.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

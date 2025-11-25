@@ -3,3 +3,8 @@
 
 ## Referencias
 - [modulo](./modulo.md)
+
+## Etiquetas
+
+### Asignaturas
+#algebra-conmutativa/tema2
