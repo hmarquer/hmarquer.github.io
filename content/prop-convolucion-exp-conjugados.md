@@ -19,3 +19,6 @@
 ## Etiquetas
 #COMPLETAR con el caso $p = \infty$ EJERCICIO
 #EJERCICIO 
+
+### Asignaturas
+#variable-real/tema2

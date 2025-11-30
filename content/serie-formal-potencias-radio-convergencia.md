@@ -3,3 +3,8 @@
 
 ## Referencias
 - [serie-formal-potencias](./serie-formal-potencias.md)
+
+## Etiquetas
+
+### Asignaturas
+#modelizacion/tema2

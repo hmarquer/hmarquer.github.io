@@ -3,3 +3,8 @@
 
 ## Referencias
 - [arco](./arco.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

@@ -7,3 +7,9 @@
 - [dominio-integridad](./dominio-integridad.md)
 - [prop-grado-polinomio](./prop-grado-polinomio.md)
 - [prop-grado-polinomio](./prop-grado-polinomio.md)
+
+## Etiquetas
+
+### Asignaturas
+#teoria-de-galois/tema1
+#algebra-conmutativa/tema1

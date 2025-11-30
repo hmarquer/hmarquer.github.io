@@ -8,3 +8,8 @@
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [orbita-accion-grupo](./orbita-accion-grupo.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

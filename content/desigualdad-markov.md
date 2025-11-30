@@ -4,3 +4,8 @@
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
 - [desigualdad-chebyshev](./desigualdad-chebyshev.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

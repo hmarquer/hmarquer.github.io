@@ -9,3 +9,6 @@
 
 ## Etiquetas
 #COMPLETAR diagrama de whatsapp irune también tengo fotos de los apuntes de jacobo del día 08/04/2025
+
+### Asignaturas
+#geometria-diferencial/tema4

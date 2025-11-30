@@ -6,3 +6,8 @@
 - [ideal](./ideal.md)
 - [anillo-cociente](./anillo-cociente.md)
 - [morfismo-anillos](./morfismo-anillos.md)
+
+## Etiquetas
+
+### Asignaturas
+#algebra-conmutativa/tema1

@@ -7,3 +7,8 @@
 - [submartingala](./submartingala.md)
 - [martingala](./martingala.md)
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema4

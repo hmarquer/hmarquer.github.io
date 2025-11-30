@@ -4,3 +4,8 @@
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
 - [fn-medible](./fn-medible.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

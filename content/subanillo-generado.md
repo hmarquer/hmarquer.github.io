@@ -4,3 +4,8 @@
 ## Referencias
 - [anillo](./anillo.md)
 - [subanillo](./subanillo.md)
+
+## Etiquetas
+
+### Asignaturas
+#algebra-conmutativa/tema1

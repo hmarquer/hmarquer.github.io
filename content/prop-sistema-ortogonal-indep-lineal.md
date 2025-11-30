@@ -6,3 +6,8 @@
 - [sistema-ortogonal](./sistema-ortogonal.md)
 - [indep-lineal](./indep-lineal.md)
 - [teo-pitagoras](./teo-pitagoras.md)
+
+## Etiquetas
+
+### Asignaturas
+#variable-real/tema3

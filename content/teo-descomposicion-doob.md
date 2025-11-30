@@ -13,3 +13,8 @@
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema4

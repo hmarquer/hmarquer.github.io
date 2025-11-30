@@ -6,3 +6,9 @@
 - [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
 - [indep-lineal](./indep-lineal.md)
+
+## Etiquetas
+
+### Asignaturas
+#analisis-funcional/tema1
+#variable-real/tema3

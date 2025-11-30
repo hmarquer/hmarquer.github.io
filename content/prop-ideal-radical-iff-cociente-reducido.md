@@ -9,3 +9,8 @@
 - [ideal-radical](./ideal-radical.md)
 - [radical-ideal](./radical-ideal.md)
 - [anillo-reducido](./anillo-reducido.md)
+
+## Etiquetas
+
+### Asignaturas
+#algebra-conmutativa/tema1

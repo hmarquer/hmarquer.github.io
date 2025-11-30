@@ -11,3 +11,8 @@
 - [prop-esperanza-prod-var-aleatorias-indep](./prop-esperanza-prod-var-aleatorias-indep.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema4

@@ -9,3 +9,8 @@
 - [componente-conexa](./componente-conexa.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
 - [conexion](./conexion.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

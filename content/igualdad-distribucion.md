@@ -12,3 +12,6 @@
 
 ## Etiquetas
 #EJERCICIO demostrar que $X \overset{d}{=} Y$.
+
+### Asignaturas
+#probabilidad-ii/tema1

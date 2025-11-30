@@ -7,3 +7,8 @@
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra-fn](./sigma-algebra-fn.md)
 - [sigma-algebra-fn](./sigma-algebra-fn.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2

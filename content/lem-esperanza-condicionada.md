@@ -11,3 +11,8 @@
 - [linealidad-integral](./linealidad-integral.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema4

@@ -7,3 +7,6 @@
 ## Etiquetas
 #ORDENAR hacer nota para radio de convergencia
 #DEMOSTRACIÓN 
+
+### Asignaturas
+#modelizacion/tema2

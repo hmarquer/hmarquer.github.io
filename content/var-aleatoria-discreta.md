@@ -5,3 +5,8 @@
 - [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-probabilidad](./esp-probabilidad.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

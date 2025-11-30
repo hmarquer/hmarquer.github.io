@@ -13,3 +13,10 @@
 - [norma-lp](./norma-lp.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [esp-banach](./esp-banach.md)
+
+## Etiquetas
+
+### Asignaturas
+#ecuaciones-en-derivadas-parciales/tema4
+#analisis-funcional/tema2
+#variable-real/tema3

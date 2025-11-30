@@ -4,3 +4,8 @@
 ## Referencias
 - [medida-exterior-lebesgue](./medida-exterior-lebesgue.md)
 - [conjunto-medible](./conjunto-medible.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/hoja0

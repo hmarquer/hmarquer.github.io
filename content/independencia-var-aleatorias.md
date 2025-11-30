@@ -5,3 +5,8 @@
 - [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [independencia-sucesos](./independencia-sucesos.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

@@ -6,3 +6,8 @@
 - [apl-diferenciable](./apl-diferenciable.md)
 - [componente-conexa](./componente-conexa.md)
 - [difeomorfismo](./difeomorfismo.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

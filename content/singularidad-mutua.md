@@ -6,3 +6,8 @@
 - [smedida](./smedida.md)
 - [con-nulo](./con-nulo.md)
 - [con-nulo](./con-nulo.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/hoja0

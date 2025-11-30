@@ -3,3 +3,8 @@
 
 ## Referencias
 - [accion-grupo](./accion-grupo.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema6

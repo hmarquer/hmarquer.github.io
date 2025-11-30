@@ -11,3 +11,8 @@
 - [lambda-sistema](./lambda-sistema.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

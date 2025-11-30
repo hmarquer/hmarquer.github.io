@@ -6,3 +6,8 @@
 - [var-aleatoria-absolutamente-continua](./var-aleatoria-absolutamente-continua.md)
 - [fn-integrable](./fn-integrable.md)
 - [medida-lebesgue](./medida-lebesgue.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1

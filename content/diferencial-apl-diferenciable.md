@@ -4,3 +4,8 @@
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [apl-diferenciable](./apl-diferenciable.md)
+
+## Etiquetas
+
+### Asignaturas
+#geometria-diferencial/tema3

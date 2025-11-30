@@ -12,3 +12,9 @@
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medida-finito](./esp-medida-finito.md)
 - [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema2
+#variable-real/tema1

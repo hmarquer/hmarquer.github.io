@@ -3,3 +3,8 @@
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
+
+## Etiquetas
+
+### Asignaturas
+#probabilidad-ii/tema1
