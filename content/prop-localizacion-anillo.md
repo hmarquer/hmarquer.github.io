@@ -10,6 +10,7 @@
 - [anillo](./anillo.md)
 
 ## Etiquetas
+#COMPLETAR 
 
 ### Asignaturas
 #algebra-conmutativa/tema2
