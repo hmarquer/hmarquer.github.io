@@ -5,5 +5,5 @@
 ## Etiquetas
 
 ### Asignaturas
-#geometria-diferencial/tema5
 #algebra-conmutativa/tema5
+#geometria-diferencial/tema5

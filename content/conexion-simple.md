@@ -9,5 +9,5 @@
 ## Etiquetas
 
 ### Asignaturas
-#geometria-diferencial/tema6
 #variable-compleja-i/tema4
+#geometria-diferencial/tema6

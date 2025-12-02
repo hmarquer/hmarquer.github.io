@@ -8,5 +8,5 @@
 ## Etiquetas
 
 ### Asignaturas
-#geometria-diferencial/tema1
 #teoria-descriptiva-de-conjuntos/tema1
+#geometria-diferencial/tema1
