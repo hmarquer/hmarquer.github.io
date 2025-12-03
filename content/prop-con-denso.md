@@ -6,7 +6,8 @@
 - [con-denso](./con-denso.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#ORDENAR : a lo mejor referenciar que $D \subset \bar{D}$
 
 ### Asignaturas
+#analisis-funcional/tema2
 #teoria-descriptiva-de-conjuntos/tema1
