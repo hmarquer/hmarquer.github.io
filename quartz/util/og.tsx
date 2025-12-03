@@ -98,7 +98,8 @@ export async function fetchTtf(
 
   if (!match) {
     console.log(
-      chalk.yellow(
+      styleText(
+        "yellow",
         `\nWarning: Failed to fetch font ${rawFontName} with weight ${weight}, got ${cssResponse.statusText}`,
       ),
     )
