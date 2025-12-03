@@ -20,7 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta({ showReadingTime: false }),
-    // Component.TagList(), // Uncomment to display tags
+    Component.TagList(), // Uncomment to display tags
   ],
   left: [
     Component.PageTitle(),

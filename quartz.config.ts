@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Inicio",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
@@ -76,7 +76,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
+      Plugin.ComponentResources(), // manages and emits the static resources required for the Quartz framework
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
