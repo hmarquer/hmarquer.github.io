@@ -1,3 +1,9 @@
+---
+tags:
+  - analisis-funcional/tema2
+  - variable-real/tema3
+---
+
 [[prop-funcional-lineal-continuo-prod-interno.pdf]]
 ![[prop-funcional-lineal-continuo-prod-interno.pdf]]
 
@@ -9,9 +15,3 @@
 - [prod-interno](./prod-interno.md)
 - [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2
-#variable-real/tema3

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[cor-fn-convexa-martingala-submartingala.pdf]]
 ![[cor-fn-convexa-martingala-submartingala.pdf]]
 
@@ -7,8 +12,3 @@
 - [submartingala](./submartingala.md)
 - [martingala](./martingala.md)
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

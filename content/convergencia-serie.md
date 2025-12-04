@@ -1,3 +1,10 @@
+---
+tags:
+  - analisis-funcional/tema2
+  - modelizacion/tema2
+  - variable-compleja-i/tema3
+---
+
 [[convergencia-serie.pdf]]
 ![[convergencia-serie.pdf]]
 
@@ -6,10 +13,3 @@
 - [norma](./norma.md)
 - [serie](./serie.md)
 - [convergencia](./convergencia.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2
-#modelizacion/tema2
-#variable-compleja-i/tema3

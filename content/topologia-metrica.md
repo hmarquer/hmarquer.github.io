@@ -1,3 +1,8 @@
+---
+tags:
+  - teoria-descriptiva-de-conjuntos/tema1
+---
+
 [[topologia-metrica.pdf]]
 ![[topologia-metrica.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#teoria-descriptiva-de-conjuntos/tema1

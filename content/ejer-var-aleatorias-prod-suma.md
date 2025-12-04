@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[ejer-var-aleatorias-prod-suma.pdf]]
 ![[ejer-var-aleatorias-prod-suma.pdf]]
 
@@ -9,8 +14,3 @@
 - [var-aleatoria](./var-aleatoria.md)
 - [vec-aleatorio](./vec-aleatorio.md)
 - [var-aleatoria](./var-aleatoria.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

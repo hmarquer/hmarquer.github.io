@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema2
+---
+
 [[fn-potencia-compleja.pdf]]
 ![[fn-potencia-compleja.pdf]]
 
@@ -6,8 +11,3 @@
 - [num-complejos](./num-complejos.md)
 - [num-complejos](./num-complejos.md)
 - [num-complejos](./num-complejos.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema2

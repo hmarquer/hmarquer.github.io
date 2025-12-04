@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[prop-fn-simples-denso-lp.pdf]]
 ![[prop-fn-simples-denso-lp.pdf]]
 
@@ -9,8 +14,3 @@
 - [esp-lp](./esp-lp.md)
 - [lem-aprox-fn-simple](./lem-aprox-fn-simple.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1

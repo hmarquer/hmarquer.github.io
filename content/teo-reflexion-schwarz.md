@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/tema3
+---
+
 [[teo-reflexion-schwarz.pdf]]
 ![[teo-reflexion-schwarz.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#productos-finitos-de-blaschke/tema3

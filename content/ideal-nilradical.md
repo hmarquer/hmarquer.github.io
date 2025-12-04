@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[ideal-nilradical.pdf]]
 ![[ideal-nilradical.pdf]]
 
@@ -9,6 +14,3 @@
 ## Etiquetas
 #DEMOSTRACIÓN de las fotos y en parte EJERCICIO
 #EJERCICIO 
-
-### Asignaturas
-#algebra-conmutativa/tema1

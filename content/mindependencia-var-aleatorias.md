@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[mindependencia-var-aleatorias.pdf]]
 ![[mindependencia-var-aleatorias.pdf]]
 
@@ -5,8 +10,3 @@
 - [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [mindependencia-sigma-algebras](./mindependencia-sigma-algebras.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

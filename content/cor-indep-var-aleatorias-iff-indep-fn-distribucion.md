@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[cor-indep-var-aleatorias-iff-indep-fn-distribucion.pdf]]
 ![[cor-indep-var-aleatorias-iff-indep-fn-distribucion.pdf]]
 
@@ -8,8 +13,3 @@
 - [pi-sistema](./pi-sistema.md)
 - [independencia-pi-sistemas](./independencia-pi-sistemas.md)
 - [prop-indep-pi-sistemas-imp-indep-sigma-algebras](./prop-indep-pi-sistemas-imp-indep-sigma-algebras.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

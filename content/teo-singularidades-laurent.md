@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema5
+---
+
 [[teo-singularidades-laurent.pdf]]
 ![[teo-singularidades-laurent.pdf]]
 
@@ -7,8 +12,3 @@
 - [singularidad-evitable](./singularidad-evitable.md)
 - [polo](./polo.md)
 - [supremo-esencial](./supremo-esencial.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema5

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema5
+---
+
 [[convergencia-serie-laurent.pdf]]
 ![[convergencia-serie-laurent.pdf]]
 
@@ -5,8 +10,3 @@
 - [serie-laurent](./serie-laurent.md)
 - [convergencia-serie](./convergencia-serie.md)
 - [convergencia-serie](./convergencia-serie.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema5

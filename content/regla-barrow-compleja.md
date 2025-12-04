@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[regla-barrow-compleja.pdf]]
 ![[regla-barrow-compleja.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-compleja-i/tema4

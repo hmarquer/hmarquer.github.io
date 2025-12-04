@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[prop-esperanza-condicionada-sigma-algebras-anidadas.pdf]]
 ![[prop-esperanza-condicionada-sigma-algebras-anidadas.pdf]]
 
@@ -10,8 +15,3 @@
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

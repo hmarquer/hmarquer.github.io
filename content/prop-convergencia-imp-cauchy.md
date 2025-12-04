@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[prop-convergencia-imp-cauchy.pdf]]
 ![[prop-convergencia-imp-cauchy.pdf]]
 
@@ -6,8 +11,3 @@
 - [convergencia](./convergencia.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [metrica](./metrica.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[prop-fn-exists-var-aleatoria.pdf]]
 ![[prop-fn-exists-var-aleatoria.pdf]]
 
@@ -13,6 +18,3 @@
 ## Etiquetas
 #EJERCICIO hacer usando Lebesgue-Stieltjes
 #ORDENAR añadir nota de Lebesgue-Stieltjes
-
-### Asignaturas
-#probabilidad-ii/tema1

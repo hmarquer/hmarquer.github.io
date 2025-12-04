@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/tema2
+---
+
 [[prop-metrica-pseudohiperbolica-disco-unidad.pdf]]
 ![[prop-metrica-pseudohiperbolica-disco-unidad.pdf]]
 
@@ -6,6 +11,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#productos-finitos-de-blaschke/tema2

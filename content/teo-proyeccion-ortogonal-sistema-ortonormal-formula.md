@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[teo-proyeccion-ortogonal-sistema-ortonormal-formula.pdf]]
 ![[teo-proyeccion-ortogonal-sistema-ortonormal-formula.pdf]]
 
@@ -10,8 +15,3 @@
 - [prop-subesp-vectorial-generado-cerrado](./prop-subesp-vectorial-generado-cerrado.md)
 - [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2

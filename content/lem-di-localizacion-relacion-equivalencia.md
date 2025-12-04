@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema2
+---
+
 [[lem-di-localizacion-relacion-equivalencia.pdf]]
 ![[lem-di-localizacion-relacion-equivalencia.pdf]]
 
@@ -5,8 +10,3 @@
 - [dominio-integridad](./dominio-integridad.md)
 - [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema2

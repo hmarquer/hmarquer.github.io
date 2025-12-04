@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[homotopia.pdf]]
 ![[homotopia.pdf]]
 
@@ -5,8 +10,3 @@
 - [continuidad](./continuidad.md)
 - [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

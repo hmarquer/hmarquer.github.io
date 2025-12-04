@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[camino.pdf]]
 ![[camino.pdf]]
 
@@ -5,8 +10,3 @@
 - [curva-topologica](./curva-topologica.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-clase-ck](./fn-clase-ck.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema4

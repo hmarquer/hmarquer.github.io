@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[prop-integral-linea-compleja-reparametrizacion.pdf]]
 ![[prop-integral-linea-compleja-reparametrizacion.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-compleja-i/tema4

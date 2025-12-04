@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[variedad-diferenciable.pdf]]
 ![[variedad-diferenciable.pdf]]
 
@@ -8,8 +13,3 @@
 - [esp-topologico](./esp-topologico.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-topologica](./variedad-topologica.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

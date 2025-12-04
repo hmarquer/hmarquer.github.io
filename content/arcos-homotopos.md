@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[arcos-homotopos.pdf]]
 ![[arcos-homotopos.pdf]]
 
@@ -5,8 +10,3 @@
 - [arco](./arco.md)
 - [homotopia-arcos](./homotopia-arcos.md)
 - [homotopia-arcos](./homotopia-arcos.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

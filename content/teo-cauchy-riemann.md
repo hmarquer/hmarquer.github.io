@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema2
+---
+
 [[teo-cauchy-riemann.pdf]]
 ![[teo-cauchy-riemann.pdf]]
 
@@ -5,8 +10,3 @@
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
 - [fn-diferenciable](./fn-diferenciable.md)
 - [dominio](./dominio.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema2

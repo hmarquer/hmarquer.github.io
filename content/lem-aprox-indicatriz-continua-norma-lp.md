@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[lem-aprox-indicatriz-continua-norma-lp.pdf]]
 ![[lem-aprox-indicatriz-continua-norma-lp.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #ORDENAR crear nota de medida regular y referenciar
-
-### Asignaturas
-#variable-real/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[esp-secuencial.pdf]]
 ![[esp-secuencial.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-real/tema1

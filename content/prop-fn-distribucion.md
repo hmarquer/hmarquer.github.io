@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[prop-fn-distribucion.pdf]]
 ![[prop-fn-distribucion.pdf]]
 
@@ -14,6 +19,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#probabilidad-ii/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[teo-descomposicion-doob.pdf]]
 ![[teo-descomposicion-doob.pdf]]
 
@@ -13,8 +18,3 @@
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

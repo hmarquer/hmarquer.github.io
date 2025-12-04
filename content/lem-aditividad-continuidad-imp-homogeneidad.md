@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[lem-aditividad-continuidad-imp-homogeneidad.pdf]]
 ![[lem-aditividad-continuidad-imp-homogeneidad.pdf]]
 
@@ -7,8 +12,3 @@
 - [continuidad](./continuidad.md)
 - [homogeneidad](./homogeneidad.md)
 - [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

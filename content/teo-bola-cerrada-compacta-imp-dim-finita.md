@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[teo-bola-cerrada-compacta-imp-dim-finita.pdf]]
 ![[teo-bola-cerrada-compacta-imp-dim-finita.pdf]]
 
@@ -9,8 +14,3 @@
 - [bola-cerrada](./bola-cerrada.md)
 - [compacidad](./compacidad.md)
 - [lem-riesz](./lem-riesz.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-apl-abierta-compleja.pdf]]
 ![[teo-apl-abierta-compleja.pdf]]
 
@@ -9,6 +14,3 @@
 ## Etiquetas
 #ORDENAR : referenciar
 #COMPLETAR se ha liado y no le ha salido
-
-### Asignaturas
-#variable-compleja-i/tema4

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema2
+---
+
 [[conjugada-armonica.pdf]]
 ![[conjugada-armonica.pdf]]
 
@@ -5,8 +10,3 @@
 - [fn-holomorfa](./fn-holomorfa.md)
 - [fn-armonica](./fn-armonica.md)
 - [fn-clase-ck](./fn-clase-ck.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[integral-linea-compleja.pdf]]
 ![[integral-linea-compleja.pdf]]
 
@@ -7,8 +12,3 @@
 - [integral](./integral.md)
 - [integral](./integral.md)
 - [camino](./camino.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema4

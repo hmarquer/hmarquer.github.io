@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[cor-submersion-imp-abierta.pdf]]
 ![[cor-submersion-imp-abierta.pdf]]
 
@@ -7,8 +12,3 @@
 - [submersion](./submersion.md)
 - [teo-submersion-iff-exists-seccion-local](./teo-submersion-iff-exists-seccion-local.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

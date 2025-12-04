@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/anexo
+---
+
 [[prop-fn-holomorfa-iff-wirtinger.pdf]]
 ![[prop-fn-holomorfa-iff-wirtinger.pdf]]
 
@@ -9,8 +14,3 @@
 - [operadores-wirtinger](./operadores-wirtinger.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
-
-## Etiquetas
-
-### Asignaturas
-#productos-finitos-de-blaschke/anexo

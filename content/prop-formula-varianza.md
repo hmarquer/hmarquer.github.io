@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[prop-formula-varianza.pdf]]
 ![[prop-formula-varianza.pdf]]
 
@@ -8,8 +13,3 @@
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema2

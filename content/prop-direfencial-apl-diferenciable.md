@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema3
+---
+
 [[prop-direfencial-apl-diferenciable.pdf]]
 ![[prop-direfencial-apl-diferenciable.pdf]]
 
@@ -14,8 +19,3 @@
 - [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema3

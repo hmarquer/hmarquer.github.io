@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema5
+---
+
 [[teo-continuidad-levy.pdf]]
 ![[teo-continuidad-levy.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#probabilidad-ii/tema5

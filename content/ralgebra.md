@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema2
+---
+
 [[ralgebra.pdf]]
 ![[ralgebra.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #REVISAR esta definición porque algo no cuadra
-
-### Asignaturas
-#algebra-conmutativa/tema2

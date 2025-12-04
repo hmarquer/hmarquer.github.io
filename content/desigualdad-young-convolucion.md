@@ -1,3 +1,9 @@
+---
+tags:
+  - variable-real/parcial
+  - variable-real/tema2
+---
+
 [[desigualdad-young-convolucion.pdf]]
 ![[desigualdad-young-convolucion.pdf]]
 
@@ -11,9 +17,3 @@
 - [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/parcial
-#variable-real/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema5
+---
+
 [[ley-debil-grandes-numeros.pdf]]
 ![[ley-debil-grandes-numeros.pdf]]
 
@@ -15,8 +20,3 @@
 - [esp-lp](./esp-lp.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema5

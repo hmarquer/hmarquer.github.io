@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema2
+---
+
 [[lem-convergencia-uniforme-esp-finito-imp-lp.pdf]]
 ![[lem-convergencia-uniforme-esp-finito-imp-lp.pdf]]
 
@@ -9,8 +14,3 @@
 - [convergencia-lp](./convergencia-lp.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema2

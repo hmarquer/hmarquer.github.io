@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-fn-holomorfa-imp-exists-primitiva.pdf]]
 ![[teo-fn-holomorfa-imp-exists-primitiva.pdf]]
 
@@ -12,6 +17,3 @@
 
 ## Etiquetas
 #COMPLETAR con el dibujo
-
-### Asignaturas
-#variable-compleja-i/tema4

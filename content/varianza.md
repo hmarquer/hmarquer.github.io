@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[varianza.pdf]]
 ![[varianza.pdf]]
 
@@ -6,8 +11,3 @@
 - [fn-integrable](./fn-integrable.md)
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema2

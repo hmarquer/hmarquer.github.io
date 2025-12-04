@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema1
+---
+
 [[plano-complejo-extendido.pdf]]
 ![[plano-complejo-extendido.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #EJERCICIO 
-
-### Asignaturas
-#variable-compleja-i/tema1

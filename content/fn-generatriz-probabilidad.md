@@ -1,3 +1,8 @@
+---
+tags:
+  - modelizacion/tema2
+---
+
 [[fn-generatriz-probabilidad.pdf]]
 ![[fn-generatriz-probabilidad.pdf]]
 
@@ -6,8 +11,3 @@
 - [esperanza](./esperanza.md)
 - [varianza](./varianza.md)
 - [serie-formal-potencias](./serie-formal-potencias.md)
-
-## Etiquetas
-
-### Asignaturas
-#modelizacion/tema2

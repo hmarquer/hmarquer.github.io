@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[apl-propia.pdf]]
 ![[apl-propia.pdf]]
 
@@ -6,8 +11,3 @@
 - [continuidad](./continuidad.md)
 - [compacidad](./compacidad.md)
 - [compacidad](./compacidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema5
+---
+
 [[lem-subvariedad-estructura-diferenciable-unica.pdf]]
 ![[lem-subvariedad-estructura-diferenciable-unica.pdf]]
 
@@ -13,8 +18,3 @@
 - [difeomorfismo](./difeomorfismo.md)
 - [embebimiento](./embebimiento.md)
 - [difeomorfismo](./difeomorfismo.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema5

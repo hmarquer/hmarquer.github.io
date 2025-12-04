@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[ideal-principal.pdf]]
 ![[ideal-principal.pdf]]
 
@@ -5,8 +10,3 @@
 - [anillo](./anillo.md)
 - [ideal](./ideal.md)
 - [ideal-generado](./ideal-generado.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

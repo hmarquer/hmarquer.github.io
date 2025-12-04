@@ -1,8 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[pi-sistema.pdf]]
 ![[pi-sistema.pdf]]
 
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

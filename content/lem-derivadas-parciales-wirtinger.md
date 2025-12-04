@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/anexo
+---
+
 [[lem-derivadas-parciales-wirtinger.pdf]]
 ![[lem-derivadas-parciales-wirtinger.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#productos-finitos-de-blaschke/anexo

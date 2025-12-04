@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[lem-zorn.pdf]]
 ![[lem-zorn.pdf]]
 
@@ -5,8 +10,3 @@
 - [relacion-orden](./relacion-orden.md)
 - [relacion-orden](./relacion-orden.md)
 - [relacion-orden](./relacion-orden.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema3
+---
+
 [[teo-cauchy-hadamard.pdf]]
 ![[teo-cauchy-hadamard.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-compleja-i/tema3

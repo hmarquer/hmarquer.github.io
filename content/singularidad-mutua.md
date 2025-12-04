@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/hoja0
+---
+
 [[singularidad-mutua.pdf]]
 ![[singularidad-mutua.pdf]]
 
@@ -6,8 +11,3 @@
 - [smedida](./smedida.md)
 - [con-nulo](./con-nulo.md)
 - [con-nulo](./con-nulo.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/hoja0

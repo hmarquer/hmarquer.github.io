@@ -1,3 +1,8 @@
+---
+tags:
+  - teoria-descriptiva-de-conjuntos/tema1
+---
+
 [[prop-topologia-generada.pdf]]
 ![[prop-topologia-generada.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#teoria-descriptiva-de-conjuntos/tema1

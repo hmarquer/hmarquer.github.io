@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[cor-esp-vectorial-normado-dim-finita-imp-banach.pdf]]
 ![[cor-esp-vectorial-normado-dim-finita-imp-banach.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #ORDENAR : referenciar que $\mathbb{K}^n$ es de Banach
-
-### Asignaturas
-#analisis-funcional/tema2

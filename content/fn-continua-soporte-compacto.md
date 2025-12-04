@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[fn-continua-soporte-compacto.pdf]]
 ![[fn-continua-soporte-compacto.pdf]]
 
@@ -8,8 +13,3 @@
 - [soporte-cerrado](./soporte-cerrado.md)
 - [compacidad](./compacidad.md)
 - [soporte-cerrado](./soporte-cerrado.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1

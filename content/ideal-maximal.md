@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[ideal-maximal.pdf]]
 ![[ideal-maximal.pdf]]
 
@@ -5,8 +10,3 @@
 - [ideal](./ideal.md)
 - [anillo](./anillo.md)
 - [ideal](./ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

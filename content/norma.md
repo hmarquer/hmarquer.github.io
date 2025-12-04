@@ -1,10 +1,10 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[norma.pdf]]
 ![[norma.pdf]]
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

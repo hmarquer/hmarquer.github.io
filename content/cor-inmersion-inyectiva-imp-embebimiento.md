@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[cor-inmersion-inyectiva-imp-embebimiento.pdf]]
 ![[cor-inmersion-inyectiva-imp-embebimiento.pdf]]
 
@@ -14,6 +19,3 @@
 
 ## Etiquetas
 #EJERCICIO demostrarlo
-
-### Asignaturas
-#geometria-diferencial/tema4

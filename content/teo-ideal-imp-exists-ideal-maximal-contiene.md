@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[teo-ideal-imp-exists-ideal-maximal-contiene.pdf]]
 ![[teo-ideal-imp-exists-ideal-maximal-contiene.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #ORDENAR referenciar al lema de Zorn
-
-### Asignaturas
-#algebra-conmutativa/tema1

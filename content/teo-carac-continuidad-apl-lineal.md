@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[teo-carac-continuidad-apl-lineal.pdf]]
 ![[teo-carac-continuidad-apl-lineal.pdf]]
 
@@ -12,6 +17,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#analisis-funcional/tema2

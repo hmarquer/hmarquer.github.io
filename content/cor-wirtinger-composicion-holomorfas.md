@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/anexo
+---
+
 [[cor-wirtinger-composicion-holomorfas.pdf]]
 ![[cor-wirtinger-composicion-holomorfas.pdf]]
 
@@ -12,6 +17,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#productos-finitos-de-blaschke/anexo

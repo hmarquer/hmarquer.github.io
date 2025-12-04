@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-cauchy-goursat-convexo.pdf]]
 ![[teo-cauchy-goursat-convexo.pdf]]
 
@@ -8,8 +13,3 @@
 - [camino](./camino.md)
 - [curva-cerrada](./curva-cerrada.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema4

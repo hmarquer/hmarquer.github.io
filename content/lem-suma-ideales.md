@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-suma-ideales.pdf]]
 ![[lem-suma-ideales.pdf]]
 
@@ -12,8 +17,3 @@
 - [lem-ideal](./lem-ideal.md)
 - [lem-ideal](./lem-ideal.md)
 - [lem-ideal](./lem-ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

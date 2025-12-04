@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[mindependencia-sigma-algebras.pdf]]
 ![[mindependencia-sigma-algebras.pdf]]
 
@@ -5,8 +10,3 @@
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [mindependencia-sucesos](./mindependencia-sucesos.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

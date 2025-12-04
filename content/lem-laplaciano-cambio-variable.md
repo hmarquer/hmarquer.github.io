@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/anexo
+---
+
 [[lem-laplaciano-cambio-variable.pdf]]
 ![[lem-laplaciano-cambio-variable.pdf]]
 
@@ -12,6 +17,3 @@
 
 ## Etiquetas
 #ORDENAR crear nota y referenciar
-
-### Asignaturas
-#productos-finitos-de-blaschke/anexo

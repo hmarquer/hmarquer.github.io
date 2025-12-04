@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/hoja0
+---
+
 [[prop-interseccion-sigma-algebra.pdf]]
 ![[prop-interseccion-sigma-algebra.pdf]]
 
@@ -6,8 +11,3 @@
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/hoja0

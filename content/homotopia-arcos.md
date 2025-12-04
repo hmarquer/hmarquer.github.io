@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[homotopia-arcos.pdf]]
 ![[homotopia-arcos.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #COMPLETAR convendría un bonito dibujo
-
-### Asignaturas
-#geometria-diferencial/tema6

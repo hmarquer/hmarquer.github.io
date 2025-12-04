@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[prop-subesp-vectorial-generado-cerrado.pdf]]
 ![[prop-subesp-vectorial-generado-cerrado.pdf]]
 
@@ -7,8 +12,3 @@
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 - [prop-sistema-ortonormal-isometria](./prop-sistema-ortonormal-isometria.md)
 - [continuidad](./continuidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema5
+---
+
 [[ley-fuerte-grandes-numeros.pdf]]
 ![[ley-fuerte-grandes-numeros.pdf]]
 
@@ -20,6 +25,3 @@
 #EJERCICIO hacerlo
 #EJERCICIO hacerlo de forma rigurosa
 #EJERCICIO hacerlo
-
-### Asignaturas
-#probabilidad-ii/tema5

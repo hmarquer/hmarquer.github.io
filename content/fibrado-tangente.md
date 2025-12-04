@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[fibrado-tangente.pdf]]
 ![[fibrado-tangente.pdf]]
 
@@ -5,8 +10,3 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

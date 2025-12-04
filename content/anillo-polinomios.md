@@ -1,3 +1,9 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+  - teoria-de-galois/tema1
+---
+
 [[anillo-polinomios.pdf]]
 ![[anillo-polinomios.pdf]]
 
@@ -6,7 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#algebra-conmutativa/tema1
-#teoria-de-galois/tema1

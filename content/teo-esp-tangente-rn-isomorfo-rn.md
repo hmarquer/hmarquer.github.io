@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema3
+---
+
 [[teo-esp-tangente-rn-isomorfo-rn.pdf]]
 ![[teo-esp-tangente-rn-isomorfo-rn.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #ORDENAR referenciar el teorema de Taylor
-
-### Asignaturas
-#geometria-diferencial/tema3

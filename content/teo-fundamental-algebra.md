@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-fundamental-algebra.pdf]]
 ![[teo-fundamental-algebra.pdf]]
 
@@ -6,8 +11,3 @@
 - [alg-cerrado](./alg-cerrado.md)
 - [num-complejos](./num-complejos.md)
 - [teo-liouville](./teo-liouville.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema4

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
 ![[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#geometria-diferencial/tema1

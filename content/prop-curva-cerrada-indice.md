@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[prop-curva-cerrada-indice.pdf]]
 ![[prop-curva-cerrada-indice.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-compleja-i/tema4

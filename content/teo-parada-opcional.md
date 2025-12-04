@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[teo-parada-opcional.pdf]]
 ![[teo-parada-opcional.pdf]]
 
@@ -14,8 +19,3 @@
 - [supermartingala](./supermartingala.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [sigma-algebra-tiempo-parada](./sigma-algebra-tiempo-parada.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

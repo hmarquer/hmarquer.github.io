@@ -1,3 +1,8 @@
+---
+tags:
+  - teoria-de-galois/tema1
+---
+
 [[prop-cuerpo-fracciones-racionales.pdf]]
 ![[prop-cuerpo-fracciones-racionales.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#teoria-de-galois/tema1

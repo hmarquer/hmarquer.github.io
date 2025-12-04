@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[integral.pdf]]
 ![[integral.pdf]]
 
@@ -7,8 +12,3 @@
 - [fn-simple](./fn-simple.md)
 - [esp-medida](./esp-medida.md)
 - [esp-medida](./esp-medida.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1

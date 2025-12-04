@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[lem-normas-kn-equivalentes.pdf]]
 ![[lem-normas-kn-equivalentes.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #ORDENAR : referenciar
-
-### Asignaturas
-#analisis-funcional/tema2

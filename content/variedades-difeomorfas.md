@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema2
+---
+
 [[variedades-difeomorfas.pdf]]
 ![[variedades-difeomorfas.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #EJERCICIO 
-
-### Asignaturas
-#geometria-diferencial/tema2

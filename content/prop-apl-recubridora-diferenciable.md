@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[prop-apl-recubridora-diferenciable.pdf]]
 ![[prop-apl-recubridora-diferenciable.pdf]]
 
@@ -11,6 +16,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#geometria-diferencial/tema6

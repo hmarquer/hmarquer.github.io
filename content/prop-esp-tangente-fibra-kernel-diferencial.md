@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema5
+---
+
 [[prop-esp-tangente-fibra-kernel-diferencial.pdf]]
 ![[prop-esp-tangente-fibra-kernel-diferencial.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #REVISAR 
-
-### Asignaturas
-#geometria-diferencial/tema5

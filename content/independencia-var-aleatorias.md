@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[independencia-var-aleatorias.pdf]]
 ![[independencia-var-aleatorias.pdf]]
 
@@ -5,8 +10,3 @@
 - [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [independencia-sucesos](./independencia-sucesos.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

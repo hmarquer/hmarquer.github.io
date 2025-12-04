@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-ideal-total.pdf]]
 ![[lem-ideal-total.pdf]]
 
@@ -6,8 +11,3 @@
 - [anillo](./anillo.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

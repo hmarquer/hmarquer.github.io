@@ -1,3 +1,10 @@
+---
+tags:
+  - analisis-funcional/tema1
+  - analisis-funcional/tema2
+  - variable-real/tema3
+---
+
 [[teo-prod-interno-iff-identidad-paralelogramo.pdf]]
 ![[teo-prod-interno-iff-identidad-paralelogramo.pdf]]
 
@@ -11,8 +18,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#analisis-funcional/tema1
-#analisis-funcional/tema2
-#variable-real/tema3

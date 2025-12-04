@@ -1,3 +1,8 @@
+---
+tags:
+  - modelizacion/tema3
+---
+
 [[lem-dubois-reymond.pdf]]
 ![[lem-dubois-reymond.pdf]]
 
@@ -5,8 +10,3 @@
 - [continuidad](./continuidad.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [integral](./integral.md)
-
-## Etiquetas
-
-### Asignaturas
-#modelizacion/tema3

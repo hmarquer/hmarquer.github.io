@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-cuerpo-iff-ideales-triviales.pdf]]
 ![[lem-cuerpo-iff-ideales-triviales.pdf]]
 
@@ -8,8 +13,3 @@
 - [lem-ideal-total](./lem-ideal-total.md)
 - [ideal-generado](./ideal-generado.md)
 - [lem-ideal-generado](./lem-ideal-generado.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

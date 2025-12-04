@@ -40,12 +40,21 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        showTags: false,
+        showTags: true,
         fontSize: 1.,
       },
       globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        scale: 0.1,
+        repelForce: 0.5,
+        centerForce: 0.5,
+        linkDistance: 10,
+        fontSize: 0.7,
+        opacityScale: 1,
         showTags: false,
-        fontSize: 1.,
+        enableRadial: true,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),

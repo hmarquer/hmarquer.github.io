@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[lem-sigma-algebra-parada-esperanza-condicionada.pdf]]
 ![[lem-sigma-algebra-parada-esperanza-condicionada.pdf]]
 
@@ -18,8 +23,3 @@
 - [fn-medible](./fn-medible.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

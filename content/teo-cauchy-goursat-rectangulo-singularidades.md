@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-cauchy-goursat-rectangulo-singularidades.pdf]]
 ![[teo-cauchy-goursat-rectangulo-singularidades.pdf]]
 
@@ -12,6 +17,3 @@
 ## Etiquetas
 #COMPLETAR hacer el dibujo
 #COMPLETAR con otro dibujo
-
-### Asignaturas
-#variable-compleja-i/tema4

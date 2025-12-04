@@ -1,3 +1,9 @@
+---
+tags:
+  - analisis-funcional/tema1
+  - variable-real/tema3
+---
+
 [[teo-esp-normado-imp-bola-abierta-convexa.pdf]]
 ![[teo-esp-normado-imp-bola-abierta-convexa.pdf]]
 
@@ -6,9 +12,3 @@
 - [norma](./norma.md)
 - [bola-abierta](./bola-abierta.md)
 - [con-convexo](./con-convexo.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1
-#variable-real/tema3

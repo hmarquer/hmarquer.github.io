@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema5
+---
+
 [[cor-subvariedad-diferenciable-cubrimiento.pdf]]
 ![[cor-subvariedad-diferenciable-cubrimiento.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #REVISAR 
-
-### Asignaturas
-#geometria-diferencial/tema5

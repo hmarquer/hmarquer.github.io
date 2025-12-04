@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[prop-fn-continua-cociente-iff-composicion-continua.pdf]]
 ![[prop-fn-continua-cociente-iff-composicion-continua.pdf]]
 
@@ -7,8 +12,3 @@
 - [topologia-cociente](./topologia-cociente.md)
 - [continuidad](./continuidad.md)
 - [continuidad](./continuidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

@@ -1,3 +1,9 @@
+---
+tags:
+  - variable-real/tema1
+  - variable-real/tema1
+---
+
 [[prop-inclusion-lp-esp-finito.pdf]]
 ![[prop-inclusion-lp-esp-finito.pdf]]
 
@@ -11,9 +17,3 @@
 - [desigualdad-jensen](./desigualdad-jensen.md)
 - [fn-convexa](./fn-convexa.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1
-#variable-real/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema5
+---
+
 [[lem-estructuras-diferenciables-iguales.pdf]]
 ![[lem-estructuras-diferenciables-iguales.pdf]]
 
@@ -8,8 +13,3 @@
 - [apl-diferenciable](./apl-diferenciable.md)
 - [apl-diferenciable](./apl-diferenciable.md)
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema5

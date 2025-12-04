@@ -1,3 +1,9 @@
+---
+tags:
+  - analisis-funcional/tema2
+  - variable-real/tema3
+---
+
 [[prop-apl-lineales-continuas-esp-vectorial.pdf]]
 ![[prop-apl-lineales-continuas-esp-vectorial.pdf]]
 
@@ -8,7 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#analisis-funcional/tema2
-#variable-real/tema3

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema5
+---
+
 [[lem-subvariedad-diferenciable.pdf]]
 ![[lem-subvariedad-diferenciable.pdf]]
 
@@ -15,8 +20,3 @@
 - [difeomorfismo](./difeomorfismo.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [homeomorfismo](./homeomorfismo.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema5

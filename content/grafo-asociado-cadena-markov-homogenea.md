@@ -1,11 +1,11 @@
+---
+tags:
+  - modelizacion/tema2
+---
+
 [[grafo-asociado-cadena-markov-homogenea.pdf]]
 ![[grafo-asociado-cadena-markov-homogenea.pdf]]
 
 ## Referencias
 - [cadena-markov-homogenea](./cadena-markov-homogenea.md)
 - [digrafo-ponderado](./digrafo-ponderado.md)
-
-## Etiquetas
-
-### Asignaturas
-#modelizacion/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[subesp-vectorial-generado.pdf]]
 ![[subesp-vectorial-generado.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#analisis-funcional/tema2

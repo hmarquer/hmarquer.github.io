@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[prop-con-denso-iff-interior-comp-vacio.pdf]]
 ![[prop-con-denso-iff-interior-comp-vacio.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #ORDENAR : crear nota y referenciar interior
-
-### Asignaturas
-#analisis-funcional/tema2

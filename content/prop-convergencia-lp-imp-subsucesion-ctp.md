@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema2
+---
+
 [[prop-convergencia-lp-imp-subsucesion-ctp.pdf]]
 ![[prop-convergencia-lp-imp-subsucesion-ctp.pdf]]
 
@@ -8,8 +13,3 @@
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [convergencia-puntual](./convergencia-puntual.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema2

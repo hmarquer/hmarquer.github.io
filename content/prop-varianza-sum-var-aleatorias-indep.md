@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[prop-varianza-sum-var-aleatorias-indep.pdf]]
 ![[prop-varianza-sum-var-aleatorias-indep.pdf]]
 
@@ -12,8 +17,3 @@
 - [prop-esperanza-prod-var-aleatorias-indep](./prop-esperanza-prod-var-aleatorias-indep.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 - [prop-formula-varianza](./prop-formula-varianza.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema2

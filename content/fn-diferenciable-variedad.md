@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema2
+---
+
 [[fn-diferenciable-variedad.pdf]]
 ![[fn-diferenciable-variedad.pdf]]
 
@@ -5,8 +10,3 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [carta](./carta.md)
 - [fn-clase-ck](./fn-clase-ck.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[teo-universal-apl-cociente.pdf]]
 ![[teo-universal-apl-cociente.pdf]]
 
@@ -9,8 +14,3 @@
 - [continuidad](./continuidad.md)
 - [apl-cociente](./apl-cociente.md)
 - [apl-cociente](./apl-cociente.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

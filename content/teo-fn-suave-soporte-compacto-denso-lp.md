@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[teo-fn-suave-soporte-compacto-denso-lp.pdf]]
 ![[teo-fn-suave-soporte-compacto-denso-lp.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #COMPLETAR procede el dibujo de la foto
-
-### Asignaturas
-#variable-real/tema1

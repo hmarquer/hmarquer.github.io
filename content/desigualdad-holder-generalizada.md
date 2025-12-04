@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[desigualdad-holder-generalizada.pdf]]
 ![[desigualdad-holder-generalizada.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN mirar quiz de moodle
-
-### Asignaturas
-#probabilidad-ii/tema2

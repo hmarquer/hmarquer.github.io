@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[prop-abs-integral-linea-compleja-leq-longitud.pdf]]
 ![[prop-abs-integral-linea-compleja-leq-longitud.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#variable-compleja-i/tema4

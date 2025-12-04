@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/apl-conformes
+---
+
 [[lem-directamente-conforme-imp-holomorfa.pdf]]
 ![[lem-directamente-conforme-imp-holomorfa.pdf]]
 
@@ -5,8 +10,3 @@
 - [fn-diferenciable](./fn-diferenciable.md)
 - [apl-conforme](./apl-conforme.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-
-## Etiquetas
-
-### Asignaturas
-#productos-finitos-de-blaschke/apl-conformes

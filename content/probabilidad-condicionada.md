@@ -1,8 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[probabilidad-condicionada.pdf]]
 ![[probabilidad-condicionada.pdf]]
 
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

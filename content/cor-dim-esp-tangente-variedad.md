@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema3
+---
+
 [[cor-dim-esp-tangente-variedad.pdf]]
 ![[cor-dim-esp-tangente-variedad.pdf]]
 
@@ -13,6 +18,3 @@
 
 ## Etiquetas
 #ORDENAR referenciar dimensión de un espacio vectorial
-
-### Asignaturas
-#geometria-diferencial/tema3

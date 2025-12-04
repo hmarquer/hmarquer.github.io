@@ -1,3 +1,8 @@
+---
+tags:
+  - modelizacion/tema2
+---
+
 [[lem-abel.pdf]]
 ![[lem-abel.pdf]]
 
@@ -7,6 +12,3 @@
 ## Etiquetas
 #ORDENAR hacer nota para radio de convergencia
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#modelizacion/tema2

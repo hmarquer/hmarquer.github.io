@@ -19,6 +19,7 @@ import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
+import { getColorForTags, getColorForTagNode } from "../../util/tagColors"
 
 type GraphicsInfo = {
   color: string
@@ -198,10 +199,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
+    } else if (d.id.startsWith("tags/")) {
+      // Para nodos de etiquetas, usar el color basado en la etiqueta
+      const tagName = d.id.substring(5) // Remover "tags/"
+      return getColorForTagNode(tagName)
+    } else if (visited.has(d.id)) {
+      // Para nodos visitados, usar el color basado en sus etiquetas
+      return getColorForTags(d.tags)
     } else {
-      return computedStyleMap["--gray"]
+      // Para nodos no visitados, usar el color basado en sus etiquetas
+      return getColorForTags(d.tags)
     }
   }
 
@@ -390,6 +397,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     let oldLabelOpacity = 0
     const isTagNode = nodeId.startsWith("tags/")
+    const nodeColor = color(n)
     const gfx = new Graphics({
       interactive: true,
       label: nodeId,
@@ -398,7 +406,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: nodeColor })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -415,7 +423,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })
 
     if (isTagNode) {
-      gfx.stroke({ width: 2, color: computedStyleMap["--tertiary"] })
+      gfx.stroke({ width: 2, color: nodeColor })
     }
 
     nodesContainer.addChild(gfx)

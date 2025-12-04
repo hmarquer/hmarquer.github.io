@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/anexo
+---
+
 [[lem-laplaciano-wirtinger.pdf]]
 ![[lem-laplaciano-wirtinger.pdf]]
 
@@ -7,8 +12,3 @@
 - [operadores-wirtinger](./operadores-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
-
-## Etiquetas
-
-### Asignaturas
-#productos-finitos-de-blaschke/anexo

@@ -1,3 +1,9 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+  - teoria-de-galois/tema1
+---
+
 [[prop-grado-polinomio.pdf]]
 ![[prop-grado-polinomio.pdf]]
 
@@ -13,7 +19,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#algebra-conmutativa/tema1
-#teoria-de-galois/tema1

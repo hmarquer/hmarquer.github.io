@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/tema1
+---
+
 [[teo-formula-aut-disco-unidad.pdf]]
 ![[teo-formula-aut-disco-unidad.pdf]]
 
@@ -13,6 +18,3 @@
 #COMPLETAR y ORDENAR referenciando el lema
 #ORDENAR referenciar cómo sabemos que $h^{-1} \in \mathcal{H}\left(\mathbb{D}\right)$
 #REVISAR 
-
-### Asignaturas
-#productos-finitos-de-blaschke/tema1

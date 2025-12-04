@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema2
+---
+
 [[ideal-finitamente-generado.pdf]]
 ![[ideal-finitamente-generado.pdf]]
 
@@ -5,8 +10,3 @@
 - [anillo](./anillo.md)
 - [ideal](./ideal.md)
 - [ideal-generado](./ideal-generado.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema2

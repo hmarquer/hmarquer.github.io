@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn.pdf]]
 ![[teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn.pdf]]
 
@@ -11,6 +16,3 @@
 
 ## Etiquetas
 #ORDENAR . referenciar nota para dimensión de un espacio vectorial
-
-### Asignaturas
-#analisis-funcional/tema2

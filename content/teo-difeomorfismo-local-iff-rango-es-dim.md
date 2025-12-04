@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[teo-difeomorfismo-local-iff-rango-es-dim.pdf]]
 ![[teo-difeomorfismo-local-iff-rango-es-dim.pdf]]
 
@@ -10,8 +15,3 @@
 - [teo-fn-inversa](./teo-fn-inversa.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

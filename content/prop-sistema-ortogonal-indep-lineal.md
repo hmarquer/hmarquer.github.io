@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema3
+---
+
 [[prop-sistema-ortogonal-indep-lineal.pdf]]
 ![[prop-sistema-ortogonal-indep-lineal.pdf]]
 
@@ -6,8 +11,3 @@
 - [sistema-ortogonal](./sistema-ortogonal.md)
 - [indep-lineal](./indep-lineal.md)
 - [teo-pitagoras](./teo-pitagoras.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema3

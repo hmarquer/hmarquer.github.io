@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[ejer-interseccion-ideales.pdf]]
 ![[ejer-interseccion-ideales.pdf]]
 
@@ -6,8 +11,3 @@
 - [anillo](./anillo.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

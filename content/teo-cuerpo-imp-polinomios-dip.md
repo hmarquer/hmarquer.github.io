@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[teo-cuerpo-imp-polinomios-dip.pdf]]
 ![[teo-cuerpo-imp-polinomios-dip.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#algebra-conmutativa/tema1

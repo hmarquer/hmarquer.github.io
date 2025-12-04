@@ -1,8 +1,8 @@
+---
+tags:
+  - teoria-descriptiva-de-conjuntos/tema1
+---
+
 [[sucesion.pdf]]
 ![[sucesion.pdf]]
 
-
-## Etiquetas
-
-### Asignaturas
-#teoria-descriptiva-de-conjuntos/tema1

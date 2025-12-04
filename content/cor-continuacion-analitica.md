@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[cor-continuacion-analitica.pdf]]
 ![[cor-continuacion-analitica.pdf]]
 
@@ -6,6 +11,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN por el principio de los ceros aislados
-
-### Asignaturas
-#variable-compleja-i/tema4

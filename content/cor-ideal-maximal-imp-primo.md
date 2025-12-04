@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[cor-ideal-maximal-imp-primo.pdf]]
 ![[cor-ideal-maximal-imp-primo.pdf]]
 
@@ -8,8 +13,3 @@
 - [prop-ideal-maximal-iff-cociente-cuerpo](./prop-ideal-maximal-iff-cociente-cuerpo.md)
 - [lem-cuerpo-imp-di](./lem-cuerpo-imp-di.md)
 - [prop-ideal-primo-iff-cociente-di-integridad](./prop-ideal-primo-iff-cociente-di-integridad.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

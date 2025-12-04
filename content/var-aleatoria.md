@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[var-aleatoria.pdf]]
 ![[var-aleatoria.pdf]]
 
@@ -5,8 +10,3 @@
 - [fn-medible](./fn-medible.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medida](./esp-medida.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

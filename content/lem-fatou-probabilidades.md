@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[lem-fatou-probabilidades.pdf]]
 ![[lem-fatou-probabilidades.pdf]]
 
@@ -11,8 +16,3 @@
 - [lem-fatou](./lem-fatou.md)
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 - [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema2

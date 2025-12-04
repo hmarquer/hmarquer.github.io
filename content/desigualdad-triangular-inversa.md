@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[desigualdad-triangular-inversa.pdf]]
 ![[desigualdad-triangular-inversa.pdf]]
 
@@ -5,8 +10,3 @@
 - [metrica](./metrica.md)
 - [metrica](./metrica.md)
 - [metrica](./metrica.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

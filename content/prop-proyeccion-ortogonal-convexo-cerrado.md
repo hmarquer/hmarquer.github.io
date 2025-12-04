@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema2
+---
+
 [[prop-proyeccion-ortogonal-convexo-cerrado.pdf]]
 ![[prop-proyeccion-ortogonal-convexo-cerrado.pdf]]
 
@@ -6,8 +11,3 @@
 - [con-convexo](./con-convexo.md)
 - [norma](./norma.md)
 - [teo-cerrado-convexo-hilbert-imp-exists-min-norma](./teo-cerrado-convexo-hilbert-imp-exists-min-norma.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema2

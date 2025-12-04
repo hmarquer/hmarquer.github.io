@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[accion-diferenciable.pdf]]
 ![[accion-diferenciable.pdf]]
 
@@ -7,8 +12,3 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [accion-grupo](./accion-grupo.md)
 - [apl-diferenciable](./apl-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

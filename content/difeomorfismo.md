@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema2
+---
+
 [[difeomorfismo.pdf]]
 ![[difeomorfismo.pdf]]
 
@@ -5,8 +10,3 @@
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [apl-diferenciable](./apl-diferenciable.md)
 - [apl-diferenciable](./apl-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema2

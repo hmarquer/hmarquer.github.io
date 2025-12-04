@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[cor-formula-esperanza.pdf]]
 ![[cor-formula-esperanza.pdf]]
 
@@ -7,8 +12,3 @@
 - [esperanza](./esperanza.md)
 - [medida-inducida](./medida-inducida.md)
 - [prop-esperanza-fn](./prop-esperanza-fn.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema2

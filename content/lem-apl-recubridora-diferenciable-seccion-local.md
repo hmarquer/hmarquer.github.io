@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[lem-apl-recubridora-diferenciable-seccion-local.pdf]]
 ![[lem-apl-recubridora-diferenciable-seccion-local.pdf]]
 
@@ -9,8 +14,3 @@
 - [componente-conexa](./componente-conexa.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
 - [conexion](./conexion.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

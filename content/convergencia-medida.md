@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema2
+---
+
 [[convergencia-medida.pdf]]
 ![[convergencia-medida.pdf]]
 
@@ -5,8 +10,3 @@
 - [esp-medida](./esp-medida.md)
 - [fn-medible](./fn-medible.md)
 - [convergencia](./convergencia.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema2

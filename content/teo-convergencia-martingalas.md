@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[teo-convergencia-martingalas.pdf]]
 ![[teo-convergencia-martingalas.pdf]]
 
@@ -16,6 +21,3 @@
 #COMPLETAR hay foto
 #COMPLETAR no hay foto
 #COMPLETAR hay fotos
-
-### Asignaturas
-#probabilidad-ii/tema4

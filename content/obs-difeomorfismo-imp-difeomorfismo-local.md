@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[obs-difeomorfismo-imp-difeomorfismo-local.pdf]]
 ![[obs-difeomorfismo-imp-difeomorfismo-local.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #EJERCICIO demostrarlo
-
-### Asignaturas
-#geometria-diferencial/tema4

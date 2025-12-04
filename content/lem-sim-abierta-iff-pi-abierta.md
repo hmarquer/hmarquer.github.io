@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[lem-sim-abierta-iff-pi-abierta.pdf]]
 ![[lem-sim-abierta-iff-pi-abierta.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#geometria-diferencial/tema1

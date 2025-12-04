@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[lem-sigma-algebras-indep-imp-var-aleatorias-indep.pdf]]
 ![[lem-sigma-algebras-indep-imp-var-aleatorias-indep.pdf]]
 
@@ -6,8 +11,3 @@
 - [esp-medida](./esp-medida.md)
 - [var-aleatoria](./var-aleatoria.md)
 - [independencia-var-aleatorias](./independencia-var-aleatorias.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

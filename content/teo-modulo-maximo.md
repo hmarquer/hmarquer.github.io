@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-modulo-maximo.pdf]]
 ![[teo-modulo-maximo.pdf]]
 
@@ -9,6 +14,3 @@
 
 ## Etiquetas
 #ORDENAR referenciar ejercicio 38 hoja 2 de variable compleja I
-
-### Asignaturas
-#variable-compleja-i/tema4

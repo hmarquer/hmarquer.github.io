@@ -1,10 +1,10 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[seccion-apl-diferenciable.pdf]]
 ![[seccion-apl-diferenciable.pdf]]
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

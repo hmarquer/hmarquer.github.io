@@ -1,3 +1,8 @@
+---
+tags:
+  - teoria-descriptiva-de-conjuntos/tema1
+---
+
 [[prop-base-alguna-topologia.pdf]]
 ![[prop-base-alguna-topologia.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #TODO conviene ver alguna cosa más de esto: dos topologías con la misma base son iguales.
-
-### Asignaturas
-#teoria-descriptiva-de-conjuntos/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-ideal.pdf]]
 ![[lem-ideal.pdf]]
 
@@ -6,6 +11,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#algebra-conmutativa/tema1

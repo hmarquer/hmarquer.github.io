@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema3
+---
+
 [[base-ortonormal.pdf]]
 ![[base-ortonormal.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #ORDENAR : sospecho que hay una versión más general para esta definición
-
-### Asignaturas
-#variable-real/tema3

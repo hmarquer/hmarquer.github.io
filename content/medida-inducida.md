@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[medida-inducida.pdf]]
 ![[medida-inducida.pdf]]
 
@@ -6,8 +11,3 @@
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medible](./esp-medible.md)
 - [medida](./medida.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema1

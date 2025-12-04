@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema4
+---
+
 [[teo-baire.pdf]]
 ![[teo-baire.pdf]]
 
@@ -7,8 +12,3 @@
 - [con-denso](./con-denso.md)
 - [con-denso](./con-denso.md)
 - [prop-con-denso](./prop-con-denso.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema4

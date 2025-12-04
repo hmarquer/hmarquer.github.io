@@ -1,3 +1,9 @@
+---
+tags:
+  - analisis-funcional/tema2
+  - variable-real/tema3
+---
+
 [[prop-carac-proyeccion-ortogonal-convexo-cerrado.pdf]]
 ![[prop-carac-proyeccion-ortogonal-convexo-cerrado.pdf]]
 
@@ -9,7 +15,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN de la foto del 30/09/2025
-
-### Asignaturas
-#analisis-funcional/tema2
-#variable-real/tema3

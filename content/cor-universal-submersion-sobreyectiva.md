@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[cor-universal-submersion-sobreyectiva.pdf]]
 ![[cor-universal-submersion-sobreyectiva.pdf]]
 
@@ -14,8 +19,3 @@
 - [teo-universal-apl-cociente](./teo-universal-apl-cociente.md)
 - [continuidad](./continuidad.md)
 - [teo-universal-submersion-sobreyectiva](./teo-universal-submersion-sobreyectiva.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

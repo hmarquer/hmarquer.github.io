@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[teo-metrica-lp-0-1.pdf]]
 ![[teo-metrica-lp-0-1.pdf]]
 
@@ -6,8 +11,3 @@
 - [metrica](./metrica.md)
 - [lem-desigualdad-p-0-1](./lem-desigualdad-p-0-1.md)
 - [metrica](./metrica.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1

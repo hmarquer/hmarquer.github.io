@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema2
+---
+
 [[lem-convergencia-uniforme-imp-ctp.pdf]]
 ![[lem-convergencia-uniforme-imp-ctp.pdf]]
 
@@ -5,8 +10,3 @@
 - [convergencia-uniforme](./convergencia-uniforme.md)
 - [convergencia-puntual](./convergencia-puntual.md)
 - [esp-metrico](./esp-metrico.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema2

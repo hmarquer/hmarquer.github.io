@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii
+---
+
 [[quijote-infinito.pdf]]
 ![[quijote-infinito.pdf]]
 
@@ -12,6 +17,3 @@
 ## Etiquetas
 #REVISAR 
 #REVISAR 
-
-### Asignaturas
-#probabilidad-ii

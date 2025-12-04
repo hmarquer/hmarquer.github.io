@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema2
+---
+
 [[ley-0-1-kolmogorov.pdf]]
 ![[ley-0-1-kolmogorov.pdf]]
 
@@ -17,6 +22,3 @@
 #ORDENAR referenciar
 #ORDENAR referenciar
 #ORDENAR referenciar
-
-### Asignaturas
-#probabilidad-ii/tema2

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[variedad-topologica.pdf]]
 ![[variedad-topologica.pdf]]
 
@@ -6,8 +11,3 @@
 - [segundo-numerable](./segundo-numerable.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [esp-topologico](./esp-topologico.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

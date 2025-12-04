@@ -1,3 +1,8 @@
+---
+tags:
+  - productos-finitos-de-blaschke/tema1
+---
+
 [[lem-localmente-inyectiva-implica-inversa-no-nula.pdf]]
 ![[lem-localmente-inyectiva-implica-inversa-no-nula.pdf]]
 
@@ -7,6 +12,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#productos-finitos-de-blaschke/tema1

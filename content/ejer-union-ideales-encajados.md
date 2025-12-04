@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[ejer-union-ideales-encajados.pdf]]
 ![[ejer-union-ideales-encajados.pdf]]
 
@@ -6,8 +11,3 @@
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

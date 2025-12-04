@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema3
+---
+
 [[convergencia-lp-imp-probabilidad.pdf]]
 ![[convergencia-lp-imp-probabilidad.pdf]]
 
@@ -9,6 +14,3 @@
 ## Etiquetas
 #EJERCICIO 
 #EJERCICIO 
-
-### Asignaturas
-#probabilidad-ii/tema3

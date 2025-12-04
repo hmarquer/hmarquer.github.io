@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema6
+---
+
 [[apl-recubridora.pdf]]
 ![[apl-recubridora.pdf]]
 
@@ -5,8 +10,3 @@
 - [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
 - [homeomorfismo](./homeomorfismo.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema6

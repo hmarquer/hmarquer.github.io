@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-fn-analitica-iff-holomorfa.pdf]]
 ![[teo-fn-analitica-iff-holomorfa.pdf]]
 
@@ -10,6 +15,3 @@
 ## Etiquetas
 #DEMOSTRACIÓN completarla
 #ORDENAR referenciar
-
-### Asignaturas
-#variable-compleja-i/tema4

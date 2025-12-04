@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[submartingala.pdf]]
 ![[submartingala.pdf]]
 
@@ -6,8 +11,3 @@
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 - [filtracion](./filtracion.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

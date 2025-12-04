@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-producto-ideales.pdf]]
 ![[lem-producto-ideales.pdf]]
 
@@ -8,6 +13,3 @@
 
 ## Etiquetas
 #DEMOSTRACIÓN 
-
-### Asignaturas
-#algebra-conmutativa/tema1

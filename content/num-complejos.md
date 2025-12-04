@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema1
+---
+
 [[num-complejos.pdf]]
 ![[num-complejos.pdf]]
 
@@ -8,8 +13,3 @@
 - [grupo](./grupo.md)
 - [extension](./extension.md)
 - [morfismo-anillos](./morfismo-anillos.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema1

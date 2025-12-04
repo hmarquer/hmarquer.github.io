@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema2
+---
+
 [[prop-convolucion-exp-conjugados.pdf]]
 ![[prop-convolucion-exp-conjugados.pdf]]
 
@@ -19,6 +24,3 @@
 ## Etiquetas
 #COMPLETAR con el caso $p = \infty$ EJERCICIO
 #EJERCICIO 
-
-### Asignaturas
-#variable-real/tema2

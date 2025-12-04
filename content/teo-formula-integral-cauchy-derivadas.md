@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema4
+---
+
 [[teo-formula-integral-cauchy-derivadas.pdf]]
 ![[teo-formula-integral-cauchy-derivadas.pdf]]
 
@@ -10,6 +15,3 @@
 
 ## Etiquetas
 #ORDENAR referenciar
-
-### Asignaturas
-#variable-compleja-i/tema4

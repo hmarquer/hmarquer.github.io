@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema3
+---
+
 [[prop-complemento-ortogonal-subesp-cerrado.pdf]]
 ![[prop-complemento-ortogonal-subesp-cerrado.pdf]]
 
@@ -5,8 +10,3 @@
 - [esp-prehilbert](./esp-prehilbert.md)
 - [complemento-ortogonal](./complemento-ortogonal.md)
 - [subesp-vectorial](./subesp-vectorial.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema3

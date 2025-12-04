@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema6
+---
+
 [[long-cadena-ideales-primos.pdf]]
 ![[long-cadena-ideales-primos.pdf]]
 
@@ -5,8 +10,3 @@
 - [anillo](./anillo.md)
 - [cadena](./cadena.md)
 - [ideal-primo](./ideal-primo.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema6

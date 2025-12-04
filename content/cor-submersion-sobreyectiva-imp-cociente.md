@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[cor-submersion-sobreyectiva-imp-cociente.pdf]]
 ![[cor-submersion-sobreyectiva-imp-cociente.pdf]]
 
@@ -8,8 +13,3 @@
 - [cor-submersion-imp-abierta](./cor-submersion-imp-abierta.md)
 - [apl-abierta](./apl-abierta.md)
 - [apl-cociente](./apl-cociente.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

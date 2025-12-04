@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema1
+---
+
 [[igualdad-distribucion.pdf]]
 ![[igualdad-distribucion.pdf]]
 
@@ -12,6 +17,3 @@
 
 ## Etiquetas
 #EJERCICIO demostrar que $X \overset{d}{=} Y$.
-
-### Asignaturas
-#probabilidad-ii/tema1

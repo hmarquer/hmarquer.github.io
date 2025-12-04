@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema3
+---
+
 [[prop-esp-tangente-abierto-isomorfismo.pdf]]
 ![[prop-esp-tangente-abierto-isomorfismo.pdf]]
 
@@ -7,8 +12,3 @@
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema3

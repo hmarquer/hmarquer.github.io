@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[lem-ideal-imagen-preimagen-morfismo-anillos.pdf]]
 ![[lem-ideal-imagen-preimagen-morfismo-anillos.pdf]]
 
@@ -7,8 +12,3 @@
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

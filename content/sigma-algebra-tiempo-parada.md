@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[sigma-algebra-tiempo-parada.pdf]]
 ![[sigma-algebra-tiempo-parada.pdf]]
 
@@ -11,8 +16,3 @@
 - [sigma-algebra](./sigma-algebra.md)
 - [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
 - [sigma-algebra](./sigma-algebra.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

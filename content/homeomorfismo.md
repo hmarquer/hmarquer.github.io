@@ -1,3 +1,8 @@
+---
+tags:
+  - teoria-descriptiva-de-conjuntos/tema1
+---
+
 [[homeomorfismo.pdf]]
 ![[homeomorfismo.pdf]]
 
@@ -5,8 +10,3 @@
 - [continuidad](./continuidad.md)
 - [continuidad](./continuidad.md)
 - [esp-topologico](./esp-topologico.md)
-
-## Etiquetas
-
-### Asignaturas
-#teoria-descriptiva-de-conjuntos/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema4
+---
+
 [[teo-embibimiento-transferencia-diferenciabilidad.pdf]]
 ![[teo-embibimiento-transferencia-diferenciabilidad.pdf]]
 
@@ -8,8 +13,3 @@
 - [inmersion](./inmersion.md)
 - [continuidad](./continuidad.md)
 - [teo-inmersion-transferencia-diferenciabilidad](./teo-inmersion-transferencia-diferenciabilidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema4

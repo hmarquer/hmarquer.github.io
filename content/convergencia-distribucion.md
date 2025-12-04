@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema3
+---
+
 [[convergencia-distribucion.pdf]]
 ![[convergencia-distribucion.pdf]]
 
@@ -6,8 +11,3 @@
 - [fn-distribucion](./fn-distribucion.md)
 - [fn-distribucion](./fn-distribucion.md)
 - [fn-distribucion](./fn-distribucion.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema3

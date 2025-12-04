@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-compleja-i/tema2
+---
+
 [[teo-transformacion-mobius-pnt-fijos.pdf]]
 ![[teo-transformacion-mobius-pnt-fijos.pdf]]
 
@@ -5,8 +10,3 @@
 - [transformacion-mobius](./transformacion-mobius.md)
 - [pnt-fijo](./pnt-fijo.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-compleja-i/tema2

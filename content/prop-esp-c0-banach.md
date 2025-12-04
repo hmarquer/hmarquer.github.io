@@ -1,3 +1,8 @@
+---
+tags:
+  - variable-real/tema1
+---
+
 [[prop-esp-c0-banach.pdf]]
 ![[prop-esp-c0-banach.pdf]]
 
@@ -5,8 +10,3 @@
 - [esp-c0](./esp-c0.md)
 - [esp-banach](./esp-banach.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
-
-## Etiquetas
-
-### Asignaturas
-#variable-real/tema1

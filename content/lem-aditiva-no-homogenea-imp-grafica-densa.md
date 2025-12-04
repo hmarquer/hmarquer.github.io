@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[lem-aditiva-no-homogenea-imp-grafica-densa.pdf]]
 ![[lem-aditiva-no-homogenea-imp-grafica-densa.pdf]]
 
@@ -6,8 +11,3 @@
 - [homogeneidad](./homogeneidad.md)
 - [con-denso](./con-denso.md)
 - [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

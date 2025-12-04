@@ -1,3 +1,8 @@
+---
+tags:
+  - algebra-conmutativa/tema1
+---
+
 [[obs-anillo-cociente-morfismo-canonico.pdf]]
 ![[obs-anillo-cociente-morfismo-canonico.pdf]]
 
@@ -6,8 +11,3 @@
 - [ideal](./ideal.md)
 - [anillo-cociente](./anillo-cociente.md)
 - [morfismo-anillos](./morfismo-anillos.md)
-
-## Etiquetas
-
-### Asignaturas
-#algebra-conmutativa/tema1

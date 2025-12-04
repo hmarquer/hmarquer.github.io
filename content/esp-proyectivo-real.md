@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[esp-proyectivo-real.pdf]]
 ![[esp-proyectivo-real.pdf]]
 
@@ -26,8 +31,3 @@
 - [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

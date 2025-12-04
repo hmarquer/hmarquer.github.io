@@ -1,3 +1,8 @@
+---
+tags:
+  - geometria-diferencial/tema1
+---
+
 [[teo-existencia-unicidad-estructura-diferenciable.pdf]]
 ![[teo-existencia-unicidad-estructura-diferenciable.pdf]]
 
@@ -6,8 +11,3 @@
 - [esp-topologico](./esp-topologico.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
-
-## Etiquetas
-
-### Asignaturas
-#geometria-diferencial/tema1

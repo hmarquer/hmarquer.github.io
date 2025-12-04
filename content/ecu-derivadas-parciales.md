@@ -1,8 +1,8 @@
+---
+tags:
+  - ecuaciones-en-derivadas-parciales/tema1
+---
+
 [[ecu-derivadas-parciales.pdf]]
 ![[ecu-derivadas-parciales.pdf]]
 
-
-## Etiquetas
-
-### Asignaturas
-#ecuaciones-en-derivadas-parciales/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - analisis-funcional/tema1
+---
+
 [[teo-base-hamel-exists.pdf]]
 ![[teo-base-hamel-exists.pdf]]
 
@@ -8,8 +13,3 @@
 - [lem-zorn](./lem-zorn.md)
 - [indep-lineal](./indep-lineal.md)
 - [indep-lineal](./indep-lineal.md)
-
-## Etiquetas
-
-### Asignaturas
-#analisis-funcional/tema1

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[lem-esperanza-condicionada-mejor-aprox.pdf]]
 ![[lem-esperanza-condicionada-mejor-aprox.pdf]]
 
@@ -10,8 +15,3 @@
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [fn-medible](./fn-medible.md)
-
-## Etiquetas
-
-### Asignaturas
-#probabilidad-ii/tema4

@@ -1,3 +1,8 @@
+---
+tags:
+  - probabilidad-ii/tema4
+---
+
 [[esperanza-condicionada-sigma-algebra.pdf]]
 ![[esperanza-condicionada-sigma-algebra.pdf]]
 
@@ -17,6 +22,3 @@
 ## Etiquetas
 #EJERCICIO ver que $\nu$ es una medida con signo
 #EJERCICIO ver que si $Z$ es simple, se tiene por linealidad de la integral
-
-### Asignaturas
-#probabilidad-ii/tema4

@@ -1,3 +1,9 @@
+---
+tags:
+  - ecuaciones-en-derivadas-parciales/tema4
+  - variable-real/tema1
+---
+
 [[lem-esp-lp-vectorial.pdf]]
 ![[lem-esp-lp-vectorial.pdf]]
 
@@ -8,9 +14,3 @@
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [norma](./norma.md)
 - [linealidad-integral](./linealidad-integral.md)
-
-## Etiquetas
-
-### Asignaturas
-#ecuaciones-en-derivadas-parciales/tema4
-#variable-real/tema1
