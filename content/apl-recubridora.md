@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[apl-recubridora.pdf]]
 ![[apl-recubridora.pdf]]
 

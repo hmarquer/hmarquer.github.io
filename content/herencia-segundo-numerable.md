@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[herencia-segundo-numerable.pdf]]
 ![[herencia-segundo-numerable.pdf]]
 

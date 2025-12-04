@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[val-critico-apl-diferenciable.pdf]]
 ![[val-critico-apl-diferenciable.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema2
----
-
 [[fn-bump.pdf]]
 ![[fn-bump.pdf]]
 

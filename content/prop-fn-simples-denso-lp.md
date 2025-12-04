@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[prop-fn-simples-denso-lp.pdf]]
 ![[prop-fn-simples-denso-lp.pdf]]
 

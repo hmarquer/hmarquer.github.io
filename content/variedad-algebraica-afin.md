@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema3
----
-
 [[variedad-algebraica-afin.pdf]]
 ![[variedad-algebraica-afin.pdf]]
 

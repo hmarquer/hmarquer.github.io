@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[teo-proyeccion-ortogonal.pdf]]
 ![[teo-proyeccion-ortogonal.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[curva-jordan.pdf]]
 ![[curva-jordan.pdf]]
 

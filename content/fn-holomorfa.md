@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[fn-holomorfa.pdf]]
 ![[fn-holomorfa.pdf]]
 

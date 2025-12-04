@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[lem-di-localizacion-relacion-equivalencia.pdf]]
 ![[lem-di-localizacion-relacion-equivalencia.pdf]]
 

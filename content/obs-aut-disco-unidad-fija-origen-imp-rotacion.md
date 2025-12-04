@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/tema1
----
-
 [[obs-aut-disco-unidad-fija-origen-imp-rotacion.pdf]]
 ![[obs-aut-disco-unidad-fija-origen-imp-rotacion.pdf]]
 

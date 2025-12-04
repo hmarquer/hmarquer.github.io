@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[tiempo-parada.pdf]]
 ![[tiempo-parada.pdf]]
 

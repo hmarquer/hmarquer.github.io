@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[teo-cerrado-convexo-hilbert-imp-exists-min-norma.pdf]]
 ![[teo-cerrado-convexo-hilbert-imp-exists-min-norma.pdf]]
 

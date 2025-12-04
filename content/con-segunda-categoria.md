@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema4
----
-
 [[con-segunda-categoria.pdf]]
 ![[con-segunda-categoria.pdf]]
 

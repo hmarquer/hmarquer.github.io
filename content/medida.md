@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[medida.pdf]]
 ![[medida.pdf]]
 

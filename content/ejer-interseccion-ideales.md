@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[ejer-interseccion-ideales.pdf]]
 ![[ejer-interseccion-ideales.pdf]]
 

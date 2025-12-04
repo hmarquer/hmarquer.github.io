@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[accion-diferenciable-propiamente-discontinua.pdf]]
 ![[accion-diferenciable-propiamente-discontinua.pdf]]
 

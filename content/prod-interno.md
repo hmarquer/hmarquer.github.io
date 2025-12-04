@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
-  - variable-real/tema3
----
-
 [[prod-interno.pdf]]
 ![[prod-interno.pdf]]
 

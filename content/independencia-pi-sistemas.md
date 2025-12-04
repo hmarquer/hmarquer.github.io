@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[independencia-pi-sistemas.pdf]]
 ![[independencia-pi-sistemas.pdf]]
 

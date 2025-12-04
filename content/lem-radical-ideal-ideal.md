@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[lem-radical-ideal-ideal.pdf]]
 ![[lem-radical-ideal-ideal.pdf]]
 

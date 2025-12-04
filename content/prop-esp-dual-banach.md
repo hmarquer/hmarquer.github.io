@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[prop-esp-dual-banach.pdf]]
 ![[prop-esp-dual-banach.pdf]]
 

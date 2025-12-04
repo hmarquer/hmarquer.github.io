@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[integral.pdf]]
 ![[integral.pdf]]
 

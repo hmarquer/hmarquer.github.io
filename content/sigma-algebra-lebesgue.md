@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[sigma-algebra-lebesgue.pdf]]
 ![[sigma-algebra-lebesgue.pdf]]
 

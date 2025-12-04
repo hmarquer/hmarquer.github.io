@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema5
----
-
 [[teo-continuidad-levy.pdf]]
 ![[teo-continuidad-levy.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[lem-aditiva-no-homogenea-imp-grafica-densa.pdf]]
 ![[lem-aditiva-no-homogenea-imp-grafica-densa.pdf]]
 

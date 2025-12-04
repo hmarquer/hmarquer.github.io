@@ -1,9 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
-  - teoria-de-galois/tema1
----
-
 [[prop-di-imp-anillo-polinomios-di.pdf]]
 ![[prop-di-imp-anillo-polinomios-di.pdf]]
 

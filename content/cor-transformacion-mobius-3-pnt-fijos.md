@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[cor-transformacion-mobius-3-pnt-fijos.pdf]]
 ![[cor-transformacion-mobius-3-pnt-fijos.pdf]]
 

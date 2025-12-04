@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[prop-convolucion-exp-conjugados.pdf]]
 ![[prop-convolucion-exp-conjugados.pdf]]
 

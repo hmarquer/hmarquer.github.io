@@ -1,10 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - modelizacion/tema2
-  - variable-compleja-i/tema3
----
-
 [[convergencia-serie.pdf]]
 ![[convergencia-serie.pdf]]
 

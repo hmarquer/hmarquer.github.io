@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[lem-aprox-indicatriz-continua.pdf]]
 ![[lem-aprox-indicatriz-continua.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[anillo-noetheriano.pdf]]
 ![[anillo-noetheriano.pdf]]
 

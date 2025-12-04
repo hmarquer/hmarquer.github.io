@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[morfismo-modulos.pdf]]
 ![[morfismo-modulos.pdf]]
 

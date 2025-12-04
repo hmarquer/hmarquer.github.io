@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[variedad-topologica.pdf]]
 ![[variedad-topologica.pdf]]
 

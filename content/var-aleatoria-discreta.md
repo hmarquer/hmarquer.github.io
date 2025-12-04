@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[var-aleatoria-discreta.pdf]]
 ![[var-aleatoria-discreta.pdf]]
 

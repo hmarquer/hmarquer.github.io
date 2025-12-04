@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[lem-fn-diferenciable-igual-en-entorno-imp-derivacion-igual.pdf]]
 ![[lem-fn-diferenciable-igual-en-entorno-imp-derivacion-igual.pdf]]
 

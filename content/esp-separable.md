@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[esp-separable.pdf]]
 ![[esp-separable.pdf]]
 

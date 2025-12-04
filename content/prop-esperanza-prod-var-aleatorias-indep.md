@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[prop-esperanza-prod-var-aleatorias-indep.pdf]]
 ![[prop-esperanza-prod-var-aleatorias-indep.pdf]]
 

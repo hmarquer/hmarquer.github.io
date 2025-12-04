@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[esp-medida.pdf]]
 ![[esp-medida.pdf]]
 

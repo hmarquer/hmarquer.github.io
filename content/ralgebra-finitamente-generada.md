@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[ralgebra-finitamente-generada.pdf]]
 ![[ralgebra-finitamente-generada.pdf]]
 

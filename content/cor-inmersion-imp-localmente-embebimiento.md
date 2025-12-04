@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[cor-inmersion-imp-localmente-embebimiento.pdf]]
 ![[cor-inmersion-imp-localmente-embebimiento.pdf]]
 

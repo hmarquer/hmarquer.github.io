@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[desigualdad-triangular-inversa.pdf]]
 ![[desigualdad-triangular-inversa.pdf]]
 

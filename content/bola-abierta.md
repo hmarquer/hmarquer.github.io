@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[bola-abierta.pdf]]
 ![[bola-abierta.pdf]]
 

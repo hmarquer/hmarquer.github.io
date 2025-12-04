@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/anexo
----
-
 [[fn-antiholomorfa.pdf]]
 ![[fn-antiholomorfa.pdf]]
 

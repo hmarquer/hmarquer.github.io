@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[teo-bola-cerrada-compacta-imp-dim-finita.pdf]]
 ![[teo-bola-cerrada-compacta-imp-dim-finita.pdf]]
 

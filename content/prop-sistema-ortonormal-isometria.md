@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-sistema-ortonormal-isometria.pdf]]
 ![[prop-sistema-ortonormal-isometria.pdf]]
 

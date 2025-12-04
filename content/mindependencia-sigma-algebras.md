@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[mindependencia-sigma-algebras.pdf]]
 ![[mindependencia-sigma-algebras.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[grafo-asociado-cadena-markov-homogenea.pdf]]
 ![[grafo-asociado-cadena-markov-homogenea.pdf]]
 

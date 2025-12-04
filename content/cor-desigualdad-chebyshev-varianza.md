@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[cor-desigualdad-chebyshev-varianza.pdf]]
 ![[cor-desigualdad-chebyshev-varianza.pdf]]
 

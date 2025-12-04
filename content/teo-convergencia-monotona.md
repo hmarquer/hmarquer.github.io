@@ -1,10 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - probabilidad-ii/hoja0
-  - probabilidad-ii/hoja0
----
-
 [[teo-convergencia-monotona.pdf]]
 ![[teo-convergencia-monotona.pdf]]
 

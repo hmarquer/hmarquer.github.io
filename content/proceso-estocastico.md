@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[proceso-estocastico.pdf]]
 ![[proceso-estocastico.pdf]]
 

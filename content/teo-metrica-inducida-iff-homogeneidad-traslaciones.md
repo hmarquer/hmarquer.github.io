@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[teo-metrica-inducida-iff-homogeneidad-traslaciones.pdf]]
 ![[teo-metrica-inducida-iff-homogeneidad-traslaciones.pdf]]
 

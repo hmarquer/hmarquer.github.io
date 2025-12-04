@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[prop-carac-fn-convexa.pdf]]
 ![[prop-carac-fn-convexa.pdf]]
 

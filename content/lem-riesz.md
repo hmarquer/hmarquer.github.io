@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[lem-riesz.pdf]]
 ![[lem-riesz.pdf]]
 

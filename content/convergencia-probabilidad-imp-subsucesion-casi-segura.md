@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema3
----
-
 [[convergencia-probabilidad-imp-subsucesion-casi-segura.pdf]]
 ![[convergencia-probabilidad-imp-subsucesion-casi-segura.pdf]]
 

@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/parcial
-  - variable-real/tema2
----
-
 [[desigualdad-young-convolucion.pdf]]
 ![[desigualdad-young-convolucion.pdf]]
 

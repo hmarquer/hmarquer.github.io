@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[prop-funcional-lineal-continuo-prod-interno.pdf]]
 ![[prop-funcional-lineal-continuo-prod-interno.pdf]]
 

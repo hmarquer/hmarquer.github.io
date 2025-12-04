@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-fn-holomorfa-imp-exists-primitiva.pdf]]
 ![[teo-fn-holomorfa-imp-exists-primitiva.pdf]]
 

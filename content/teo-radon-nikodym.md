@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[teo-radon-nikodym.pdf]]
 ![[teo-radon-nikodym.pdf]]
 

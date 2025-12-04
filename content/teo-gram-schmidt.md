@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[teo-gram-schmidt.pdf]]
 ![[teo-gram-schmidt.pdf]]
 

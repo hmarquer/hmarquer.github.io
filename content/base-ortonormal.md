@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema3
----
-
 [[base-ortonormal.pdf]]
 ![[base-ortonormal.pdf]]
 

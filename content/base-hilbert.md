@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[base-hilbert.pdf]]
 ![[base-hilbert.pdf]]
 

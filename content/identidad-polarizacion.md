@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
-  - variable-real/tema3
----
-
 [[identidad-polarizacion.pdf]]
 ![[identidad-polarizacion.pdf]]
 

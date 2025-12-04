@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[cor-norma-p-no-prod-interno.pdf]]
 ![[cor-norma-p-no-prod-interno.pdf]]
 

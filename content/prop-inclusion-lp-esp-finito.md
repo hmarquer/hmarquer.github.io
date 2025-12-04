@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - variable-real/tema1
----
-
 [[prop-inclusion-lp-esp-finito.pdf]]
 ![[prop-inclusion-lp-esp-finito.pdf]]
 

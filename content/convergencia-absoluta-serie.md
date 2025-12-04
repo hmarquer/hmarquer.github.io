@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-compleja-i/tema3
----
-
 [[convergencia-absoluta-serie.pdf]]
 ![[convergencia-absoluta-serie.pdf]]
 

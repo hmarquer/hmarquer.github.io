@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[lem-sim-abierta-iff-pi-abierta.pdf]]
 ![[lem-sim-abierta-iff-pi-abierta.pdf]]
 

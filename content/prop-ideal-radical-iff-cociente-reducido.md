@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[prop-ideal-radical-iff-cociente-reducido.pdf]]
 ![[prop-ideal-radical-iff-cociente-reducido.pdf]]
 

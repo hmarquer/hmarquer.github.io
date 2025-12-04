@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[teo-universal-submersion-sobreyectiva.pdf]]
 ![[teo-universal-submersion-sobreyectiva.pdf]]
 

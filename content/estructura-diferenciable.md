@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[estructura-diferenciable.pdf]]
 ![[estructura-diferenciable.pdf]]
 

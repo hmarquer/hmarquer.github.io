@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/parcial
-  - variable-real/tema2
----
-
 [[lem-convolucion.pdf]]
 ![[lem-convolucion.pdf]]
 

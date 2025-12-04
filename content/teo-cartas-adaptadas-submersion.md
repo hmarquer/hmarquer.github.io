@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[teo-cartas-adaptadas-submersion.pdf]]
 ![[teo-cartas-adaptadas-submersion.pdf]]
 

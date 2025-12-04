@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[seccion-local-apl-diferenciable.pdf]]
 ![[seccion-local-apl-diferenciable.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[mindependencia-sucesos.pdf]]
 ![[mindependencia-sucesos.pdf]]
 

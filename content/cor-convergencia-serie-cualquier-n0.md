@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[cor-convergencia-serie-cualquier-n0.pdf]]
 ![[cor-convergencia-serie-cualquier-n0.pdf]]
 

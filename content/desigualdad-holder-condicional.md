@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[desigualdad-holder-condicional.pdf]]
 ![[desigualdad-holder-condicional.pdf]]
 

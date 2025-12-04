@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[val-regular-apl-diferenciable.pdf]]
 ![[val-regular-apl-diferenciable.pdf]]
 

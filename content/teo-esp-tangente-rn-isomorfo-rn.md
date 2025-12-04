@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[teo-esp-tangente-rn-isomorfo-rn.pdf]]
 ![[teo-esp-tangente-rn-isomorfo-rn.pdf]]
 

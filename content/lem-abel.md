@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[lem-abel.pdf]]
 ![[lem-abel.pdf]]
 

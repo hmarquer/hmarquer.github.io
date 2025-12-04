@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[ejer-var-aleatorias-prod-suma.pdf]]
 ![[ejer-var-aleatorias-prod-suma.pdf]]
 

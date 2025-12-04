@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[concatenacion-arcos.pdf]]
 ![[concatenacion-arcos.pdf]]
 

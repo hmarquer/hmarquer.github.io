@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[teo-proyeccion-ortogonal-sistema-ortonormal-formula.pdf]]
 ![[teo-proyeccion-ortogonal-sistema-ortonormal-formula.pdf]]
 

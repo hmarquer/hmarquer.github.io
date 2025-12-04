@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[lem-apl-lineales-equivalentes-iff-mismo-rango.pdf]]
 ![[lem-apl-lineales-equivalentes-iff-mismo-rango.pdf]]
 

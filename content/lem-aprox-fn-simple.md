@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[lem-aprox-fn-simple.pdf]]
 ![[lem-aprox-fn-simple.pdf]]
 

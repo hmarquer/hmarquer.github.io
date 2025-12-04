@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[criterio-cauchy.pdf]]
 ![[criterio-cauchy.pdf]]
 

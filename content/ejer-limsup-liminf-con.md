@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[ejer-limsup-liminf-con.pdf]]
 ![[ejer-limsup-liminf-con.pdf]]
 

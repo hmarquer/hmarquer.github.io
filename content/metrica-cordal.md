@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[metrica-cordal.pdf]]
 ![[metrica-cordal.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[derivacion.pdf]]
 ![[derivacion.pdf]]
 

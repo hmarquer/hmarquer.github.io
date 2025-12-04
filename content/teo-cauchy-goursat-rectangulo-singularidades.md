@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-cauchy-goursat-rectangulo-singularidades.pdf]]
 ![[teo-cauchy-goursat-rectangulo-singularidades.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/anexo
----
-
 [[lem-laplaciano-cambio-variable.pdf]]
 ![[lem-laplaciano-cambio-variable.pdf]]
 

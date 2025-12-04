@@ -1,10 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema2
-  - probabilidad-ii/tema3
----
-
 [[convergencia-lp.pdf]]
 ![[convergencia-lp.pdf]]
 

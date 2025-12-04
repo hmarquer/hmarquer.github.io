@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[lem-relacion-equivalencia-abierta-hausdorff.pdf]]
 ![[lem-relacion-equivalencia-abierta-hausdorff.pdf]]
 

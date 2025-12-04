@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[prop-esp-metrizable-imp-separable-iff-segundo-numerable.pdf]]
 ![[prop-esp-metrizable-imp-separable-iff-segundo-numerable.pdf]]
 

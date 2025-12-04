@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[teo-subvariedad-diferenciable-fibra-apl-diferenciable.pdf]]
 ![[teo-subvariedad-diferenciable-fibra-apl-diferenciable.pdf]]
 

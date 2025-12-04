@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[convergencia-medida.pdf]]
 ![[convergencia-medida.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/apl-conformes
----
-
 [[apl-conforme.pdf]]
 ![[apl-conforme.pdf]]
 

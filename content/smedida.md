@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[smedida.pdf]]
 ![[smedida.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[esp-tangente-variedad.pdf]]
 ![[esp-tangente-variedad.pdf]]
 

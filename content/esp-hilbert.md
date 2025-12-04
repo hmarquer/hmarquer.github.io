@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[esp-hilbert.pdf]]
 ![[esp-hilbert.pdf]]
 

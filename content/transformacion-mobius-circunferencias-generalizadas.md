@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[transformacion-mobius-circunferencias-generalizadas.pdf]]
 ![[transformacion-mobius-circunferencias-generalizadas.pdf]]
 

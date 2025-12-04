@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-hilbert-imp-bola-estrict-convexa.pdf]]
 ![[prop-hilbert-imp-bola-estrict-convexa.pdf]]
 

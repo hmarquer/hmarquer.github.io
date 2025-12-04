@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[teo-base-schauder-imp-separable.pdf]]
 ![[teo-base-schauder-imp-separable.pdf]]
 

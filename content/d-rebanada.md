@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[d-rebanada.pdf]]
 ![[d-rebanada.pdf]]
 

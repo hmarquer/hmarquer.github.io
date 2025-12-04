@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[cor-continuacion-analitica.pdf]]
 ![[cor-continuacion-analitica.pdf]]
 

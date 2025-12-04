@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[supermartingala.pdf]]
 ![[supermartingala.pdf]]
 

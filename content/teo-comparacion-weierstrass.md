@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[teo-comparacion-weierstrass.pdf]]
 ![[teo-comparacion-weierstrass.pdf]]
 

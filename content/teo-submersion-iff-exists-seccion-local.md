@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[teo-submersion-iff-exists-seccion-local.pdf]]
 ![[teo-submersion-iff-exists-seccion-local.pdf]]
 

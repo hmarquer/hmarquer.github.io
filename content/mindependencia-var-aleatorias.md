@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[mindependencia-var-aleatorias.pdf]]
 ![[mindependencia-var-aleatorias.pdf]]
 

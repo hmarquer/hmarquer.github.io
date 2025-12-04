@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[prop-orbita-accion-grupo-relacion-equivalencia.pdf]]
 ![[prop-orbita-accion-grupo-relacion-equivalencia.pdf]]
 

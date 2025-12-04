@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[cor-indep-var-aleatorias-iff-indep-fn-distribucion.pdf]]
 ![[cor-indep-var-aleatorias-iff-indep-fn-distribucion.pdf]]
 

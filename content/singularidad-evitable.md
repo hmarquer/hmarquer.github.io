@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema5
----
-
 [[singularidad-evitable.pdf]]
 ![[singularidad-evitable.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema4
----
-
 [[con-denso-ninguna-parte.pdf]]
 ![[con-denso-ninguna-parte.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[prop-fn-exists-var-aleatoria.pdf]]
 ![[prop-fn-exists-var-aleatoria.pdf]]
 

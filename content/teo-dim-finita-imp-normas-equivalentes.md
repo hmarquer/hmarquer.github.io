@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[teo-dim-finita-imp-normas-equivalentes.pdf]]
 ![[teo-dim-finita-imp-normas-equivalentes.pdf]]
 

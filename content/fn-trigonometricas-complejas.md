@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[fn-trigonometricas-complejas.pdf]]
 ![[fn-trigonometricas-complejas.pdf]]
 

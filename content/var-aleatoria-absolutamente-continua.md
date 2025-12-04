@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[var-aleatoria-absolutamente-continua.pdf]]
 ![[var-aleatoria-absolutamente-continua.pdf]]
 

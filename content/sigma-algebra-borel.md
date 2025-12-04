@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[sigma-algebra-borel.pdf]]
 ![[sigma-algebra-borel.pdf]]
 

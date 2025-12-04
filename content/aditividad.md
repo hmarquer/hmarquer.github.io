@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[aditividad.pdf]]
 ![[aditividad.pdf]]
 

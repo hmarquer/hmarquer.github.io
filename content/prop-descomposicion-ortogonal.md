@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[prop-descomposicion-ortogonal.pdf]]
 ![[prop-descomposicion-ortogonal.pdf]]
 

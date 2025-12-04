@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[lem-ideal-total.pdf]]
 ![[lem-ideal-total.pdf]]
 

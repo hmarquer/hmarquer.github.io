@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[esp-proyectivo.pdf]]
 ![[esp-proyectivo.pdf]]
 

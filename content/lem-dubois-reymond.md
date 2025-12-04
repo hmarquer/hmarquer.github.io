@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema3
----
-
 [[lem-dubois-reymond.pdf]]
 ![[lem-dubois-reymond.pdf]]
 

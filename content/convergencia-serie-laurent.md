@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema5
----
-
 [[convergencia-serie-laurent.pdf]]
 ![[convergencia-serie-laurent.pdf]]
 

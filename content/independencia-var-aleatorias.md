@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[independencia-var-aleatorias.pdf]]
 ![[independencia-var-aleatorias.pdf]]
 

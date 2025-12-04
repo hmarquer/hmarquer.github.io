@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema3
----
-
 [[convergencia-casi-segura-imp-probabilidad.pdf]]
 ![[convergencia-casi-segura-imp-probabilidad.pdf]]
 

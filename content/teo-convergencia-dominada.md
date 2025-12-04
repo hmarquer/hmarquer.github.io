@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - probabilidad-ii/hoja0
----
-
 [[teo-convergencia-dominada.pdf]]
 ![[teo-convergencia-dominada.pdf]]
 

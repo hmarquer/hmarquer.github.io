@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/apl-conformes
----
-
 [[lem-directamente-conforme-imp-holomorfa.pdf]]
 ![[lem-directamente-conforme-imp-holomorfa.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema1
----
-
 [[edp-casi-lineal.pdf]]
 ![[edp-casi-lineal.pdf]]
 

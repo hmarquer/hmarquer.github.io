@@ -1,9 +1,3 @@
----
-tags:
-  - modelizacion/tema2
-  - variable-compleja-i/tema3
----
-
 [[teo-abel.pdf]]
 ![[teo-abel.pdf]]
 

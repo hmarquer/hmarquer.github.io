@@ -1,9 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema1
----
-
 [[lem-esp-lp-vectorial.pdf]]
 ![[lem-esp-lp-vectorial.pdf]]
 

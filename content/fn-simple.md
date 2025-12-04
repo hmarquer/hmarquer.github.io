@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[fn-simple.pdf]]
 ![[fn-simple.pdf]]
 

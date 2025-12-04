@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[teo-inmersion-transferencia-diferenciabilidad.pdf]]
 ![[teo-inmersion-transferencia-diferenciabilidad.pdf]]
 

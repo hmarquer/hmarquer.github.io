@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[fibrado-tangente.pdf]]
 ![[fibrado-tangente.pdf]]
 

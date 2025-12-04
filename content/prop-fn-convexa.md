@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - probabilidad-ii/tema2
----
-
 [[prop-fn-convexa.pdf]]
 ![[prop-fn-convexa.pdf]]
 

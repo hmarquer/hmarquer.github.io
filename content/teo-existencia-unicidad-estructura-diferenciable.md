@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[teo-existencia-unicidad-estructura-diferenciable.pdf]]
 ![[teo-existencia-unicidad-estructura-diferenciable.pdf]]
 

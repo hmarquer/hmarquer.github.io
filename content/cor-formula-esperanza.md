@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[cor-formula-esperanza.pdf]]
 ![[cor-formula-esperanza.pdf]]
 

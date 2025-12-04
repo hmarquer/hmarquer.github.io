@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[prop-inclusion-lp-general.pdf]]
 ![[prop-inclusion-lp-general.pdf]]
 

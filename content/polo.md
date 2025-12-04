@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema5
----
-
 [[polo.pdf]]
 ![[polo.pdf]]
 

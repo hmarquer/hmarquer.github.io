@@ -1,9 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
-  - teoria-de-galois/tema1
----
-
 [[prop-grado-polinomio.pdf]]
 ![[prop-grado-polinomio.pdf]]
 

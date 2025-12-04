@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[anillo-reducido.pdf]]
 ![[anillo-reducido.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[obs-anillo-cociente-morfismo-canonico.pdf]]
 ![[obs-anillo-cociente-morfismo-canonico.pdf]]
 

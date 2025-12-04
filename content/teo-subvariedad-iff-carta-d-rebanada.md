@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[teo-subvariedad-iff-carta-d-rebanada.pdf]]
 ![[teo-subvariedad-iff-carta-d-rebanada.pdf]]
 

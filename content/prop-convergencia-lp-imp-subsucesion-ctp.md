@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[prop-convergencia-lp-imp-subsucesion-ctp.pdf]]
 ![[prop-convergencia-lp-imp-subsucesion-ctp.pdf]]
 

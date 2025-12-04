@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-fn-analitica-iff-holomorfa.pdf]]
 ![[teo-fn-analitica-iff-holomorfa.pdf]]
 

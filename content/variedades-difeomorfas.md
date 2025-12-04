@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema2
----
-
 [[variedades-difeomorfas.pdf]]
 ![[variedades-difeomorfas.pdf]]
 

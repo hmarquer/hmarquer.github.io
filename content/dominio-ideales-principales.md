@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[dominio-ideales-principales.pdf]]
 ![[dominio-ideales-principales.pdf]]
 

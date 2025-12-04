@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema5
----
-
 [[fn-caracteristica-var-aleatoria.pdf]]
 ![[fn-caracteristica-var-aleatoria.pdf]]
 

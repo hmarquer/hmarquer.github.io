@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[esp-topologicos-homotopicamente-equivalentes.pdf]]
 ![[esp-topologicos-homotopicamente-equivalentes.pdf]]
 

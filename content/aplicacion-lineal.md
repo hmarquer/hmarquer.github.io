@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[aplicacion-lineal.pdf]]
 ![[aplicacion-lineal.pdf]]
 

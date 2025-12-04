@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema5
----
-
 [[ley-debil-grandes-numeros.pdf]]
 ![[ley-debil-grandes-numeros.pdf]]
 

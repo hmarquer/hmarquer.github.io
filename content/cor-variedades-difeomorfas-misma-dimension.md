@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[cor-variedades-difeomorfas-misma-dimension.pdf]]
 ![[cor-variedades-difeomorfas-misma-dimension.pdf]]
 

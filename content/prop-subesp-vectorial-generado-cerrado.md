@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-subesp-vectorial-generado-cerrado.pdf]]
 ![[prop-subesp-vectorial-generado-cerrado.pdf]]
 

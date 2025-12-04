@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[teo-universal-apl-cociente.pdf]]
 ![[teo-universal-apl-cociente.pdf]]
 

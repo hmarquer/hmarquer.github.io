@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[desigualdad-holder-generalizada.pdf]]
 ![[desigualdad-holder-generalizada.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[teo-metrizacion-urysohn.pdf]]
 ![[teo-metrizacion-urysohn.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema1
----
-
 [[sol-clasica-edp.pdf]]
 ![[sol-clasica-edp.pdf]]
 

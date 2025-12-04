@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[prop-consecuencias-cauchy-riemann.pdf]]
 ![[prop-consecuencias-cauchy-riemann.pdf]]
 

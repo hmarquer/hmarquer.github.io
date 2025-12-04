@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - probabilidad-ii/tema1
----
-
 [[esp-probabilidad.pdf]]
 ![[esp-probabilidad.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[base-entornos-topologia.pdf]]
 ![[base-entornos-topologia.pdf]]
 

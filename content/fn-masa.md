@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[fn-masa.pdf]]
 ![[fn-masa.pdf]]
 

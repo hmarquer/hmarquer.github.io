@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[cor-fn-convexa-martingala-submartingala.pdf]]
 ![[cor-fn-convexa-martingala-submartingala.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[esp-topologico-completamente-metrizable.pdf]]
 ![[esp-topologico-completamente-metrizable.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[obs-difeomorfismo-imp-difeomorfismo-local.pdf]]
 ![[obs-difeomorfismo-imp-difeomorfismo-local.pdf]]
 

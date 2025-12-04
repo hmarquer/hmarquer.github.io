@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[lem-primer-grupo-fundamental-morfismo-inducido.pdf]]
 ![[lem-primer-grupo-fundamental-morfismo-inducido.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[curva-simple.pdf]]
 ![[curva-simple.pdf]]
 

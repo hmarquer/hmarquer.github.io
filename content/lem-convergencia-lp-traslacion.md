@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[lem-convergencia-lp-traslacion.pdf]]
 ![[lem-convergencia-lp-traslacion.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema4
----
-
 [[independencia-algebraica.pdf]]
 ![[independencia-algebraica.pdf]]
 

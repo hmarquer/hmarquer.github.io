@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[convergencia-localmente-uniforme.pdf]]
 ![[convergencia-localmente-uniforme.pdf]]
 

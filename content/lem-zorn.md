@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[lem-zorn.pdf]]
 ![[lem-zorn.pdf]]
 

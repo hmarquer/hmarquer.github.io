@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[fn-densidad.pdf]]
 ![[fn-densidad.pdf]]
 

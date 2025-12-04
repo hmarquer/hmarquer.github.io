@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[producto-ideales.pdf]]
 ![[producto-ideales.pdf]]
 

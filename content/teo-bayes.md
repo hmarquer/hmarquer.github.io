@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[teo-bayes.pdf]]
 ![[teo-bayes.pdf]]
 

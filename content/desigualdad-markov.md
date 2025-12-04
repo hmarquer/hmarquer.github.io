@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[desigualdad-markov.pdf]]
 ![[desigualdad-markov.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[teo-difeomorfismo-local-iff-rango-es-dim.pdf]]
 ![[teo-difeomorfismo-local-iff-rango-es-dim.pdf]]
 

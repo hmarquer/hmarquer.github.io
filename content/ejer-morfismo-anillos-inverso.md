@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[ejer-morfismo-anillos-inverso.pdf]]
 ![[ejer-morfismo-anillos-inverso.pdf]]
 

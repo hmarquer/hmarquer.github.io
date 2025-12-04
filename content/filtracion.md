@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[filtracion.pdf]]
 ![[filtracion.pdf]]
 

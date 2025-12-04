@@ -1,9 +1,3 @@
----
-tags:
-  - modelizacion/tema2
-  - variable-compleja-i/tema3
----
-
 [[serie-formal-potencias.pdf]]
 ![[serie-formal-potencias.pdf]]
 

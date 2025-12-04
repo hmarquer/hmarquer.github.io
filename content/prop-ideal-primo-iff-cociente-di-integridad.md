@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[prop-ideal-primo-iff-cociente-di-integridad.pdf]]
 ![[prop-ideal-primo-iff-cociente-di-integridad.pdf]]
 

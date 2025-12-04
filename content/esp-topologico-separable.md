@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[esp-topologico-separable.pdf]]
 ![[esp-topologico-separable.pdf]]
 

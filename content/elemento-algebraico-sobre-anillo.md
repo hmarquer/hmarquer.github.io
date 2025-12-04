@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema4
----
-
 [[elemento-algebraico-sobre-anillo.pdf]]
 ![[elemento-algebraico-sobre-anillo.pdf]]
 

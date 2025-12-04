@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[igualdad-distribucion.pdf]]
 ![[igualdad-distribucion.pdf]]
 

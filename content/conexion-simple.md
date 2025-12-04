@@ -1,9 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
-  - geometria-diferencial/tema6
----
-
 [[conexion-simple.pdf]]
 ![[conexion-simple.pdf]]
 

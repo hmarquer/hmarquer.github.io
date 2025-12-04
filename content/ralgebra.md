@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[ralgebra.pdf]]
 ![[ralgebra.pdf]]
 

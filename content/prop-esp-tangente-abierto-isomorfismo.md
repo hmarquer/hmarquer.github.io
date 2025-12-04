@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[prop-esp-tangente-abierto-isomorfismo.pdf]]
 ![[prop-esp-tangente-abierto-isomorfismo.pdf]]
 

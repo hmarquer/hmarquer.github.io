@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[seminorma.pdf]]
 ![[seminorma.pdf]]
 

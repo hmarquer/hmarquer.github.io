@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[teo-correspondencia-ideales-cociente.pdf]]
 ![[teo-correspondencia-ideales-cociente.pdf]]
 

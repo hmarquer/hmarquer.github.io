@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[rama-log-complejo.pdf]]
 ![[rama-log-complejo.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[singularidad-mutua.pdf]]
 ![[singularidad-mutua.pdf]]
 

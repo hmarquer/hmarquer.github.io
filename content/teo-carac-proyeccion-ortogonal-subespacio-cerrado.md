@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[teo-carac-proyeccion-ortogonal-subespacio-cerrado.pdf]]
 ![[teo-carac-proyeccion-ortogonal-subespacio-cerrado.pdf]]
 

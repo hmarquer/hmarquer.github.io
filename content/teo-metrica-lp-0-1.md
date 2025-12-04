@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[teo-metrica-lp-0-1.pdf]]
 ![[teo-metrica-lp-0-1.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[prop-divisor-cero-no-unidad.pdf]]
 ![[prop-divisor-cero-no-unidad.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[prop-localizacion-anillo.pdf]]
 ![[prop-localizacion-anillo.pdf]]
 

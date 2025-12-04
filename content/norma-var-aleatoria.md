@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[norma-var-aleatoria.pdf]]
 ![[norma-var-aleatoria.pdf]]
 

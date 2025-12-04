@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-morera-rectangulo.pdf]]
 ![[teo-morera-rectangulo.pdf]]
 

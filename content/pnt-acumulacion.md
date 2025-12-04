@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[pnt-acumulacion.pdf]]
 ![[pnt-acumulacion.pdf]]
 

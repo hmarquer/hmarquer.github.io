@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[esp-isometricos.pdf]]
 ![[esp-isometricos.pdf]]
 

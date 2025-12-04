@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[compatibilidad-atlas-diferenciables.pdf]]
 ![[compatibilidad-atlas-diferenciables.pdf]]
 

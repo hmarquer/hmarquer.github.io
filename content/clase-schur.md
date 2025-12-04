@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/tema1
----
-
 [[clase-schur.pdf]]
 ![[clase-schur.pdf]]
 

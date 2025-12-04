@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/anexo
----
-
 [[prop-regla-cadena-wirtinger.pdf]]
 ![[prop-regla-cadena-wirtinger.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema3
----
-
 [[funcional-minkowski.pdf]]
 ![[funcional-minkowski.pdf]]
 

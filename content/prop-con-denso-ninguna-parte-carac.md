@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema4
----
-
 [[prop-con-denso-ninguna-parte-carac.pdf]]
 ![[prop-con-denso-ninguna-parte-carac.pdf]]
 

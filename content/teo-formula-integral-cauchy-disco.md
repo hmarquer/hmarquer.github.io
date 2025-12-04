@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-formula-integral-cauchy-disco.pdf]]
 ![[teo-formula-integral-cauchy-disco.pdf]]
 

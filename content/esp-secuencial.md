@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[esp-secuencial.pdf]]
 ![[esp-secuencial.pdf]]
 

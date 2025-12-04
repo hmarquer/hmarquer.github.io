@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[lem-subvariedad-estructura-diferenciable-unica.pdf]]
 ![[lem-subvariedad-estructura-diferenciable-unica.pdf]]
 

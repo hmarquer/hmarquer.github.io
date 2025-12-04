@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[cadena-markov-irreducible.pdf]]
 ![[cadena-markov-irreducible.pdf]]
 

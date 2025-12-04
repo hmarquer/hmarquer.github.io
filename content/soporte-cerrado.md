@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[soporte-cerrado.pdf]]
 ![[soporte-cerrado.pdf]]
 

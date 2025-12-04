@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[rango-apl-diferenciable.pdf]]
 ![[rango-apl-diferenciable.pdf]]
 

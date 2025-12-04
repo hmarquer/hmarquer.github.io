@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-compleja-i/tema1
----
-
 [[convergencia.pdf]]
 ![[convergencia.pdf]]
 

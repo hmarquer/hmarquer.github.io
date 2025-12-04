@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[dual-topologico.pdf]]
 ![[dual-topologico.pdf]]
 

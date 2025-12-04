@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[esp-polaco.pdf]]
 ![[esp-polaco.pdf]]
 

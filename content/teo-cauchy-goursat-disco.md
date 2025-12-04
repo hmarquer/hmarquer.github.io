@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-cauchy-goursat-disco.pdf]]
 ![[teo-cauchy-goursat-disco.pdf]]
 

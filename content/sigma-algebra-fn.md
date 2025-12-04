@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[sigma-algebra-fn.pdf]]
 ![[sigma-algebra-fn.pdf]]
 

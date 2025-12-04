@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[conjugada-armonica.pdf]]
 ![[conjugada-armonica.pdf]]
 

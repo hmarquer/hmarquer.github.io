@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[teo-levantamiento-curvas.pdf]]
 ![[teo-levantamiento-curvas.pdf]]
 

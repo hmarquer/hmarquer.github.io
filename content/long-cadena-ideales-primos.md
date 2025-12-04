@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema6
----
-
 [[long-cadena-ideales-primos.pdf]]
 ![[long-cadena-ideales-primos.pdf]]
 

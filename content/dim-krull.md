@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema6
----
-
 [[dim-krull.pdf]]
 ![[dim-krull.pdf]]
 

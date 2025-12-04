@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/anexo
----
-
 [[prop-fn-holomorfa-iff-wirtinger.pdf]]
 ![[prop-fn-holomorfa-iff-wirtinger.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[integral-linea-compleja-longitud.pdf]]
 ![[integral-linea-compleja-longitud.pdf]]
 

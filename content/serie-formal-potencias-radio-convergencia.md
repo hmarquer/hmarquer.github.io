@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[serie-formal-potencias-radio-convergencia.pdf]]
 ![[serie-formal-potencias-radio-convergencia.pdf]]
 

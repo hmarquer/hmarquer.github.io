@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[esp-lp-sucesiones.pdf]]
 ![[esp-lp-sucesiones.pdf]]
 

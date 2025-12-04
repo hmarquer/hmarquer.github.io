@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[equivalencia-homotopica.pdf]]
 ![[equivalencia-homotopica.pdf]]
 

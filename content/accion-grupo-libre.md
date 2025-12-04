@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[accion-grupo-libre.pdf]]
 ![[accion-grupo-libre.pdf]]
 

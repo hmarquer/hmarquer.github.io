@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[cadena-markov-recurrencia.pdf]]
 ![[cadena-markov-recurrencia.pdf]]
 

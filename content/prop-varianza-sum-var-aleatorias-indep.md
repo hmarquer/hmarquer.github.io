@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[prop-varianza-sum-var-aleatorias-indep.pdf]]
 ![[prop-varianza-sum-var-aleatorias-indep.pdf]]
 

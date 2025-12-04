@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[prop-esp-c0-banach.pdf]]
 ![[prop-esp-c0-banach.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[c-infty-compatibilidad.pdf]]
 ![[c-infty-compatibilidad.pdf]]
 

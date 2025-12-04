@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[carta.pdf]]
 ![[carta.pdf]]
 

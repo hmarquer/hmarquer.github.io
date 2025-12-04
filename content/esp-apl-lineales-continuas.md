@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[esp-apl-lineales-continuas.pdf]]
 ![[esp-apl-lineales-continuas.pdf]]
 

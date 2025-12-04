@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[cadena-markov-accesibilidad.pdf]]
 ![[cadena-markov-accesibilidad.pdf]]
 

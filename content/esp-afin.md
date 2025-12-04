@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema3
----
-
 [[esp-afin.pdf]]
 ![[esp-afin.pdf]]
 

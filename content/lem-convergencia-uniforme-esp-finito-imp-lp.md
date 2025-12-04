@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[lem-convergencia-uniforme-esp-finito-imp-lp.pdf]]
 ![[lem-convergencia-uniforme-esp-finito-imp-lp.pdf]]
 

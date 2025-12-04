@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[teo-caratheodory-i.pdf]]
 ![[teo-caratheodory-i.pdf]]
 

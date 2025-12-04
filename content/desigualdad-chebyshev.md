@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[desigualdad-chebyshev.pdf]]
 ![[desigualdad-chebyshev.pdf]]
 

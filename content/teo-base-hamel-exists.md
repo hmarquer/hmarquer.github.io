@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[teo-base-hamel-exists.pdf]]
 ![[teo-base-hamel-exists.pdf]]
 

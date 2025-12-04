@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[obs-submersion-iff-pnt-val-regular.pdf]]
 ![[obs-submersion-iff-pnt-val-regular.pdf]]
 

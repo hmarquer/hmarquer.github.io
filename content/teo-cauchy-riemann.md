@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[teo-cauchy-riemann.pdf]]
 ![[teo-cauchy-riemann.pdf]]
 

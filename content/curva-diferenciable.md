@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[curva-diferenciable.pdf]]
 ![[curva-diferenciable.pdf]]
 

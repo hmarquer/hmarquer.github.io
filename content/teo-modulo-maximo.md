@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-modulo-maximo.pdf]]
 ![[teo-modulo-maximo.pdf]]
 

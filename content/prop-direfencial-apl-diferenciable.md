@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[prop-direfencial-apl-diferenciable.pdf]]
 ![[prop-direfencial-apl-diferenciable.pdf]]
 

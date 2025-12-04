@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-con-denso-iff-interior-comp-vacio.pdf]]
 ![[prop-con-denso-iff-interior-comp-vacio.pdf]]
 

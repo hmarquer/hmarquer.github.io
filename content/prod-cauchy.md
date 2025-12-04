@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[prod-cauchy.pdf]]
 ![[prod-cauchy.pdf]]
 

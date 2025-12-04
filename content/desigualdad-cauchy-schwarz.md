@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
-  - variable-real/tema3
----
-
 [[desigualdad-cauchy-schwarz.pdf]]
 ![[desigualdad-cauchy-schwarz.pdf]]
 

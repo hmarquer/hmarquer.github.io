@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/tema1
----
-
 [[automorfismo-disco-unidad.pdf]]
 ![[automorfismo-disco-unidad.pdf]]
 

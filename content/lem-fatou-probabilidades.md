@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[lem-fatou-probabilidades.pdf]]
 ![[lem-fatou-probabilidades.pdf]]
 

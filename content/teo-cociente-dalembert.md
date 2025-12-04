@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[teo-cociente-dalembert.pdf]]
 ![[teo-cociente-dalembert.pdf]]
 

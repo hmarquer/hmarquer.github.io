@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[fn-generatriz-probabilidad.pdf]]
 ![[fn-generatriz-probabilidad.pdf]]
 

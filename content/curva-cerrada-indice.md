@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[curva-cerrada-indice.pdf]]
 ![[curva-cerrada-indice.pdf]]
 

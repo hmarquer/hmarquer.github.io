@@ -1,8 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema5
----
-
 [[fn-superarmonica.pdf]]
 ![[fn-superarmonica.pdf]]
 

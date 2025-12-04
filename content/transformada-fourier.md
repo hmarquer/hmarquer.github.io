@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema3
----
-
 [[transformada-fourier.pdf]]
 ![[transformada-fourier.pdf]]
 

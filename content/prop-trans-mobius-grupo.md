@@ -1,9 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/tema1
-  - variable-compleja-i/tema2
----
-
 [[prop-trans-mobius-grupo.pdf]]
 ![[prop-trans-mobius-grupo.pdf]]
 

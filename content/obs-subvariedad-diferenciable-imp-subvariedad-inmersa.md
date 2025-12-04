@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[obs-subvariedad-diferenciable-imp-subvariedad-inmersa.pdf]]
 ![[obs-subvariedad-diferenciable-imp-subvariedad-inmersa.pdf]]
 

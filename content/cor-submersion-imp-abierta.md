@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[cor-submersion-imp-abierta.pdf]]
 ![[cor-submersion-imp-abierta.pdf]]
 

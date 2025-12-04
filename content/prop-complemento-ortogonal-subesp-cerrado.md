@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema3
----
-
 [[prop-complemento-ortogonal-subesp-cerrado.pdf]]
 ![[prop-complemento-ortogonal-subesp-cerrado.pdf]]
 

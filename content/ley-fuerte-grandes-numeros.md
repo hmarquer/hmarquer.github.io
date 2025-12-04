@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema5
----
-
 [[ley-fuerte-grandes-numeros.pdf]]
 ![[ley-fuerte-grandes-numeros.pdf]]
 

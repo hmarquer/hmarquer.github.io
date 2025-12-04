@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[sigma-algebra-tiempo-parada.pdf]]
 ![[sigma-algebra-tiempo-parada.pdf]]
 

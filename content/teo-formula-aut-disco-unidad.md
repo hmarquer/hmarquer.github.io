@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/tema1
----
-
 [[teo-formula-aut-disco-unidad.pdf]]
 ![[teo-formula-aut-disco-unidad.pdf]]
 

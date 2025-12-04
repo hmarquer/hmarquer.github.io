@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[teo-extension-tietze.pdf]]
 ![[teo-extension-tietze.pdf]]
 

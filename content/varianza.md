@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[varianza.pdf]]
 ![[varianza.pdf]]
 

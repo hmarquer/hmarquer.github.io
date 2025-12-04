@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema3
----
-
 [[fn-analitica.pdf]]
 ![[fn-analitica.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema2
----
-
 [[ideal-finitamente-generado.pdf]]
 ![[ideal-finitamente-generado.pdf]]
 

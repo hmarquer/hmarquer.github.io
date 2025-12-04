@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[prop-formula-varianza.pdf]]
 ![[prop-formula-varianza.pdf]]
 

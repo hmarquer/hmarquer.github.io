@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema4
----
-
 [[extension-anillos-entera.pdf]]
 ![[extension-anillos-entera.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[prop-ideal-maximal-iff-cociente-cuerpo.pdf]]
 ![[prop-ideal-maximal-iff-cociente-cuerpo.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema2
----
-
 [[fn-potencia-compleja.pdf]]
 ![[fn-potencia-compleja.pdf]]
 

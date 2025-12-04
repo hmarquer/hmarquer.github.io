@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[lem-cuerpo-iff-ideales-triviales.pdf]]
 ![[lem-cuerpo-iff-ideales-triviales.pdf]]
 

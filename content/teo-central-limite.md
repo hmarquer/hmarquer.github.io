@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema5
----
-
 [[teo-central-limite.pdf]]
 ![[teo-central-limite.pdf]]
 

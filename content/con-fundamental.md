@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[con-fundamental.pdf]]
 ![[con-fundamental.pdf]]
 

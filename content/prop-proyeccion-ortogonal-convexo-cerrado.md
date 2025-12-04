@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-proyeccion-ortogonal-convexo-cerrado.pdf]]
 ![[prop-proyeccion-ortogonal-convexo-cerrado.pdf]]
 

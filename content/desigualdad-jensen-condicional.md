@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[desigualdad-jensen-condicional.pdf]]
 ![[desigualdad-jensen-condicional.pdf]]
 

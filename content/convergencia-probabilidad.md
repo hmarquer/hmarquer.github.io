@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema3
----
-
 [[convergencia-probabilidad.pdf]]
 ![[convergencia-probabilidad.pdf]]
 

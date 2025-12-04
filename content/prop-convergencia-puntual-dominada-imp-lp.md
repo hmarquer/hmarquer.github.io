@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[prop-convergencia-puntual-dominada-imp-lp.pdf]]
 ![[prop-convergencia-puntual-dominada-imp-lp.pdf]]
 

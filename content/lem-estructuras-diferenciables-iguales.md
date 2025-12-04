@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[lem-estructuras-diferenciables-iguales.pdf]]
 ![[lem-estructuras-diferenciables-iguales.pdf]]
 

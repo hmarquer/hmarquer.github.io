@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[cor-ideal-maximal-imp-primo.pdf]]
 ![[cor-ideal-maximal-imp-primo.pdf]]
 

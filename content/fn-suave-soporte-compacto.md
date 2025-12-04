@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[fn-suave-soporte-compacto.pdf]]
 ![[fn-suave-soporte-compacto.pdf]]
 

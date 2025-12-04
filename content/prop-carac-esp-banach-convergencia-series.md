@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-carac-esp-banach-convergencia-series.pdf]]
 ![[prop-carac-esp-banach-convergencia-series.pdf]]
 

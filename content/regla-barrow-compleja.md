@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[regla-barrow-compleja.pdf]]
 ![[regla-barrow-compleja.pdf]]
 

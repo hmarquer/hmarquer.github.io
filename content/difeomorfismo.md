@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema2
----
-
 [[difeomorfismo.pdf]]
 ![[difeomorfismo.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[subvariedad-inmersa.pdf]]
 ![[subvariedad-inmersa.pdf]]
 

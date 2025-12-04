@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[teo-descomposicion-doob.pdf]]
 ![[teo-descomposicion-doob.pdf]]
 

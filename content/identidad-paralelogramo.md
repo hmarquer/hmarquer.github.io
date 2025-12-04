@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
-  - variable-real/tema3
----
-
 [[identidad-paralelogramo.pdf]]
 ![[identidad-paralelogramo.pdf]]
 

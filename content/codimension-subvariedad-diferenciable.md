@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[codimension-subvariedad-diferenciable.pdf]]
 ![[codimension-subvariedad-diferenciable.pdf]]
 

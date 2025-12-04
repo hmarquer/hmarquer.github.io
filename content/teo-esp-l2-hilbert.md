@@ -1,10 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema3
----
-
 [[teo-esp-l2-hilbert.pdf]]
 ![[teo-esp-l2-hilbert.pdf]]
 

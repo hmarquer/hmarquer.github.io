@@ -1,9 +1,3 @@
----
-tags:
-  - variable-real/tema1
-  - probabilidad-ii/tema2
----
-
 [[desigualdad-jensen.pdf]]
 ![[desigualdad-jensen.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[lem-var-aleatorias-indep-iff-sigma-algebras-indep.pdf]]
 ![[lem-var-aleatorias-indep-iff-sigma-algebras-indep.pdf]]
 

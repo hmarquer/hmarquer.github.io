@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[num-complejo-arg-principal.pdf]]
 ![[num-complejo-arg-principal.pdf]]
 

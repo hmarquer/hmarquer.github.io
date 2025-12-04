@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[con-acotado.pdf]]
 ![[con-acotado.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - productos-finitos-de-blaschke/anexo
----
-
 [[lem-laplaciano-wirtinger.pdf]]
 ![[lem-laplaciano-wirtinger.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema2
----
-
 [[fn-diferenciable-variedad.pdf]]
 ![[fn-diferenciable-variedad.pdf]]
 

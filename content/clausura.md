@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[clausura.pdf]]
 ![[clausura.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[homotopia.pdf]]
 ![[homotopia.pdf]]
 

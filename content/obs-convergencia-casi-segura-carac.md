@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema3
----
-
 [[obs-convergencia-casi-segura-carac.pdf]]
 ![[obs-convergencia-casi-segura-carac.pdf]]
 

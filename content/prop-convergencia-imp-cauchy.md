@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-convergencia-imp-cauchy.pdf]]
 ![[prop-convergencia-imp-cauchy.pdf]]
 

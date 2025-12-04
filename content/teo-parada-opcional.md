@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[teo-parada-opcional.pdf]]
 ![[teo-parada-opcional.pdf]]
 

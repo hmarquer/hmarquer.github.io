@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[teo-convergencia-martingalas.pdf]]
 ![[teo-convergencia-martingalas.pdf]]
 

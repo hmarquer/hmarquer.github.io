@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[prop-con-denso.pdf]]
 ![[prop-con-denso.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[cor-submersion-sobreyectiva-imp-cociente.pdf]]
 ![[cor-submersion-sobreyectiva-imp-cociente.pdf]]
 

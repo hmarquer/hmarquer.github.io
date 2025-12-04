@@ -1,9 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
-  - geometria-diferencial/tema3
----
-
 [[curva-topologica.pdf]]
 ![[curva-topologica.pdf]]
 

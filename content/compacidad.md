@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[compacidad.pdf]]
 ![[compacidad.pdf]]
 

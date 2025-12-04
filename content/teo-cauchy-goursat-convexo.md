@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-cauchy-goursat-convexo.pdf]]
 ![[teo-cauchy-goursat-convexo.pdf]]
 

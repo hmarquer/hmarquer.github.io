@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[vec-aleatorio.pdf]]
 ![[vec-aleatorio.pdf]]
 

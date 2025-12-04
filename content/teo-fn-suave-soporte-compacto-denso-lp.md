@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[teo-fn-suave-soporte-compacto-denso-lp.pdf]]
 ![[teo-fn-suave-soporte-compacto-denso-lp.pdf]]
 

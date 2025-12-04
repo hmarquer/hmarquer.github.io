@@ -1,10 +1,3 @@
----
-tags:
-  - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema1
-  - probabilidad-ii/tema2
----
-
 [[esp-lp.pdf]]
 ![[esp-lp.pdf]]
 

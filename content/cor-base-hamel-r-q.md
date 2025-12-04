@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema1
----
-
 [[cor-base-hamel-r-q.pdf]]
 ![[cor-base-hamel-r-q.pdf]]
 

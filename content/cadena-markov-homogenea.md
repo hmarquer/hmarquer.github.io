@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[cadena-markov-homogenea.pdf]]
 ![[cadena-markov-homogenea.pdf]]
 

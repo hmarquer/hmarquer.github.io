@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[medida-inducida.pdf]]
 ![[medida-inducida.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii
----
-
 [[quijote-infinito.pdf]]
 ![[quijote-infinito.pdf]]
 

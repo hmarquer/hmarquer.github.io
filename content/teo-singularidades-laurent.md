@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema5
----
-
 [[teo-singularidades-laurent.pdf]]
 ![[teo-singularidades-laurent.pdf]]
 

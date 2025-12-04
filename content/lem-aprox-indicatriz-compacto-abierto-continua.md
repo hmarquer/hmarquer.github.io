@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[lem-aprox-indicatriz-compacto-abierto-continua.pdf]]
 ![[lem-aprox-indicatriz-compacto-abierto-continua.pdf]]
 

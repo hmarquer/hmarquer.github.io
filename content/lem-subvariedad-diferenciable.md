@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema5
----
-
 [[lem-subvariedad-diferenciable.pdf]]
 ![[lem-subvariedad-diferenciable.pdf]]
 

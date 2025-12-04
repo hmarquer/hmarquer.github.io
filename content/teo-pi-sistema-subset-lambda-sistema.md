@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[teo-pi-sistema-subset-lambda-sistema.pdf]]
 ![[teo-pi-sistema-subset-lambda-sistema.pdf]]
 

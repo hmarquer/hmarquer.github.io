@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[esperanza-condicionada-sigma-algebra.pdf]]
 ![[esperanza-condicionada-sigma-algebra.pdf]]
 

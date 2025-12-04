@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[apl-lineales-equivalentes.pdf]]
 ![[apl-lineales-equivalentes.pdf]]
 

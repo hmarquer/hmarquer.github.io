@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema4
----
-
 [[teo-baire.pdf]]
 ![[teo-baire.pdf]]
 

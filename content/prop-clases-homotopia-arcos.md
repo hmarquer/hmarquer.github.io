@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[prop-clases-homotopia-arcos.pdf]]
 ![[prop-clases-homotopia-arcos.pdf]]
 

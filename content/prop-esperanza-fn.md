@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[prop-esperanza-fn.pdf]]
 ![[prop-esperanza-fn.pdf]]
 

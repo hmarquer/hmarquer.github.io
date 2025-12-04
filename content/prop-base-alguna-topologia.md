@@ -1,8 +1,3 @@
----
-tags:
-  - teoria-descriptiva-de-conjuntos/tema1
----
-
 [[prop-base-alguna-topologia.pdf]]
 ![[prop-base-alguna-topologia.pdf]]
 

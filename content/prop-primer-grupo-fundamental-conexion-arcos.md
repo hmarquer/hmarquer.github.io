@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[prop-primer-grupo-fundamental-conexion-arcos.pdf]]
 ![[prop-primer-grupo-fundamental-conexion-arcos.pdf]]
 

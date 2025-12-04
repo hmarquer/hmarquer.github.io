@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[probabilidad-total.pdf]]
 ![[probabilidad-total.pdf]]
 

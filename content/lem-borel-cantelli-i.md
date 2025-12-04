@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[lem-borel-cantelli-i.pdf]]
 ![[lem-borel-cantelli-i.pdf]]
 

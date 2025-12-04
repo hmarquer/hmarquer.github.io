@@ -1,10 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[esp-prehilbert.pdf]]
 ![[esp-prehilbert.pdf]]
 

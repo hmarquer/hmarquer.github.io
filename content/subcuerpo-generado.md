@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[subcuerpo-generado.pdf]]
 ![[subcuerpo-generado.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[prop-indep-pi-sistemas-imp-indep-sigma-algebras.pdf]]
 ![[prop-indep-pi-sistemas-imp-indep-sigma-algebras.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema2
----
-
 [[sigma-algebra-cola.pdf]]
 ![[sigma-algebra-cola.pdf]]
 

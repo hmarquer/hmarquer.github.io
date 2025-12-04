@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[ejer-union-ideales-encajados.pdf]]
 ![[ejer-union-ideales-encajados.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema2
----
-
 [[lem-convergencia-lp-imp-medida.pdf]]
 ![[lem-convergencia-lp-imp-medida.pdf]]
 

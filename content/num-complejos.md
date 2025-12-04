@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema1
----
-
 [[num-complejos.pdf]]
 ![[num-complejos.pdf]]
 

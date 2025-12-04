@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[prop-apl-diferenciable-diferencial-inyectivo.pdf]]
 ![[prop-apl-diferenciable-diferencial-inyectivo.pdf]]
 

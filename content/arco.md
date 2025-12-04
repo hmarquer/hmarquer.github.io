@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[arco.pdf]]
 ![[arco.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema1
----
-
 [[relacion-equivalencia-abierta.pdf]]
 ![[relacion-equivalencia-abierta.pdf]]
 

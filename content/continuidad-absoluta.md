@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/hoja0
----
-
 [[continuidad-absoluta.pdf]]
 ![[continuidad-absoluta.pdf]]
 

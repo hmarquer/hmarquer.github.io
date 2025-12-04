@@ -1,8 +1,3 @@
----
-tags:
-  - variable-compleja-i/tema4
----
-
 [[teo-apl-abierta-compleja.pdf]]
 ![[teo-apl-abierta-compleja.pdf]]
 

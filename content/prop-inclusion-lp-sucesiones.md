@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[prop-inclusion-lp-sucesiones.pdf]]
 ![[prop-inclusion-lp-sucesiones.pdf]]
 

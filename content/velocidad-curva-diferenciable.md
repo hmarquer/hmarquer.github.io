@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema3
----
-
 [[velocidad-curva-diferenciable.pdf]]
 ![[velocidad-curva-diferenciable.pdf]]
 

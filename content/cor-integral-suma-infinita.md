@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema1
----
-
 [[cor-integral-suma-infinita.pdf]]
 ![[cor-integral-suma-infinita.pdf]]
 

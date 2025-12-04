@@ -1,8 +1,3 @@
----
-tags:
-  - modelizacion/tema2
----
-
 [[cadena-markov-comunicacion.pdf]]
 ![[cadena-markov-comunicacion.pdf]]
 

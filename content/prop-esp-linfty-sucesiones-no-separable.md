@@ -1,8 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
----
-
 [[prop-esp-linfty-sucesiones-no-separable.pdf]]
 ![[prop-esp-linfty-sucesiones-no-separable.pdf]]
 

@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema4
----
-
 [[inmersion.pdf]]
 ![[inmersion.pdf]]
 

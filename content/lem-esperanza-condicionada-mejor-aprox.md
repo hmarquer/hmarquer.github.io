@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema4
----
-
 [[lem-esperanza-condicionada-mejor-aprox.pdf]]
 ![[lem-esperanza-condicionada-mejor-aprox.pdf]]
 

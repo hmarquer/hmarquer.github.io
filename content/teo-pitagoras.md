@@ -1,8 +1,3 @@
----
-tags:
-  - variable-real/tema3
----
-
 [[teo-pitagoras.pdf]]
 ![[teo-pitagoras.pdf]]
 

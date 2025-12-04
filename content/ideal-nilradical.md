@@ -1,8 +1,3 @@
----
-tags:
-  - algebra-conmutativa/tema1
----
-
 [[ideal-nilradical.pdf]]
 ![[ideal-nilradical.pdf]]
 

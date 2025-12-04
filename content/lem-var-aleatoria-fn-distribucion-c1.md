@@ -1,8 +1,3 @@
----
-tags:
-  - probabilidad-ii/tema1
----
-
 [[lem-var-aleatoria-fn-distribucion-c1.pdf]]
 ![[lem-var-aleatoria-fn-distribucion-c1.pdf]]
 

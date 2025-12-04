@@ -1,8 +1,3 @@
----
-tags:
-  - geometria-diferencial/tema6
----
-
 [[lazo.pdf]]
 ![[lazo.pdf]]
 

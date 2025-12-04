@@ -1,9 +1,3 @@
----
-tags:
-  - analisis-funcional/tema2
-  - variable-real/tema3
----
-
 [[prop-carac-proyeccion-ortogonal-convexo-cerrado.pdf]]
 ![[prop-carac-proyeccion-ortogonal-convexo-cerrado.pdf]]
 
