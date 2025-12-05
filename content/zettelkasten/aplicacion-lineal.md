@@ -1,0 +1,13 @@
+---
+title: "Aplicación lineal"
+tags:
+  - analisis-funcional/tema2
+---
+
+[[aplicacion-lineal.pdf]]
+![[aplicacion-lineal.pdf]]
+
+## Referencias
+- [cuerpo](./cuerpo.md)
+- [esp-vectorial](./esp-vectorial.md)
+

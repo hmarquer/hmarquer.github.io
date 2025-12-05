@@ -1,0 +1,11 @@
+---
+title: "Independencia dos a dos de sucesos"
+---
+
+[[independencia-2a2-sucesos.pdf]]
+![[independencia-2a2-sucesos.pdf]]
+
+## Referencias
+- [esp-probabilidad](./esp-probabilidad.md)
+- [independencia-sucesos](./independencia-sucesos.md)
+

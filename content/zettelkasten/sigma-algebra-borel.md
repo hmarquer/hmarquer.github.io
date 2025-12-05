@@ -1,0 +1,13 @@
+---
+title: "$\sigma$-álgebra de Borel"
+tags:
+  - probabilidad-ii/hoja0
+---
+
+[[sigma-algebra-borel.pdf]]
+![[sigma-algebra-borel.pdf]]
+
+## Referencias
+- [sigma-algebra-generada](./sigma-algebra-generada.md)
+- [esp-topologico](./esp-topologico.md)
+

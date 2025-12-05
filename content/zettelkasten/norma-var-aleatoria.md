@@ -1,0 +1,13 @@
+---
+title: "Norma de una variable aleatoria"
+tags:
+  - probabilidad-ii/tema2
+---
+
+[[norma-var-aleatoria.pdf]]
+![[norma-var-aleatoria.pdf]]
+
+## Referencias
+- [var-aleatoria](./var-aleatoria.md)
+- [momento-p](./momento-p.md)
+

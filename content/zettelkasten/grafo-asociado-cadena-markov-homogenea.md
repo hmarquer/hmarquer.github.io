@@ -1,0 +1,13 @@
+---
+title: "Grafo asociado a una cadena de Markov homogénea"
+tags:
+  - modelizacion/tema2
+---
+
+[[grafo-asociado-cadena-markov-homogenea.pdf]]
+![[grafo-asociado-cadena-markov-homogenea.pdf]]
+
+## Referencias
+- [cadena-markov-homogenea](./cadena-markov-homogenea.md)
+- [digrafo-ponderado](./digrafo-ponderado.md)
+

@@ -1,0 +1,14 @@
+---
+title: "Conjugada armónica"
+tags:
+  - variable-compleja-i/tema2
+---
+
+[[conjugada-armonica.pdf]]
+![[conjugada-armonica.pdf]]
+
+## Referencias
+- [fn-holomorfa](./fn-holomorfa.md)
+- [fn-armonica](./fn-armonica.md)
+- [fn-clase-ck](./fn-clase-ck.md)
+
