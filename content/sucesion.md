@@ -1,3 +1,0 @@
-[[sucesion.pdf]]
-![[sucesion.pdf]]
-

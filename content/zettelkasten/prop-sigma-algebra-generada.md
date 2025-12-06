@@ -1,5 +1,5 @@
 ---
-title: "Expresión de la $\sigma$-álgebra generada"
+title: "Expresión de la $\\sigma$-álgebra generada"
 ---
 
 [[prop-sigma-algebra-generada.pdf]]

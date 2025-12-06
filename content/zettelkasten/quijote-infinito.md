@@ -1,5 +1,5 @@
 ---
-title: "\textit{Quijote"
+title: "\\textit{Quijote} infinito"
 tags:
   - probabilidad-ii/3.2-probabilidad-ii
 ---

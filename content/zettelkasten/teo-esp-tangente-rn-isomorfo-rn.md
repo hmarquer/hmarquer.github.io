@@ -1,5 +1,5 @@
 ---
-title: "$T_p \R^n$ es isomorfo a $\R^n$"
+title: "$T_p \\R^n$ es isomorfo a $\\R^n$"
 tags:
   - geometria-diferencial/tema3
 ---

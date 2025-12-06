@@ -1,5 +1,5 @@
 ---
-title: "Apl conforme"
+title: "Aplicación conforme"
 tags:
   - productos-finitos-de-blaschke/apl-conformes
 ---
@@ -9,4 +9,5 @@ tags:
 
 ## Referencias
 - [matriz-ortogonal](./matriz-ortogonal.md)
+- [fn-diferenciable](./fn-diferenciable.md)
 

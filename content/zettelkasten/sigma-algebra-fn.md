@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra generada por una función"
+title: "$\\sigma$-álgebra generada por una función"
 tags:
   - probabilidad-ii/tema1
 ---

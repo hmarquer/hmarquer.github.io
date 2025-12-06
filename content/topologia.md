@@ -1,3 +1,0 @@
-[[topologia.pdf]]
-![[topologia.pdf]]
-

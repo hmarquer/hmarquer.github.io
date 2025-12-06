@@ -1,5 +1,5 @@
 ---
-title: "La independencia de $\pi$-sistemas implica la independencia de las $\sigma$-álgebras generadas"
+title: "La independencia de $\\pi$-sistemas implica la independencia de las $\\sigma$-álgebras generadas"
 tags:
   - probabilidad-ii/tema1
 ---

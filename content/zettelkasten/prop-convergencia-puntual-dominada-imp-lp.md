@@ -1,5 +1,5 @@
 ---
-title: "Convergencia puntual dominada implica convergencia en $\mathcal{L"
+title: "Convergencia puntual dominada implica convergencia en $\\mathcal{L}^p$"
 tags:
   - variable-real/tema2
 ---

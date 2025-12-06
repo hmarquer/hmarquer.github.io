@@ -1,5 +1,5 @@
 ---
-title: "Convergencia en $\mathcal{L"
+title: "Convergencia en $\\mathcal{L}^p$"
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema2

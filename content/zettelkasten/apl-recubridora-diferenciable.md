@@ -1,5 +1,5 @@
 ---
-title: "Apl recubridora diferenciable"
+title: "Aplicación recubridora diferenciable"
 tags:
   - geometria-diferencial/tema6
 ---

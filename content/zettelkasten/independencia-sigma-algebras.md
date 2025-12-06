@@ -1,5 +1,5 @@
 ---
-title: "Independencia de $\sigma$-álgebras"
+title: "Independencia de $\\sigma$-álgebras"
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,9 +1,0 @@
-[[lem-laplaciano-wirtinger.pdf]]
-![[lem-laplaciano-wirtinger.pdf]]
-
-## Referencias
-- [fn-clase-ck](./fn-clase-ck.md)
-- [laplaciano](./laplaciano.md)
-- [operadores-wirtinger](./operadores-wirtinger.md)
-- [operadores-wirtinger](./operadores-wirtinger.md)
-- [operadores-wirtinger](./operadores-wirtinger.md)

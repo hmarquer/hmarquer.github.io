@@ -1,5 +1,5 @@
 ---
-title: "Teorema $\pi$-$\lambda$"
+title: "Teorema $\\pi$-$\\lambda$"
 tags:
   - probabilidad-ii/tema1
 ---

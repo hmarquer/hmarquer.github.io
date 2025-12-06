@@ -1,5 +1,5 @@
 ---
-title: "Función de clase $\mathcal{C"
+title: "Función de clase $\\mathcal{C}^k$"
 ---
 
 [[fn-clase-ck.pdf]]

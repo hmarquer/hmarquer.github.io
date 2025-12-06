@@ -1,5 +1,5 @@
 ---
-title: "Independencia de $\pi$-sistemas"
+title: "Independencia de $\\pi$-sistemas"
 tags:
   - probabilidad-ii/tema1
 ---

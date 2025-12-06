@@ -1,5 +1,5 @@
 ---
-title: "$\Pi$-sistema"
+title: "$\\Pi$-sistema"
 tags:
   - probabilidad-ii/tema1
 ---

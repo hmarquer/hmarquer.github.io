@@ -1,3 +1,0 @@
-[[metrica.pdf]]
-![[metrica.pdf]]
-

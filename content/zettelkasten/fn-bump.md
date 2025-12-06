@@ -1,5 +1,5 @@
 ---
-title: "Función \textit{bump"
+title: "Función \\textit{bump}"
 tags:
   - geometria-diferencial/tema2
 ---

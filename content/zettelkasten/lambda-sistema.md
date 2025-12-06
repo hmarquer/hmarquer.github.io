@@ -1,5 +1,5 @@
 ---
-title: "$\lambda$-sistema"
+title: "$\\lambda$-sistema"
 tags:
   - probabilidad-ii/tema1
 ---

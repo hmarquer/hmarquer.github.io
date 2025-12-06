@@ -1,3 +1,0 @@
-[[grupo.pdf]]
-![[grupo.pdf]]
-

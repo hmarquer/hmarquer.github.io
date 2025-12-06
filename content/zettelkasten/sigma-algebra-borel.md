@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra de Borel"
+title: "$\\sigma$-álgebra de Borel"
 tags:
   - probabilidad-ii/hoja0
 ---

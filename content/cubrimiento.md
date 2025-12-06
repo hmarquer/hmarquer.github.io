@@ -1,3 +1,0 @@
-[[cubrimiento.pdf]]
-![[cubrimiento.pdf]]
-
