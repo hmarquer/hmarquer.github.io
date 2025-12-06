@@ -8,5 +8,5 @@ title: "Isomorfismo entre espacios vectoriales"
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [cuerpo](./cuerpo.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 

@@ -7,3 +7,10 @@ tags:
 [[teo-l2-unico-esp-hilbert.pdf]]
 ![[teo-l2-unico-esp-hilbert.pdf]]
 
+## Referencias
+- [sigma-algebra-lebesgue](./sigma-algebra-lebesgue.md)
+- [medida-lebesgue](./medida-lebesgue.md)
+- [esp-lp](./esp-lp.md)
+- [esp-hilbert](./esp-hilbert.md)
+- [identidad-paralelogramo](./identidad-paralelogramo.md)
+

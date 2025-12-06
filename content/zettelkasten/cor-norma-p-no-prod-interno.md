@@ -11,7 +11,6 @@ tags:
 - [norma-p](./norma-p.md)
 - [norma-inducida](./norma-inducida.md)
 - [prod-interno](./prod-interno.md)
-- [teo-prod-interno-iff-identidad-paralelogramo](./teo-prod-interno-iff-identidad-paralelogramo.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
 
 ## Etiquetas

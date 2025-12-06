@@ -14,5 +14,4 @@ tags:
 - [norma](./norma.md)
 - [bola-cerrada](./bola-cerrada.md)
 - [compacidad](./compacidad.md)
-- [lem-riesz](./lem-riesz.md)
 

@@ -19,6 +19,5 @@ tags:
 - [esp-banach](./esp-banach.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
-- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [esp-banach](./esp-banach.md)
 

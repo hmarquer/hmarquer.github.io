@@ -10,5 +10,4 @@ tags:
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
 - [arco](./arco.md)
-- [continuidad](./continuidad.md)
 

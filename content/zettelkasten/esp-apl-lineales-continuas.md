@@ -11,6 +11,5 @@ tags:
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
-- [continuidad](./continuidad.md)
+- [apl-lineal](./apl-lineal.md)
 

@@ -20,7 +20,6 @@ tags:
 - [continuidad-uniforme](./continuidad-uniforme.md)
 - [desigualdad-holder](./desigualdad-holder.md)
 - [convolucion](./convolucion.md)
-- [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 
 ## Etiquetas
 #COMPLETAR con el caso $p = \infty$ EJERCICIO

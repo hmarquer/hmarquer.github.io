@@ -12,5 +12,4 @@ tags:
 - [circunferencia-generalizada](./circunferencia-generalizada.md)
 - [circunferencia-generalizada](./circunferencia-generalizada.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
-- [prop-transformacion-mobius-composicion](./prop-transformacion-mobius-composicion.md)
 

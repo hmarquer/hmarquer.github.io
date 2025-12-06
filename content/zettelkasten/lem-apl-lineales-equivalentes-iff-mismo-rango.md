@@ -8,7 +8,7 @@ tags:
 ![[lem-apl-lineales-equivalentes-iff-mismo-rango.pdf]]
 
 ## Referencias
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 - [apl-lineales-equivalentes](./apl-lineales-equivalentes.md)
 - [rango](./rango.md)
 - [rango](./rango.md)

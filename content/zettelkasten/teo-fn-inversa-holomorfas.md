@@ -11,6 +11,5 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-- [teo-fn-inversa](./teo-fn-inversa.md)
 - [fn-diferenciable](./fn-diferenciable.md)
 

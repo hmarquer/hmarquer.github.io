@@ -13,6 +13,4 @@ tags:
 - [fn-medible](./fn-medible.md)
 - [convergencia-uniforme](./convergencia-uniforme.md)
 - [convergencia-lp](./convergencia-lp.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 

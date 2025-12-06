@@ -10,7 +10,6 @@ tags:
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)
 - [apl-abierta](./apl-abierta.md)
-- [teo-ceros-aislados](./teo-ceros-aislados.md)
 
 ## Etiquetas
 #ORDENAR : referenciar

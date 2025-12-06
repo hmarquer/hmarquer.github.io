@@ -1,5 +1,5 @@
 ---
-title: "Espacio $\mathcal{L"
+title: "Espacio \texorpdfstring{$\mathcal{L"
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1

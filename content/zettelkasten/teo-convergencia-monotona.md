@@ -10,7 +10,6 @@ tags:
 ![[teo-convergencia-monotona.pdf]]
 
 ## Referencias
-- [medida](./medida.md)
 - [esp-medida](./esp-medida.md)
 
 ## Etiquetas

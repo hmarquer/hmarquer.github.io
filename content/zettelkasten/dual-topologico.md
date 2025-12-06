@@ -12,6 +12,5 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 - [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
-- [continuidad](./continuidad.md)
+- [apl-lineal](./apl-lineal.md)
 

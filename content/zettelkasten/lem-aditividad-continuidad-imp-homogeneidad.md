@@ -10,7 +10,5 @@ tags:
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [aditividad](./aditividad.md)
-- [continuidad](./continuidad.md)
 - [homogeneidad](./homogeneidad.md)
-- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
 

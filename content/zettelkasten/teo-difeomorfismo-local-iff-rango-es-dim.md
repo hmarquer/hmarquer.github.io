@@ -13,7 +13,6 @@ tags:
 - [rango-apl-diferenciable](./rango-apl-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-- [teo-fn-inversa](./teo-fn-inversa.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 

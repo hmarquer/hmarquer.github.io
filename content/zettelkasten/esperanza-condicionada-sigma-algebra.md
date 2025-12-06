@@ -13,12 +13,10 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [esp-lp](./esp-lp.md)
 - [smedida](./smedida.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [fn-medible](./fn-medible.md)
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
 - [continuidad-absoluta](./continuidad-absoluta.md)
-- [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ## Etiquetas
 #EJERCICIO ver que $\nu$ es una medida con signo

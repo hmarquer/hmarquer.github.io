@@ -8,7 +8,7 @@ tags:
 ![[derivacion.pdf]]
 
 ## Referencias
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [fn-diferenciable-variedad](./fn-diferenciable-variedad.md)
 

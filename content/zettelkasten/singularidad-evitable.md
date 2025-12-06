@@ -9,5 +9,4 @@ tags:
 
 ## Referencias
 - [singularidad-aislada](./singularidad-aislada.md)
-- [limite-fn](./limite-fn.md)
 

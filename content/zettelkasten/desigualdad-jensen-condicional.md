@@ -11,7 +11,6 @@ tags:
 - [fn-integrable](./fn-integrable.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [prop-fn-convexa](./prop-fn-convexa.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 

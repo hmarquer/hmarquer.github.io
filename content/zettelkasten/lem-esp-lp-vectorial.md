@@ -13,6 +13,5 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
-- [norma](./norma.md)
 - [linealidad-integral](./linealidad-integral.md)
 

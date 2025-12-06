@@ -9,7 +9,6 @@ tags:
 
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)
-- [continuidad](./continuidad.md)
 - [fn-entera](./fn-entera.md)
 
 ## Etiquetas

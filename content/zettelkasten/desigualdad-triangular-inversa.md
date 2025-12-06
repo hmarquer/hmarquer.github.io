@@ -9,6 +9,4 @@ tags:
 
 ## Referencias
 - [metrica](./metrica.md)
-- [metrica](./metrica.md)
-- [metrica](./metrica.md)
 

@@ -9,9 +9,7 @@ tags:
 
 ## Referencias
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
-- [lem-derivacion](./lem-derivacion.md)
-- [lem-derivacion](./lem-derivacion.md)
+- [apl-lineal](./apl-lineal.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 
 ## Etiquetas

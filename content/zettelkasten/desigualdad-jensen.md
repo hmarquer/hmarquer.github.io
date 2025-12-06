@@ -19,5 +19,4 @@ tags:
 - [esp-medida](./esp-medida.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medida-finito](./esp-medida-finito.md)
-- [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
 

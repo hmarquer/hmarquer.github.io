@@ -22,6 +22,4 @@ tags:
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 - [sigma-algebra-tiempo-parada](./sigma-algebra-tiempo-parada.md)
 - [fn-medible](./fn-medible.md)
-- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
-- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 

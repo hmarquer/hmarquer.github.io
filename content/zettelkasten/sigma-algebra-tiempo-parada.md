@@ -15,6 +15,5 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
 - [sigma-algebra](./sigma-algebra.md)
 

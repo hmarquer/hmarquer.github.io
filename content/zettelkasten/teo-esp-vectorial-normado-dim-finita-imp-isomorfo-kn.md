@@ -12,8 +12,7 @@ tags:
 - [norma](./norma.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [isometria](./isometria.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
-- [lem-normas-kn-equivalentes](./lem-normas-kn-equivalentes.md)
+- [apl-lineal](./apl-lineal.md)
 
 ## Etiquetas
 #ORDENAR . referenciar nota para dimensión de un espacio vectorial

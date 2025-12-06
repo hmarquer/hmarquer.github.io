@@ -9,6 +9,5 @@ tags:
 
 ## Referencias
 - [camino](./camino.md)
-- [continuidad](./continuidad.md)
 - [integral](./integral.md)
 

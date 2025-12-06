@@ -11,8 +11,5 @@ tags:
 - [variedades-difeomorfas](./variedades-difeomorfas.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
-- [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
-- [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-- [cor-dim-esp-tangente-variedad](./cor-dim-esp-tangente-variedad.md)
 

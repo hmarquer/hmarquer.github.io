@@ -8,6 +8,6 @@ tags:
 ![[apl-lineales-equivalentes.pdf]]
 
 ## Referencias
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 

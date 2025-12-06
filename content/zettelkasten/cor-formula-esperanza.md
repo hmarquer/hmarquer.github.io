@@ -12,5 +12,4 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 - [esperanza](./esperanza.md)
 - [medida-inducida](./medida-inducida.md)
-- [prop-esperanza-fn](./prop-esperanza-fn.md)
 

@@ -10,10 +10,8 @@ tags:
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 - [continuidad-uniforme](./continuidad-uniforme.md)
-- [continuidad](./continuidad.md)
-- [continuidad](./continuidad.md)
 - [continuidad](./continuidad.md)
 
 ## Etiquetas

@@ -10,8 +10,4 @@ tags:
 ## Referencias
 - [convergencia-casi-segura](./convergencia-casi-segura.md)
 - [convergencia-casi-segura](./convergencia-casi-segura.md)
-- [liminf-con](./liminf-con.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-- [lem-fatou-probabilidades](./lem-fatou-probabilidades.md)
 

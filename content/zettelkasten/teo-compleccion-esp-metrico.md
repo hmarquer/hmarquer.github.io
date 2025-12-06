@@ -16,7 +16,6 @@ tags:
 - [esp-isometricos](./esp-isometricos.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
-- [metrica](./metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [metrica](./metrica.md)
 

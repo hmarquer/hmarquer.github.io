@@ -12,6 +12,4 @@ tags:
 - [radical-ideal](./radical-ideal.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
-- [ideal](./ideal.md)
-- [ideal](./ideal.md)
 

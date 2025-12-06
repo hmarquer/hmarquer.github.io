@@ -11,7 +11,6 @@ tags:
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
 - [con-convexo](./con-convexo.md)
-- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 - [identidad-polarizacion](./identidad-polarizacion.md)
 
 ## Etiquetas

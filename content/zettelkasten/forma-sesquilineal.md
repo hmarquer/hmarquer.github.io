@@ -7,5 +7,5 @@ title: "Forma sesquilineal"
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 

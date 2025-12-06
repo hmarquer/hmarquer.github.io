@@ -16,8 +16,6 @@ tags:
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
-- [norma](./norma.md)
 - [linealidad-integral](./linealidad-integral.md)
-- [norma](./norma.md)
 - [desigualdad-holder](./desigualdad-holder.md)
 

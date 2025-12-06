@@ -11,7 +11,6 @@ tags:
 - [apl-diferenciable](./apl-diferenciable.md)
 - [submersion](./submersion.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
-- [teo-cartas-adaptadas-submersion](./teo-cartas-adaptadas-submersion.md)
 - [seccion-apl-diferenciable](./seccion-apl-diferenciable.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
 - [submersion](./submersion.md)

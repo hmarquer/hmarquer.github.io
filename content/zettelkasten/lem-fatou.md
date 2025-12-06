@@ -10,6 +10,5 @@ tags:
 
 ## Referencias
 - [fn-medible](./fn-medible.md)
-- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [esp-medida](./esp-medida.md)
 

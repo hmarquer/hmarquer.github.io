@@ -16,7 +16,6 @@ tags:
 - [apl-propia](./apl-propia.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [homeomorfismo](./homeomorfismo.md)
-- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #EJERCICIO demostrarlo

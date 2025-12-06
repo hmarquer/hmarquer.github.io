@@ -13,6 +13,4 @@ tags:
 - [operadores-wirtinger](./operadores-wirtinger.md)
 - [fn-antiholomorfa](./fn-antiholomorfa.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
-- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
-- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 

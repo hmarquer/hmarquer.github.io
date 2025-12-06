@@ -6,5 +6,5 @@ title: "Función diferenciable"
 ![[fn-diferenciable.pdf]]
 
 ## Referencias
-- [aplicacion-lineal](./aplicacion-lineal.md)
+- [apl-lineal](./apl-lineal.md)
 
