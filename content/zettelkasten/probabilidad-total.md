@@ -11,4 +11,5 @@ tags:
 - [esp-probabilidad](./esp-probabilidad.md)
 - [probabilidad-condicionada](./probabilidad-condicionada.md)
 - [probabilidad-condicionada](./probabilidad-condicionada.md)
+- [medida](./medida.md)
 

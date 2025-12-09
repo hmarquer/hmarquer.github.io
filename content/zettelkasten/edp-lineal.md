@@ -10,4 +10,6 @@ tags:
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
 - [orden-edp](./orden-edp.md)
+- [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
+- [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
 

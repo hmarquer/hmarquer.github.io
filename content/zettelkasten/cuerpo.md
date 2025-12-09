@@ -11,4 +11,5 @@ tags:
 ## Referencias
 - [anillo](./anillo.md)
 - [cuerpo](./cuerpo.md)
+- [anillo](./anillo.md)
 

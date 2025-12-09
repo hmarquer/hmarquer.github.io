@@ -14,4 +14,6 @@ tags:
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
+- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 

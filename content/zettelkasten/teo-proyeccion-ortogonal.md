@@ -14,4 +14,6 @@ tags:
 - [complemento-ortogonal](./complemento-ortogonal.md)
 - [apl-lineal](./apl-lineal.md)
 - [norma](./norma.md)
+- [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
+- [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 

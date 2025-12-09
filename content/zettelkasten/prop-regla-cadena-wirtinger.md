@@ -11,6 +11,7 @@ tags:
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
+- [lem-derivadas-parciales-wirtinger](./lem-derivadas-parciales-wirtinger.md)
 
 ## Etiquetas
 #ORDENAR referenciar

@@ -12,6 +12,7 @@ tags:
 - [camino](./camino.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
+- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

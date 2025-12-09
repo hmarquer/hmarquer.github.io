@@ -11,6 +11,8 @@ tags:
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [transformacion-mobius](./transformacion-mobius.md)
+- [lem-schwarz](./lem-schwarz.md)
+- [lem-schwarz](./lem-schwarz.md)
 
 ## Etiquetas
 #ORDENAR referenciando el lema

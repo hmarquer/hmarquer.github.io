@@ -13,4 +13,5 @@ tags:
 - [soporte-cerrado](./soporte-cerrado.md)
 - [compacidad](./compacidad.md)
 - [soporte-cerrado](./soporte-cerrado.md)
+- [continuidad](./continuidad.md)
 

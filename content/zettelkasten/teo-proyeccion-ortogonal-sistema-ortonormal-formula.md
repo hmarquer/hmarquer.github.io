@@ -13,4 +13,7 @@ tags:
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 - [prod-interno](./prod-interno.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
+- [prop-subesp-vectorial-generado-cerrado](./prop-subesp-vectorial-generado-cerrado.md)
+- [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 

@@ -1,5 +1,5 @@
 ---
-title: "Cor baire"
+title: "Corolario del Teorema de Baire"
 tags:
   - analisis-funcional/tema4
 ---
@@ -12,6 +12,9 @@ tags:
 - [prop-con-denso-iff-interior-comp-vacio](./prop-con-denso-iff-interior-comp-vacio.md)
 - [teo-baire](./teo-baire.md)
 - [prop-con-denso-iff-interior-comp-vacio](./prop-con-denso-iff-interior-comp-vacio.md)
+- [esp-metrico](./esp-metrico.md)
+- [completitud-metrica](./completitud-metrica.md)
+- [con-primera-categoria](./con-primera-categoria.md)
 
 ## Etiquetas
 #ORDENAR : referenciar interior

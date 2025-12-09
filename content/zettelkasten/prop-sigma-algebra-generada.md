@@ -9,4 +9,5 @@ title: "Expresión de la $\\sigma$-álgebra generada"
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
+- [prop-interseccion-sigma-algebra](./prop-interseccion-sigma-algebra.md)
 

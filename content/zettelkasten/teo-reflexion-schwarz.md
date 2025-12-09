@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)
 - [fn-entera](./fn-entera.md)
+- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

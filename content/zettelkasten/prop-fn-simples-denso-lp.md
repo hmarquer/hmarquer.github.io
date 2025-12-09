@@ -13,4 +13,6 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [con-denso](./con-denso.md)
 - [esp-lp](./esp-lp.md)
+- [lem-aprox-fn-simple](./lem-aprox-fn-simple.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 

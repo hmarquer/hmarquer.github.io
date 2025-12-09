@@ -10,4 +10,6 @@ tags:
 ## Referencias
 - [ideal](./ideal.md)
 - [anillo](./anillo.md)
+- [ideal](./ideal.md)
+- [ideal](./ideal.md)
 

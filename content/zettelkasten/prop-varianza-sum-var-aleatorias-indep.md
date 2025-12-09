@@ -13,4 +13,9 @@ tags:
 - [varianza](./varianza.md)
 - [varianza](./varianza.md)
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
+- [prop-esperanza-prod-var-aleatorias-indep](./prop-esperanza-prod-var-aleatorias-indep.md)
+- [prop-formula-varianza](./prop-formula-varianza.md)
+- [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
+- [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
+- [prop-formula-varianza](./prop-formula-varianza.md)
 

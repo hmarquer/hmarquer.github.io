@@ -13,4 +13,5 @@ tags:
 - [apl-diferenciable](./apl-diferenciable.md)
 - [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
+- [teo-fn-inversa](./teo-fn-inversa.md)
 

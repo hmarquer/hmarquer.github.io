@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
 - [integral](./integral.md)
+- [continuidad](./continuidad.md)
 

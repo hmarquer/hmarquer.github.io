@@ -11,4 +11,5 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [compacidad](./compacidad.md)
 - [compacidad](./compacidad.md)
+- [continuidad](./continuidad.md)
 

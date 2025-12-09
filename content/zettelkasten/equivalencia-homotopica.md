@@ -10,4 +10,6 @@ tags:
 ## Referencias
 - [apl-homotopas](./apl-homotopas.md)
 - [apl-homotopas](./apl-homotopas.md)
+- [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
 

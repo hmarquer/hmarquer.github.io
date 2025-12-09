@@ -13,4 +13,6 @@ tags:
 - [ortogonalidad](./ortogonalidad.md)
 - [ortogonalidad](./ortogonalidad.md)
 - [esp-hilbert](./esp-hilbert.md)
+- [prop-carac-proyeccion-ortogonal-convexo-cerrado](./prop-carac-proyeccion-ortogonal-convexo-cerrado.md)
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 

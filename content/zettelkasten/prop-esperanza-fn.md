@@ -20,6 +20,9 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [medida-inducida](./medida-inducida.md)
 - [medida-inducida](./medida-inducida.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 
 ## Etiquetas
 #ORDENAR referenciar el lema técnico (y hacer la nota primero)

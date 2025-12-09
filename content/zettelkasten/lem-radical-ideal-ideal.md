@@ -1,5 +1,5 @@
 ---
-title: "Lem radical ideal ideal"
+title: "El radical de un ideal es un ideal"
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -10,6 +10,8 @@ tags:
 ## Referencias
 - [ideal](./ideal.md)
 - [radical-ideal](./radical-ideal.md)
+- [ideal](./ideal.md)
+- [ideal](./ideal.md)
 - [ideal](./ideal.md)
 - [ideal](./ideal.md)
 

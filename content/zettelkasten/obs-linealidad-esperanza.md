@@ -9,4 +9,6 @@ tags:
 
 ## Referencias
 - [esperanza](./esperanza.md)
+- [prop-esperanza-fn](./prop-esperanza-fn.md)
+- [linealidad-integral](./linealidad-integral.md)
 

@@ -13,6 +13,7 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [fn-convexa](./fn-convexa.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

@@ -12,4 +12,5 @@ tags:
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 - [transformacion-mobius](./transformacion-mobius.md)
+- [cor-transformacion-mobius-3-pnt-fijos](./cor-transformacion-mobius-3-pnt-fijos.md)
 

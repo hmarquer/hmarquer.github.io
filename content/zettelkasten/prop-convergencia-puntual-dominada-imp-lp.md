@@ -13,4 +13,6 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [convergencia-puntual](./convergencia-puntual.md)
 - [convergencia-lp](./convergencia-lp.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 

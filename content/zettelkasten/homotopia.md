@@ -1,5 +1,5 @@
 ---
-title: "Homotopia"
+title: "Homotopía"
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,4 +9,6 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
+- [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
 

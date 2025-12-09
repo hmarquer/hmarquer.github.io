@@ -17,4 +17,8 @@ tags:
 - [varianza](./varianza.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
+- [cor-orden-normas-lp](./cor-orden-normas-lp.md)
+- [prop-varianza-sum-var-aleatorias-indep](./prop-varianza-sum-var-aleatorias-indep.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 

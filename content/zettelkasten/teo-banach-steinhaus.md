@@ -1,5 +1,7 @@
 ---
-title: "Teo banach steinhaus"
+title: "Teorema de Banach-Steinhaus"
+tags:
+  - analisis-funcional/tema4
 ---
 
 [[teo-banach-steinhaus.pdf]]
@@ -13,4 +15,5 @@ title: "Teo banach steinhaus"
 - [acotacion-uniforme-operadores-lineales](./acotacion-uniforme-operadores-lineales.md)
 - [con-segunda-categoria](./con-segunda-categoria.md)
 - [cor-baire](./cor-baire.md)
+- [ejer-esp-banach-union-cerrados-imp-interior-no-vacio](./ejer-esp-banach-union-cerrados-imp-interior-no-vacio.md)
 

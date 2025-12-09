@@ -16,4 +16,5 @@ tags:
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [herencia-segundo-numerable](./herencia-segundo-numerable.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
+- [prop-estructura-diferenciable-inducida-homeomorfismo](./prop-estructura-diferenciable-inducida-homeomorfismo.md)
 

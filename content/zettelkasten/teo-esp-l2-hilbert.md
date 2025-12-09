@@ -20,4 +20,6 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
 - [esp-banach](./esp-banach.md)
+- [norma-inducida](./norma-inducida.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 

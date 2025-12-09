@@ -15,4 +15,5 @@ tags:
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
+- [teo-fn-inversa](./teo-fn-inversa.md)
 

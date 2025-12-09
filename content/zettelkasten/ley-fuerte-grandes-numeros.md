@@ -15,6 +15,11 @@ tags:
 - [esperanza](./esperanza.md)
 - [limsup-con](./limsup-con.md)
 - [desigualdad-chebyshev](./desigualdad-chebyshev.md)
+- [prop-varianza-sum-var-aleatorias-indep](./prop-varianza-sum-var-aleatorias-indep.md)
+- [lem-borel-cantelli-i](./lem-borel-cantelli-i.md)
+- [teo-fubini](./teo-fubini.md)
+- [teo-fubini](./teo-fubini.md)
+- [lem-borel-cantelli-ii](./lem-borel-cantelli-ii.md)
 
 ## Etiquetas
 #EJERCICIO se hace estimando la serie por la integral

@@ -13,4 +13,5 @@ tags:
 - [base-hamel](./base-hamel.md)
 - [indep-lineal](./indep-lineal.md)
 - [indep-lineal](./indep-lineal.md)
+- [lem-zorn](./lem-zorn.md)
 

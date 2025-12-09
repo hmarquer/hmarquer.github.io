@@ -11,4 +11,5 @@ tags:
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico](./esp-topologico.md)
+- [prop-topologia-inducida-fn-sobre](./prop-topologia-inducida-fn-sobre.md)
 

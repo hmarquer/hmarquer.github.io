@@ -1,5 +1,5 @@
 ---
-title: "Edp casi lineal o1 curvas características"
+title: "Curvas características de una EDP casi lineal de primer orden"
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---
@@ -10,5 +10,6 @@ tags:
 ## Referencias
 - [edp-casi-lineal](./edp-casi-lineal.md)
 - [orden-edp](./orden-edp.md)
+- [edp-casi-lineal-o1-sistema-caracteristico](./edp-casi-lineal-o1-sistema-caracteristico.md)
 - [edp-casi-lineal-o1-sistema-caracteristico](./edp-casi-lineal-o1-sistema-caracteristico.md)
 

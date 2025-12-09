@@ -11,4 +11,6 @@ title: "Cor indep var aleatorias fn medibles"
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [vec-aleatorio](./vec-aleatorio.md)
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
+- [ejer-var-aleatorias-prod-suma](./ejer-var-aleatorias-prod-suma.md)
+- [ejer-var-aleatorias-prod-suma](./ejer-var-aleatorias-prod-suma.md)
 

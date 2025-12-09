@@ -13,4 +13,5 @@ tags:
 - [norma](./norma.md)
 - [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [apl-lineal](./apl-lineal.md)
+- [continuidad](./continuidad.md)
 

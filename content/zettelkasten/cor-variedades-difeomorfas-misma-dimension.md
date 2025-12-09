@@ -12,4 +12,7 @@ tags:
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
+- [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
+- [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
+- [cor-dim-esp-tangente-variedad](./cor-dim-esp-tangente-variedad.md)
 

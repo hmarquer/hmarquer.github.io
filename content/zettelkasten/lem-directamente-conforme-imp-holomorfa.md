@@ -10,4 +10,6 @@ tags:
 ## Referencias
 - [apl-conforme](./apl-conforme.md)
 - [fn-holomorfa](./fn-holomorfa.md)
+- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
+- [fn-diferenciable](./fn-diferenciable.md)
 

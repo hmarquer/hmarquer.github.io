@@ -18,4 +18,7 @@ tags:
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [metrica](./metrica.md)
+- [metrica](./metrica.md)
+- [metrica](./metrica.md)
+- [metrica](./metrica.md)
 

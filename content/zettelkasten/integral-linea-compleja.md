@@ -11,4 +11,5 @@ tags:
 - [integral](./integral.md)
 - [integral](./integral.md)
 - [camino](./camino.md)
+- [continuidad](./continuidad.md)
 

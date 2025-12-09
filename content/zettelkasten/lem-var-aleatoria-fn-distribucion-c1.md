@@ -13,6 +13,8 @@ tags:
 - [fn-clase-ck](./fn-clase-ck.md)
 - [var-aleatoria-continua](./var-aleatoria-continua.md)
 - [fn-densidad](./fn-densidad.md)
+- [teo-radon-nikodym](./teo-radon-nikodym.md)
+- [teo-fundamental-calculo](./teo-fundamental-calculo.md)
 
 ## Etiquetas
 #ORDENAR referenciar este resultado

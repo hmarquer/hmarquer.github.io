@@ -17,4 +17,6 @@ tags:
 - [difeomorfismo](./difeomorfismo.md)
 - [embebimiento](./embebimiento.md)
 - [difeomorfismo](./difeomorfismo.md)
+- [lem-subvariedad-diferenciable](./lem-subvariedad-diferenciable.md)
+- [lem-estructuras-diferenciables-iguales](./lem-estructuras-diferenciables-iguales.md)
 

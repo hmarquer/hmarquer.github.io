@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [esp-prehilbert](./esp-prehilbert.md)
 - [clausura](./clausura.md)
+- [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 

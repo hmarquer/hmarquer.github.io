@@ -14,4 +14,5 @@ tags:
 - [topologia-cociente](./topologia-cociente.md)
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
 - [topologia-subespacio](./topologia-subespacio.md)
+- [prop-topologia-inducida-fn-sobre](./prop-topologia-inducida-fn-sobre.md)
 

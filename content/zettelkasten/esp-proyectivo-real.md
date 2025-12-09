@@ -28,4 +28,8 @@ tags:
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
+- [lem-relacion-equivalencia-abierta-segundo-numerable](./lem-relacion-equivalencia-abierta-segundo-numerable.md)
+- [lem-relacion-equivalencia-abierta-hausdorff](./lem-relacion-equivalencia-abierta-hausdorff.md)
+- [prop-fn-continua-cociente-iff-composicion-continua](./prop-fn-continua-cociente-iff-composicion-continua.md)
+- [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
 

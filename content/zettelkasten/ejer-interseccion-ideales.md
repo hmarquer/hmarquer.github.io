@@ -1,5 +1,5 @@
 ---
-title: "L intersección de ideales es un ideal"
+title: "La intersección de ideales es un ideal"
 tags:
   - algebra-conmutativa/tema1
 ---

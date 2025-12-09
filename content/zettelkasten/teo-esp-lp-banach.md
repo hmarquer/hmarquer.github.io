@@ -19,6 +19,11 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [lem-esp-lp-normado](./lem-esp-lp-normado.md)
+- [lem-fatou](./lem-fatou.md)
+- [lem-fatou](./lem-fatou.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 
 ## Etiquetas
 #ORDENAR referenciar ejercicio de variable real

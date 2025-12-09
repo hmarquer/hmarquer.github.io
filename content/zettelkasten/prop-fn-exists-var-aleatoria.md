@@ -12,6 +12,9 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [var-aleatoria](./var-aleatoria.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
 
 ## Etiquetas
 #EJERCICIO hacer usando Lebesgue-Stieltjes

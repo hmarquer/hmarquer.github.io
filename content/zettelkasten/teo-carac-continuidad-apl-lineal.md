@@ -13,6 +13,8 @@ tags:
 - [apl-lineal](./apl-lineal.md)
 - [continuidad-uniforme](./continuidad-uniforme.md)
 - [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

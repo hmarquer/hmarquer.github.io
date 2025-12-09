@@ -17,6 +17,8 @@ tags:
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
 - [continuidad-absoluta](./continuidad-absoluta.md)
+- [teo-radon-nikodym](./teo-radon-nikodym.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 
 ## Etiquetas
 #EJERCICIO ver que $\nu$ es una medida con signo

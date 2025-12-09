@@ -13,4 +13,6 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [teo-esp-l2-hilbert](./teo-esp-l2-hilbert.md)
+- [teo-prod-interno-iff-identidad-paralelogramo](./teo-prod-interno-iff-identidad-paralelogramo.md)
 

@@ -12,4 +12,5 @@ tags:
 - [serie-formal-potencias](./serie-formal-potencias.md)
 - [convergencia-uniforme](./convergencia-uniforme.md)
 - [convergencia-serie](./convergencia-serie.md)
+- [teo-comparacion-weierstrass](./teo-comparacion-weierstrass.md)
 

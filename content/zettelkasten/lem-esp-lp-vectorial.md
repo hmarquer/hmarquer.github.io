@@ -14,4 +14,5 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [linealidad-integral](./linealidad-integral.md)
+- [norma](./norma.md)
 
