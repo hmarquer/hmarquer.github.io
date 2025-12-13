@@ -12,9 +12,8 @@ tags:
 - [topologia](./topologia.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
 - [apl-abierta](./apl-abierta.md)
+- [hausdorff-topologia](./hausdorff-topologia.md)
 
 ## Etiquetas
 #ORDENAR referenciar

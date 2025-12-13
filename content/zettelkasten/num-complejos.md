@@ -9,9 +9,11 @@ tags:
 
 ## Referencias
 - [cuerpo](./cuerpo.md)
-- [esp-vectorial](./esp-vectorial.md)
+- [cuerpo](./cuerpo.md)
 - [anillo](./anillo.md)
 - [grupo](./grupo.md)
 - [extension](./extension.md)
 - [morfismo-anillos](./morfismo-anillos.md)
+- [extension](./extension.md)
+- [esp-vectorial](./esp-vectorial.md)
 

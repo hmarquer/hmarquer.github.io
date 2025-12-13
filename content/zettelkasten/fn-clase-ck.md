@@ -7,4 +7,5 @@ title: "Función de clase $\\mathcal{C}^k$"
 
 ## Referencias
 - [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
 

@@ -10,7 +10,7 @@ tags:
 
 ## Referencias
 - [serie-formal-potencias](./serie-formal-potencias.md)
-- [convergencia-uniforme](./convergencia-uniforme.md)
 - [convergencia-serie](./convergencia-serie.md)
+- [convergencia-uniforme](./convergencia-uniforme.md)
 - [teo-comparacion-weierstrass](./teo-comparacion-weierstrass.md)
 

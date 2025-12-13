@@ -9,6 +9,6 @@ tags:
 
 ## Referencias
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
-- [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [teo-formula-aut-disco-unidad](./teo-formula-aut-disco-unidad.md)
+- [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 

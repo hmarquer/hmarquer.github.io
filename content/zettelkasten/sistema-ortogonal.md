@@ -10,6 +10,6 @@ tags:
 ![[sistema-ortogonal.pdf]]
 
 ## Referencias
-- [ortogonalidad](./ortogonalidad.md)
 - [esp-prehilbert](./esp-prehilbert.md)
+- [ortogonalidad](./ortogonalidad.md)
 

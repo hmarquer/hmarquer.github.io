@@ -12,4 +12,5 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
+- [norma-inducida](./norma-inducida.md)
 

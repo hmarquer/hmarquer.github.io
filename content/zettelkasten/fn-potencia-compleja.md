@@ -8,8 +8,8 @@ tags:
 ![[fn-potencia-compleja.pdf]]
 
 ## Referencias
+- [num-complejos](./num-complejos.md)
+- [num-complejos](./num-complejos.md)
+- [num-complejos](./num-complejos.md)
 - [rama-principal-log-complejo](./rama-principal-log-complejo.md)
-- [num-complejos](./num-complejos.md)
-- [num-complejos](./num-complejos.md)
-- [num-complejos](./num-complejos.md)
 

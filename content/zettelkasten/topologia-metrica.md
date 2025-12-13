@@ -9,9 +9,9 @@ tags:
 
 ## Referencias
 - [esp-metrico](./esp-metrico.md)
+- [bola-abierta](./bola-abierta.md)
 - [base-topologia](./base-topologia.md)
 - [topologia](./topologia.md)
-- [bola-abierta](./bola-abierta.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

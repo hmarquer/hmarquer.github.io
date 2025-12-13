@@ -1,9 +1,9 @@
 ---
 title: "Inclusión de espacios $L^p$ en espacios de medida finita"
 tags:
-  - variable-real/tema1
-  - variable-real/tema1
   - variable-real/parcial
+  - variable-real/tema1
+  - variable-real/tema1
   - variable-real/tema1
 ---
 

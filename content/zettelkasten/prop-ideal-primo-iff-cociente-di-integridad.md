@@ -12,8 +12,8 @@ tags:
 - [ideal-primo](./ideal-primo.md)
 - [dominio-integridad](./dominio-integridad.md)
 - [ideal-primo](./ideal-primo.md)
-- [dominio-integridad](./dominio-integridad.md)
 - [ideal](./ideal.md)
+- [dominio-integridad](./dominio-integridad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

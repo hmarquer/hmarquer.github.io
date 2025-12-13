@@ -17,6 +17,6 @@ tags:
 - [carta](./carta.md)
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 - [atlas-diferenciable](./atlas-diferenciable.md)
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

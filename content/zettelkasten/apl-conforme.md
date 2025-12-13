@@ -8,6 +8,6 @@ tags:
 ![[apl-conforme.pdf]]
 
 ## Referencias
-- [matriz-ortogonal](./matriz-ortogonal.md)
 - [fn-diferenciable](./fn-diferenciable.md)
+- [matriz-ortogonal](./matriz-ortogonal.md)
 

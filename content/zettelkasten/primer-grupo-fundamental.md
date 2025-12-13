@@ -9,10 +9,10 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
+- [prop-clases-homotopia-arcos](./prop-clases-homotopia-arcos.md)
 - [lazo](./lazo.md)
 - [grupo](./grupo.md)
 - [concatenacion-arcos](./concatenacion-arcos.md)
-- [prop-clases-homotopia-arcos](./prop-clases-homotopia-arcos.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

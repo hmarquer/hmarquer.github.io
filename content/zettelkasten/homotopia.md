@@ -8,7 +8,7 @@ tags:
 ![[homotopia.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
+- [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
 

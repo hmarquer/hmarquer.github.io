@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [cuerpo](./cuerpo.md)
+- [esp-vectorial](./esp-vectorial.md)
 

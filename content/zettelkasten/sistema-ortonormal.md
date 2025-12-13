@@ -10,7 +10,7 @@ tags:
 ![[sistema-ortonormal.pdf]]
 
 ## Referencias
-- [ortogonalidad](./ortogonalidad.md)
 - [esp-prehilbert](./esp-prehilbert.md)
+- [ortogonalidad](./ortogonalidad.md)
 - [norma-inducida](./norma-inducida.md)
 

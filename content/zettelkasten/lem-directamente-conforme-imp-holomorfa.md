@@ -8,8 +8,8 @@ tags:
 ![[lem-directamente-conforme-imp-holomorfa.pdf]]
 
 ## Referencias
+- [fn-diferenciable](./fn-diferenciable.md)
 - [apl-conforme](./apl-conforme.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
-- [fn-diferenciable](./fn-diferenciable.md)
 

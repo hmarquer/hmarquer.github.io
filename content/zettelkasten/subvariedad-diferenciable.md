@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [variedad-diferenciable](./variedad-diferenciable.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 - [embebimiento](./embebimiento.md)
 

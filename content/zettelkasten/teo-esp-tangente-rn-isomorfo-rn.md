@@ -10,9 +10,9 @@ tags:
 ## Referencias
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [apl-lineal](./apl-lineal.md)
+- [lem-derivacion](./lem-derivacion.md)
+- [lem-derivacion](./lem-derivacion.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-- [lem-derivacion](./lem-derivacion.md)
-- [lem-derivacion](./lem-derivacion.md)
 
 ## Etiquetas
 #ORDENAR referenciar el teorema de Taylor

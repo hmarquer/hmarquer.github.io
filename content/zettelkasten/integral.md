@@ -9,9 +9,10 @@ tags:
 ![[integral.pdf]]
 
 ## Referencias
+- [fn-simple](./fn-simple.md)
 - [fn-medible](./fn-medible.md)
-- [fn-simple](./fn-simple.md)
-- [fn-simple](./fn-simple.md)
 - [esp-medida](./esp-medida.md)
+- [fn-simple](./fn-simple.md)
+- [fn-medible](./fn-medible.md)
 - [esp-medida](./esp-medida.md)
 

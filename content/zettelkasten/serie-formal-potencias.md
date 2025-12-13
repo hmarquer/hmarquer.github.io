@@ -10,7 +10,7 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
-- [esp-secuencial](./esp-secuencial.md)
 - [serie](./serie.md)
+- [esp-secuencial](./esp-secuencial.md)
 - [esp-vectorial](./esp-vectorial.md)
 

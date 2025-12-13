@@ -1,5 +1,7 @@
 ---
 title: "Lema técnico sobre una aplicación lineal continua y sobreyectiva entre espacios de Banach"
+tags:
+  - analisis-funcional/tema4
 ---
 
 [[lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta.pdf]]

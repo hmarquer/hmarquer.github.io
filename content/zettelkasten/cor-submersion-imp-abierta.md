@@ -11,6 +11,6 @@ tags:
 - [submersion](./submersion.md)
 - [apl-abierta](./apl-abierta.md)
 - [submersion](./submersion.md)
-- [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
 - [teo-submersion-iff-exists-seccion-local](./teo-submersion-iff-exists-seccion-local.md)
+- [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
 

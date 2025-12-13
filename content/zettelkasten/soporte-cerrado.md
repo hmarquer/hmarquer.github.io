@@ -9,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
-- [clausura](./clausura.md)
 - [continuidad](./continuidad.md)
+- [clausura](./clausura.md)
 

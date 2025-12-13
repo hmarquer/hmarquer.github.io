@@ -13,10 +13,10 @@ tags:
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [inmersion](./inmersion.md)
+- [lem-subvariedad-diferenciable](./lem-subvariedad-diferenciable.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
+- [lem-estructuras-diferenciables-iguales](./lem-estructuras-diferenciables-iguales.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [embebimiento](./embebimiento.md)
 - [difeomorfismo](./difeomorfismo.md)
-- [lem-subvariedad-diferenciable](./lem-subvariedad-diferenciable.md)
-- [lem-estructuras-diferenciables-iguales](./lem-estructuras-diferenciables-iguales.md)
 

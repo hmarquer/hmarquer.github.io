@@ -13,12 +13,12 @@ tags:
 - [cuerpo](./cuerpo.md)
 - [ideal-maximal](./ideal-maximal.md)
 - [ideal](./ideal.md)
+- [teo-correspondencia-ideales-cociente](./teo-correspondencia-ideales-cociente.md)
+- [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)
 - [ideal-maximal](./ideal-maximal.md)
 - [ideal](./ideal.md)
-- [cuerpo](./cuerpo.md)
-- [teo-correspondencia-ideales-cociente](./teo-correspondencia-ideales-cociente.md)
 - [lem-cuerpo-iff-ideales-triviales](./lem-cuerpo-iff-ideales-triviales.md)
-- [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)
+- [cuerpo](./cuerpo.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

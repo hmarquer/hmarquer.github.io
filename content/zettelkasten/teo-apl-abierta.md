@@ -1,5 +1,7 @@
 ---
 title: "Teorema de la aplicación abierta"
+tags:
+  - analisis-funcional/tema4
 ---
 
 [[teo-apl-abierta.pdf]]

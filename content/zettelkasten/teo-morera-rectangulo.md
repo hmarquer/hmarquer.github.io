@@ -8,8 +8,8 @@ tags:
 ![[teo-morera-rectangulo.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-- [continuidad](./continuidad.md)
 - [teo-cauchy-goursat-convexo](./teo-cauchy-goursat-convexo.md)
 

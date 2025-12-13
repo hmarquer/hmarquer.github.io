@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [norma](./norma.md)
 - [metrica](./metrica.md)
+- [metrica](./metrica.md)
 

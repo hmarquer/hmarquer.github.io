@@ -9,7 +9,7 @@ tags:
 ![[esp-hilbert.pdf]]
 
 ## Referencias
+- [esp-prehilbert](./esp-prehilbert.md)
 - [esp-banach](./esp-banach.md)
 - [norma-inducida](./norma-inducida.md)
-- [esp-prehilbert](./esp-prehilbert.md)
 

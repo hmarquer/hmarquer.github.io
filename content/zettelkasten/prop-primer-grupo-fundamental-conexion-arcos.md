@@ -9,9 +9,9 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
-- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
-- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 - [conexion-arcos](./conexion-arcos.md)
+- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
+- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

@@ -10,8 +10,6 @@ tags:
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
-- [esp-vectorial](./esp-vectorial.md)
-- [norma](./norma.md)
 - [bola-cerrada](./bola-cerrada.md)
 - [compacidad](./compacidad.md)
 - [lem-riesz](./lem-riesz.md)

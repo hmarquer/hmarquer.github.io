@@ -9,8 +9,8 @@ tags:
 
 ## Referencias
 - [var-aleatoria](./var-aleatoria.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [esp-probabilidad](./esp-probabilidad.md)
+- [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra-fn](./sigma-algebra-fn.md)
 - [sigma-algebra-fn](./sigma-algebra-fn.md)
 

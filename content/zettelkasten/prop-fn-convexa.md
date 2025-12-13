@@ -13,5 +13,6 @@ tags:
 - [fn-convexa](./fn-convexa.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-convexa](./fn-convexa.md)
+- [fn-convexa](./fn-convexa.md)
 - [continuidad](./continuidad.md)
 

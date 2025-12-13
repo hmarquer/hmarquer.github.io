@@ -7,4 +7,5 @@ title: "Teorema de la función inversa"
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
+- [fn-clase-ck](./fn-clase-ck.md)
 

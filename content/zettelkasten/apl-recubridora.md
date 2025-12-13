@@ -9,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
-- [homeomorfismo](./homeomorfismo.md)
 - [continuidad](./continuidad.md)
+- [homeomorfismo](./homeomorfismo.md)
 

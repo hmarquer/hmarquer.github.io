@@ -9,8 +9,8 @@ tags:
 ![[convergencia-absoluta-serie.pdf]]
 
 ## Referencias
-- [serie](./serie.md)
-- [convergencia-serie](./convergencia-serie.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
+- [serie](./serie.md)
+- [convergencia-serie](./convergencia-serie.md)
 

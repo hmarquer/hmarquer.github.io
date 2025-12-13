@@ -11,6 +11,6 @@ tags:
 - [martingala](./martingala.md)
 - [fn-convexa](./fn-convexa.md)
 - [submartingala](./submartingala.md)
-- [martingala](./martingala.md)
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
+- [martingala](./martingala.md)
 

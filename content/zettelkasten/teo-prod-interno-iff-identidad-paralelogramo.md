@@ -15,7 +15,9 @@ tags:
 - [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [identidad-paralelogramo](./identidad-paralelogramo.md)
 - [identidad-polarizacion](./identidad-polarizacion.md)
+- [prod-interno](./prod-interno.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

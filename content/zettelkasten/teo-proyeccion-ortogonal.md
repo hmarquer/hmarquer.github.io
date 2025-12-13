@@ -16,4 +16,5 @@ tags:
 - [norma](./norma.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
+- [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 

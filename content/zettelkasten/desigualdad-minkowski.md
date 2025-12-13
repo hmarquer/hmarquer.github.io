@@ -1,10 +1,10 @@
 ---
 title: "Desigualdad de Minkowski"
 tags:
+  - variable-real/parcial
+  - variable-real/parcial
   - variable-real/tema1
   - probabilidad-ii/tema2
-  - variable-real/parcial
-  - variable-real/parcial
 ---
 
 [[desigualdad-minkowski.pdf]]
@@ -16,9 +16,9 @@ tags:
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
+- [norma](./norma.md)
+- [norma](./norma.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [desigualdad-holder](./desigualdad-holder.md)
-- [norma](./norma.md)
-- [norma](./norma.md)
 - [norma](./norma.md)
 

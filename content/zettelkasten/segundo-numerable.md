@@ -9,6 +9,6 @@ tags:
 ![[segundo-numerable.pdf]]
 
 ## Referencias
-- [base-topologia](./base-topologia.md)
 - [esp-topologico](./esp-topologico.md)
+- [base-topologia](./base-topologia.md)
 

@@ -12,7 +12,7 @@ tags:
 - [norma](./norma.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [topologia-cociente](./topologia-cociente.md)
-- [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
-- [topologia-subespacio](./topologia-subespacio.md)
 - [prop-topologia-inducida-fn-sobre](./prop-topologia-inducida-fn-sobre.md)
+- [topologia-subespacio](./topologia-subespacio.md)
+- [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
 

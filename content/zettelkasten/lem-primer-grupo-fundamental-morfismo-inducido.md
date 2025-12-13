@@ -8,10 +8,10 @@ tags:
 ![[lem-primer-grupo-fundamental-morfismo-inducido.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 - [morfismo-grupos](./morfismo-grupos.md)
-- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

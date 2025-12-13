@@ -8,8 +8,8 @@ tags:
 ![[fn-densidad.pdf]]
 
 ## Referencias
-- [esp-probabilidad](./esp-probabilidad.md)
 - [var-aleatoria-absolutamente-continua](./var-aleatoria-absolutamente-continua.md)
+- [esp-probabilidad](./esp-probabilidad.md)
 - [fn-integrable](./fn-integrable.md)
 - [medida-lebesgue](./medida-lebesgue.md)
 

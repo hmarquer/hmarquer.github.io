@@ -8,10 +8,9 @@ tags:
 ![[prop-topologia-inducida-fn-sobre.pdf]]
 
 ## Referencias
-- [topologia](./topologia.md)
-- [topologia](./topologia.md)
-- [apl-cociente](./apl-cociente.md)
-- [topologia](./topologia.md)
-- [apl-cociente](./apl-cociente.md)
 - [esp-topologico](./esp-topologico.md)
+- [topologia](./topologia.md)
+- [apl-cociente](./apl-cociente.md)
+- [topologia](./topologia.md)
+- [apl-cociente](./apl-cociente.md)
 

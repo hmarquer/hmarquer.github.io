@@ -8,7 +8,7 @@ tags:
 ![[obs-linealidad-esperanza.pdf]]
 
 ## Referencias
-- [esperanza](./esperanza.md)
 - [prop-esperanza-fn](./prop-esperanza-fn.md)
+- [esperanza](./esperanza.md)
 - [linealidad-integral](./linealidad-integral.md)
 

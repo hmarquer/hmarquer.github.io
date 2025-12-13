@@ -11,9 +11,9 @@ tags:
 - [fn-integrable](./fn-integrable.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [fn-convexa](./fn-convexa.md)
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

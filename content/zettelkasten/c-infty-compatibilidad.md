@@ -9,9 +9,9 @@ tags:
 
 ## Referencias
 - [carta](./carta.md)
+- [fn-clase-ck](./fn-clase-ck.md)
+- [fn-clase-ck](./fn-clase-ck.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
-- [fn-clase-ck](./fn-clase-ck.md)
-- [fn-clase-ck](./fn-clase-ck.md)
 
 ## Etiquetas
 #EJERCICIO 

@@ -14,6 +14,7 @@ tags:
 - [fn-distribucion](./fn-distribucion.md)
 - [medida-inducida](./medida-inducida.md)
 - [medida-inducida](./medida-inducida.md)
+- [esp-probabilidad](./esp-probabilidad.md)
 - [igualdad-distribucion](./igualdad-distribucion.md)
 
 ## Etiquetas

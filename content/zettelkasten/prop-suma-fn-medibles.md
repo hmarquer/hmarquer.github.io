@@ -7,6 +7,6 @@ title: "La suma de funciones medibles es medible"
 
 ## Referencias
 - [fn-medible](./fn-medible.md)
-- [fn-medible](./fn-medible.md)
 - [esp-medible](./esp-medible.md)
+- [fn-medible](./fn-medible.md)
 

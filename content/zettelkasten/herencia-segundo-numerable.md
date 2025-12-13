@@ -13,4 +13,5 @@ tags:
 - [segundo-numerable](./segundo-numerable.md)
 - [base-topologia](./base-topologia.md)
 - [base-topologia-subespacio](./base-topologia-subespacio.md)
+- [base-topologia](./base-topologia.md)
 

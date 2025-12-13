@@ -1,9 +1,9 @@
 ---
 title: "Desigualdad de Hölder"
 tags:
+  - variable-real/parcial
   - variable-real/tema1
   - probabilidad-ii/tema2
-  - variable-real/parcial
 ---
 
 [[desigualdad-holder.pdf]]
@@ -12,9 +12,10 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [esp-lp](./esp-lp.md)
+- [norma-lp](./norma-lp.md)
+- [norma-lp](./norma-lp.md)
 - [exponente-conjugado](./exponente-conjugado.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
+- [desigualdad-jensen](./desigualdad-jensen.md)
 - [desigualdad-young](./desigualdad-young.md)
-- [norma-lp](./norma-lp.md)
-- [norma-lp](./norma-lp.md)
 

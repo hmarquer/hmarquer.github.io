@@ -12,4 +12,7 @@ tags:
 - [metrica](./metrica.md)
 - [norma](./norma.md)
 - [metrica-inducida](./metrica-inducida.md)
+- [norma](./norma.md)
+- [norma](./norma.md)
+- [metrica-inducida](./metrica-inducida.md)
 

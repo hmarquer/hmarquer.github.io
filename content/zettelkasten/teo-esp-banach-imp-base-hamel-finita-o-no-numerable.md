@@ -8,7 +8,7 @@ tags:
 ![[teo-esp-banach-imp-base-hamel-finita-o-no-numerable.pdf]]
 
 ## Referencias
-- [ejer-esp-banach-union-cerrados-imp-interior-no-vacio](./ejer-esp-banach-union-cerrados-imp-interior-no-vacio.md)
 - [esp-banach](./esp-banach.md)
 - [base-hamel](./base-hamel.md)
+- [ejer-esp-banach-union-cerrados-imp-interior-no-vacio](./ejer-esp-banach-union-cerrados-imp-interior-no-vacio.md)
 

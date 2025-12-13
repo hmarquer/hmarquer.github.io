@@ -13,5 +13,6 @@ tags:
 - [varianza](./varianza.md)
 - [esperanza](./esperanza.md)
 - [esperanza](./esperanza.md)
+- [var-aleatoria](./var-aleatoria.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 

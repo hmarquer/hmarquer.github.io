@@ -10,7 +10,7 @@ tags:
 ![[norma-lp.pdf]]
 
 ## Referencias
-- [fn-medible](./fn-medible.md)
 - [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 - [supremo-esencial](./supremo-esencial.md)
 

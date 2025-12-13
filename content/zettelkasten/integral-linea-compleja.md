@@ -8,8 +8,7 @@ tags:
 ![[integral-linea-compleja.pdf]]
 
 ## Referencias
-- [integral](./integral.md)
-- [integral](./integral.md)
 - [camino](./camino.md)
 - [continuidad](./continuidad.md)
+- [integral](./integral.md)
 

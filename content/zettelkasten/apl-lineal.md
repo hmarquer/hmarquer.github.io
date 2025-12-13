@@ -8,6 +8,6 @@ tags:
 ![[apl-lineal.pdf]]
 
 ## Referencias
-- [cuerpo](./cuerpo.md)
 - [esp-vectorial](./esp-vectorial.md)
+- [cuerpo](./cuerpo.md)
 
