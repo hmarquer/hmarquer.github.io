@@ -9,4 +9,6 @@ tags:
 
 ## Referencias
 - [morfismo-anillos](./morfismo-anillos.md)
+- [anillo](./anillo.md)
+- [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
 

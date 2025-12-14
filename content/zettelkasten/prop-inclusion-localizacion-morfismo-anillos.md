@@ -7,3 +7,8 @@ tags:
 [[prop-inclusion-localizacion-morfismo-anillos.pdf]]
 ![[prop-inclusion-localizacion-morfismo-anillos.pdf]]
 
+## Referencias
+- [anillo](./anillo.md)
+- [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
+- [morfismo-anillos](./morfismo-anillos.md)
+
