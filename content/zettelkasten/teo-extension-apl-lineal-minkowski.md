@@ -1,5 +1,5 @@
 ---
-title: "Primer teorema de extensión apl lineal Minkowski"
+title: "Teorema de extensión de una aplicación lineal según un funcional de Minkowski"
 tags:
   - analisis-funcional/tema3
 ---

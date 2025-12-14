@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [esp-afin](./esp-afin.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 
