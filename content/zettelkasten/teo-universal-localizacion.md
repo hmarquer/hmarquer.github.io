@@ -1,5 +1,5 @@
 ---
-title: "Teo universal localizacion"
+title: "Propiedad universal de la localización"
 tags:
   - algebra-conmutativa/tema2
 ---
