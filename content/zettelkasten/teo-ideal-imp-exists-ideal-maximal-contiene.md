@@ -1,5 +1,5 @@
 ---
-title: "Teo ideal imp exists ideal maximal contiene"
+title: "Todo ideal propio está contenido en un ideal maximal"
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -11,6 +11,5 @@ tags:
 - [ideal](./ideal.md)
 - [anillo](./anillo.md)
 - [ideal-maximal](./ideal-maximal.md)
+- [lem-zorn](./lem-zorn.md)
 
-## Etiquetas
-#ORDENAR referenciar al lema de Zorn

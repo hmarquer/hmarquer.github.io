@@ -1,5 +1,5 @@
 ---
-title: "Cor continuacion analitica"
+title: "Principio de continuación analítica"
 tags:
   - variable-compleja-i/tema4
 ---

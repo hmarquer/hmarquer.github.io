@@ -1,5 +1,5 @@
 ---
-title: "Teo desigualdad cauchy"
+title: "Desigualdad de Cauchy"
 tags:
   - variable-compleja-i/tema4
 ---

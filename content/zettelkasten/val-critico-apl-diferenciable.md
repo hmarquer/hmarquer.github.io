@@ -1,5 +1,5 @@
 ---
-title: "Val critico apl diferenciable"
+title: "Valor crítico de una aplicación diferenciable"
 tags:
   - geometria-diferencial/tema5
 ---

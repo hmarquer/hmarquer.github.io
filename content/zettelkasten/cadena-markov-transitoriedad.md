@@ -1,5 +1,5 @@
 ---
-title: "Cadena-markov-transitoriedad"
+title: "Transitoriedad en una cadena de Markov"
 tags:
   - modelizacion/tema2
 ---

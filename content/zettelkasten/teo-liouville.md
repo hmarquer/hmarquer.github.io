@@ -1,5 +1,5 @@
 ---
-title: "Teo liouville"
+title: "Teorema de Liouville"
 tags:
   - variable-compleja-i/tema4
 ---

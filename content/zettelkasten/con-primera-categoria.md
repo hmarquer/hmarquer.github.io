@@ -1,5 +1,5 @@
 ---
-title: "Con primera categoria"
+title: "Conjunto de primera categoría"
 tags:
   - analisis-funcional/tema4
 ---

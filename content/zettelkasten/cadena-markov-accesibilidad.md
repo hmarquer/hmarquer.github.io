@@ -1,5 +1,5 @@
 ---
-title: "Cadena-markov-accesibilidad"
+title: "Accesibilidad en una cadena de Markov"
 tags:
   - modelizacion/tema2
 ---

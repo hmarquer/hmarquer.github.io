@@ -1,5 +1,5 @@
 ---
-title: "Cor base hamel r q"
+title: "Base de Hamel de $\\R$ como $\\Q$-espacio vectorial"
 tags:
   - analisis-funcional/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Con secuencialmente compacto"
+title: "Conjunto secuencialmente compacto"
 ---
 
 [[con-secuencialmente-compacto.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Cor espacio vectorial normado dim finita imp banach"
+title: "Todo espacio vectorial normado de dimensión finita es de Banach"
 tags:
   - analisis-funcional/tema2
 ---

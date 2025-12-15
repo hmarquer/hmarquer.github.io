@@ -1,5 +1,5 @@
 ---
-title: "Cor subvariedad diferenciable cubrimiento"
+title: "Caracterización de una subvariedad diferenciable por un cubrimiento por abiertos"
 tags:
   - geometria-diferencial/tema5
 ---
@@ -14,4 +14,5 @@ tags:
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 
 ## Etiquetas
-#REVISAR 
+#DEMOSTRACIÓN 
+#REVISAR DEMOSTRACIÓN

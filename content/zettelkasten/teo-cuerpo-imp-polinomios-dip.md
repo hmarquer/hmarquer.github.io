@@ -1,5 +1,5 @@
 ---
-title: "Teo cuerpo imp polinomios dip"
+title: "El anillo de polinomios de un cuerpo es un dominio de ideales principales"
 tags:
   - algebra-conmutativa/tema1
 ---

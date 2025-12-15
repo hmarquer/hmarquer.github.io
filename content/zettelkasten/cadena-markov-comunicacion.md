@@ -1,5 +1,5 @@
 ---
-title: "Cadena-markov-comunicacion"
+title: "Comunicación en una cadena de Markov"
 tags:
   - modelizacion/tema2
 ---

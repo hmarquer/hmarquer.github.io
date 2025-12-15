@@ -1,5 +1,5 @@
 ---
-title: "Lem-relacion-equivalencia-abierta-hausdorff"
+title: "Relación de equivalencia abierta y espacio cociente de Hausdorff"
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Valencia fn holomorfa"
+title: "Valencia de una función holomorfa"
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

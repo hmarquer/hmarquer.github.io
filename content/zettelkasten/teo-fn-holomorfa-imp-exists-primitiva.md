@@ -1,5 +1,5 @@
 ---
-title: "Teo fn holomorfa imp exists primitiva"
+title: "Toda función holomorfa tiene primitiva holomorfa"
 tags:
   - variable-compleja-i/tema4
 ---

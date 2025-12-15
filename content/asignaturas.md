@@ -11,9 +11,14 @@ title: "Asignaturas"
     2.1 Primer cuatrimestre
 
     2.2 Segundo cuatrimestre
+    - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]]
+    - [[2.2-geometria-de-curvas-y-superficies|Geometría de curvas y superficies]]
+    - [[2.2-probabilidad-i|Probabilidad I]]
     
-3. Tercer curso    
+3. Tercer curso
     3.1 Primer cuatrimestre
+    - [[3.1-topologia|Topología]]
+    - [[3.1-estadistica-i|Estadística I]]
     - [[3.1-teoria-de-galois|Teoría de Galois]]
     - [[3.1-teoria-de-la-integral-y-la-medida|Teoría de la integral y la medida]]
     - [[3.1-metodos-numericos-para-edo|Métodos numéricos para EDO]]
@@ -26,9 +31,11 @@ title: "Asignaturas"
     - [[3.2-geometria-diferencial|Geometría diferencial]]
 
 4. Cuarto curso
+    - [[4-productos-finitos-de-blaschke|Apuntes para el TFG: Productos finitos de Blaschke]]
+
     4.1 Primer cuatrimestre
     - [[4.1-analisis-funcional|Análisis funcional]]
     - [[4.1-variable-real|Variable real]]
-    - [[4.1-algebra-conmutativa|Álgebra conmutativa]]
+    - [[4.1-algebra-conmutativa|Álgebra conmutativa]] ([[4.1-algebra-conmutativa-jacobo|versión de Jacobo]])
 
     4.2 Segundo cuatrimestre

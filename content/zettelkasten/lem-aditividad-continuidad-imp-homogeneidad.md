@@ -1,5 +1,5 @@
 ---
-title: "Lem aditividad continuidad imp homogeneidad"
+title: "Toda función escalar aditiva y continua en algún punto es homogénea"
 tags:
   - analisis-funcional/tema1
 ---
