@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Inicio",
+    pageTitle: "ZettelTeX",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: false,

@@ -1,5 +1,5 @@
 ---
-title: "Inicio"
+title: "ZettelTeX"
 ---
 
 En esta página web encontrarás mi colección personal de apuntes de matemáticas, que iré actualizando a medida que avance en mi carrera. 
