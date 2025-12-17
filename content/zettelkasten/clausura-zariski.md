@@ -11,4 +11,5 @@ tags:
 - [esp-afin](./esp-afin.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [clausura](./clausura.md)
+- [prop-topologia-zariski](./prop-topologia-zariski.md)
 
