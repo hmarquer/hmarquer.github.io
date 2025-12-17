@@ -1,5 +1,5 @@
 ---
-title: "Lem ideal"
+title: "Caracterización de ideal"
 tags:
   - algebra-conmutativa/tema1
 ---
