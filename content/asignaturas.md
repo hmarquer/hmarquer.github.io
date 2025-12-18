@@ -34,7 +34,7 @@ title: "Asignaturas"
     - [[4-productos-finitos-de-blaschke|Apuntes para el TFG: Productos finitos de Blaschke]]
 
     4.1 Primer cuatrimestre
-    - [[4.1-analisis-funcional|Análisis funcional]]
+    - [[4.1-analisis-funcional|Análisis funcional]] ([[4.1-analisis-funcional-jacobo|versión de Jacobo]])
     - [[4.1-variable-real|Variable real]]
     - [[4.1-algebra-conmutativa|Álgebra conmutativa]] ([[4.1-algebra-conmutativa-jacobo|versión de Jacobo]])
 
