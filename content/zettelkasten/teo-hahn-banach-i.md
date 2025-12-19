@@ -14,4 +14,6 @@ tags:
 - [apl-lineal](./apl-lineal.md)
 - [apl-lineal](./apl-lineal.md)
 - [funcional-minkowski](./funcional-minkowski.md)
+- [teo-extension-apl-lineal-minkowski](./teo-extension-apl-lineal-minkowski.md)
+- [lem-apl-lineal-complejo-reduccion-real](./lem-apl-lineal-complejo-reduccion-real.md)
 
