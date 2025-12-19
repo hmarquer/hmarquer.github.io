@@ -9,7 +9,6 @@ tags:
 ![[teo-proyeccion-ortogonal.pdf]]
 
 ## Referencias
-- [esp-prehilbert](./esp-prehilbert.md)
 - [subesp-vectorial](./subesp-vectorial.md)
 - [complemento-ortogonal](./complemento-ortogonal.md)
 - [apl-lineal](./apl-lineal.md)
@@ -17,4 +16,5 @@ tags:
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
 - [prop-descomposicion-ortogonal](./prop-descomposicion-ortogonal.md)
+- [esp-hilbert](./esp-hilbert.md)
 
