@@ -1,5 +1,5 @@
 ---
-title: "Teo carac continuidad operador lineal espacio banach"
+title: "Caracterización de la continuidad de un operador lineal entre espacios de Banach"
 tags:
   - analisis-funcional/tema4
 ---
@@ -9,4 +9,9 @@ tags:
 
 ## Referencias
 - [teo-grafica-cerrada](./teo-grafica-cerrada.md)
+- [esp-banach](./esp-banach.md)
+- [dual-topologico](./dual-topologico.md)
+- [apl-lineal](./apl-lineal.md)
+- [continuidad](./continuidad.md)
+- [continuidad](./continuidad.md)
 
