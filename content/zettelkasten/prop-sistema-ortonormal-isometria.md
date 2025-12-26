@@ -1,5 +1,5 @@
 ---
-title: "Prop sistema ortonormal isometria"
+title: "Isometría de un sistema ortonormal finito a $\\mathbb{K}^n$"
 tags:
   - analisis-funcional/tema2
 ---

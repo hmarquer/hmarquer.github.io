@@ -1,5 +1,5 @@
 ---
-title: "Base schauder"
+title: "Base de Schauder"
 tags:
   - analisis-funcional/tema2
 ---
@@ -9,4 +9,5 @@ tags:
 
 ## Referencias
 - [esp-banach](./esp-banach.md)
+- [convergencia-serie](./convergencia-serie.md)
 

@@ -3,6 +3,7 @@ title: "Conjunto convexo"
 tags:
   - variable-compleja-i/tema4
   - variable-real/tema3
+  - analisis-funcional/tema1
 ---
 
 [[con-convexo.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Espacio lp sucesiones"
+title: "Espacio $\\ell^p$"
 tags:
   - variable-real/tema1
 ---
