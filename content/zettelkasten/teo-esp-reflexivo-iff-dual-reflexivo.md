@@ -16,6 +16,8 @@ tags:
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [ejem-funcional-evaluacion-bidual](./ejem-funcional-evaluacion-bidual.md)
 - [ejem-funcional-evaluacion-bidual](./ejem-funcional-evaluacion-bidual.md)
+- [teo-subespacio-reflexivo](./teo-subespacio-reflexivo.md)
+- [teo-isometria-biyectiva-reflexividad](./teo-isometria-biyectiva-reflexividad.md)
 
 ## Etiquetas
 #ORDENAR : referenciar
