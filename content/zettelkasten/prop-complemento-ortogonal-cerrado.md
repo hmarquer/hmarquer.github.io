@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [complemento-ortogonal](./complemento-ortogonal.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [esp-prehilbert](./esp-prehilbert.md)
 
 ## Etiquetas
 #ORDENAR : crear nota y referenciarla
