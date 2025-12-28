@@ -1,5 +1,5 @@
 ---
-title: "Prop inclusion lp general"
+title: "Inclusión de espacios $\\mathcal{L}^p$: caso general"
 tags:
   - variable-real/tema1
 ---

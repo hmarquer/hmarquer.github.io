@@ -1,7 +1,6 @@
 ---
 title: "Desigualdad de Hölder"
 tags:
-  - variable-real/parcial
   - variable-real/tema1
   - probabilidad-ii/tema2
 ---

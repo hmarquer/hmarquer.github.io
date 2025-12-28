@@ -1,5 +1,5 @@
 ---
-title: "Prop fn simples denso lp"
+title: "Densidad de las funciones simples en $L^p$"
 tags:
   - variable-real/tema1
 ---

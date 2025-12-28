@@ -14,6 +14,7 @@ tags:
 - [medida](./medida.md)
 - [medida](./medida.md)
 - [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 
 ## Etiquetas
 #ORDENAR referenciar de donde sacamos esto
