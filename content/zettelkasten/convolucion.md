@@ -11,4 +11,9 @@ tags:
 ## Referencias
 - [fn-medible](./fn-medible.md)
 - [integral](./integral.md)
+- [esp-medida](./esp-medida.md)
+- [esp-lp](./esp-lp.md)
+- [esp-lp](./esp-lp.md)
+- [norma-lp](./norma-lp.md)
+- [norma-lp](./norma-lp.md)
 
