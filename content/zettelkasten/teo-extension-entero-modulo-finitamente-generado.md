@@ -1,5 +1,7 @@
 ---
 title: "Toda extensión sobre un entero es un módulo finitamente generado"
+tags:
+  - algebra-conmutativa/tema4
 ---
 
 [[teo-extension-entero-modulo-finitamente-generado.pdf]]

@@ -1,5 +1,7 @@
 ---
 title: "Lema de normalización de Noether"
+tags:
+  - algebra-conmutativa/tema4
 ---
 
 [[lem-normalizacion-noether.pdf]]

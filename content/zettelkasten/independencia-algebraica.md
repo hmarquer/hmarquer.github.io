@@ -9,4 +9,5 @@ tags:
 
 ## Referencias
 - [extension-anillos](./extension-anillos.md)
+- [anillo-polinomios](./anillo-polinomios.md)
 

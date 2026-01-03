@@ -1,5 +1,7 @@
 ---
 title: "Cuerpo algebraicamente cerrado"
+tags:
+  - algebra-conmutativa/tema4
 ---
 
 [[alg-cerrado.pdf]]
@@ -7,4 +9,6 @@ title: "Cuerpo algebraicamente cerrado"
 
 ## Referencias
 - [cuerpo](./cuerpo.md)
+- [anillo-polinomios](./anillo-polinomios.md)
+- [grado-polinomio](./grado-polinomio.md)
 
