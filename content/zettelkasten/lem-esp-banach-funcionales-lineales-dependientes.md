@@ -8,6 +8,6 @@ tags:
 ![[lem-esp-banach-funcionales-lineales-dependientes.pdf]]
 
 ## Referencias
-- [esp-banach](./esp-banach.md)
 - [dual-algebraico](./dual-algebraico.md)
+- [norma](./norma.md)
 

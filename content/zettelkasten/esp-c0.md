@@ -2,6 +2,7 @@
 title: "Espacio c0"
 tags:
   - variable-real/tema1
+  - analisis-funcional/tema2
 ---
 
 [[esp-c0.pdf]]

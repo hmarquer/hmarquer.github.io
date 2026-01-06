@@ -2,6 +2,7 @@
 title: "Espacio $\\ell^p$"
 tags:
   - variable-real/tema1
+  - analisis-funcional/tema2
 ---
 
 [[esp-lp-sucesiones.pdf]]

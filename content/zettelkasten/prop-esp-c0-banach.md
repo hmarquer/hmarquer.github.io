@@ -2,6 +2,7 @@
 title: "Prop espacio c0 banach"
 tags:
   - variable-real/tema1
+  - analisis-funcional/tema2
 ---
 
 [[prop-esp-c0-banach.pdf]]
