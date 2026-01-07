@@ -8,10 +8,9 @@ tags:
 ![[lem-carac-continuidad-topologia-inicial.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
-- [apl-lineal](./apl-lineal.md)
 - [topologia-inicial](./topologia-inicial.md)
 - [continuidad](./continuidad.md)
 - [continuidad](./continuidad.md)
 - [topologia-inicial](./topologia-inicial.md)
+- [esp-topologico](./esp-topologico.md)
 
