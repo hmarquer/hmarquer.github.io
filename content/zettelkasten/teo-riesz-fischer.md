@@ -7,5 +7,10 @@ tags:
 [[teo-riesz-fischer.pdf]]
 ![[teo-riesz-fischer.pdf]]
 
-## Etiquetas
-#ORDENAR : referenciar la continuidad del producto interno prop 3.6
+## Referencias
+- [esp-hilbert](./esp-hilbert.md)
+- [sistema-ortonormal](./sistema-ortonormal.md)
+- [transformada-fourier](./transformada-fourier.md)
+- [teo-pitagoras](./teo-pitagoras.md)
+- [prop-prod-interno-continua](./prop-prod-interno-continua.md)
+

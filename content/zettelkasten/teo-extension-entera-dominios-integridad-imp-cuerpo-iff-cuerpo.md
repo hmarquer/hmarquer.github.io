@@ -7,3 +7,9 @@ tags:
 [[teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo.pdf]]
 ![[teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo.pdf]]
 
+## Referencias
+- [extension-anillos-entera](./extension-anillos-entera.md)
+- [dominio-integridad](./dominio-integridad.md)
+- [cuerpo](./cuerpo.md)
+- [cuerpo](./cuerpo.md)
+
