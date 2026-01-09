@@ -12,4 +12,6 @@ tags:
 - [continuidad](./continuidad.md)
 - [norma-inducida](./norma-inducida.md)
 - [esp-secuencial](./esp-secuencial.md)
+- [metrica](./metrica.md)
+- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 
