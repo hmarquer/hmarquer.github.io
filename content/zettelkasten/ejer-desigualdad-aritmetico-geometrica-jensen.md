@@ -9,4 +9,5 @@ title: "Desigualdad aritmético geométrica por Jensen"
 - [esp-probabilidad](./esp-probabilidad.md)
 - [fn-convexa](./fn-convexa.md)
 - [fn-medible](./fn-medible.md)
+- [desigualdad-jensen](./desigualdad-jensen.md)
 
