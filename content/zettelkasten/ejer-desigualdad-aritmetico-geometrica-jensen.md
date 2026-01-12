@@ -1,5 +1,7 @@
 ---
 title: "Desigualdad aritmético geométrica por Jensen"
+tags:
+  - variable-real/tema1
 ---
 
 [[ejer-desigualdad-aritmetico-geometrica-jensen.pdf]]

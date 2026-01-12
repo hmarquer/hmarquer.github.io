@@ -16,6 +16,5 @@ tags:
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [completitud-metrica](./completitud-metrica.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [prop-norma-continua](./prop-norma-continua.md)
 
-## Etiquetas
-#ORDENAR : referenciar la continuidad de la norma
