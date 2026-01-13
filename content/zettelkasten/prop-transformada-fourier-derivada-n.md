@@ -1,5 +1,7 @@
 ---
 title: "Prop transformada fourier derivada n"
+tags:
+  - variable-real/tema5
 ---
 
 [[prop-transformada-fourier-derivada-n.pdf]]

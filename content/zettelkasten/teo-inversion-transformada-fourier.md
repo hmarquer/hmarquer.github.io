@@ -1,5 +1,7 @@
 ---
 title: "Teorema de inversión de la transformada de Fourier"
+tags:
+  - variable-real/tema5
 ---
 
 [[teo-inversion-transformada-fourier.pdf]]

@@ -1,5 +1,7 @@
 ---
 title: "Lem transformada fourier derivada"
+tags:
+  - variable-real/tema5
 ---
 
 [[lem-transformada-fourier-derivada.pdf]]

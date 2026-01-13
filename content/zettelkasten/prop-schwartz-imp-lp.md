@@ -1,5 +1,7 @@
 ---
 title: "Prop schwartz imp lp"
+tags:
+  - variable-real/tema5
 ---
 
 [[prop-schwartz-imp-lp.pdf]]

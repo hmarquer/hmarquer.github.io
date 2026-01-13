@@ -1,5 +1,7 @@
 ---
 title: "Clase schwartz"
+tags:
+  - variable-real/tema5
 ---
 
 [[clase-schwartz.pdf]]

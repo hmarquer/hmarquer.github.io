@@ -16,6 +16,5 @@ tags:
 - [ejem-continuidad-derivadas-laterales-imp-dini](./ejem-continuidad-derivadas-laterales-imp-dini.md)
 - [prop-criterio-dini](./prop-criterio-dini.md)
 - [obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet](./obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet.md)
+- [lem-formula-nucleo-dirichlet](./lem-formula-nucleo-dirichlet.md)
 
-## Etiquetas
-#ORDENAR : referenciar bien
