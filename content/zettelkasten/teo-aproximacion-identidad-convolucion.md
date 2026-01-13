@@ -20,4 +20,5 @@ tags:
 - [teo-fubini](./teo-fubini.md)
 - [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [obs-propiedades-dilatacion-isotropica](./obs-propiedades-dilatacion-isotropica.md)
+- [traslacion](./traslacion.md)
 

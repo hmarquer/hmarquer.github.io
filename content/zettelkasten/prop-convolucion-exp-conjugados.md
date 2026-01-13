@@ -22,6 +22,7 @@ tags:
 - [convolucion](./convolucion.md)
 - [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [desigualdad-holder](./desigualdad-holder.md)
+- [traslacion](./traslacion.md)
 
 ## Etiquetas
 #COMPLETAR con el caso $p = \infty$ EJERCICIO

@@ -17,4 +17,7 @@ tags:
 - [soporte-cerrado](./soporte-cerrado.md)
 - [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
+- [traslacion](./traslacion.md)
+- [traslacion](./traslacion.md)
+- [traslacion](./traslacion.md)
 
