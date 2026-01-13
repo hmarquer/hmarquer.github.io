@@ -14,4 +14,6 @@ tags:
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [desigualdad-young-convolucion](./desigualdad-young-convolucion.md)
+- [fn-integrable](./fn-integrable.md)
+- [teo-fubini](./teo-fubini.md)
 
