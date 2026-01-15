@@ -1,5 +1,6 @@
 ---
 title: "Cor norma p no prod interno"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---

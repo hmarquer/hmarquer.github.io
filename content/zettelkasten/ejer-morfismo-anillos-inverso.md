@@ -1,5 +1,6 @@
 ---
 title: "Inversa de un morfismo de anillos biyectivo"
+date: 2025-10-08
 tags:
   - algebra-conmutativa/tema1
 ---

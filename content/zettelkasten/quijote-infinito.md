@@ -1,5 +1,6 @@
 ---
 title: "\\textit{Quijote} infinito"
+date: 2025-03-11
 tags:
   - probabilidad-ii/3.2-probabilidad-ii
 ---

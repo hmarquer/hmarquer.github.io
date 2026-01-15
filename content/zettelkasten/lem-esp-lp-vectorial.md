@@ -1,5 +1,6 @@
 ---
 title: "Todo espacio $\\mathcal{L}^p$ es un espacio vectorial"
+date: 2025-03-14
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1

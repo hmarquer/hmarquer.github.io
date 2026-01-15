@@ -1,5 +1,6 @@
 ---
 title: "Todo espacio $\\mathcal{L}^p$ es de Banach"
+date: 2025-09-18
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

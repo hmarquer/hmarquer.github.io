@@ -1,5 +1,6 @@
 ---
 title: "El subespacio vectorial generado por un sistema ortonormal finito es cerrado"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
 ---

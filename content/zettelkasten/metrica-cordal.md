@@ -1,5 +1,6 @@
 ---
 title: "Métrica de cordal"
+date: 2025-12-11
 tags:
   - variable-compleja-i/tema1
 ---

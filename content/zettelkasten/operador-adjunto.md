@@ -1,5 +1,6 @@
 ---
 title: "Operador adjunto"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

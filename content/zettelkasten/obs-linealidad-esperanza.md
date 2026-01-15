@@ -1,5 +1,6 @@
 ---
 title: "Linealidad de la esperanza"
+date: 2025-06-11
 tags:
   - probabilidad-ii/tema2
 ---

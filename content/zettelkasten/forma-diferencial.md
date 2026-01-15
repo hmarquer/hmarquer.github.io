@@ -1,5 +1,6 @@
 ---
 title: "Forma diferencial"
+date: 2025-02-20
 ---
 
 [[forma-diferencial.pdf]]

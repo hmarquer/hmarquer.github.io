@@ -1,5 +1,6 @@
 ---
 title: "Toda inmersión es localmente un embebimiento"
+date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---

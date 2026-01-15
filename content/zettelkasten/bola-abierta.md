@@ -1,5 +1,6 @@
 ---
 title: "Bola abierta"
+date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Base ortonormal"
+date: 2025-11-11
 tags:
   - variable-real/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "El espacio $c_0$ es separable"
+date: 2026-01-06
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Espacio topológico completamente metrizable"
+date: 2025-05-30
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la aplicación abierta en variable compleja"
+date: 2025-11-20
 tags:
   - variable-compleja-i/tema4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ejem continuidad derivadas laterales imp dini"
+date: 2026-01-13
 tags:
   - variable-real/tema4
 ---

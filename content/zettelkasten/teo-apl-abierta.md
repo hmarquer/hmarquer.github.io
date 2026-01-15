@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la aplicación abierta"
+date: 2025-12-09
 tags:
   - analisis-funcional/tema4
 ---

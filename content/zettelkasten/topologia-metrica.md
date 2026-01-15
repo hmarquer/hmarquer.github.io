@@ -1,5 +1,6 @@
 ---
 title: "Topología métrica"
+date: 2025-03-13
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

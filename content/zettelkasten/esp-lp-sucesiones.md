@@ -1,5 +1,6 @@
 ---
 title: "Espacio $\\ell^p$"
+date: 2025-10-17
 tags:
   - variable-real/tema1
   - analisis-funcional/tema2

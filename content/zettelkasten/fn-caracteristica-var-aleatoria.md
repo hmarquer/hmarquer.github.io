@@ -1,5 +1,6 @@
 ---
 title: "Función característica de una variable aleatoria"
+date: 2025-06-17
 tags:
   - probabilidad-ii/tema5
 ---

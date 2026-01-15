@@ -1,5 +1,6 @@
 ---
 title: "Prop complemento ortogonal subespacio cerrado"
+date: 2025-11-12
 tags:
   - variable-real/tema3
 ---

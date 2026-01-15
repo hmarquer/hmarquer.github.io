@@ -1,5 +1,6 @@
 ---
 title: "La independencia de $\\pi$-sistemas implica la independencia de las $\\sigma$-álgebras generadas"
+date: 2025-02-22
 tags:
   - probabilidad-ii/tema1
 ---

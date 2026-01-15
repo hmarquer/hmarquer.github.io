@@ -1,5 +1,6 @@
 ---
 title: "Vector aleatorio"
+date: 2025-12-11
 tags:
   - probabilidad-ii/tema1
 ---

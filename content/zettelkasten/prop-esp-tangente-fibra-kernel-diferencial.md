@@ -1,5 +1,6 @@
 ---
 title: "Prop espacio tangente fibra kernel diferencial"
+date: 2025-06-21
 tags:
   - geometria-diferencial/tema5
 ---

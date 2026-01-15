@@ -1,5 +1,6 @@
 ---
 title: "Lema subvariedad diferenciable"
+date: 2025-04-09
 tags:
   - geometria-diferencial/tema5
 ---

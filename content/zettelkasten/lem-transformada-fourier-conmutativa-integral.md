@@ -1,5 +1,6 @@
 ---
 title: "Lem transformada fourier conmutativa integral"
+date: 2026-01-13
 tags:
   - variable-real/tema5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Caratheodory I"
+date: 2025-02-13
 tags:
   - probabilidad-ii/hoja0
 ---

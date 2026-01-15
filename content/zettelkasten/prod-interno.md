@@ -1,5 +1,6 @@
 ---
 title: "Producto interno"
+date: 2025-03-06
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

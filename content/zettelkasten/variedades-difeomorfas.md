@@ -1,5 +1,6 @@
 ---
 title: "Variedades difeomorfas difeomorfas"
+date: 2025-02-13
 tags:
   - geometria-diferencial/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Función potencia compleja"
+date: 2025-03-04
 tags:
   - variable-compleja-i/tema2
 ---

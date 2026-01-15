@@ -1,5 +1,6 @@
 ---
 title: "Obs submersion iff pnt val regular"
+date: 2025-06-17
 tags:
   - geometria-diferencial/tema5
 ---

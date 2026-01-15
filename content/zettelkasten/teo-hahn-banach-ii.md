@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Hahn-Banach II"
+date: 2025-12-19
 tags:
   - analisis-funcional/tema3
 ---

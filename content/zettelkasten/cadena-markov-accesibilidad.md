@@ -1,5 +1,6 @@
 ---
 title: "Accesibilidad en una cadena de Markov"
+date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---

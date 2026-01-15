@@ -1,5 +1,6 @@
 ---
 title: "Números complejos"
+date: 2025-01-29
 tags:
   - variable-compleja-i/tema1
 ---

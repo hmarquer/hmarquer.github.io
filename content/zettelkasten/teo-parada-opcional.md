@@ -1,5 +1,6 @@
 ---
 title: "Teorema de parada opcional"
+date: 2025-06-15
 tags:
   - probabilidad-ii/tema4
 ---

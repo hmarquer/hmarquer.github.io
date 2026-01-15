@@ -1,5 +1,6 @@
 ---
 title: "Prop orbita accion grupo relacion equivalencia"
+date: 2025-06-23
 tags:
   - geometria-diferencial/tema6
 ---

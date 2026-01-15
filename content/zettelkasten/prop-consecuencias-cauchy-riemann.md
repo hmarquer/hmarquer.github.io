@@ -1,5 +1,6 @@
 ---
 title: "Consecuencias de las ecuaciones de Cauchy-Riemann"
+date: 2025-03-15
 tags:
   - variable-compleja-i/tema2
 ---

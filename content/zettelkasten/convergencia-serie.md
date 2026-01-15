@@ -1,5 +1,6 @@
 ---
 title: "Convergencia-serie"
+date: 2025-03-19
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

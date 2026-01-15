@@ -1,5 +1,6 @@
 ---
 title: "Función localmente Lipschitz"
+date: 2025-02-13
 ---
 
 [[fn-lipschitz-local.pdf]]

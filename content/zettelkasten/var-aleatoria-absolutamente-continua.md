@@ -1,5 +1,6 @@
 ---
 title: "Var aleatoria absolutamente continua"
+date: 2025-06-10
 tags:
   - probabilidad-ii/tema1
 ---

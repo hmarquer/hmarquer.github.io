@@ -1,5 +1,6 @@
 ---
 title: "Ideal radical"
+date: 2025-09-17
 tags:
   - algebra-conmutativa/tema1
 ---

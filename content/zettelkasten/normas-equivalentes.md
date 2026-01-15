@@ -1,5 +1,6 @@
 ---
 title: "Normas equivalentes"
+date: 2025-09-24
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Dominio euclídeo"
+date: 2026-01-10
 ---
 
 [[dominio-euclideo.pdf]]

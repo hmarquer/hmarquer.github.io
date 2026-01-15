@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad triangular inversa para normas"
+date: 2025-12-19
 tags:
   - analisis-funcional/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Esperanza condicionada a una $\\sigma$-álgebra independiente"
+date: 2025-06-14
 tags:
   - probabilidad-ii/tema4
 ---

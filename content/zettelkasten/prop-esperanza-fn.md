@@ -1,5 +1,6 @@
 ---
 title: "Esperanza de una función de una variable aleatoria"
+date: 2025-02-13
 tags:
   - probabilidad-ii/tema2
 ---

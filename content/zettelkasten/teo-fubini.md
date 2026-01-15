@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Fubini"
+date: 2025-12-11
 ---
 
 [[teo-fubini.pdf]]

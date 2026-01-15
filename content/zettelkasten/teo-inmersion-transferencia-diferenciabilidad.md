@@ -1,5 +1,6 @@
 ---
 title: "Propiedad universal de las inmersiones"
+date: 2025-04-08
 tags:
   - geometria-diferencial/tema4
 ---

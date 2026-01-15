@@ -1,5 +1,6 @@
 ---
 title: "Homotopía de arcos"
+date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---

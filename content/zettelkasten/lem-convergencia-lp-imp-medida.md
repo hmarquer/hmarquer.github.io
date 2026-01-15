@@ -1,5 +1,6 @@
 ---
 title: "Lem convergencia lp imp medida"
+date: 2025-11-01
 tags:
   - variable-real/tema2
 ---

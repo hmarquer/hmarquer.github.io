@@ -1,5 +1,6 @@
 ---
 title: "Independencia de variables aleatorias"
+date: 2025-02-11
 tags:
   - probabilidad-ii/tema1
 ---

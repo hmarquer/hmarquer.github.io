@@ -1,5 +1,6 @@
 ---
 title: "Convergencia absoluta serie"
+date: 2025-04-20
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

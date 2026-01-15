@@ -1,5 +1,6 @@
 ---
 title: "Teo extension entera ideal primo maximal iff maximal"
+date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---

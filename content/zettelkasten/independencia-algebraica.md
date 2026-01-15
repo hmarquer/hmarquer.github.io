@@ -1,5 +1,6 @@
 ---
 title: "Independencia algebraica"
+date: 2025-11-11
 tags:
   - algebra-conmutativa/tema4
 ---

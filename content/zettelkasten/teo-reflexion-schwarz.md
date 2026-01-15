@@ -1,5 +1,6 @@
 ---
 title: "Teorema de reflexión de Schwarz"
+date: 2025-12-02
 ---
 
 [[teo-reflexion-schwarz.pdf]]

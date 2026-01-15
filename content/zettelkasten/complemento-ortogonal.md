@@ -1,5 +1,6 @@
 ---
 title: "Complemento ortogonal"
+date: 2025-10-27
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

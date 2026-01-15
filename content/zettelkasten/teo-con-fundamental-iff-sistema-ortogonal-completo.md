@@ -1,5 +1,6 @@
 ---
 title: "Relación entre conjunto fundamental y sistema ortogonal completo"
+date: 2025-12-24
 tags:
   - analisis-funcional/tema2
 ---

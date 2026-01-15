@@ -1,5 +1,6 @@
 ---
 title: "Lem ideal total"
+date: 2025-09-22
 tags:
   - algebra-conmutativa/tema1
 ---

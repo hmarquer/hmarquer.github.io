@@ -1,5 +1,6 @@
 ---
 title: "Grupo simple"
+date: 2025-09-25
 ---
 
 [[grupo-simple.pdf]]

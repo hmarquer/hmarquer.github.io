@@ -1,5 +1,6 @@
 ---
 title: "Subespacio vectorial"
+date: 2025-10-25
 ---
 
 [[subesp-vectorial.pdf]]

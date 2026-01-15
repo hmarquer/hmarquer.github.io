@@ -1,5 +1,6 @@
 ---
 title: "Toda función holomorfa no identicamente nula tiene un número finito de ceros en un compacto"
+date: 2025-12-15
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

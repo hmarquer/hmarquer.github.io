@@ -1,5 +1,6 @@
 ---
 title: "Teorema de los ceros de Hilbert"
+date: 2026-01-04
 tags:
   - algebra-conmutativa/tema4
 ---

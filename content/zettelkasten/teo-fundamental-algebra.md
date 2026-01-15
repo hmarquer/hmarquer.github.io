@@ -1,5 +1,6 @@
 ---
 title: "Teorema fundamental del álgebra"
+date: 2025-05-06
 tags:
   - variable-compleja-i/tema4
 ---

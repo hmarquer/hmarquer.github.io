@@ -1,5 +1,6 @@
 ---
 title: "El espacio topológico producto de dos espacios segundo numerables es segundo numerable"
+date: 2025-02-24
 ---
 
 [[prop-topologia-producto-segundo-numerable.pdf]]

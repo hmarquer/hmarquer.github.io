@@ -1,5 +1,6 @@
 ---
 title: "Espacio afín"
+date: 2025-02-19
 tags:
   - algebra-conmutativa/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Fn-trigonometricas-complejas"
+date: 2025-12-11
 tags:
   - variable-compleja-i/tema2
 ---

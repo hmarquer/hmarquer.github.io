@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Morera para rectángulos"
+date: 2025-05-11
 tags:
   - variable-compleja-i/tema4
 ---

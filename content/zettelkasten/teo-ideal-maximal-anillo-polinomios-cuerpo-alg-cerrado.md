@@ -1,5 +1,6 @@
 ---
 title: "Teo ideal maximal anillo polinomios cuerpo alg cerrado"
+date: 2026-01-04
 tags:
   - algebra-conmutativa/tema4
 ---

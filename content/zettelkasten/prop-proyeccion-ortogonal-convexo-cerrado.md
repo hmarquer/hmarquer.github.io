@@ -1,5 +1,6 @@
 ---
 title: "Prop proyeccion ortogonal convexo cerrado"
+date: 2025-10-26
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

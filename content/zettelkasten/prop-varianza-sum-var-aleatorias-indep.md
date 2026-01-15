@@ -1,5 +1,6 @@
 ---
 title: "Prop varianza sum var aleatorias indep"
+date: 2025-06-17
 tags:
   - probabilidad-ii/tema2
 ---

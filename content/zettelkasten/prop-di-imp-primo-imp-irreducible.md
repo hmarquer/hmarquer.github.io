@@ -1,5 +1,6 @@
 ---
 title: "Prop di imp primo imp irreducible"
+date: 2026-01-10
 ---
 
 [[prop-di-imp-primo-imp-irreducible.pdf]]

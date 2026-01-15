@@ -1,5 +1,6 @@
 ---
 title: "Prop apl diferenciable diferencial inyectivo"
+date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---

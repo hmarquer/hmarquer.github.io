@@ -1,5 +1,6 @@
 ---
 title: "Proceso estocástico adaptado"
+date: 2025-04-07
 tags:
   - probabilidad-ii/tema4
 ---

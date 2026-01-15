@@ -1,5 +1,6 @@
 ---
 title: "Aplicación lineal"
+date: 2025-01-25
 tags:
   - analisis-funcional/tema2
 ---

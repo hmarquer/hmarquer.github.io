@@ -1,5 +1,6 @@
 ---
 title: "Convergencia en probabilidad implica la existencia de una subsucesión que converge casi seguro"
+date: 2025-03-17
 tags:
   - probabilidad-ii/tema3
 ---

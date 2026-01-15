@@ -1,5 +1,6 @@
 ---
 title: "Cor extension entera anillos transitiva"
+date: 2026-01-04
 tags:
   - algebra-conmutativa/tema4
 ---

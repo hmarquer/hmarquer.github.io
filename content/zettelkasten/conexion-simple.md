@@ -1,5 +1,6 @@
 ---
 title: "Conexión simple"
+date: 2025-04-30
 tags:
   - geometria-diferencial/tema6
   - variable-compleja-i/tema4

@@ -1,5 +1,6 @@
 ---
 title: "Teo bola cerrada compacta imp dim finita"
+date: 2025-10-25
 tags:
   - analisis-funcional/tema2
 ---

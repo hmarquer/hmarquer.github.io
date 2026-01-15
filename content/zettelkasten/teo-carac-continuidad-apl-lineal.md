@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de la continuidad de una aplicación lineal"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
 ---

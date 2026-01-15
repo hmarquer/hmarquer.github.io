@@ -1,5 +1,6 @@
 ---
 title: "Lem di localizacion relacion equivalencia"
+date: 2025-11-26
 tags:
   - algebra-conmutativa/tema2
 ---

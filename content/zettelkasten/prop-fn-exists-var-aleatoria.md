@@ -1,5 +1,6 @@
 ---
 title: "Prop fn exists var aleatoria"
+date: 2025-03-25
 tags:
   - probabilidad-ii/tema1
 ---

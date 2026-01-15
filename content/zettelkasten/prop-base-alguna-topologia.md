@@ -1,5 +1,6 @@
 ---
 title: "Condiciones necesarias y suficientes para ser base de alguna topología"
+date: 2025-02-24
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

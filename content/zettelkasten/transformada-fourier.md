@@ -1,5 +1,6 @@
 ---
 title: "Transformada de Fourier"
+date: 2025-10-29
 tags:
   - variable-real/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Espacio de medida"
+date: 2025-02-21
 tags:
   - variable-real/tema1
   - probabilidad-ii/hoja0

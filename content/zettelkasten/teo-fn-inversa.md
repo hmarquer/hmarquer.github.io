@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la función inversa"
+date: 2025-12-11
 ---
 
 [[teo-fn-inversa.pdf]]

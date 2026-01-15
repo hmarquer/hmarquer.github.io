@@ -1,5 +1,6 @@
 ---
 title: "Lema de aproximación por funciones simples"
+date: 2025-09-30
 tags:
   - variable-real/tema1
 ---

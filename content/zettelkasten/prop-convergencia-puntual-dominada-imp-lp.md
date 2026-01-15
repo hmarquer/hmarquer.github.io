@@ -1,5 +1,6 @@
 ---
 title: "Convergencia puntual dominada implica convergencia en $\\mathcal{L}^p$"
+date: 2025-11-04
 tags:
   - variable-real/tema2
 ---

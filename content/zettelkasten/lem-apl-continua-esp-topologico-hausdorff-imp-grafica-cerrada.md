@@ -1,5 +1,6 @@
 ---
 title: "Toda aplicación continua de un espacio topológico a un espacio de Hausdorff tiene gráfica cerrada"
+date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---

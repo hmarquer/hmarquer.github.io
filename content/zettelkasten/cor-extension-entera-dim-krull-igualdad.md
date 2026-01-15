@@ -1,5 +1,6 @@
 ---
 title: "Cor extension entera dim krull igualdad"
+date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---

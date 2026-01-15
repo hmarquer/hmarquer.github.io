@@ -1,5 +1,6 @@
 ---
 title: "Lem aprox indicatriz continua"
+date: 2025-11-01
 tags:
   - variable-real/tema1
 ---

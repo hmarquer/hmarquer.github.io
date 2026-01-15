@@ -1,5 +1,6 @@
 ---
 title: "Variable aleatoria"
+date: 2025-01-25
 tags:
   - probabilidad-ii/tema1
 ---

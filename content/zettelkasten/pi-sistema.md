@@ -1,5 +1,6 @@
 ---
 title: "$\\Pi$-sistema"
+date: 2025-02-10
 tags:
   - probabilidad-ii/tema1
 ---

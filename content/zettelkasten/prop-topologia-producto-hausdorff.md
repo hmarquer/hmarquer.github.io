@@ -1,5 +1,6 @@
 ---
 title: "El espacio topológico producto de dos espacios de Hausdorff es de Hausdorff"
+date: 2025-02-24
 ---
 
 [[prop-topologia-producto-hausdorff.pdf]]

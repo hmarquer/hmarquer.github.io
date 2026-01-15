@@ -1,5 +1,6 @@
 ---
 title: "Fórmula del núcleo de Dirichlet"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

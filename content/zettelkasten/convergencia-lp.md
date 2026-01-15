@@ -1,5 +1,6 @@
 ---
 title: "Convergencia en $\\mathcal{L}^p$"
+date: 2025-03-10
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema2

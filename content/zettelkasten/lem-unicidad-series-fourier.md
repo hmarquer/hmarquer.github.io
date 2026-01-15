@@ -1,5 +1,6 @@
 ---
 title: "Lem unicidad series fourier"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

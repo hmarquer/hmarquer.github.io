@@ -1,5 +1,6 @@
 ---
 title: "Corolario del Teorema de Baire"
+date: 2025-12-06
 tags:
   - analisis-funcional/tema4
 ---

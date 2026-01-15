@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de conjunto denso en ninguna parte"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema4
 ---

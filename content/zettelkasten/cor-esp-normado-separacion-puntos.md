@@ -1,5 +1,6 @@
 ---
 title: "Corolario de separación de puntos en un espacio normado"
+date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---

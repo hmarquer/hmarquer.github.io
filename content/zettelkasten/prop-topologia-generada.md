@@ -1,5 +1,6 @@
 ---
 title: "Topología generada por una familia de conjuntos"
+date: 2025-05-27
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

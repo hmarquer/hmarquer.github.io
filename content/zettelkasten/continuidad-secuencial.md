@@ -1,5 +1,6 @@
 ---
 title: "Continuidad secuencial"
+date: 2026-01-09
 ---
 
 [[continuidad-secuencial.pdf]]

@@ -1,5 +1,6 @@
 ---
 title: "Si el dual es separable, entonces el espacio es separable"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Continuidad del producto interno"
+date: 2026-01-09
 tags:
   - variable-real/tema3
 ---

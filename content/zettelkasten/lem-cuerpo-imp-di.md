@@ -1,5 +1,6 @@
 ---
 title: "Lem cuerpo imp di"
+date: 2025-09-21
 tags:
   - teoria-de-galois/tema1
 ---

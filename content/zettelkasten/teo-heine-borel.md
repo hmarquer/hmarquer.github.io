@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Heine-Borel"
+date: 2025-02-27
 ---
 
 [[teo-heine-borel.pdf]]

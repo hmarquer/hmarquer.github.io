@@ -1,5 +1,6 @@
 ---
 title: "Prop ideal radical iff cociente reducido"
+date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Si la topología débil es metrizable, entonces el espacio es de dimensión finita"
+date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

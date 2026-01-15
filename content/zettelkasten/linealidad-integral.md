@@ -1,5 +1,6 @@
 ---
 title: "Linealidad de la integral"
+date: 2025-12-11
 ---
 
 [[linealidad-integral.pdf]]

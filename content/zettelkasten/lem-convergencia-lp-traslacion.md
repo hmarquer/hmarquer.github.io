@@ -1,5 +1,6 @@
 ---
 title: "La traslación converge en $L^p$ a la función original"
+date: 2025-11-04
 tags:
   - variable-real/tema2
 ---

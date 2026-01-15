@@ -1,5 +1,6 @@
 ---
 title: "Criterio cauchy"
+date: 2025-04-23
 tags:
   - variable-compleja-i/tema3
 ---

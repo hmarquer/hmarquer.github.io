@@ -1,5 +1,6 @@
 ---
 title: "Producto finito de Blaschke"
+date: 2025-12-10
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

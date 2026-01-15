@@ -1,5 +1,6 @@
 ---
 title: "Aproximación en norma $\\mathcal{L}^p$ de la indicatriz por funciones continuas con soporte compacto"
+date: 2025-11-01
 tags:
   - variable-real/tema1
 ---

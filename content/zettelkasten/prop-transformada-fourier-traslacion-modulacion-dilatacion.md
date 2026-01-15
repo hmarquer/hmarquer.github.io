@@ -1,5 +1,6 @@
 ---
 title: "Prop transformada fourier traslacion modulacion dilatacion"
+date: 2026-01-13
 tags:
   - variable-real/tema5
 ---

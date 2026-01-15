@@ -1,5 +1,6 @@
 ---
 title: "Forma bilineal"
+date: 2025-02-08
 ---
 
 [[forma-bilineal.pdf]]

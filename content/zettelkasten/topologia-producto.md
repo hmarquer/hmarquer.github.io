@@ -1,5 +1,6 @@
 ---
 title: "Topología producto"
+date: 2025-02-24
 ---
 
 [[topologia-producto.pdf]]

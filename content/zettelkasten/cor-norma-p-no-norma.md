@@ -1,5 +1,6 @@
 ---
 title: "Cor norma p no norma"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---

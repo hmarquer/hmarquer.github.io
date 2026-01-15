@@ -1,5 +1,6 @@
 ---
 title: "Ecuación del calor en dimensión $1$"
+date: 2025-05-13
 ---
 
 [[ecu-calor-dim1.pdf]]

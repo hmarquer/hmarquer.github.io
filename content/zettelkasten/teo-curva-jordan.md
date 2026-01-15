@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la curva de Jordan"
+date: 2025-04-30
 ---
 
 [[teo-curva-jordan.pdf]]

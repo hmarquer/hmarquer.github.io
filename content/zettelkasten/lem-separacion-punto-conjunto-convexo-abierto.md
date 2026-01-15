@@ -1,5 +1,6 @@
 ---
 title: "Lema de separación de un punto y un conjunto convexo abierto"
+date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---

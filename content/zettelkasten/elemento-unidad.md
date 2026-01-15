@@ -1,5 +1,6 @@
 ---
 title: "Elemento unidad"
+date: 2026-01-10
 tags:
   - algebra-conmutativa/tema1
 ---

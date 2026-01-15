@@ -1,5 +1,6 @@
 ---
 title: "Codimensión de una subvariedad diferenciable"
+date: 2025-06-16
 tags:
   - geometria-diferencial/tema5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de ideal"
+date: 2025-09-22
 tags:
   - algebra-conmutativa/tema1
 ---

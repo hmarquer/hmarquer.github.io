@@ -1,5 +1,6 @@
 ---
 title: "Integral"
+date: 2025-12-11
 tags:
   - variable-real/tema1
   - probabilidad-ii/hoja0

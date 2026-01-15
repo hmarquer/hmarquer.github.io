@@ -1,5 +1,6 @@
 ---
 title: "Convergencia medida"
+date: 2025-10-07
 tags:
   - variable-real/tema2
 ---

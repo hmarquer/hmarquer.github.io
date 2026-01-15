@@ -1,5 +1,6 @@
 ---
 title: "Teorema de separación de un punto y el origen en un espacio normado"
+date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---

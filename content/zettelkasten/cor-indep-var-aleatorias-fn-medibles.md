@@ -1,5 +1,6 @@
 ---
 title: "Funciones medibles de variables aleatorias independientes"
+date: 2025-06-18
 ---
 
 [[cor-indep-var-aleatorias-fn-medibles.pdf]]

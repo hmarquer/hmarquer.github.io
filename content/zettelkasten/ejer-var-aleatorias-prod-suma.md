@@ -1,5 +1,6 @@
 ---
 title: "Ejer var aleatorias prod suma"
+date: 2025-06-18
 tags:
   - probabilidad-ii/tema1
 ---

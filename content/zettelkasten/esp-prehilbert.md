@@ -1,5 +1,6 @@
 ---
 title: "Espacio prehilbert"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema2
   - analisis-funcional/tema2

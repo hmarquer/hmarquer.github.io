@@ -1,5 +1,6 @@
 ---
 title: "Independencia de $\\pi$-sistemas"
+date: 2025-02-21
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ejer extension entera cociente"
+date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---

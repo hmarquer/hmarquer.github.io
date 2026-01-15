@@ -1,5 +1,6 @@
 ---
 title: "Las aplicaciones lineales continuas forman un espacio vectorial"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

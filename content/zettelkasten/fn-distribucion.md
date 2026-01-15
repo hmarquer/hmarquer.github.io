@@ -1,5 +1,6 @@
 ---
 title: "Función de distribución"
+date: 2025-02-05
 tags:
   - probabilidad-ii/tema1
 ---

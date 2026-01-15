@@ -1,5 +1,6 @@
 ---
 title: "Espacio topológico secuencial"
+date: 2026-01-09
 ---
 
 [[esp-topologico-secuencial.pdf]]

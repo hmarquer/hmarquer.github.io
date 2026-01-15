@@ -1,5 +1,6 @@
 ---
 title: "Grupo cociente"
+date: 2025-09-25
 ---
 
 [[grupo-cociente.pdf]]

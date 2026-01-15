@@ -1,5 +1,6 @@
 ---
 title: "Teo correspacioondencia ideales cociente"
+date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---

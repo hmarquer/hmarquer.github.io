@@ -1,5 +1,6 @@
 ---
 title: "Lema de Borel-Cantelli II"
+date: 2025-03-11
 tags:
   - probabilidad-ii/tema2
 ---

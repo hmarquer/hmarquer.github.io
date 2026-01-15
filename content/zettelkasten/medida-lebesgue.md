@@ -1,5 +1,6 @@
 ---
 title: "Medida de Lebesgue"
+date: 2025-06-10
 ---
 
 [[medida-lebesgue.pdf]]

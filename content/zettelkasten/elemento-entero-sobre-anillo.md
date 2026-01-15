@@ -1,5 +1,6 @@
 ---
 title: "Elemento entero sobre un anillo"
+date: 2025-10-28
 tags:
   - algebra-conmutativa/tema4
 ---

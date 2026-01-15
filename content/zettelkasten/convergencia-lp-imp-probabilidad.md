@@ -1,5 +1,6 @@
 ---
 title: "Convergencia en $\\mathcal{L}^p$ implica en probabilidad"
+date: 2025-03-17
 tags:
   - probabilidad-ii/tema3
 ---

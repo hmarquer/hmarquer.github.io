@@ -1,5 +1,6 @@
 ---
 title: "Curvas características de una EDP casi lineal de primer orden"
+date: 2025-03-30
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---

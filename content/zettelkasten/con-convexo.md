@@ -1,5 +1,6 @@
 ---
 title: "Conjunto convexo"
+date: 2025-05-02
 tags:
   - variable-compleja-i/tema4
   - variable-real/tema3

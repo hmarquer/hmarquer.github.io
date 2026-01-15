@@ -1,5 +1,6 @@
 ---
 title: "Conjugada armónica"
+date: 2025-03-15
 tags:
   - variable-compleja-i/tema2
 ---

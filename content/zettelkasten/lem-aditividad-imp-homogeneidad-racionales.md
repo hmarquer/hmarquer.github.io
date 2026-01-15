@@ -1,5 +1,6 @@
 ---
 title: "Lem aditividad imp homogeneidad racionales"
+date: 2025-09-30
 tags:
   - analisis-funcional/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "La intersección de ideales es un ideal"
+date: 2025-10-10
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Automorfismo disco unidad"
+date: 2025-08-17
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

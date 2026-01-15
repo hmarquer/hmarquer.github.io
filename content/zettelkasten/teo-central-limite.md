@@ -1,5 +1,6 @@
 ---
 title: "Teo central limite"
+date: 2025-06-18
 tags:
   - probabilidad-ii/tema5
 ---

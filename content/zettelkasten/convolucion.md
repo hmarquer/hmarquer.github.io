@@ -1,5 +1,6 @@
 ---
 title: "Convolución de dos funciones"
+date: 2025-10-09
 tags:
   - variable-real/parcial
   - variable-real/tema2

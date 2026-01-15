@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Euler-Lagrange"
+date: 2025-05-23
 tags:
   - modelizacion/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de la dilatación isotrópica"
+date: 2026-01-11
 tags:
   - variable-real/tema2
 ---

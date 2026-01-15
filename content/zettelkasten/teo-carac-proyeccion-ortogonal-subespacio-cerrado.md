@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de la proyección ortogonal en un subespacio cerrado"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

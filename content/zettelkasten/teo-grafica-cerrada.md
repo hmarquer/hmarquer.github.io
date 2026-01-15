@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la gráfica cerrada"
+date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Base hamel"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---

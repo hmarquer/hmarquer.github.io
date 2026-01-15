@@ -1,5 +1,6 @@
 ---
 title: "Arcos homotopos"
+date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---

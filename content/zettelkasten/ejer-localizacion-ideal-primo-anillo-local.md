@@ -1,5 +1,6 @@
 ---
 title: "Ejer localizacion ideal primo anillo local"
+date: 2026-01-10
 tags:
   - algebra-conmutativa/tema2
 ---

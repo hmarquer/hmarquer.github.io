@@ -1,5 +1,6 @@
 ---
 title: "Toda subvariedad diferenciable es una variedad diferenciable"
+date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---

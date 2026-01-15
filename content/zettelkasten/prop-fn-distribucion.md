@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de la función de distribución"
+date: 2025-03-25
 tags:
   - probabilidad-ii/tema1
 ---

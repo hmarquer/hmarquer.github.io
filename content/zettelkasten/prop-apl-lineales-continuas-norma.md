@@ -1,5 +1,6 @@
 ---
 title: "La norma en el espacio de aplicaciones lineales continuas"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

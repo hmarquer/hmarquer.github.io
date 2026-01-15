@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de las involuciones del disco unidad"
+date: 2025-12-10
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad de Jensen"
+date: 2025-02-20
 tags:
   - variable-real/parcial
   - variable-real/tema1

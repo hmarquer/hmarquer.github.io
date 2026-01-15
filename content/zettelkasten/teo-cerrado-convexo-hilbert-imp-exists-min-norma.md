@@ -1,5 +1,6 @@
 ---
 title: "Teo cerrado convexo hilbert imp exists min norma"
+date: 2025-10-26
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

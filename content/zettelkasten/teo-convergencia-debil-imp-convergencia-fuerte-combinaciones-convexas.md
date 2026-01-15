@@ -1,5 +1,6 @@
 ---
 title: "Convergencia débil implica convergencia fuerte de combinaciones convexas"
+date: 2026-01-06
 tags:
   - analisis-funcional/tema5
 ---

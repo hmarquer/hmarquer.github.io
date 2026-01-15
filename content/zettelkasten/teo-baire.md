@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Baire"
+date: 2025-12-03
 tags:
   - analisis-funcional/tema4
 ---

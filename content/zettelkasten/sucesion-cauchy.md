@@ -1,5 +1,6 @@
 ---
 title: "Sucesión de Cauchy"
+date: 2025-02-05
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
   - analisis-funcional/tema2

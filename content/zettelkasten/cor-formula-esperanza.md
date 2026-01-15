@@ -1,5 +1,6 @@
 ---
 title: "Fórmula de la esperanza"
+date: 2025-03-27
 tags:
   - probabilidad-ii/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Propiedad universal de las submersiones sobreyectivas"
+date: 2025-06-08
 tags:
   - geometria-diferencial/tema4
 ---

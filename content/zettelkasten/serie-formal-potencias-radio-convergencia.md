@@ -1,5 +1,6 @@
 ---
 title: "Radio de convergencia de una serie de potencias"
+date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---

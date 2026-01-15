@@ -1,5 +1,6 @@
 ---
 title: "$\\sigma$-álgebra generada por una función"
+date: 2025-02-21
 tags:
   - probabilidad-ii/tema1
 ---

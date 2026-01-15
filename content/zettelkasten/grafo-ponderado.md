@@ -1,5 +1,6 @@
 ---
 title: "Grafo ponderado"
+date: 2025-03-20
 ---
 
 [[grafo-ponderado.pdf]]

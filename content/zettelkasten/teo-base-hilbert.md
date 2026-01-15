@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la base de Hilbert"
+date: 2025-12-16
 tags:
   - algebra-conmutativa/tema2
 ---

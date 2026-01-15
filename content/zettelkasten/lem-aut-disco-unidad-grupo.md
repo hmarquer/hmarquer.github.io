@@ -1,5 +1,6 @@
 ---
 title: "Lem aut disco unidad grupo"
+date: 2025-12-10
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

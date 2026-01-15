@@ -1,5 +1,6 @@
 ---
 title: "Conjunto acotado"
+date: 2025-02-05
 tags:
   - variable-compleja-i/tema1
 ---

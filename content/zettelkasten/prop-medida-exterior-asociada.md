@@ -1,5 +1,6 @@
 ---
 title: "Medida exterior asociada"
+date: 2025-02-13
 ---
 
 [[prop-medida-exterior-asociada.pdf]]

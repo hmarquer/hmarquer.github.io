@@ -1,5 +1,6 @@
 ---
 title: "Dual algebraico"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
 ---

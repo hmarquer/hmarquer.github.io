@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad de Hölder"
+date: 2025-02-27
 tags:
   - variable-real/tema1
   - probabilidad-ii/tema2

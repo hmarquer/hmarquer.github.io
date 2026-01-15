@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Hardy-Littlewood"
+date: 2026-01-12
 tags:
   - variable-real/tema2
 ---

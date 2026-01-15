@@ -1,5 +1,6 @@
 ---
 title: "Caracterizaciones de la convergencia casi segura"
+date: 2025-06-19
 tags:
   - probabilidad-ii/tema3
 ---

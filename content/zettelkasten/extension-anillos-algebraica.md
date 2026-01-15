@@ -1,5 +1,6 @@
 ---
 title: "Extensión de anillos algebraica"
+date: 2025-12-31
 tags:
   - algebra-conmutativa/tema4
 ---

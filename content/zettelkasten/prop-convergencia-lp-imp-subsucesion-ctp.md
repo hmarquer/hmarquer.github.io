@@ -1,5 +1,6 @@
 ---
 title: "Convergencia en $L^p$ implica existencia de subsucesión con convergencia c.t.p."
+date: 2025-10-19
 tags:
   - variable-real/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Todo espacio $L^2$ es un espacio de Hilbert"
+date: 2025-04-03
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

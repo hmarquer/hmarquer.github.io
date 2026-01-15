@@ -1,5 +1,6 @@
 ---
 title: "Espacio proyectivo real"
+date: 2025-03-06
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Función \\textit{bump}"
+date: 2025-02-20
 tags:
   - geometria-diferencial/tema2
 ---

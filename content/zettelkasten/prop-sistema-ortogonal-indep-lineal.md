@@ -1,5 +1,6 @@
 ---
 title: "Todo sistema ortogonal es linealmente independiente"
+date: 2025-10-28
 tags:
   - variable-real/tema3
 ---

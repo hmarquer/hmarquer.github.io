@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Cauchy-Hadamard"
+date: 2025-03-24
 tags:
   - variable-compleja-i/tema3
 ---

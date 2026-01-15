@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Isomorfismos de Banach"
+date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---

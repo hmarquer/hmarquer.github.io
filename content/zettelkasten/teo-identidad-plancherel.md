@@ -1,5 +1,6 @@
 ---
 title: "Identidad de Plancherel"
+date: 2026-01-09
 tags:
   - variable-real/tema3
 ---

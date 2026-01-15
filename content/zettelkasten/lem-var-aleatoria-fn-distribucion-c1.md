@@ -1,5 +1,6 @@
 ---
 title: "Lem var aleatoria fn distribucion c1"
+date: 2025-06-10
 tags:
   - probabilidad-ii/tema1
 ---

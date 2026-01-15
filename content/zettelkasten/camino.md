@@ -1,5 +1,6 @@
 ---
 title: "Camino"
+date: 2025-04-30
 tags:
   - variable-compleja-i/tema4
 ---

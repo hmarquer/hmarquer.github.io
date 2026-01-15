@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Pitágoras"
+date: 2025-10-28
 tags:
   - variable-real/tema3
 ---

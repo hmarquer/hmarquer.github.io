@@ -1,5 +1,6 @@
 ---
 title: "Ley débil de los grandes números"
+date: 2025-06-17
 tags:
   - probabilidad-ii/tema5
 ---

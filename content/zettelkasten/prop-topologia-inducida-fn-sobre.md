@@ -1,5 +1,6 @@
 ---
 title: "Topología inducida por función sobreyectiva"
+date: 2025-02-11
 tags:
   - geometria-diferencial/tema1
 ---

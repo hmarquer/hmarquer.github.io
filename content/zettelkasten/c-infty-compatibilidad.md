@@ -1,5 +1,6 @@
 ---
 title: "Compatibilidad $\\mathcal{C}^\\infty$ entre cartas"
+date: 2025-02-03
 tags:
   - geometria-diferencial/tema1
 ---

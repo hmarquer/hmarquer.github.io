@@ -1,5 +1,6 @@
 ---
 title: "Conjunto cerrado implica secuencialmente cerrado"
+date: 2026-01-09
 ---
 
 [[prop-con-cerrado-imp-secuencialmente-cerrado.pdf]]

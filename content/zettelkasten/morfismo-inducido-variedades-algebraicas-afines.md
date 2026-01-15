@@ -1,5 +1,6 @@
 ---
 title: "Morfismo de $K$-álgebras inducido por un morfismo de variedades algebraicas afines"
+date: 2026-01-05
 tags:
   - algebra-conmutativa/tema5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Teo di finito imp cuerpo"
+date: 2026-01-10
 ---
 
 [[teo-di-finito-imp-cuerpo.pdf]]

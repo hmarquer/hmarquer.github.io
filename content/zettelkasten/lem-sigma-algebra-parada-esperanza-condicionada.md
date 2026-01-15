@@ -1,5 +1,6 @@
 ---
 title: "Lem sigma algebra parada esperanza condicionada"
+date: 2025-06-15
 tags:
   - probabilidad-ii/tema4
 ---

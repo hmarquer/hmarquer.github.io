@@ -1,5 +1,6 @@
 ---
 title: "Prop carac espacio banach convergencia series"
+date: 2025-09-23
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de una subvariedad diferenciable por un cubrimiento por abiertos"
+date: 2025-06-21
 tags:
   - geometria-diferencial/tema5
 ---

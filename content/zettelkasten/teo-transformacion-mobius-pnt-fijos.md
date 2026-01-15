@@ -1,5 +1,6 @@
 ---
 title: "Teorema de puntos fijos de una transformación de Möbius"
+date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---

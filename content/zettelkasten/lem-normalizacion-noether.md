@@ -1,5 +1,6 @@
 ---
 title: "Lema de normalización de Noether"
+date: 2025-12-31
 tags:
   - algebra-conmutativa/tema4
 ---

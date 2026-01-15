@@ -1,5 +1,6 @@
 ---
 title: "Cor:convergencia serie cualquier n0"
+date: 2025-04-23
 tags:
   - variable-compleja-i/tema3
 ---

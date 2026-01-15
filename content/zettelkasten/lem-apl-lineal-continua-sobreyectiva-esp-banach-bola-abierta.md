@@ -1,5 +1,6 @@
 ---
 title: "Lema técnico sobre una aplicación lineal continua y sobreyectiva entre espacios de Banach"
+date: 2025-12-09
 tags:
   - analisis-funcional/tema4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Continuidad"
+date: 2025-12-11
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
   - variable-compleja-i/tema1

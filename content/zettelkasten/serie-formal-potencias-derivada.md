@@ -1,5 +1,6 @@
 ---
 title: "Serie-formal-potencias-derivada"
+date: 2025-03-19
 ---
 
 [[serie-formal-potencias-derivada.pdf]]

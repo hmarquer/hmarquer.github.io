@@ -1,5 +1,6 @@
 ---
 title: "Curva diferenciable"
+date: 2025-02-25
 tags:
   - geometria-diferencial/tema3
 ---

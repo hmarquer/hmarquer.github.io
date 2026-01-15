@@ -1,5 +1,6 @@
 ---
 title: "Funcional de Minkowski asociado a un conjunto convexo"
+date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---

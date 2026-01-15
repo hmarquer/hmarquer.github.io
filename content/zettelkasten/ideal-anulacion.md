@@ -1,5 +1,6 @@
 ---
 title: "Ideal de anulación"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---

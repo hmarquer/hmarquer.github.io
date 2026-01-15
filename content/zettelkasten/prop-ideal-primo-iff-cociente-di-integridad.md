@@ -1,5 +1,6 @@
 ---
 title: "Prop ideal primo iff cociente di integridad"
+date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---

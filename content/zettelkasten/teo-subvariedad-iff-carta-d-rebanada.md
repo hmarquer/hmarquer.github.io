@@ -1,5 +1,6 @@
 ---
 title: "Teo subvariedad iff carta d rebanada"
+date: 2025-06-16
 tags:
   - geometria-diferencial/tema5
 ---

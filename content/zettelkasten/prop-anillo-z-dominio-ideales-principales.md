@@ -1,5 +1,6 @@
 ---
 title: "$\\Z$ es un dominio de ideales principales"
+date: 2026-01-10
 ---
 
 [[prop-anillo-z-dominio-ideales-principales.pdf]]

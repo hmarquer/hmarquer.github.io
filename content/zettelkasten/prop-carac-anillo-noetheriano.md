@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de un anillo noetheriano"
+date: 2025-12-16
 tags:
   - algebra-conmutativa/tema2
 ---

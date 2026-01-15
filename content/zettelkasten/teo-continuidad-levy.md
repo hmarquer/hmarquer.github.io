@@ -1,5 +1,6 @@
 ---
 title: "Teorema de continuidad de Lévy"
+date: 2025-06-18
 tags:
   - probabilidad-ii/tema5
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Dos espacios normados relacionados por una isometría biyectiva son reflexivos simultáneamente"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

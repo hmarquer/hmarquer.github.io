@@ -1,5 +1,6 @@
 ---
 title: "Convergencia casi segura"
+date: 2025-03-10
 tags:
   - probabilidad-ii/tema3
 ---

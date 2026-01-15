@@ -1,5 +1,6 @@
 ---
 title: "Extensión de cuerpos"
+date: 2025-02-01
 ---
 
 [[extension.pdf]]

@@ -1,5 +1,6 @@
 ---
 title: "Serie de Fourier en $\\mathcal{L}^1$"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

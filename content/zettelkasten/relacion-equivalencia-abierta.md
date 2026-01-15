@@ -1,5 +1,6 @@
 ---
 title: "Relación de equivalencia abierta"
+date: 2025-02-12
 tags:
   - geometria-diferencial/tema1
 ---

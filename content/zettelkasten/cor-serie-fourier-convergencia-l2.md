@@ -1,5 +1,6 @@
 ---
 title: "Cor serie fourier convergencia l2"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

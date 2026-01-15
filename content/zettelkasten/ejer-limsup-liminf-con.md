@@ -1,5 +1,6 @@
 ---
 title: "Ejer limsup liminf con"
+date: 2025-06-19
 tags:
   - probabilidad-ii/tema2
 ---

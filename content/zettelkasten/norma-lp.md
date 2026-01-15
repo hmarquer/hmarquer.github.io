@@ -1,5 +1,6 @@
 ---
 title: "Norma $\\mathcal{L}^p$"
+date: 2025-03-05
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1

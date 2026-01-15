@@ -1,5 +1,6 @@
 ---
 title: "Dos aplicaciones lineales son equivalentes si y solo si tienen el mismo rango"
+date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---

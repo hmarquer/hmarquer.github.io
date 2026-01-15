@@ -1,5 +1,6 @@
 ---
 title: "Probabilidad total"
+date: 2025-03-18
 tags:
   - probabilidad-ii/tema1
 ---

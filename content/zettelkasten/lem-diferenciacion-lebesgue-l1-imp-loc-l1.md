@@ -1,5 +1,6 @@
 ---
 title: "Lem diferenciacion lebesgue l1 imp loc l1"
+date: 2026-01-12
 tags:
   - variable-real/tema2
 ---

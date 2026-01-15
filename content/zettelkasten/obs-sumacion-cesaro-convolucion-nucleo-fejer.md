@@ -1,5 +1,6 @@
 ---
 title: "Obs sumacion cesaro convolucion nucleo fejer"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

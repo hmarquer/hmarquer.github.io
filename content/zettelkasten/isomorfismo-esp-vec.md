@@ -1,5 +1,6 @@
 ---
 title: "Isomorfismo entre espacios vectoriales"
+date: 2025-02-19
 ---
 
 [[isomorfismo-esp-vec.pdf]]

@@ -1,5 +1,6 @@
 ---
 title: "$\\sigma$-álgebra de cola"
+date: 2025-03-11
 tags:
   - probabilidad-ii/tema2
 ---

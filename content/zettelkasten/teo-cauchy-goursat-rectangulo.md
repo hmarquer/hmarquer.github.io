@@ -1,5 +1,6 @@
 ---
 title: "Teo cauchy goursat rectangulos"
+date: 2025-05-02
 tags:
   - variable-compleja-i/tema4
 ---

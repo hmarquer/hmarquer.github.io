@@ -1,5 +1,6 @@
 ---
 title: "Isometría de un sistema ortonormal finito a $\\mathbb{K}^n$"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
 ---

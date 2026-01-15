@@ -1,5 +1,6 @@
 ---
 title: "En un espacio de Hilbert, convergencia débil y en norma implica convergencia fuerte"
+date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

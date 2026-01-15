@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Banach-Alaoglu"
+date: 2026-01-07
 tags:
   - analisis-funcional/tema5
 ---

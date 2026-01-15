@@ -1,5 +1,6 @@
 ---
 title: "Laplaciano"
+date: 2025-12-11
 tags:
   - productos-finitos-de-blaschke/anexo
   - ecuaciones-en-derivadas-parciales/tema4

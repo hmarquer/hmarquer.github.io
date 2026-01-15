@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la función implícita"
+date: 2025-02-04
 ---
 
 [[teo-fn-implicita.pdf]]

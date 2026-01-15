@@ -1,5 +1,6 @@
 ---
 title: "Propiedades del direfencial de una aplicación diferenciable"
+date: 2025-06-05
 tags:
   - geometria-diferencial/tema3
 ---

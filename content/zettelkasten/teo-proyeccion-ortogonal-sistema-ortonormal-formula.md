@@ -1,5 +1,6 @@
 ---
 title: "Fórmula para la proyección ortogonal en un sistema ortonormal finito"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
 ---

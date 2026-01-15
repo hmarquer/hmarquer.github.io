@@ -1,5 +1,6 @@
 ---
 title: "Digrafo ponderado"
+date: 2025-03-20
 ---
 
 [[digrafo-ponderado.pdf]]

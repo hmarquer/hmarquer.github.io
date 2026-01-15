@@ -1,5 +1,6 @@
 ---
 title: "Función regular de variedad algebraica afín"
+date: 2025-12-31
 tags:
   - algebra-conmutativa/tema5
 ---

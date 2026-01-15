@@ -1,5 +1,6 @@
 ---
 title: "Axiomas de separación"
+date: 2025-01-30
 ---
 
 [[axm-separacion.pdf]]

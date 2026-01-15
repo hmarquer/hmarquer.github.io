@@ -1,5 +1,6 @@
 ---
 title: "Lem-relacion-equivalencia-abierta-segundo-numerable"
+date: 2025-02-27
 tags:
   - geometria-diferencial/tema1
 ---

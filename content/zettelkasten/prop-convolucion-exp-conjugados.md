@@ -1,5 +1,6 @@
 ---
 title: "Propiedad de la convolución para exponentes conjugados"
+date: 2025-11-04
 tags:
   - variable-real/tema2
 ---

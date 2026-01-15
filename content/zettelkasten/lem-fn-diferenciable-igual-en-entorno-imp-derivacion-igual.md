@@ -1,5 +1,6 @@
 ---
 title: "Si dos funciones diferenciables coinciden en un entorno de $p$, sus derivadas coinciden en $p$"
+date: 2025-06-05
 tags:
   - geometria-diferencial/tema3
 ---

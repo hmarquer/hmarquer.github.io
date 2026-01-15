@@ -1,5 +1,6 @@
 ---
 title: "Convergencia uniforme de funciones"
+date: 2025-03-03
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-compleja-i/tema3

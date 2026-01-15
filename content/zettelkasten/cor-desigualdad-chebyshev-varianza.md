@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad de Chebyshev con la varianza"
+date: 2025-06-13
 tags:
   - probabilidad-ii/tema2
 ---

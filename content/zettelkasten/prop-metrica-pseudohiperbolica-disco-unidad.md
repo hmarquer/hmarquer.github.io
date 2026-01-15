@@ -1,5 +1,6 @@
 ---
 title: "Prop metrica pseudohiperbolica disco unidad"
+date: 2025-10-03
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Teorema de inversión de la transformada de Fourier"
+date: 2026-01-13
 tags:
   - variable-real/tema5
 ---

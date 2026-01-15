@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de la convolución"
+date: 2025-11-04
 tags:
   - variable-real/parcial
   - variable-real/tema2

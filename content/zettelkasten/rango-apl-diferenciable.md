@@ -1,5 +1,6 @@
 ---
 title: "Rango-apl-diferenciable"
+date: 2025-03-10
 tags:
   - geometria-diferencial/tema4
 ---

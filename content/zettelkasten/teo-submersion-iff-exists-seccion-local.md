@@ -1,5 +1,6 @@
 ---
 title: "Teo submersion iff exists sección local"
+date: 2025-04-09
 tags:
   - geometria-diferencial/tema4
 ---

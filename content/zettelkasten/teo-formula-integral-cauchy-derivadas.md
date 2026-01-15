@@ -1,5 +1,6 @@
 ---
 title: "Fórmula integral de Cauchy para derivadas de orden arbitrario"
+date: 2025-05-11
 tags:
   - variable-compleja-i/tema4
 ---

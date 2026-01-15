@@ -1,5 +1,6 @@
 ---
 title: "Espacio medida finito"
+date: 2025-10-17
 tags:
   - variable-real/tema1
 ---

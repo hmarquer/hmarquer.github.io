@@ -1,5 +1,6 @@
 ---
 title: "Variedad riemanniana"
+date: 2025-08-18
 ---
 
 [[variedad-riemanniana.pdf]]

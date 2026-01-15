@@ -1,5 +1,6 @@
 ---
 title: "Anillo de coordenadas de variedad algebraica afín"
+date: 2026-01-05
 tags:
   - algebra-conmutativa/tema5
 ---

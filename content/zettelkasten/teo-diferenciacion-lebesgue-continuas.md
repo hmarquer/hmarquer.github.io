@@ -1,5 +1,6 @@
 ---
 title: "Teorema de diferenciación de Lebesgue para funciones continuas"
+date: 2026-01-12
 tags:
   - variable-real/tema2
 ---

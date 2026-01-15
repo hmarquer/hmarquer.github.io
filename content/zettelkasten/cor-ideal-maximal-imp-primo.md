@@ -1,5 +1,6 @@
 ---
 title: "Todo ideal maximal es un ideal primo"
+date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---

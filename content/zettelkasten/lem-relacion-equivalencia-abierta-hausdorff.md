@@ -1,5 +1,6 @@
 ---
 title: "Relación de equivalencia abierta y espacio cociente de Hausdorff"
+date: 2025-02-28
 tags:
   - geometria-diferencial/tema1
 ---

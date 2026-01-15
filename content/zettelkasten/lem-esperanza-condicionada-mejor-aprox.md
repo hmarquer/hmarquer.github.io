@@ -1,5 +1,6 @@
 ---
 title: "Lem espacioeranza condicionada mejor aprox"
+date: 2025-06-14
 tags:
   - probabilidad-ii/tema4
 ---

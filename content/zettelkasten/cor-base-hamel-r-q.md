@@ -1,5 +1,6 @@
 ---
 title: "Base de Hamel de $\\R$ como $\\Q$-espacio vectorial"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Arco"
+date: 2025-05-11
 tags:
   - geometria-diferencial/tema6
 ---

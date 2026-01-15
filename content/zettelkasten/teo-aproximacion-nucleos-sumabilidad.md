@@ -1,5 +1,6 @@
 ---
 title: "Teorema de aproximación por un núcleo de sumabilidad"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

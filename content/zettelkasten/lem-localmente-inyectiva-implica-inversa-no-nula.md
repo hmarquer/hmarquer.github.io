@@ -1,5 +1,6 @@
 ---
 title: "Lem localmente inyectiva implica inversa no nula"
+date: 2025-09-16
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

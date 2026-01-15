@@ -1,5 +1,6 @@
 ---
 title: "Cor indep var aleatorias iff indep fn distribucion"
+date: 2025-06-11
 tags:
   - probabilidad-ii/tema1
 ---

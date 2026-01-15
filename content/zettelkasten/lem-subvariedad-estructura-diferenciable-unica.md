@@ -1,5 +1,6 @@
 ---
 title: "Lem subvariedad estructura diferenciable unica"
+date: 2025-06-16
 tags:
   - geometria-diferencial/tema5
 ---

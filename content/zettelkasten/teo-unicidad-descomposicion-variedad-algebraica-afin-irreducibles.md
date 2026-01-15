@@ -1,5 +1,6 @@
 ---
 title: "Unicidad de la descomposición de una variedad algebraica afín en irreducibles"
+date: 2025-12-16
 tags:
   - algebra-conmutativa/tema3
 ---

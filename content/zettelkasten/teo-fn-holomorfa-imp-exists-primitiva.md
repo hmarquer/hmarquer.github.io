@@ -1,5 +1,6 @@
 ---
 title: "Toda función holomorfa tiene primitiva holomorfa"
+date: 2025-05-02
 tags:
   - variable-compleja-i/tema4
 ---

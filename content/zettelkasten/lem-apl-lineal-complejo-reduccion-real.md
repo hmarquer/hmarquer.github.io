@@ -1,5 +1,6 @@
 ---
 title: "Lema de reducción a la parte real para aplicaciones lineales complejas"
+date: 2025-12-19
 tags:
   - analisis-funcional/tema3
 ---

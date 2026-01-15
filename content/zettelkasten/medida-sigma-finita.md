@@ -1,5 +1,6 @@
 ---
 title: "Medida sigma finita"
+date: 2025-05-04
 tags:
   - variable-real/tema1
 ---

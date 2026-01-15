@@ -1,5 +1,6 @@
 ---
 title: "Corolario del orden de las normas $\\mathcal{L}^p$"
+date: 2025-03-27
 tags:
   - probabilidad-ii/tema2
 ---

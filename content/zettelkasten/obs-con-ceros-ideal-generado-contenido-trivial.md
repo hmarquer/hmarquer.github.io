@@ -1,5 +1,6 @@
 ---
 title: "Contenido trivial del conjunto de ceros de un ideal generado"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---

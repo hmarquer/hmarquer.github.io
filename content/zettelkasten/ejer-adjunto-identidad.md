@@ -1,5 +1,6 @@
 ---
 title: "El adjunto de la identidad es la identidad"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Conjunto secuencialmente cerrado"
+date: 2026-01-09
 ---
 
 [[con-secuencialmente-cerrado.pdf]]

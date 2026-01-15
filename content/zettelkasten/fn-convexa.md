@@ -1,5 +1,6 @@
 ---
 title: "Función convexa"
+date: 2025-02-13
 tags:
   - variable-real/parcial
   - variable-real/tema1

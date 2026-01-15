@@ -1,5 +1,6 @@
 ---
 title: "Dual topológico"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

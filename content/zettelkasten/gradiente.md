@@ -1,5 +1,6 @@
 ---
 title: "Gradiente"
+date: 2025-05-02
 ---
 
 [[gradiente.pdf]]

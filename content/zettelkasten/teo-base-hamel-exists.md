@@ -1,5 +1,6 @@
 ---
 title: "Existencia de una base de Hamel"
+date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---

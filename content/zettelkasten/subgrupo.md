@@ -1,5 +1,6 @@
 ---
 title: "Subgrupo"
+date: 2025-09-25
 ---
 
 [[subgrupo.pdf]]

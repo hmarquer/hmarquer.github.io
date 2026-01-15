@@ -1,5 +1,6 @@
 ---
 title: "Prop borel cantelli iii"
+date: 2025-06-19
 tags:
   - probabilidad-ii/tema3
 ---

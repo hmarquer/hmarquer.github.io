@@ -1,5 +1,6 @@
 ---
 title: "Fórmula de la varianza"
+date: 2025-03-27
 tags:
   - probabilidad-ii/tema2
 ---

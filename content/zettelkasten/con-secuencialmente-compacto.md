@@ -1,5 +1,6 @@
 ---
 title: "Conjunto secuencialmente compacto"
+date: 2025-11-02
 tags:
   - analisis-funcional/tema5
 ---

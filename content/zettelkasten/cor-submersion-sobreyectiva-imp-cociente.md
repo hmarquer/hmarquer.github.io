@@ -1,5 +1,6 @@
 ---
 title: "Toda submersión sobreyectiva es una aplicación cociente"
+date: 2025-06-08
 tags:
   - geometria-diferencial/tema4
 ---

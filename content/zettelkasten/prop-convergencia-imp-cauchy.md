@@ -1,5 +1,6 @@
 ---
 title: "Prop convergencia imp cauchy"
+date: 2025-10-08
 tags:
   - analisis-funcional/tema2
 ---

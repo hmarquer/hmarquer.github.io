@@ -1,5 +1,6 @@
 ---
 title: "Toda bola abierta es convexa en espacios normados"
+date: 2025-09-17
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

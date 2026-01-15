@@ -1,5 +1,6 @@
 ---
 title: "La clausura de Zariski es el conjunto de ceros del ideal de anulación"
+date: 2025-12-16
 tags:
   - algebra-conmutativa/tema3
 ---

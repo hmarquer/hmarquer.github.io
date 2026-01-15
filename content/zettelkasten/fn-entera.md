@@ -1,5 +1,6 @@
 ---
 title: "Función entera"
+date: 2025-02-12
 tags:
   - variable-compleja-i/tema2
 ---

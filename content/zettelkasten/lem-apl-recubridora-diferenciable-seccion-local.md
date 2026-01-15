@@ -1,5 +1,6 @@
 ---
 title: "Lem apl recubridora diferenciable seccion local"
+date: 2025-06-23
 tags:
   - geometria-diferencial/tema6
 ---

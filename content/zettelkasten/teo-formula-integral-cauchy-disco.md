@@ -1,5 +1,6 @@
 ---
 title: "Fórmula integral de Cauchy para discos"
+date: 2025-05-02
 tags:
   - variable-compleja-i/tema4
 ---

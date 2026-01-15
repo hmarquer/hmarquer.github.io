@@ -1,5 +1,6 @@
 ---
 title: "Espacio c0"
+date: 2025-10-17
 tags:
   - variable-real/tema1
   - analisis-funcional/tema2

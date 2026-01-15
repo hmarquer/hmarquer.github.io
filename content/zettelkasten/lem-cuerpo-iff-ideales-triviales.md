@@ -1,5 +1,6 @@
 ---
 title: "Lem cuerpo iff ideales triviales"
+date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---

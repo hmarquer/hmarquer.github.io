@@ -1,5 +1,6 @@
 ---
 title: "Prop variedad algebraica afin ideal"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---

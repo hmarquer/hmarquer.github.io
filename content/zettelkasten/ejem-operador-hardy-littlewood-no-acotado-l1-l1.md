@@ -1,5 +1,6 @@
 ---
 title: "Ejem operador hardy littlewood no acotado l1 l1"
+date: 2026-01-12
 tags:
   - variable-real/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Cadena de Markov homogénea"
+date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---

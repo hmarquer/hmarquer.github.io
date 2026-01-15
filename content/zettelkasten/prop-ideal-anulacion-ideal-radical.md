@@ -1,5 +1,6 @@
 ---
 title: "El ideal de anulación es un ideal radical"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---

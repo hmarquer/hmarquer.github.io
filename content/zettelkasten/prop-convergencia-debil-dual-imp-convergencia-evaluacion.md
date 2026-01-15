@@ -1,5 +1,6 @@
 ---
 title: "La convergencia débil y en el dual implica la convergencia de la evaluación"
+date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

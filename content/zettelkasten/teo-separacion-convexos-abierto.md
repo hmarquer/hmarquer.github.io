@@ -1,5 +1,6 @@
 ---
 title: "Teorema de separación de convexos con uno abierto"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Teorema de la proyección ortogonal"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

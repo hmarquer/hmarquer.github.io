@@ -1,5 +1,6 @@
 ---
 title: "Base de Schauder"
+date: 2025-09-23
 tags:
   - analisis-funcional/tema2
 ---

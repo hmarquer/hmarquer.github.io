@@ -1,5 +1,6 @@
 ---
 title: "Conexión por arcos"
+date: 2025-05-11
 tags:
   - geometria-diferencial/tema6
 ---

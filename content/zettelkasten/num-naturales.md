@@ -1,5 +1,6 @@
 ---
 title: "Números naturales"
+date: 2025-02-03
 ---
 
 [[num-naturales.pdf]]

@@ -1,5 +1,6 @@
 ---
 title: "Teo espacio vectorial normado dim finita imp isomorfo kn"
+date: 2025-11-02
 tags:
   - analisis-funcional/tema2
 ---

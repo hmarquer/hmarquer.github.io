@@ -1,5 +1,6 @@
 ---
 title: "Base de la topología de subespacio"
+date: 2025-02-24
 ---
 
 [[base-topologia-subespacio.pdf]]

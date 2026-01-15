@@ -1,5 +1,6 @@
 ---
 title: "Espacio de aplicaciones lineales continuas"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

@@ -1,5 +1,6 @@
 ---
 title: "Toda aplicación abierta entre espacios normados es sobreyectiva"
+date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---

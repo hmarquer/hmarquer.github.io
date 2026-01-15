@@ -1,5 +1,6 @@
 ---
 title: "Inclusión de espacios $L^p$ en espacios de medida finita"
+date: 2025-10-19
 tags:
   - variable-real/parcial
   - variable-real/tema1

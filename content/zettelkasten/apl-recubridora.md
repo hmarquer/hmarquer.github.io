@@ -1,5 +1,6 @@
 ---
 title: "Aplicación recubridora"
+date: 2025-06-21
 tags:
   - geometria-diferencial/tema6
 ---

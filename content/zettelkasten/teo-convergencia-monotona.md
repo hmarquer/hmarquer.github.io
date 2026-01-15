@@ -1,5 +1,6 @@
 ---
 title: "Teorema de convergencia monótona"
+date: 2025-01-26
 tags:
   - variable-real/tema1
   - probabilidad-ii/hoja0

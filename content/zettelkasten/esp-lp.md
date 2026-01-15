@@ -1,5 +1,6 @@
 ---
 title: "Espacio \\texorpdfstring{$\\mathcal{L}^p$}{Lp}"
+date: 2025-02-20
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1

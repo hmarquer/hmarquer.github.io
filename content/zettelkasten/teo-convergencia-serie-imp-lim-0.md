@@ -1,5 +1,6 @@
 ---
 title: "Teo convergencia serie imp lim 0"
+date: 2025-04-24
 tags:
   - variable-compleja-i/tema3
 ---

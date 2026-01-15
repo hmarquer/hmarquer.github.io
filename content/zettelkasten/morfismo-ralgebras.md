@@ -1,5 +1,6 @@
 ---
 title: "Morfismo de $R$-álgebras"
+date: 2026-01-05
 tags:
   - algebra-conmutativa/tema2
 ---

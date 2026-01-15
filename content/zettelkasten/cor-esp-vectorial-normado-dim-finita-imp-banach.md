@@ -1,5 +1,6 @@
 ---
 title: "Todo espacio vectorial normado de dimensión finita es de Banach"
+date: 2025-11-02
 tags:
   - analisis-funcional/tema2
 ---

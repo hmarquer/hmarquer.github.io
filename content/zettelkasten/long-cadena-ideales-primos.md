@@ -1,5 +1,6 @@
 ---
 title: "Longitud de una cadena de ideales primos"
+date: 2025-12-03
 tags:
   - algebra-conmutativa/tema6
 ---

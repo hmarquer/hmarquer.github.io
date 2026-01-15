@@ -1,5 +1,6 @@
 ---
 title: "Derivación"
+date: 2025-02-19
 tags:
   - geometria-diferencial/tema3
 ---

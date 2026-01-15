@@ -1,5 +1,6 @@
 ---
 title: "Para una extensión entera de dominios de integridad, $A$ es cuerpo si y solo si $B$ es cuerpo"
+date: 2025-12-31
 tags:
   - algebra-conmutativa/tema4
 ---

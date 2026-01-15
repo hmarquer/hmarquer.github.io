@@ -1,5 +1,6 @@
 ---
 title: "Espacio de probabilidad"
+date: 2025-01-25
 tags:
   - variable-real/tema1
   - probabilidad-i/2.2-probabilidad-i

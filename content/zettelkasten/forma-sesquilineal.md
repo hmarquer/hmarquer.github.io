@@ -1,5 +1,6 @@
 ---
 title: "Forma sesquilineal"
+date: 2025-03-06
 ---
 
 [[forma-sesquilineal.pdf]]

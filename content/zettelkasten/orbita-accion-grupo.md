@@ -1,5 +1,6 @@
 ---
 title: "órbita de una acción de grupo"
+date: 2025-06-21
 tags:
   - geometria-diferencial/tema6
 ---

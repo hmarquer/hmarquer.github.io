@@ -1,5 +1,6 @@
 ---
 title: "Un ideal y su radical definen la misma variedad algebraica"
+date: 2025-12-17
 tags:
   - algebra-conmutativa/tema3
 ---

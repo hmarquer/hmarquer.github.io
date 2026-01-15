@@ -1,5 +1,6 @@
 ---
 title: "Teorema de levantamiento de curvas"
+date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---

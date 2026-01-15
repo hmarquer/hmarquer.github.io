@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de la esperanza condicionada"
+date: 2025-06-13
 tags:
   - probabilidad-ii/tema4
 ---

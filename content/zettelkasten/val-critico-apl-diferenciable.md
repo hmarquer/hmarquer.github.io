@@ -1,5 +1,6 @@
 ---
 title: "Valor crítico de una aplicación diferenciable"
+date: 2025-06-17
 tags:
   - geometria-diferencial/tema5
 ---

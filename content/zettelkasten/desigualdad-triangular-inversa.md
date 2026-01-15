@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad triangular inversa"
+date: 2025-02-08
 tags:
   - analisis-funcional/tema1
 ---

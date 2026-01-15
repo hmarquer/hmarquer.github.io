@@ -1,5 +1,6 @@
 ---
 title: "Función de densidad"
+date: 2025-02-21
 tags:
   - probabilidad-ii/tema1
 ---

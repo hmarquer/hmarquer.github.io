@@ -1,5 +1,6 @@
 ---
 title: "Regla de la cadena para derivadas de Wirtinger"
+date: 2025-11-12
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

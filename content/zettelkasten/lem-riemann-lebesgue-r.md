@@ -1,5 +1,6 @@
 ---
 title: "Lema de Riemann-Lebesgue en $\\mathcal{L}^1(\\R)$"
+date: 2026-01-13
 tags:
   - variable-real/tema5
 ---

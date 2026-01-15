@@ -1,5 +1,6 @@
 ---
 title: "Teo aut disco unidad parametros"
+date: 2025-09-24
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

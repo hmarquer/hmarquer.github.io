@@ -1,5 +1,6 @@
 ---
 title: "Lema de Fatou para probabilidades"
+date: 2025-06-19
 tags:
   - probabilidad-ii/tema2
 ---

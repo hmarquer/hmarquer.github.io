@@ -1,5 +1,6 @@
 ---
 title: "Medida exterior de Lebesgue"
+date: 2025-02-13
 tags:
   - probabilidad-ii/hoja0
 ---

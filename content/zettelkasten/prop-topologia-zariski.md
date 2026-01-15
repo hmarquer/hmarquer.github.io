@@ -1,5 +1,6 @@
 ---
 title: "Topología de Zariski"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---

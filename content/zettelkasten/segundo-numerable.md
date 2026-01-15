@@ -1,5 +1,6 @@
 ---
 title: "Segundo-numerable"
+date: 2025-02-03
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
   - geometria-diferencial/tema1

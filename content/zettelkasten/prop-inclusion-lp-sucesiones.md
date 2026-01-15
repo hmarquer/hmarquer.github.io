@@ -1,5 +1,6 @@
 ---
 title: "Inclusión de espacios $\\ell^p$"
+date: 2025-10-19
 tags:
   - variable-real/tema1
 ---

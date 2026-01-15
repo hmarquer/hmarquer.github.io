@@ -1,5 +1,6 @@
 ---
 title: "Operador maximal de Hardy-Littlewood"
+date: 2025-12-30
 tags:
   - variable-real/tema2
 ---

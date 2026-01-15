@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Radon-Nikodym"
+date: 2025-05-04
 tags:
   - probabilidad-ii/hoja0
 ---

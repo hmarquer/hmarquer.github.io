@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad de Markov"
+date: 2025-06-11
 tags:
   - probabilidad-ii/tema2
 ---

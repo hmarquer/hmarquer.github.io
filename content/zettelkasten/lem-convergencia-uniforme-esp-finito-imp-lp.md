@@ -1,5 +1,6 @@
 ---
 title: "Lem convergencia uniforme espacio finito imp lp"
+date: 2025-11-01
 tags:
   - variable-real/tema2
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Ideal principal"
+date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---

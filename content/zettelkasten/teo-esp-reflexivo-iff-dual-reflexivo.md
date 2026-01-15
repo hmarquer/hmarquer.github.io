@@ -1,5 +1,6 @@
 ---
 title: "Un espacio normado es reflexivo si y solo si su dual es reflexivo"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Propiedades de una derivación"
+date: 2025-06-05
 tags:
   - geometria-diferencial/tema3
 ---

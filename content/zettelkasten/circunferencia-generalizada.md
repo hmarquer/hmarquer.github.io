@@ -1,5 +1,6 @@
 ---
 title: "Circunferencia generalizada"
+date: 2025-03-10
 ---
 
 [[circunferencia-generalizada.pdf]]

@@ -1,5 +1,6 @@
 ---
 title: "Prop continuidad imp continuidad secuencial"
+date: 2026-01-09
 ---
 
 [[prop-continuidad-imp-continuidad-secuencial.pdf]]

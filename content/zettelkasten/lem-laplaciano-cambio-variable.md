@@ -1,5 +1,6 @@
 ---
 title: "Lema de cambio de variable para el laplaciano"
+date: 2025-11-12
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Conjunto cociente"
+date: 2025-09-23
 ---
 
 [[con-cociente.pdf]]

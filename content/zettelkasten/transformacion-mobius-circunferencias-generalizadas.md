@@ -1,5 +1,6 @@
 ---
 title: "Toda transformación de Möbius manda circunferencias generalizadas a circunferencias generalizadas"
+date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---

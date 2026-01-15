@@ -1,5 +1,6 @@
 ---
 title: "Una aplicación entre espacios vectoriales es lineal si y solo si su gráfica es un subespacio vectorial"
+date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---

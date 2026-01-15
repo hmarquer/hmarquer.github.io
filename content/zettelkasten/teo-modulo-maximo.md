@@ -1,5 +1,6 @@
 ---
 title: "Principio del módulo máximo"
+date: 2025-09-26
 tags:
   - variable-compleja-i/tema4
 ---

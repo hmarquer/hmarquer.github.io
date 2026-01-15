@@ -1,5 +1,6 @@
 ---
 title: "La suma de funciones medibles es medible"
+date: 2025-02-21
 ---
 
 [[prop-suma-fn-medibles.pdf]]

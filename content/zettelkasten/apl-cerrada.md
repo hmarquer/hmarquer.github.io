@@ -1,5 +1,6 @@
 ---
 title: "Aplicación cerrada"
+date: 2025-02-11
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

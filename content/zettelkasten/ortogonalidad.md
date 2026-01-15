@@ -1,5 +1,6 @@
 ---
 title: "Ortogonalidad"
+date: 2025-05-14
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

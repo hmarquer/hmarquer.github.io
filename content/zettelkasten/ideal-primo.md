@@ -1,5 +1,6 @@
 ---
 title: "Ideal primo"
+date: 2025-09-16
 tags:
   - algebra-conmutativa/tema1
 ---

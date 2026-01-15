@@ -1,5 +1,6 @@
 ---
 title: "Espacios"
+date: 2026-01-09
 ---
 
 [[espacios.pdf]]

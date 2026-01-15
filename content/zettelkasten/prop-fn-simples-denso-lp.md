@@ -1,5 +1,6 @@
 ---
 title: "Densidad de las funciones simples en $L^p$"
+date: 2025-10-19
 tags:
   - variable-real/tema1
 ---

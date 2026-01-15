@@ -1,5 +1,6 @@
 ---
 title: "Cor inmersion inyectiva imp embebimiento"
+date: 2025-06-21
 tags:
   - geometria-diferencial/tema4
 ---

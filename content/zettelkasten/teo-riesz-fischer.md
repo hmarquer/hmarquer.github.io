@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Riesz-Fischer"
+date: 2025-12-30
 tags:
   - variable-real/tema3
 ---

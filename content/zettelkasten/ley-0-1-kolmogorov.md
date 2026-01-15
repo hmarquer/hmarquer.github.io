@@ -1,5 +1,6 @@
 ---
 title: "Ley 0-1 de Kolmogorov"
+date: 2025-03-11
 tags:
   - probabilidad-ii/tema2
 ---

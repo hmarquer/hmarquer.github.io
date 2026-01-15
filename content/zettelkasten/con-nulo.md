@@ -1,5 +1,6 @@
 ---
 title: "Conjunto nulo para una medida"
+date: 2025-05-04
 ---
 
 [[con-nulo.pdf]]

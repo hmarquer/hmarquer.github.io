@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de la densidad de un subespacio cerrado según el espacio dual"
+date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---

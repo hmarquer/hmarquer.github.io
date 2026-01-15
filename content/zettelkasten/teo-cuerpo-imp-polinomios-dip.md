@@ -1,5 +1,6 @@
 ---
 title: "El anillo de polinomios de un cuerpo es un dominio de ideales principales"
+date: 2025-09-22
 tags:
   - algebra-conmutativa/tema1
 ---

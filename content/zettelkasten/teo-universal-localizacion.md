@@ -1,5 +1,6 @@
 ---
 title: "Propiedad universal de la localización"
+date: 2025-12-14
 tags:
   - algebra-conmutativa/tema2
 ---

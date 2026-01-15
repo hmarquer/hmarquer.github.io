@@ -1,5 +1,6 @@
 ---
 title: "Cor integral suma infinita"
+date: 2025-09-10
 tags:
   - variable-real/tema1
 ---

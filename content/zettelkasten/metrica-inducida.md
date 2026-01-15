@@ -1,5 +1,6 @@
 ---
 title: "Métrica inducida"
+date: 2025-03-06
 tags:
   - analisis-funcional/tema1
 ---

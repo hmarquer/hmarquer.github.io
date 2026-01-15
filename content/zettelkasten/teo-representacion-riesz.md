@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Representación de Riesz"
+date: 2025-11-13
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

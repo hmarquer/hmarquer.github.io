@@ -1,5 +1,6 @@
 ---
 title: "Desigualdad aritmético geométrica por Jensen"
+date: 2026-01-09
 tags:
   - variable-real/tema1
 ---

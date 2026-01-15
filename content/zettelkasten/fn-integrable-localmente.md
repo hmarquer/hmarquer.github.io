@@ -1,5 +1,6 @@
 ---
 title: "Función integrable localmente"
+date: 2026-01-12
 tags:
   - variable-real/tema2
 ---

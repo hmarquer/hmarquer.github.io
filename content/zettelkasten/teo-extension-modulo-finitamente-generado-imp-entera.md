@@ -1,5 +1,6 @@
 ---
 title: "Toda extensión que sea un módulo finitamente generado, es entera"
+date: 2025-12-31
 tags:
   - algebra-conmutativa/tema4
 ---

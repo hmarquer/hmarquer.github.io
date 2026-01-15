@@ -1,5 +1,6 @@
 ---
 title: "Expresión de la $\\sigma$-álgebra generada"
+date: 2025-02-12
 ---
 
 [[prop-sigma-algebra-generada.pdf]]

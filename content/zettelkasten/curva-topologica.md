@@ -1,5 +1,6 @@
 ---
 title: "Curva topológica"
+date: 2025-04-01
 tags:
   - geometria-diferencial/tema3
   - variable-compleja-i/tema4

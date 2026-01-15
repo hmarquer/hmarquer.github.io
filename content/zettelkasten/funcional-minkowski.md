@@ -1,5 +1,6 @@
 ---
 title: "Funcional de Minkowski"
+date: 2025-12-03
 tags:
   - analisis-funcional/tema3
 ---

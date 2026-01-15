@@ -1,5 +1,6 @@
 ---
 title: "Teo espacio banach imp base hamel finita o no numerable"
+date: 2025-12-06
 tags:
   - analisis-funcional/tema4
 ---

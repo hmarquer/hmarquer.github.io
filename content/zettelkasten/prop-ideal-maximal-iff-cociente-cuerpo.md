@@ -1,5 +1,6 @@
 ---
 title: "Un ideal es maximal si y solo si el cociente es un cuerpo"
+date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---

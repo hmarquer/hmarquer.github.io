@@ -1,5 +1,6 @@
 ---
 title: "Teorema de Banach-Steinhaus"
+date: 2025-12-06
 tags:
   - analisis-funcional/tema4
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Lem riesz"
+date: 2025-11-02
 tags:
   - analisis-funcional/tema2
 ---

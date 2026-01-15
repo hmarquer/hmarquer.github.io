@@ -1,5 +1,6 @@
 ---
 title: "Teo-cartas-adaptadas-submersion"
+date: 2025-03-17
 tags:
   - geometria-diferencial/tema4
 ---

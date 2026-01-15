@@ -1,5 +1,6 @@
 ---
 title: "Independencia dos a dos de sucesos"
+date: 2025-03-17
 ---
 
 [[independencia-2a2-sucesos.pdf]]

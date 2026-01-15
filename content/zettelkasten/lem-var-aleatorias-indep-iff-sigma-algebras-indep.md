@@ -1,5 +1,6 @@
 ---
 title: "Lem var aleatorias indep iff sigma algebras indep"
+date: 2025-06-10
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Lem nucleo fejer nucleo sumabilidad"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

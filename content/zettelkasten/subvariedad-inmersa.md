@@ -1,5 +1,6 @@
 ---
 title: "Subvariedad inmersa"
+date: 2025-03-10
 tags:
   - geometria-diferencial/tema4
 ---

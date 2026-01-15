@@ -1,5 +1,6 @@
 ---
 title: "Teo aproximacion identidad convolucion"
+date: 2026-01-11
 tags:
   - variable-real/tema2
 ---

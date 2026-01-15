@@ -1,5 +1,6 @@
 ---
 title: "Medida"
+date: 2025-01-17
 tags:
   - variable-real/tema1
   - probabilidad-ii/hoja0

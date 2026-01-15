@@ -1,5 +1,6 @@
 ---
 title: "Diferencial de una aplicación diferenciable"
+date: 2025-03-05
 tags:
   - geometria-diferencial/tema3
 ---

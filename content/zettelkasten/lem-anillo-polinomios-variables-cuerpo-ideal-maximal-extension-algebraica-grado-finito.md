@@ -1,5 +1,6 @@
 ---
 title: "Lem anillo polinomios variables cuerpo ideal maximal extension algebraica grado finito"
+date: 2026-01-04
 tags:
   - algebra-conmutativa/tema4
 ---

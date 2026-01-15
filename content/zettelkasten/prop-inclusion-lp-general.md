@@ -1,5 +1,6 @@
 ---
 title: "Inclusión de espacios $\\mathcal{L}^p$: caso general"
+date: 2025-10-17
 tags:
   - variable-real/tema1
 ---

@@ -1,5 +1,6 @@
 ---
 title: "El espacio dual es siempre de Banach"
+date: 2025-10-29
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

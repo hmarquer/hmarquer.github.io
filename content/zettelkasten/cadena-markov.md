@@ -1,5 +1,6 @@
 ---
 title: "Cadena de Markov"
+date: 2025-03-11
 tags:
   - modelizacion/tema2
 ---

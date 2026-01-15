@@ -1,5 +1,6 @@
 ---
 title: "Subespacio vectorial generado"
+date: 2025-10-28
 tags:
   - analisis-funcional/tema2
 ---

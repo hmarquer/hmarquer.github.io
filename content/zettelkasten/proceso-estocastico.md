@@ -1,5 +1,6 @@
 ---
 title: "Proceso estocástico"
+date: 2025-04-01
 tags:
   - probabilidad-ii/tema4
 ---

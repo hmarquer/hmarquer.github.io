@@ -1,5 +1,6 @@
 ---
 title: "Toda subvariedad diferenciable es uan subvariedad inmersa"
+date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---

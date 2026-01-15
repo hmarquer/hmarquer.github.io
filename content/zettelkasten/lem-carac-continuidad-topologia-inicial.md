@@ -1,5 +1,6 @@
 ---
 title: "Caracterización de continuidad para la topología inicial"
+date: 2025-12-28
 tags:
   - analisis-funcional/tema5
 ---

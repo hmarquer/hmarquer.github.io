@@ -1,5 +1,6 @@
 ---
 title: "Todo subespacio de un espacio reflexivo es reflexivo"
+date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---

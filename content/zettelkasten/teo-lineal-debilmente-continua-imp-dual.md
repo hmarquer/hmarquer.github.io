@@ -1,5 +1,6 @@
 ---
 title: "Toda aplicación lineal débilmente continua es del dual"
+date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

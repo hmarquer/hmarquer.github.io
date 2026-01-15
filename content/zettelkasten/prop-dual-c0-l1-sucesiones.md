@@ -1,5 +1,6 @@
 ---
 title: "El dual de $c_0$ es $\\ell^1$"
+date: 2026-01-07
 tags:
   - analisis-funcional/tema3
 ---

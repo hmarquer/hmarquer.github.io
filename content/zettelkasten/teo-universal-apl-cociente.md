@@ -1,5 +1,6 @@
 ---
 title: "Teorema universal de las aplicaciones cocientes"
+date: 2025-02-26
 tags:
   - geometria-diferencial/tema1
 ---

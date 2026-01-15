@@ -1,5 +1,6 @@
 ---
 title: "Valencia de una función holomorfa"
+date: 2025-12-15
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

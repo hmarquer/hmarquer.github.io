@@ -1,5 +1,6 @@
 ---
 title: "Prop ideales primos dominio ideales principales"
+date: 2026-01-10
 ---
 
 [[prop-ideales-primos-dominio-ideales-principales.pdf]]

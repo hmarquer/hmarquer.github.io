@@ -1,5 +1,6 @@
 ---
 title: "Aditividad"
+date: 2025-09-10
 tags:
   - analisis-funcional/tema1
 ---

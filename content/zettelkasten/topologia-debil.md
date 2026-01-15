@@ -1,5 +1,6 @@
 ---
 title: "Topología débil"
+date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

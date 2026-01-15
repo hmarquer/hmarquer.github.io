@@ -1,5 +1,6 @@
 ---
 title: "Topología de Fréchet"
+date: 2025-02-03
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

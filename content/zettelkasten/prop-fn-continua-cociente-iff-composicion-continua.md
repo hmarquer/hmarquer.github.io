@@ -1,5 +1,6 @@
 ---
 title: "Prop-fn-continua-cociente-iff-composicion-continua"
+date: 2025-03-01
 tags:
   - geometria-diferencial/tema1
 ---

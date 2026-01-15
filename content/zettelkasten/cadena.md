@@ -1,5 +1,6 @@
 ---
 title: "Cadena"
+date: 2025-12-03
 ---
 
 [[cadena.pdf]]

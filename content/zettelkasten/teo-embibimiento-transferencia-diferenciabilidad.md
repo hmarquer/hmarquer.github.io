@@ -1,5 +1,6 @@
 ---
 title: "Transferencia de diferenciabilidad por embebimiento"
+date: 2025-04-08
 tags:
   - geometria-diferencial/tema4
 ---

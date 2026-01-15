@@ -1,5 +1,6 @@
 ---
 title: "Lema de Abel"
+date: 2025-02-24
 tags:
   - modelizacion/tema2
 ---

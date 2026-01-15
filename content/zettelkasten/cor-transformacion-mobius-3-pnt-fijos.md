@@ -1,5 +1,6 @@
 ---
 title: "Transformación de Möbius con tres puntos fijos"
+date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---

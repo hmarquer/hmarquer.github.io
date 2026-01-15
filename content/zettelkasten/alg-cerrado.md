@@ -1,5 +1,6 @@
 ---
 title: "Cuerpo algebraicamente cerrado"
+date: 2025-05-18
 tags:
   - algebra-conmutativa/tema4
 ---

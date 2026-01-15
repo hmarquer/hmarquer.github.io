@@ -1,5 +1,6 @@
 ---
 title: "Lem riemann lebesgue l1"
+date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

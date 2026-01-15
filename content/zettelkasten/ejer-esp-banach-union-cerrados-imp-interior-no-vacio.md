@@ -1,5 +1,6 @@
 ---
 title: "Ejer espacio banach union cerrados imp interior no vacio"
+date: 2025-12-06
 tags:
   - analisis-funcional/tema4
 ---

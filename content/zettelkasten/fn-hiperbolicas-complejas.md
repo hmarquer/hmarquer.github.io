@@ -1,5 +1,6 @@
 ---
 title: "Funciones hiperbólicas complejas"
+date: 2025-03-07
 tags:
   - variable-compleja-i/tema2
 ---

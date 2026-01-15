@@ -1,5 +1,6 @@
 ---
 title: "Teo dim finita imp normas equivalentes"
+date: 2025-10-22
 tags:
   - analisis-funcional/tema2
 ---
