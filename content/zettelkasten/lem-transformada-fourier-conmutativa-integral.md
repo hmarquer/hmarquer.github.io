@@ -13,4 +13,6 @@ tags:
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [obs-propiedades-transformada-fourier-l1](./obs-propiedades-transformada-fourier-l1.md)
+- [teo-fubini](./teo-fubini.md)
+- [teo-fubini](./teo-fubini.md)
 

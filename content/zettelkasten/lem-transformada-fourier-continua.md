@@ -12,4 +12,5 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [continuidad](./continuidad.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 
