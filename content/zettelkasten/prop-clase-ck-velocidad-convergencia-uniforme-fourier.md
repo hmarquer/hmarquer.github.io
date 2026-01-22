@@ -14,4 +14,5 @@ tags:
 - [lem-serie-fourier-derivada](./lem-serie-fourier-derivada.md)
 - [teo-identidad-plancherel](./teo-identidad-plancherel.md)
 - [prop-criterio-dini](./prop-criterio-dini.md)
+- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 

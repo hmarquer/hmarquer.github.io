@@ -15,4 +15,5 @@ tags:
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
+- [teo-aut-disco-unidad-parametros](./teo-aut-disco-unidad-parametros.md)
 
