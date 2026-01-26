@@ -1,5 +1,5 @@
 ---
-title: "Teo aproximacion identidad convolucion"
+title: "Teorema de aproximación de la identidad por convolución"
 date: 2026-01-11
 tags:
   - variable-real/tema2
