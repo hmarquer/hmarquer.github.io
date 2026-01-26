@@ -8,3 +8,8 @@ tags:
 [[operador-hardy-littlewood.pdf]]
 ![[operador-hardy-littlewood.pdf]]
 
+## Referencias
+- [fn-integrable-localmente](./fn-integrable-localmente.md)
+- [fn-integrable-localmente](./fn-integrable-localmente.md)
+- [fn-integrable-localmente](./fn-integrable-localmente.md)
+
