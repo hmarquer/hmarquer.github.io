@@ -3,6 +3,7 @@ title: "Función holomorfa"
 date: 2025-02-12
 tags:
   - variable-compleja-i/tema2
+  - variable-compleja-ii/tema1
 ---
 
 [[fn-holomorfa.pdf]]
