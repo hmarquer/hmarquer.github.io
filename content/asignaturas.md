@@ -39,3 +39,7 @@ title: "Asignaturas"
     - [[4.1-algebra-conmutativa|Álgebra conmutativa]] ([[4.1-algebra-conmutativa-jacobo|versión de Jacobo]])
 
     4.2 Segundo cuatrimestre
+    - [[4.2-logica-matematica|Lógica matemática]]
+    - [[4.2-variable-compleja-ii|Variable compleja II]]
+    - [[4.2-aprendizaje-automatico|Aprendizaje automático]]
+    - [[4.2-fisica-cuantica|Física cuántica]]
