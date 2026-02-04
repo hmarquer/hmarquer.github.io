@@ -1,6 +1,8 @@
 ---
 title: "Grafo ponderado"
 date: 2025-03-20
+tags:
+  - aprendizaje-automatico/tema1
 ---
 
 [[grafo-ponderado.pdf]]
