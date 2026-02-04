@@ -3,4 +3,3 @@
 ## Etiquetas
 #DEMOSTRACIÓN 
 #DEMOSTRACIÓN 
-#COMPLETAR : Añadir teorema de Roche
