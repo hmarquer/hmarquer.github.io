@@ -3,6 +3,7 @@ title: "Singularidad aislada"
 date: 2025-05-08
 tags:
   - variable-compleja-i/tema5
+  - variable-compleja-ii/tema1
 ---
 
 [[singularidad-aislada.pdf]]
