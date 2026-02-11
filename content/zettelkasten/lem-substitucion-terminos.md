@@ -1,6 +1,8 @@
 ---
 title: "Lema de substitución en términos"
 date: 2026-02-09
+tags:
+  - logica-matematica/tema1
 ---
 
 [[lem-substitucion-terminos.pdf]]

@@ -1,6 +1,8 @@
 ---
 title: "Estructura"
 date: 2026-02-09
+tags:
+  - logica-matematica/tema1
 ---
 
 [[estructura.pdf]]

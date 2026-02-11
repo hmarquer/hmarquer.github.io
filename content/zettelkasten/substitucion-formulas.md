@@ -1,6 +1,8 @@
 ---
 title: "Substitución en fórmulas"
 date: 2026-02-09
+tags:
+  - logica-matematica/tema1
 ---
 
 [[substitucion-formulas.pdf]]

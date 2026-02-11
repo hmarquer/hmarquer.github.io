@@ -11,18 +11,22 @@ tags:
 ## Notas incluidas
 
 ### anexo
+- [singularidad-evitable](./singularidad-evitable.md)
 - [cor-wirtinger-composicion-holomorfas](./cor-wirtinger-composicion-holomorfas.md)
 - [laplaciano](./laplaciano.md)
 - [lem-derivadas-parciales-wirtinger](./lem-derivadas-parciales-wirtinger.md)
 - [fn-antiholomorfa](./fn-antiholomorfa.md)
 - [prop-regla-cadena-wirtinger](./prop-regla-cadena-wirtinger.md)
+- [singularidad-aislada](./singularidad-aislada.md)
 - [lem-laplaciano-cambio-variable](./lem-laplaciano-cambio-variable.md)
 - [lem-laplaciano-wirtinger](./lem-laplaciano-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
+- [singularidad-esencial](./singularidad-esencial.md)
 - [prop-fn-holomorfa-iff-wirtinger](./prop-fn-holomorfa-iff-wirtinger.md)
 - [obs-holomorfa-conjugada-antiholomorfa](./obs-holomorfa-conjugada-antiholomorfa.md)
 - [obs-derivada-holomorfa-wirtinger](./obs-derivada-holomorfa-wirtinger.md)
 - [cor-wirtinger-composicion-antiholomorfas](./cor-wirtinger-composicion-antiholomorfas.md)
+- [teo-singularidad-evitable-riemann](./teo-singularidad-evitable-riemann.md)
 
 ### apl-conformes
 - [lem-directamente-conforme-imp-holomorfa](./lem-directamente-conforme-imp-holomorfa.md)
@@ -71,6 +75,7 @@ tags:
 - [cor-fn-holomorfa-compacto-imp-finitud-ceros](./cor-fn-holomorfa-compacto-imp-finitud-ceros.md)
 - [orden-cero-fn-holomorfa](./orden-cero-fn-holomorfa.md)
 - [valencia-fn-holomorfa](./valencia-fn-holomorfa.md)
+- [teo-carac-prod-finito-blaschke](./teo-carac-prod-finito-blaschke.md)
 
 ### tema4
 - [prop-convergencia-uniforme-continuidad-uniforme](./prop-convergencia-uniforme-continuidad-uniforme.md)
