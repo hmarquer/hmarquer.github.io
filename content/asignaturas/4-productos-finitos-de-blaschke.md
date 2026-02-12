@@ -83,4 +83,5 @@ tags:
 - [envolvente-convexa](./envolvente-convexa.md)
 - [lem-prod-combinacion-convexa-prod-finito-blaschke](./lem-prod-combinacion-convexa-prod-finito-blaschke.md)
 - [prop-envolvente-convexa-combinacion-convexa](./prop-envolvente-convexa-combinacion-convexa.md)
+- [lem-diferencia-productos-leq-suma-diferencias](./lem-diferencia-productos-leq-suma-diferencias.md)
 
