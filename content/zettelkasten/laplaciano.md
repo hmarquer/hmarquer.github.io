@@ -6,6 +6,7 @@ tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5
   - variable-compleja-i/tema2
+  - variable-compleja-ii/tema1
 ---
 
 [[laplaciano.pdf]]
