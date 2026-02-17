@@ -1,5 +1,5 @@
 ---
-title: "Teo singularidad evitable riemann"
+title: "Teorema de la singularidad evitable de Riemann"
 date: 2026-02-11
 tags:
   - productos-finitos-de-blaschke/anexo
