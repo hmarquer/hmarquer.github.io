@@ -3,6 +3,7 @@ title: "Teo schwarz pick"
 date: 2026-01-22
 tags:
   - productos-finitos-de-blaschke/tema1
+  - variable-compleja-ii/tema1
 ---
 
 [[teo-schwarz-pick.pdf]]
