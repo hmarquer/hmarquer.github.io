@@ -65,6 +65,7 @@ tags:
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 - [teo-densidad-induce-metrica](./teo-densidad-induce-metrica.md)
 - [densidad-metrica-inducida](./densidad-metrica-inducida.md)
+- [prop-metrica-poincare](./prop-metrica-poincare.md)
 
 ### tema3
 - [producto-finito-blaschke](./producto-finito-blaschke.md)
