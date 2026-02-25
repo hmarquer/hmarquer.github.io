@@ -3,7 +3,7 @@ title: "Prop metrica poincare"
 date: 2026-02-23
 tags:
   - productos-finitos-de-blaschke/tema2
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema3
 ---
 
 [[prop-metrica-poincare.pdf]]

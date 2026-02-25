@@ -4,7 +4,7 @@ date: 2025-08-14
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema4
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema3
 ---
 
 [[lem-schwarz.pdf]]
