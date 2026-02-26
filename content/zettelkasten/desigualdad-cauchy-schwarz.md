@@ -4,6 +4,7 @@ date: 2025-09-17
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3
+  - aprendizaje-automatico/apendice
 ---
 
 [[desigualdad-cauchy-schwarz.pdf]]
