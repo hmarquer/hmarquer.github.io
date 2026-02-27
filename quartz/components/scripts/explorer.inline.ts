@@ -109,9 +109,12 @@ function createFolderNode(
   const ul = folderOuter.querySelector("ul") as HTMLUListElement
 
   const folderPath = node.slug
+  const normalizedFolderPath = folderPath.endsWith("/")
+    ? (folderPath.slice(0, -1) as FullSlug)
+    : folderPath
   folderContainer.dataset.folderpath = folderPath
 
-  if (currentSlug === folderPath) {
+  if (currentSlug === normalizedFolderPath) {
     folderContainer.classList.add("active")
   }
 
@@ -119,8 +122,8 @@ function createFolderNode(
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
-    a.href = resolveRelative(currentSlug, folderPath)
-    a.dataset.for = folderPath
+    a.href = resolveRelative(currentSlug, normalizedFolderPath)
+    a.dataset.for = normalizedFolderPath
     a.className = "folder-title"
     a.textContent = node.displayName
     button.replaceWith(a)
