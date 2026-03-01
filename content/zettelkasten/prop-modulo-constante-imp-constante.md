@@ -1,16 +1,15 @@
 ---
-title: "Corolario del principio del módulo máximo"
-date: 2026-02-04
+title: "Prop modulo constante imp constante"
+date: 2026-02-25
 tags:
   - variable-compleja-ii/tema2
 ---
 
-[[cor-modulo-maximo.pdf]]
-![[cor-modulo-maximo.pdf]]
+[[prop-modulo-constante-imp-constante.pdf]]
+![[prop-modulo-constante-imp-constante.pdf]]
 
 ## Referencias
 - [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-- [continuidad](./continuidad.md)
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
 

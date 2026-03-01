@@ -2,8 +2,8 @@
 title: "Las transformaciones de Möbius forman un grupo"
 date: 2025-05-07
 tags:
-  - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema2
+  - productos-finitos-de-blaschke/anexo
 ---
 
 [[prop-trans-mobius-grupo.pdf]]

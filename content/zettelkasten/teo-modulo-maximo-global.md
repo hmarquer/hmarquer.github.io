@@ -2,7 +2,7 @@
 title: "Teo modulo maximo global"
 date: 2026-02-11
 tags:
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema2
 ---
 
 [[teo-modulo-maximo-global.pdf]]

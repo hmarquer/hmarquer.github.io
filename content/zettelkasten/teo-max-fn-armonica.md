@@ -2,7 +2,7 @@
 title: "Teo max fn armonica"
 date: 2026-02-11
 tags:
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema2
 ---
 
 [[teo-max-fn-armonica.pdf]]

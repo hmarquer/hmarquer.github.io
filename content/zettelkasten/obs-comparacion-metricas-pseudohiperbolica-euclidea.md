@@ -1,17 +1,15 @@
 ---
-title: "Prop metrica poincare"
-date: 2026-02-23
+title: "Obs comparacion metricas pseudohiperbolica euclidea"
+date: 2026-02-26
 tags:
   - productos-finitos-de-blaschke/tema2
-  - variable-compleja-ii/tema3
 ---
 
-[[prop-metrica-poincare.pdf]]
-![[prop-metrica-poincare.pdf]]
+[[obs-comparacion-metricas-pseudohiperbolica-euclidea.pdf]]
+![[obs-comparacion-metricas-pseudohiperbolica-euclidea.pdf]]
 
 ## Referencias
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
+- [compacidad](./compacidad.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 
-## Etiquetas
-#ORDENAR : referenciar bien

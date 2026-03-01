@@ -3,6 +3,7 @@ title: "Toda transformación de Möbius manda circunferencias generalizadas a ci
 date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
+  - productos-finitos-de-blaschke/anexo
 ---
 
 [[transformacion-mobius-circunferencias-generalizadas.pdf]]

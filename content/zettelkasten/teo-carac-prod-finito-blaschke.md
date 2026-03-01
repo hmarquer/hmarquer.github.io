@@ -3,7 +3,7 @@ title: "Teo carac prod finito blaschke"
 date: 2026-02-11
 tags:
   - productos-finitos-de-blaschke/tema3
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema2
 ---
 
 [[teo-carac-prod-finito-blaschke.pdf]]

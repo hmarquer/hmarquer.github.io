@@ -2,7 +2,7 @@
 title: "Lem unicidad armonica"
 date: 2026-02-11
 tags:
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema2
 ---
 
 [[lem-unicidad-armonica.pdf]]

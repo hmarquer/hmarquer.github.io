@@ -3,7 +3,7 @@ title: "Teorema de Liouville"
 date: 2025-05-11
 tags:
   - variable-compleja-i/tema4
-  - variable-compleja-ii/tema1
+  - variable-compleja-ii/tema3
 ---
 
 [[teo-liouville.pdf]]

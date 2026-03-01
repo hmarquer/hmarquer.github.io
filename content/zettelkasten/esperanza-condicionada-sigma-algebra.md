@@ -3,6 +3,7 @@ title: "Esperanza condicionada a una $\\sigma$-álgebra"
 date: 2025-03-24
 tags:
   - probabilidad-ii/tema4
+  - aprendizaje-automatico/apendice
 ---
 
 [[esperanza-condicionada-sigma-algebra.pdf]]
