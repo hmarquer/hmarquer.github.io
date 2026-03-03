@@ -3,6 +3,7 @@ title: "Enunciado"
 date: 2026-02-09
 tags:
   - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[enunciado.pdf]]
