@@ -4,6 +4,7 @@ date: 2025-05-11
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema3
+  - variable-compleja-ii/tema5
 ---
 
 [[teo-liouville.pdf]]
