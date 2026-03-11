@@ -1,15 +1,15 @@
 ---
-title: "Ecuación de ondas en dimensión $1$"
-date: 2025-05-06
+title: "Ecu ondas dimn"
+date: 2026-03-09
 tags:
   - fisica-cuantica/tema1-2
 ---
 
-[[ecu-ondas-dim1.pdf]]
-![[ecu-ondas-dim1.pdf]]
+[[ecu-ondas-dimn.pdf]]
+![[ecu-ondas-dimn.pdf]]
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
 - [orden-edp](./orden-edp.md)
-- [edp-lineal](./edp-lineal.md)
+- [laplaciano](./laplaciano.md)
 

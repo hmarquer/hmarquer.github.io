@@ -7,6 +7,7 @@ tags:
   - ecuaciones-en-derivadas-parciales/tema5
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema2
+  - fisica-cuantica/tema1-2
 ---
 
 [[laplaciano.pdf]]
