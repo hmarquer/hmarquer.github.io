@@ -1,12 +1,12 @@
 ---
-title: "Operador unitario"
-date: 2026-03-11
+title: "Operador autoadjunto"
+date: 2026-03-12
 tags:
   - fisica-cuantica/tema1-3
 ---
 
-[[operador-unitario.pdf]]
-![[operador-unitario.pdf]]
+[[operador-autoadjunto.pdf]]
+![[operador-autoadjunto.pdf]]
 
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
