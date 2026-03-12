@@ -2,7 +2,7 @@
 title: "Ecu ondas dimn"
 date: 2026-03-09
 tags:
-  - fisica-cuantica/tema1
+  - fisica-cuantica/tema1-2
 ---
 
 [[ecu-ondas-dimn.pdf]]

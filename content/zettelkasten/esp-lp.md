@@ -6,7 +6,6 @@ tags:
   - variable-real/tema1
   - probabilidad-ii/tema2
   - analisis-funcional/tema2
-  - fisica-cuantica/tema1
 ---
 
 [[esp-lp.pdf]]

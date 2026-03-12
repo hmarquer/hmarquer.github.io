@@ -2,7 +2,7 @@
 title: "Ecuación de ondas en dimensión $1$"
 date: 2025-05-06
 tags:
-  - fisica-cuantica/tema1
+  - fisica-cuantica/tema1-2
 ---
 
 [[ecu-ondas-dim1.pdf]]
