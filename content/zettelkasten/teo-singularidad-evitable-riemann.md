@@ -12,6 +12,7 @@ tags:
 ## Referencias
 - [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
+- [singularidad-evitable](./singularidad-evitable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 
