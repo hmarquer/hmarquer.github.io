@@ -3,6 +3,7 @@ title: "Fórmula general de los automorfismos del disco unidad"
 date: 2025-08-17
 tags:
   - productos-finitos-de-blaschke/tema1
+  - variable-compleja-ii/tema3
 ---
 
 [[teo-formula-aut-disco-unidad.pdf]]

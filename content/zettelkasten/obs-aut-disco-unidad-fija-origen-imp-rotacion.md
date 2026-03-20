@@ -3,6 +3,7 @@ title: "Obs aut disco unidad fija origen imp rotacion"
 date: 2025-09-24
 tags:
   - productos-finitos-de-blaschke/tema1
+  - variable-compleja-ii/tema3
 ---
 
 [[obs-aut-disco-unidad-fija-origen-imp-rotacion.pdf]]
