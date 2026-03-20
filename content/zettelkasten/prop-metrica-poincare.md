@@ -12,6 +12,7 @@ tags:
 ## Referencias
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
+- [ejer-desigualdad-triangular-producto-hiperbolico](./ejer-desigualdad-triangular-producto-hiperbolico.md)
 
 ## Etiquetas
 #ORDENAR : referenciar bien
