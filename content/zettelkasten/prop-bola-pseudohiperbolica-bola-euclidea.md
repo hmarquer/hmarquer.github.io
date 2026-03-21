@@ -3,6 +3,7 @@ title: "Prop bola pseudohiperbolica bola euclidea"
 date: 2026-02-26
 tags:
   - productos-finitos-de-blaschke/tema2
+  - variable-compleja-ii/tema3
 ---
 
 [[prop-bola-pseudohiperbolica-bola-euclidea.pdf]]
