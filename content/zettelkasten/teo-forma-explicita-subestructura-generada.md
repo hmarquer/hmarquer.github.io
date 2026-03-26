@@ -1,5 +1,5 @@
 ---
-title: "Teo forma explicita subestructura generada"
+title: "Forma explícita de la subestructura generada"
 date: 2026-03-26
 tags:
   - logica-matematica/tema1-1

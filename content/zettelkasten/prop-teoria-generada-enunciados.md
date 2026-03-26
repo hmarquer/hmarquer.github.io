@@ -1,5 +1,5 @@
 ---
-title: "Prop teoria generada enunciados"
+title: "Teoría generada por un conjunto de enunciados"
 date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
