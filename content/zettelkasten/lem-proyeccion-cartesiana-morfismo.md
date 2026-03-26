@@ -11,4 +11,5 @@ tags:
 ## Referencias
 - [estructura-producto](./estructura-producto.md)
 - [morfismo-estructuras](./morfismo-estructuras.md)
+- [estructura](./estructura.md)
 

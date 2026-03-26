@@ -28,4 +28,8 @@ tags:
 - [lem-equivalencia-semantica-cuantificadores](./lem-equivalencia-semantica-cuantificadores.md)
 - [formula-sin-cuantificadores](./formula-sin-cuantificadores.md)
 - [lem-equivalencia-semantica-cuantificadores](./lem-equivalencia-semantica-cuantificadores.md)
+- [variables](./variables.md)
+- [variables](./variables.md)
+- [variables](./variables.md)
+- [variables](./variables.md)
 
