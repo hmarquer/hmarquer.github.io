@@ -11,4 +11,5 @@ tags:
 ## Referencias
 - [teoria](./teoria.md)
 - [enunciado](./enunciado.md)
+- [prop-teoria-generada-enunciados](./prop-teoria-generada-enunciados.md)
 
