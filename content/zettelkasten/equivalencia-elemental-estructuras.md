@@ -13,4 +13,6 @@ tags:
 - [enunciado](./enunciado.md)
 - [satisfaccion](./satisfaccion.md)
 - [satisfaccion](./satisfaccion.md)
+- [prop-teoria-generada-estructura](./prop-teoria-generada-estructura.md)
+- [prop-teoria-generada-estructura](./prop-teoria-generada-estructura.md)
 

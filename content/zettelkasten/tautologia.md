@@ -9,7 +9,8 @@ tags:
 ![[tautologia.pdf]]
 
 ## Referencias
-- [formula](./formula.md)
-- [formula](./formula.md)
-- [equivalencia-semantica](./equivalencia-semantica.md)
+- [enunciado](./enunciado.md)
+- [satisfaccion](./satisfaccion.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
+- [estructura](./estructura.md)
 
