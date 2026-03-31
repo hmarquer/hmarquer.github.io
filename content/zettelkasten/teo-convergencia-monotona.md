@@ -1,10 +1,8 @@
 ---
 title: "Teorema de convergencia monótona"
-date: 2025-01-26
 tags:
+  - probabilidad-ii/hoja0
   - variable-real/tema1
-  - probabilidad-ii/hoja0
-  - probabilidad-ii/hoja0
 ---
 
 [[teo-convergencia-monotona.pdf]]
@@ -12,10 +10,8 @@ tags:
 
 ## Referencias
 - [esp-medida](./esp-medida.md)
-- [medida](./medida.md)
-- [medida](./medida.md)
-- [esp-medida](./esp-medida.md)
 - [fn-medible](./fn-medible.md)
+- [medida](./medida.md)
 
 ## Etiquetas
 #ORDENAR referenciar de donde sacamos esto

@@ -1,6 +1,5 @@
 ---
 title: "Topología inicial"
-date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,9 +8,7 @@ tags:
 ![[topologia-inicial.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [esp-topologico](./esp-topologico.md)
 - [topologia](./topologia.md)
-- [continuidad](./continuidad.md)
-- [topologia](./topologia.md)
-- [continuidad](./continuidad.md)
 

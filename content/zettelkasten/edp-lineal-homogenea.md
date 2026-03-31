@@ -1,6 +1,5 @@
 ---
 title: "Edp lineal homogénea"
-date: 2025-03-29
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---
@@ -10,6 +9,5 @@ tags:
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
-- [edp-lineal](./edp-lineal.md)
 - [edp-lineal](./edp-lineal.md)
 

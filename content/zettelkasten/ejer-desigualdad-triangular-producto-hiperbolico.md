@@ -1,6 +1,7 @@
 ---
 title: "Ejer desigualdad triangular producto hiperbolico"
-date: 2026-03-20
+tags:
+  - productos-finitos-de-blaschke/tema2
 ---
 
 [[ejer-desigualdad-triangular-producto-hiperbolico.pdf]]

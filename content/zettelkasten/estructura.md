@@ -1,6 +1,5 @@
 ---
 title: "Estructura"
-date: 2026-02-09
 tags:
   - logica-matematica/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[estructura.pdf]]
 
 ## Referencias
+- [constante](./constante.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [signatura](./signatura.md)
-- [constante](./constante.md)
 

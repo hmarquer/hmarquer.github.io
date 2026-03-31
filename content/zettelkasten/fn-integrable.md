@@ -1,6 +1,5 @@
 ---
 title: "Función integrable"
-date: 2025-02-11
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,7 +8,7 @@ tags:
 ![[fn-integrable.pdf]]
 
 ## Referencias
-- [fn-medible](./fn-medible.md)
-- [esp-medida](./esp-medida.md)
 - [esp-lp](./esp-lp.md)
+- [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 

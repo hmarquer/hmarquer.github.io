@@ -1,6 +1,5 @@
 ---
 title: "Ejer localizacion ideal primo anillo local"
-date: 2026-01-10
 tags:
   - algebra-conmutativa/tema2
 ---
@@ -10,9 +9,8 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
-- [ideal-primo](./ideal-primo.md)
-- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
 - [anillo-local](./anillo-local.md)
 - [ideal-maximal](./ideal-maximal.md)
-- [cor-ideal-primo-localizacion-extendido](./cor-ideal-primo-localizacion-extendido.md)
+- [ideal-primo](./ideal-primo.md)
+- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
 

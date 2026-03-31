@@ -1,6 +1,5 @@
 ---
 title: "Propiedades del índice de una curva cerrada"
-date: 2025-05-11
 tags:
   - variable-compleja-i/tema4
 ---
@@ -9,11 +8,11 @@ tags:
 ![[prop-curva-cerrada-indice.pdf]]
 
 ## Referencias
-- [curva-cerrada-indice](./curva-cerrada-indice.md)
-- [curva-cerrada](./curva-cerrada.md)
-- [fn-analitica](./fn-analitica.md)
 - [componente-conexa](./componente-conexa.md)
+- [curva-cerrada](./curva-cerrada.md)
+- [curva-cerrada-indice](./curva-cerrada-indice.md)
 - [curva-simple](./curva-simple.md)
+- [fn-analitica](./fn-analitica.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

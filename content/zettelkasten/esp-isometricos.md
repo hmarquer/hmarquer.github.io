@@ -1,6 +1,5 @@
 ---
 title: "Espacios isométricos"
-date: 2025-09-18
 tags:
   - analisis-funcional/tema2
 ---

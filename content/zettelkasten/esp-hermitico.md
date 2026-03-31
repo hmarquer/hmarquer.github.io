@@ -1,13 +1,12 @@
 ---
 title: "Espacio hermítico"
-date: 2025-03-06
 ---
 
 [[esp-hermitico.pdf]]
 ![[esp-hermitico.pdf]]
 
 ## Referencias
-- [num-complejos](./num-complejos.md)
 - [esp-vectorial](./esp-vectorial.md)
+- [num-complejos](./num-complejos.md)
 - [prod-hermitico](./prod-hermitico.md)
 

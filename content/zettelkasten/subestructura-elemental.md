@@ -1,6 +1,5 @@
 ---
 title: "Subestructura elemental"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
-- [subestructura](./subestructura.md)
 - [inmersion-elemental](./inmersion-elemental.md)
+- [subestructura](./subestructura.md)
 

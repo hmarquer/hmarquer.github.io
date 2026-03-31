@@ -1,6 +1,5 @@
 ---
-title: "El dual de $c_0$ es $\\ell^1$"
-date: 2026-01-07
+title: "El dual de $c_0$ es $\ell^1$"
 tags:
   - analisis-funcional/tema3
 ---
@@ -11,6 +10,6 @@ tags:
 ## Referencias
 - [dual-topologico](./dual-topologico.md)
 - [esp-c0](./esp-c0.md)
-- [norma](./norma.md)
 - [esp-lp](./esp-lp.md)
+- [norma](./norma.md)
 

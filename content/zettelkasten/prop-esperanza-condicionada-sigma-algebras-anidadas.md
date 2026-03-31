@@ -1,6 +1,5 @@
 ---
-title: "Esperanza condicionada a $\\sigma$-álgebras anidadas"
-date: 2025-06-14
+title: "Esperanza condicionada a $\sigma$-álgebras anidadas"
 tags:
   - probabilidad-ii/tema4
 ---
@@ -10,11 +9,7 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
-- [lem-esperanza-condicionada](./lem-esperanza-condicionada.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 

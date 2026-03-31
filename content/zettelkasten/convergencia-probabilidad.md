@@ -1,6 +1,5 @@
 ---
 title: "Convergencia en probabilidad"
-date: 2025-03-10
 tags:
   - probabilidad-ii/tema3
 ---

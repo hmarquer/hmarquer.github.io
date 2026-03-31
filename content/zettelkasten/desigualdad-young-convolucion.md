@@ -1,6 +1,5 @@
 ---
 title: "Desigualdad de Young para convoluciones"
-date: 2025-11-04
 tags:
   - variable-real/parcial
   - variable-real/tema2
@@ -10,13 +9,8 @@ tags:
 ![[desigualdad-young-convolucion.pdf]]
 
 ## Referencias
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
 - [convolucion](./convolucion.md)
+- [esp-lp](./esp-lp.md)
 - [norma-lp](./norma-lp.md)
-- [norma-lp](./norma-lp.md)
-- [convolucion](./convolucion.md)
-- [teo-fubini](./teo-fubini.md)
-- [teo-fubini](./teo-fubini.md)
 - [teo-fubini](./teo-fubini.md)
 

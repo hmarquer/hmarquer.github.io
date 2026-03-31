@@ -1,6 +1,5 @@
 ---
 title: "Topología generada por una familia de conjuntos"
-date: 2025-05-27
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -9,8 +8,8 @@ tags:
 ![[prop-topologia-generada.pdf]]
 
 ## Referencias
-- [topologia](./topologia.md)
 - [subbase-topologia](./subbase-topologia.md)
+- [topologia](./topologia.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

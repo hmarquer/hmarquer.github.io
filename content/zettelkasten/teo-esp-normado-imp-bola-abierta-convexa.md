@@ -1,6 +1,5 @@
 ---
 title: "Toda bola abierta es convexa en espacios normados"
-date: 2025-09-17
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3
@@ -10,9 +9,8 @@ tags:
 ![[teo-esp-normado-imp-bola-abierta-convexa.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
-- [norma](./norma.md)
 - [bola-abierta](./bola-abierta.md)
 - [con-convexo](./con-convexo.md)
+- [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 

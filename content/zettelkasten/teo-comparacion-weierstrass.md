@@ -1,6 +1,5 @@
 ---
 title: "Teo comparacion weierstrass"
-date: 2025-04-23
 tags:
   - variable-compleja-i/tema3
 ---
@@ -9,7 +8,7 @@ tags:
 ![[teo-comparacion-weierstrass.pdf]]
 
 ## Referencias
-- [convergencia-serie](./convergencia-serie.md)
 - [convergencia-absoluta-serie](./convergencia-absoluta-serie.md)
+- [convergencia-serie](./convergencia-serie.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 

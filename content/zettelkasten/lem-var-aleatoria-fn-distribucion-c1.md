@@ -1,6 +1,5 @@
 ---
 title: "Lem var aleatoria fn distribucion c1"
-date: 2025-06-10
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,13 +8,13 @@ tags:
 ![[lem-var-aleatoria-fn-distribucion-c1.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [fn-distribucion](./fn-distribucion.md)
 - [fn-clase-ck](./fn-clase-ck.md)
-- [var-aleatoria-continua](./var-aleatoria-continua.md)
 - [fn-densidad](./fn-densidad.md)
-- [teo-radon-nikodym](./teo-radon-nikodym.md)
+- [fn-distribucion](./fn-distribucion.md)
 - [teo-fundamental-calculo](./teo-fundamental-calculo.md)
+- [teo-radon-nikodym](./teo-radon-nikodym.md)
+- [var-aleatoria](./var-aleatoria.md)
+- [var-aleatoria-continua](./var-aleatoria-continua.md)
 
 ## Etiquetas
 #ORDENAR referenciar este resultado

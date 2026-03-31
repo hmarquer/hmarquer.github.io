@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Picard-Lindelöf"
-date: 2025-02-13
 ---
 
 [[teo-picard-lindelof.pdf]]

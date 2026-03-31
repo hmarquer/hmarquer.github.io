@@ -1,6 +1,5 @@
 ---
 title: "Cor schwarz pick involucion disco unidad"
-date: 2026-01-22
 tags:
   - productos-finitos-de-blaschke/tema1
 ---
@@ -9,8 +8,8 @@ tags:
 ![[cor-schwarz-pick-involucion-disco-unidad.pdf]]
 
 ## Referencias
-- [involucion-disco-unidad](./involucion-disco-unidad.md)
-- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
-- [teo-schwarz-pick](./teo-schwarz-pick.md)
 - [clase-schur](./clase-schur.md)
+- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+- [involucion-disco-unidad](./involucion-disco-unidad.md)
+- [teo-schwarz-pick](./teo-schwarz-pick.md)
 

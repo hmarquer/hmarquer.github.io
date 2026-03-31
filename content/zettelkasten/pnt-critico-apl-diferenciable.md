@@ -1,6 +1,5 @@
 ---
 title: "Pnt critico apl diferenciable"
-date: 2025-06-17
 tags:
   - geometria-diferencial/tema5
 ---

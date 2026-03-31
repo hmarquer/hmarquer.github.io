@@ -1,6 +1,5 @@
 ---
 title: "Fn-trigonometricas-complejas"
-date: 2025-12-11
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,6 +8,6 @@ tags:
 ![[fn-trigonometricas-complejas.pdf]]
 
 ## Referencias
-- [num-complejos](./num-complejos.md)
 - [fn-exp-compleja](./fn-exp-compleja.md)
+- [num-complejos](./num-complejos.md)
 

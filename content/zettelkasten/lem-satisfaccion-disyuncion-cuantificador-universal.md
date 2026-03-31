@@ -1,6 +1,5 @@
 ---
 title: "Lem satisfaccion disyuncion cuantificador universal"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1
 ---
@@ -9,14 +8,10 @@ tags:
 ![[lem-satisfaccion-disyuncion-cuantificador-universal.pdf]]
 
 ## Referencias
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [estructura](./estructura.md)
-- [variables](./variables.md)
-- [formula](./formula.md)
 - [evaluacion](./evaluacion.md)
+- [formula](./formula.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [satisfaccion](./satisfaccion.md)
-- [satisfaccion](./satisfaccion.md)
-- [satisfaccion](./satisfaccion.md)
-- [satisfaccion](./satisfaccion.md)
-- [satisfaccion](./satisfaccion.md)
+- [variables](./variables.md)
 

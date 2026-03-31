@@ -1,6 +1,5 @@
 ---
 title: "Variedad diferenciable"
-date: 2025-02-03
 tags:
   - geometria-diferencial/tema1
 ---

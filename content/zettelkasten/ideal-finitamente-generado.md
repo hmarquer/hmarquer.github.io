@@ -1,6 +1,5 @@
 ---
 title: "Ideal finitamente generado"
-date: 2025-12-03
 tags:
   - algebra-conmutativa/tema2
 ---

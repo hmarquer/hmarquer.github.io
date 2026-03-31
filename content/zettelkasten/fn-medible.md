@@ -1,9 +1,8 @@
 ---
 title: "Función medible"
-date: 2025-01-25
 tags:
-  - variable-real/tema1
   - probabilidad-ii/hoja0
+  - variable-real/tema1
 ---
 
 [[fn-medible.pdf]]

@@ -1,6 +1,5 @@
 ---
 title: "Subordinación"
-date: 2026-02-25
 tags:
   - variable-compleja-ii/tema4
 ---

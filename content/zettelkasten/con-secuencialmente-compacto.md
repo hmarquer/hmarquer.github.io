@@ -1,6 +1,5 @@
 ---
 title: "Conjunto secuencialmente compacto"
-date: 2025-11-02
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,6 +8,6 @@ tags:
 ![[con-secuencialmente-compacto.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [convergencia](./convergencia.md)
+- [esp-topologico](./esp-topologico.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Convolución de dos funciones"
-date: 2025-10-09
 tags:
   - variable-real/parcial
   - variable-real/tema2
@@ -10,11 +9,9 @@ tags:
 ![[convolucion.pdf]]
 
 ## Referencias
+- [esp-lp](./esp-lp.md)
+- [esp-medida](./esp-medida.md)
 - [fn-medible](./fn-medible.md)
 - [integral](./integral.md)
-- [esp-medida](./esp-medida.md)
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
 

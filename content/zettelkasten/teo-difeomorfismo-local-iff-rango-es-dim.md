@@ -1,6 +1,5 @@
 ---
 title: "$F$ es un difeomorfismo local si y solo si tiene rango máximo"
-date: 2025-04-07
 tags:
   - geometria-diferencial/tema4
 ---
@@ -10,11 +9,10 @@ tags:
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
-- [difeomorfismo-local](./difeomorfismo-local.md)
-- [rango-apl-diferenciable](./rango-apl-diferenciable.md)
-- [variedad-diferenciable](./variedad-diferenciable.md)
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [difeomorfismo](./difeomorfismo.md)
+- [difeomorfismo-local](./difeomorfismo-local.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
+- [rango-apl-diferenciable](./rango-apl-diferenciable.md)
 - [teo-fn-inversa](./teo-fn-inversa.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

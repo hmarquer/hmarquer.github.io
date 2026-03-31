@@ -1,6 +1,5 @@
 ---
 title: "Prop integral linea compleja reparametrizacion"
-date: 2025-05-01
 tags:
   - variable-compleja-i/tema4
 ---
@@ -11,8 +10,6 @@ tags:
 ## Referencias
 - [camino](./camino.md)
 - [fn-clase-ck](./fn-clase-ck.md)
-- [integral-linea-compleja](./integral-linea-compleja.md)
-- [integral-linea-compleja](./integral-linea-compleja.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 
 ## Etiquetas

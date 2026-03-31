@@ -1,6 +1,5 @@
 ---
 title: "Convergencia casi segura implica en probabilidad"
-date: 2025-03-17
 tags:
   - probabilidad-ii/tema3
 ---

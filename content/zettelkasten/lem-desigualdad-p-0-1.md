@@ -1,6 +1,5 @@
 ---
 title: "Lem desigualdad p 0 1"
-date: 2025-10-17
 tags:
   - variable-real/tema1
 ---

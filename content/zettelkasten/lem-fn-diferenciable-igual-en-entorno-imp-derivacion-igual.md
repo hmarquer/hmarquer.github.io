@@ -1,6 +1,5 @@
 ---
 title: "Si dos funciones diferenciables coinciden en un entorno de $p$, sus derivadas coinciden en $p$"
-date: 2025-06-05
 tags:
   - geometria-diferencial/tema3
 ---
@@ -9,9 +8,9 @@ tags:
 ![[lem-fn-diferenciable-igual-en-entorno-imp-derivacion-igual.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
-- [fn-diferenciable-variedad](./fn-diferenciable-variedad.md)
 - [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [fn-bump](./fn-bump.md)
+- [fn-diferenciable-variedad](./fn-diferenciable-variedad.md)
 - [soporte-cerrado](./soporte-cerrado.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

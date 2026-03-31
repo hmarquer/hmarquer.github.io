@@ -1,6 +1,5 @@
 ---
 title: "Inmersión elemental"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -10,9 +9,8 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
-- [inmersion-estructuras](./inmersion-estructuras.md)
-- [formula](./formula.md)
 - [evaluacion](./evaluacion.md)
-- [satisfaccion](./satisfaccion.md)
+- [formula](./formula.md)
+- [inmersion-estructuras](./inmersion-estructuras.md)
 - [satisfaccion](./satisfaccion.md)
 

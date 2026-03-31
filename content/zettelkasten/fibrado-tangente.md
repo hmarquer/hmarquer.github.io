@@ -1,6 +1,5 @@
 ---
 title: "Fibrado tangente"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,7 +8,6 @@ tags:
 ![[fibrado-tangente.pdf]]
 
 ## Referencias
+- [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
-- [esp-tangente-variedad](./esp-tangente-variedad.md)
-- [esp-tangente-variedad](./esp-tangente-variedad.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Prop espacioeranza prod var aleatorias indep"
-date: 2025-06-11
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,11 +8,9 @@ tags:
 ![[prop-esperanza-prod-var-aleatorias-indep.pdf]]
 
 ## Referencias
+- [esperanza](./esperanza.md)
 - [fn-integrable](./fn-integrable.md)
 - [independencia-var-aleatorias](./independencia-var-aleatorias.md)
-- [esperanza](./esperanza.md)
-- [esperanza](./esperanza.md)
-- [esperanza](./esperanza.md)
 
 ## Etiquetas
 #EJERCICIO 

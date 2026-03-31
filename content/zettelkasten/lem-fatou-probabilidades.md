@@ -1,6 +1,5 @@
 ---
 title: "Lema de Fatou para probabilidades"
-date: 2025-06-19
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,13 +8,9 @@ tags:
 ![[lem-fatou-probabilidades.pdf]]
 
 ## Referencias
+- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 - [esp-probabilidad](./esp-probabilidad.md)
+- [lem-fatou](./lem-fatou.md)
 - [liminf-con](./liminf-con.md)
 - [limsup-con](./limsup-con.md)
-- [lem-fatou](./lem-fatou.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-- [lem-fatou](./lem-fatou.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
-- [ejer-limsup-liminf-con](./ejer-limsup-liminf-con.md)
 

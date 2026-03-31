@@ -1,6 +1,5 @@
 ---
 title: "Variable aleatoria"
-date: 2025-01-25
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[var-aleatoria.pdf]]
 
 ## Referencias
+- [esp-medida](./esp-medida.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [fn-medible](./fn-medible.md)
-- [esp-medida](./esp-medida.md)
 

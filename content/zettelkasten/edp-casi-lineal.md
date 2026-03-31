@@ -1,6 +1,5 @@
 ---
 title: "Ecuación en derivadas parciales casi-lineal"
-date: 2025-03-12
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---
@@ -9,7 +8,6 @@ tags:
 ![[edp-casi-lineal.pdf]]
 
 ## Referencias
-- [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
 - [orden-edp](./orden-edp.md)
 

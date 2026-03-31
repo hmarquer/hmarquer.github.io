@@ -1,6 +1,5 @@
 ---
 title: "Curva diferenciable"
-date: 2025-02-25
 tags:
   - geometria-diferencial/tema3
 ---
@@ -9,8 +8,8 @@ tags:
 ![[curva-diferenciable.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [apl-diferenciable](./apl-diferenciable.md)
 - [curva-diferenciable](./curva-diferenciable.md)
 - [curva-topologica](./curva-topologica.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

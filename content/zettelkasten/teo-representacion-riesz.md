@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Representación de Riesz"
-date: 2025-11-13
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -10,10 +9,8 @@ tags:
 ![[teo-representacion-riesz.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
 - [dual-topologico](./dual-topologico.md)
-- [prop-funcional-lineal-continuo-prod-interno](./prop-funcional-lineal-continuo-prod-interno.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [isometria](./isometria.md)
-- [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
 - [prop-funcional-lineal-continuo-prod-interno](./prop-funcional-lineal-continuo-prod-interno.md)
 

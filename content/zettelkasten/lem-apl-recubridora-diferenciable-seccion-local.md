@@ -1,6 +1,5 @@
 ---
 title: "Lem apl recubridora diferenciable seccion local"
-date: 2025-06-23
 tags:
   - geometria-diferencial/tema6
 ---
@@ -10,10 +9,8 @@ tags:
 
 ## Referencias
 - [apl-recubridora-diferenciable](./apl-recubridora-diferenciable.md)
-- [apl-recubridora-diferenciable](./apl-recubridora-diferenciable.md)
+- [componente-conexa](./componente-conexa.md)
+- [conexion](./conexion.md)
 - [fibra](./fibra.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
-- [componente-conexa](./componente-conexa.md)
-- [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
-- [conexion](./conexion.md)
 

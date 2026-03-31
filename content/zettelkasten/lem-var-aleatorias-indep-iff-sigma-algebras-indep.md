@@ -1,6 +1,5 @@
 ---
 title: "Lem var aleatorias indep iff sigma algebras indep"
-date: 2025-06-10
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[lem-var-aleatorias-indep-iff-sigma-algebras-indep.pdf]]
 
 ## Referencias
-- [independencia-var-aleatorias](./independencia-var-aleatorias.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [independencia-sigma-algebras](./independencia-sigma-algebras.md)
+- [independencia-var-aleatorias](./independencia-var-aleatorias.md)
 

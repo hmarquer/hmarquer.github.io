@@ -1,6 +1,5 @@
 ---
 title: "Relación de equivalencia abierta"
-date: 2025-02-12
 tags:
   - geometria-diferencial/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[relacion-equivalencia-abierta.pdf]]
 
 ## Referencias
-- [relacion-equivalencia](./relacion-equivalencia.md)
 - [esp-topologico](./esp-topologico.md)
+- [relacion-equivalencia](./relacion-equivalencia.md)
 

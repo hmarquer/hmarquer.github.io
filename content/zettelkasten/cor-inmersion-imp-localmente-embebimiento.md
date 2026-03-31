@@ -1,6 +1,5 @@
 ---
 title: "Toda inmersión es localmente un embebimiento"
-date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,11 +8,6 @@ tags:
 ![[cor-inmersion-imp-localmente-embebimiento.pdf]]
 
 ## Referencias
-- [inmersion](./inmersion.md)
 - [embebimiento](./embebimiento.md)
 - [inmersion](./inmersion.md)
-- [embebimiento](./embebimiento.md)
-- [teo-cartas-adaptadas-inmersion](./teo-cartas-adaptadas-inmersion.md)
-- [embebimiento](./embebimiento.md)
-- [embebimiento](./embebimiento.md)
 

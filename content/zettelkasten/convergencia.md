@@ -1,6 +1,5 @@
 ---
 title: "Convergencia"
-date: 2025-02-05
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema1

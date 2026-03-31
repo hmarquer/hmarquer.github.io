@@ -1,6 +1,5 @@
 ---
 title: "Extensión de anillos"
-date: 2025-10-28
 tags:
   - algebra-conmutativa/tema4
 ---

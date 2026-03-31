@@ -1,6 +1,5 @@
 ---
 title: "Identidad de Plancherel"
-date: 2026-01-09
 tags:
   - variable-real/tema3
 ---
@@ -9,12 +8,11 @@ tags:
 ![[teo-identidad-plancherel.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
-- [sistema-ortonormal](./sistema-ortonormal.md)
 - [base-ortonormal](./base-ortonormal.md)
-- [sistema-ortogonal-completo](./sistema-ortogonal-completo.md)
 - [desigualdad-bessel](./desigualdad-bessel.md)
-- [desigualdad-bessel](./desigualdad-bessel.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [metrica](./metrica.md)
+- [sistema-ortogonal-completo](./sistema-ortogonal-completo.md)
+- [sistema-ortonormal](./sistema-ortonormal.md)
 - [teo-pitagoras](./teo-pitagoras.md)
 

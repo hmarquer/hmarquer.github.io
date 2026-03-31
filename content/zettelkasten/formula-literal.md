@@ -1,6 +1,5 @@
 ---
 title: "Fórmula literal"
-date: 2026-03-05
 tags:
   - logica-matematica/tema1
 ---
@@ -10,6 +9,5 @@ tags:
 
 ## Referencias
 - [formula](./formula.md)
-- [formula-atomica](./formula-atomica.md)
 - [formula-atomica](./formula-atomica.md)
 

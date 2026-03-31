@@ -1,6 +1,5 @@
 ---
-title: "La independencia de $\\pi$-sistemas implica la independencia de las $\\sigma$-álgebras generadas"
-date: 2025-02-22
+title: "La independencia de $\pi$-sistemas implica la independencia de las $\sigma$-álgebras generadas"
 tags:
   - probabilidad-ii/tema1
 ---
@@ -11,10 +10,6 @@ tags:
 ## Referencias
 - [independencia-pi-sistemas](./independencia-pi-sistemas.md)
 - [independencia-sigma-algebras](./independencia-sigma-algebras.md)
-- [lambda-sistema](./lambda-sistema.md)
-- [lambda-sistema](./lambda-sistema.md)
-- [lambda-sistema](./lambda-sistema.md)
-- [lambda-sistema](./lambda-sistema.md)
 - [lambda-sistema](./lambda-sistema.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)

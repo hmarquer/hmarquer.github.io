@@ -1,6 +1,5 @@
 ---
 title: "Cor producto modelos teoria horn"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,7 +8,6 @@ tags:
 ![[cor-producto-modelos-teoria-horn.pdf]]
 
 ## Referencias
+- [modelo](./modelo.md)
 - [teoria-horn](./teoria-horn.md)
-- [modelo](./modelo.md)
-- [modelo](./modelo.md)
 

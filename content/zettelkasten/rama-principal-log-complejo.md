@@ -1,6 +1,5 @@
 ---
 title: "Rama principal del logaritmo complejo"
-date: 2025-02-27
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,7 +8,7 @@ tags:
 ![[rama-principal-log-complejo.pdf]]
 
 ## Referencias
-- [num-complejos](./num-complejos.md)
 - [log-complejo](./log-complejo.md)
+- [num-complejos](./num-complejos.md)
 - [rama-log-complejo](./rama-log-complejo.md)
 

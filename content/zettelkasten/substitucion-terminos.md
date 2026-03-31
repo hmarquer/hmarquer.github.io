@@ -1,6 +1,5 @@
 ---
 title: "Substitución en términos"
-date: 2026-02-09
 tags:
   - logica-matematica/tema1
 ---
@@ -9,10 +8,7 @@ tags:
 ![[substitucion-terminos.pdf]]
 
 ## Referencias
+- [complejidad](./complejidad.md)
 - [termino](./termino.md)
 - [variables](./variables.md)
-- [termino](./termino.md)
-- [complejidad](./complejidad.md)
-- [complejidad](./complejidad.md)
-- [complejidad](./complejidad.md)
 

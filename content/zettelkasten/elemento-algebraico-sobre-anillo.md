@@ -1,6 +1,5 @@
 ---
 title: "Elemento algebraico sobre un anillo"
-date: 2025-10-28
 tags:
   - algebra-conmutativa/tema4
 ---
@@ -9,6 +8,6 @@ tags:
 ![[elemento-algebraico-sobre-anillo.pdf]]
 
 ## Referencias
-- [extension-anillos](./extension-anillos.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [extension-anillos](./extension-anillos.md)
 

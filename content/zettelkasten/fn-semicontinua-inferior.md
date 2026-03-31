@@ -1,6 +1,5 @@
 ---
 title: "Función semicontinua inferior"
-date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---

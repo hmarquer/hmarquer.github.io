@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Hahn-Banach II"
-date: 2025-12-19
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,12 +8,10 @@ tags:
 ![[teo-hahn-banach-ii.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
-- [subesp-vectorial](./subesp-vectorial.md)
 - [apl-lineal](./apl-lineal.md)
 - [continuidad](./continuidad.md)
 - [dual-topologico](./dual-topologico.md)
-- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
+- [norma](./norma.md)
 - [seminorma](./seminorma.md)
-- [teo-hahn-banach-i](./teo-hahn-banach-i.md)
+- [subesp-vectorial](./subesp-vectorial.md)
 

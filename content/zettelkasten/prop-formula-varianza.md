@@ -1,6 +1,5 @@
 ---
 title: "Fórmula de la varianza"
-date: 2025-03-27
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,11 +8,9 @@ tags:
 ![[prop-formula-varianza.pdf]]
 
 ## Referencias
+- [esperanza](./esperanza.md)
 - [fn-integrable](./fn-integrable.md)
+- [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 - [var-aleatoria](./var-aleatoria.md)
 - [varianza](./varianza.md)
-- [esperanza](./esperanza.md)
-- [esperanza](./esperanza.md)
-- [var-aleatoria](./var-aleatoria.md)
-- [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
 

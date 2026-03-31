@@ -1,6 +1,5 @@
 ---
 title: "Convergencia-serie"
-date: 2025-03-19
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3
@@ -10,8 +9,8 @@ tags:
 ![[convergencia-serie.pdf]]
 
 ## Referencias
+- [convergencia](./convergencia.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 - [serie](./serie.md)
-- [convergencia](./convergencia.md)
 

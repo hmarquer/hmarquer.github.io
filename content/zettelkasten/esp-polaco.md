@@ -1,6 +1,5 @@
 ---
 title: "Espacio polaco"
-date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
-- [esp-topologico-separable](./esp-topologico-separable.md)
 - [esp-topologico-completamente-metrizable](./esp-topologico-completamente-metrizable.md)
+- [esp-topologico-separable](./esp-topologico-separable.md)
 

@@ -1,6 +1,5 @@
 ---
-title: "$\\lambda$-sistema"
-date: 2025-12-11
+title: "$\lambda$-sistema"
 tags:
   - probabilidad-ii/tema1
 ---

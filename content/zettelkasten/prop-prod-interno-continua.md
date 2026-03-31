@@ -1,6 +1,5 @@
 ---
 title: "Continuidad del producto interno"
-date: 2026-01-09
 tags:
   - variable-real/tema3
 ---
@@ -9,10 +8,10 @@ tags:
 ![[prop-prod-interno-continua.pdf]]
 
 ## Referencias
-- [esp-prehilbert](./esp-prehilbert.md)
 - [continuidad](./continuidad.md)
-- [norma-inducida](./norma-inducida.md)
+- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
+- [esp-prehilbert](./esp-prehilbert.md)
 - [esp-secuencial](./esp-secuencial.md)
 - [metrica](./metrica.md)
-- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
+- [norma-inducida](./norma-inducida.md)
 

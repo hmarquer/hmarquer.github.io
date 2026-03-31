@@ -1,6 +1,5 @@
 ---
 title: "Lem complejidad univoca"
-date: 2026-02-10
 tags:
   - logica-matematica/tema1
 ---
@@ -9,10 +8,10 @@ tags:
 ![[lem-complejidad-univoca.pdf]]
 
 ## Referencias
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
-- [termino](./termino.md)
 - [formula](./formula.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [palabra](./palabra.md)
+- [termino](./termino.md)
 
 ## Etiquetas
 #REVISAR 

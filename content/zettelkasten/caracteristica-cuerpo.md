@@ -1,6 +1,5 @@
 ---
 title: "Característica de un cuerpo"
-date: 2026-02-14
 ---
 
 [[caracteristica-cuerpo.pdf]]

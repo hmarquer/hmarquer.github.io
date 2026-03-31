@@ -1,6 +1,5 @@
 ---
 title: "Prop orden total num complejos"
-date: 2026-03-18
 tags:
   - variable-compleja-ii/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[prop-orden-total-num-complejos.pdf]]
 
 ## Referencias
-- [relacion-orden](./relacion-orden.md)
 - [num-complejos](./num-complejos.md)
+- [relacion-orden](./relacion-orden.md)
 

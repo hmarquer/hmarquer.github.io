@@ -1,6 +1,5 @@
 ---
 title: "Corolario del Teorema de la base de Hilbert para $n$ variables"
-date: 2025-12-16
 tags:
   - algebra-conmutativa/tema2
 ---
@@ -11,7 +10,6 @@ tags:
 ## Referencias
 - [anillo-noetheriano](./anillo-noetheriano.md)
 - [anillo-polinomios](./anillo-polinomios.md)
-- [anillo-noetheriano](./anillo-noetheriano.md)
 - [teo-base-hilbert](./teo-base-hilbert.md)
 
 ## Etiquetas

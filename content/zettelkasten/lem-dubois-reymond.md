@@ -1,6 +1,5 @@
 ---
 title: "Lema de DuBois Reymond"
-date: 2025-05-23
 tags:
   - modelizacion/tema3
 ---

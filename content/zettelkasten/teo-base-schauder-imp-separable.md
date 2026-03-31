@@ -1,6 +1,5 @@
 ---
 title: "Teo base schauder imp separable"
-date: 2025-10-22
 tags:
   - analisis-funcional/tema2
 ---
@@ -9,7 +8,7 @@ tags:
 ![[teo-base-schauder-imp-separable.pdf]]
 
 ## Referencias
-- [esp-banach](./esp-banach.md)
 - [base-schauder](./base-schauder.md)
+- [esp-banach](./esp-banach.md)
 - [esp-separable](./esp-separable.md)
 

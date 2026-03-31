@@ -1,6 +1,5 @@
 ---
 title: "Métrica inducida"
-date: 2025-03-06
 tags:
   - analisis-funcional/tema1
 ---
@@ -9,7 +8,6 @@ tags:
 ![[metrica-inducida.pdf]]
 
 ## Referencias
+- [metrica](./metrica.md)
 - [norma](./norma.md)
-- [metrica](./metrica.md)
-- [metrica](./metrica.md)
 

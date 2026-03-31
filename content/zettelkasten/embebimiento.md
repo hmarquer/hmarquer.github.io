@@ -1,6 +1,5 @@
 ---
 title: "Embebimiento"
-date: 2025-03-10
 tags:
   - geometria-diferencial/tema4
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
-- [inmersion](./inmersion.md)
 - [homeomorfismo](./homeomorfismo.md)
+- [inmersion](./inmersion.md)
 

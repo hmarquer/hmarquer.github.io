@@ -1,6 +1,5 @@
 ---
 title: "Anillo local"
-date: 2025-10-08
 ---
 
 [[anillo-local.pdf]]

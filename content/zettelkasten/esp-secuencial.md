@@ -1,6 +1,5 @@
 ---
 title: "Espacio secuencial (de sucesiones)"
-date: 2025-03-18
 ---
 
 [[esp-secuencial.pdf]]

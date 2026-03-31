@@ -1,6 +1,5 @@
 ---
 title: "Cor subestructura modelo teoria universal"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,13 +8,11 @@ tags:
 ![[cor-subestructura-modelo-teoria-universal.pdf]]
 
 ## Referencias
-- [teoria-universal](./teoria-universal.md)
-- [estructura](./estructura.md)
-- [modelo](./modelo.md)
-- [subestructura](./subestructura.md)
-- [modelo](./modelo.md)
 - [enunciado](./enunciado.md)
+- [estructura](./estructura.md)
 - [formula-universal](./formula-universal.md)
+- [modelo](./modelo.md)
 - [prop-teoria-generada-enunciados](./prop-teoria-generada-enunciados.md)
-- [lem-preservacion-formulas-universales-subestructuras](./lem-preservacion-formulas-universales-subestructuras.md)
+- [subestructura](./subestructura.md)
+- [teoria-universal](./teoria-universal.md)
 

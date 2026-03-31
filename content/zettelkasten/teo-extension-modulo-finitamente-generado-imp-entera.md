@@ -1,6 +1,5 @@
 ---
 title: "Toda extensión que sea un módulo finitamente generado, es entera"
-date: 2025-12-31
 tags:
   - algebra-conmutativa/tema4
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [extension-anillos](./extension-anillos.md)
-- [modulo-finitamente-generado](./modulo-finitamente-generado.md)
 - [extension-anillos-entera](./extension-anillos-entera.md)
+- [modulo-finitamente-generado](./modulo-finitamente-generado.md)
 

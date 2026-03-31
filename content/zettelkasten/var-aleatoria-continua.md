@@ -1,6 +1,5 @@
 ---
 title: "Variable aleatoria continua"
-date: 2025-02-05
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[var-aleatoria-continua.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [fn-distribucion](./fn-distribucion.md)
 - [continuidad](./continuidad.md)
+- [fn-distribucion](./fn-distribucion.md)
+- [var-aleatoria](./var-aleatoria.md)
 

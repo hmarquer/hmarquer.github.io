@@ -1,15 +1,14 @@
 ---
 title: "Teorema de reflexión de Schwarz"
-date: 2025-12-02
 ---
 
 [[teo-reflexion-schwarz.pdf]]
 ![[teo-reflexion-schwarz.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
 - [continuidad](./continuidad.md)
 - [fn-entera](./fn-entera.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

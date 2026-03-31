@@ -1,6 +1,5 @@
 ---
 title: "Grafo asociado a una cadena de Markov homogénea"
-date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---

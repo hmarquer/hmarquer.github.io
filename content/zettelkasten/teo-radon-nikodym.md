@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Radon-Nikodym"
-date: 2025-05-04
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,13 +8,12 @@ tags:
 ![[teo-radon-nikodym.pdf]]
 
 ## Referencias
+- [continuidad-absoluta](./continuidad-absoluta.md)
+- [esp-lp](./esp-lp.md)
 - [esp-medible](./esp-medible.md)
 - [medida-sigma-finita](./medida-sigma-finita.md)
-- [smedida](./smedida.md)
-- [smedida](./smedida.md)
-- [continuidad-absoluta](./continuidad-absoluta.md)
 - [singularidad-mutua](./singularidad-mutua.md)
-- [esp-lp](./esp-lp.md)
+- [smedida](./smedida.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

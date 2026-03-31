@@ -1,6 +1,5 @@
 ---
 title: "Prop carac fn convexa"
-date: 2025-11-01
 tags:
   - variable-real/tema1
 ---

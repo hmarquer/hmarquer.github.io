@@ -1,17 +1,16 @@
 ---
 title: "Caracterización de un conjunto denso"
-date: 2025-05-29
 tags:
-  - teoria-descriptiva-de-conjuntos/tema1
   - analisis-funcional/tema2
+  - teoria-descriptiva-de-conjuntos/tema1
 ---
 
 [[prop-con-denso.pdf]]
 ![[prop-con-denso.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [con-denso](./con-denso.md)
+- [esp-topologico](./esp-topologico.md)
 
 ## Etiquetas
 #ORDENAR : a lo mejor referenciar que $D \subset \bar{D}$

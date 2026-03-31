@@ -1,6 +1,5 @@
 ---
 title: "Subvariedad inmersa"
-date: 2025-03-10
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,6 +8,6 @@ tags:
 ![[subvariedad-inmersa.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [inmersion](./inmersion.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

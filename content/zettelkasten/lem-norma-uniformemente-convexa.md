@@ -1,6 +1,5 @@
 ---
 title: "Lem norma uniformemente convexa"
-date: 2026-01-07
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,11 +1,10 @@
 ---
-title: "Espacio \\texorpdfstring{$\\mathcal{L}^p$}{Lp}"
-date: 2025-02-20
+title: "Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}"
 tags:
-  - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema1
-  - probabilidad-ii/tema2
   - analisis-funcional/tema2
+  - ecuaciones-en-derivadas-parciales/tema4
+  - probabilidad-ii/tema2
+  - variable-real/tema1
 ---
 
 [[esp-lp.pdf]]

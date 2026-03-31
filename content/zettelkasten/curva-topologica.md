@@ -1,6 +1,5 @@
 ---
 title: "Curva topológica"
-date: 2025-04-01
 tags:
   - geometria-diferencial/tema3
   - variable-compleja-i/tema4
@@ -10,6 +9,6 @@ tags:
 ![[curva-topologica.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
+- [esp-topologico](./esp-topologico.md)
 

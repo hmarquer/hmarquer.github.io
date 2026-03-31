@@ -1,6 +1,5 @@
 ---
 title: "Desigualdad de Hölder"
-date: 2025-02-27
 tags:
   - probabilidad-ii/tema2
 ---
@@ -10,10 +9,8 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [norma-var-aleatoria](./norma-var-aleatoria.md)
-- [norma-var-aleatoria](./norma-var-aleatoria.md)
 - [exponente-conjugado](./exponente-conjugado.md)
+- [norma-var-aleatoria](./norma-var-aleatoria.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN mirar quiz de moodle

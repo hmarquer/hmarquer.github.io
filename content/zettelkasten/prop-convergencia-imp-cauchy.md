@@ -1,6 +1,5 @@
 ---
 title: "Prop convergencia imp cauchy"
-date: 2025-10-08
 tags:
   - analisis-funcional/tema2
 ---
@@ -9,8 +8,8 @@ tags:
 ![[prop-convergencia-imp-cauchy.pdf]]
 
 ## Referencias
-- [esp-metrico](./esp-metrico.md)
 - [convergencia](./convergencia.md)
-- [sucesion-cauchy](./sucesion-cauchy.md)
+- [esp-metrico](./esp-metrico.md)
 - [metrica](./metrica.md)
+- [sucesion-cauchy](./sucesion-cauchy.md)
 

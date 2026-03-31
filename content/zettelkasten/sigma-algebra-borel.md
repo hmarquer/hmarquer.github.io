@@ -1,6 +1,5 @@
 ---
-title: "$\\sigma$-álgebra de Borel"
-date: 2025-12-11
+title: "$\sigma$-álgebra de Borel"
 tags:
   - probabilidad-ii/hoja0
 ---

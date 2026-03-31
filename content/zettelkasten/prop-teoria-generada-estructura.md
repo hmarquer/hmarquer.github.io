@@ -1,6 +1,5 @@
 ---
 title: "Prop teoria generada estructura"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,13 +8,11 @@ tags:
 ![[prop-teoria-generada-estructura.pdf]]
 
 ## Referencias
-- [estructura](./estructura.md)
-- [enunciado](./enunciado.md)
-- [satisfaccion](./satisfaccion.md)
-- [teoria](./teoria.md)
-- [modelo](./modelo.md)
-- [satisfacibilidad](./satisfacibilidad.md)
 - [consecuencia-semantica](./consecuencia-semantica.md)
+- [enunciado](./enunciado.md)
+- [estructura](./estructura.md)
 - [modelo](./modelo.md)
 - [satisfaccion](./satisfaccion.md)
+- [satisfacibilidad](./satisfacibilidad.md)
+- [teoria](./teoria.md)
 

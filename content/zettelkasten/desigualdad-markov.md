@@ -1,6 +1,5 @@
 ---
 title: "Desigualdad de Markov"
-date: 2025-06-11
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,6 +8,6 @@ tags:
 ![[desigualdad-markov.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
 - [desigualdad-chebyshev](./desigualdad-chebyshev.md)
+- [var-aleatoria](./var-aleatoria.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Norma inducida por producto interno"
-date: 2025-03-06
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3
@@ -10,9 +9,8 @@ tags:
 ![[norma-inducida.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
-- [prod-interno](./prod-interno.md)
-- [norma](./norma.md)
-- [norma](./norma.md)
 - [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
+- [esp-vectorial](./esp-vectorial.md)
+- [norma](./norma.md)
+- [prod-interno](./prod-interno.md)
 

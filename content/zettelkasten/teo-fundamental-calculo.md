@@ -1,6 +1,5 @@
 ---
 title: "Teorema fundamental del Cálculo"
-date: 2025-02-13
 ---
 
 [[teo-fundamental-calculo.pdf]]
@@ -8,6 +7,6 @@ date: 2025-02-13
 
 ## Referencias
 - [continuidad](./continuidad.md)
-- [fn-integrable](./fn-integrable.md)
 - [fn-derivable](./fn-derivable.md)
+- [fn-integrable](./fn-integrable.md)
 

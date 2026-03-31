@@ -1,6 +1,5 @@
 ---
 title: "Lem producto ideales"
-date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -10,8 +9,8 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
-- [producto-ideales](./producto-ideales.md)
 - [ideal-generado](./ideal-generado.md)
+- [producto-ideales](./producto-ideales.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

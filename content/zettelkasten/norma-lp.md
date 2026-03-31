@@ -1,10 +1,9 @@
 ---
-title: "Norma $\\mathcal{L}^p$"
-date: 2025-03-05
+title: "Norma $\mathcal{L}^p$"
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
-  - variable-real/tema1
   - probabilidad-ii/tema2
+  - variable-real/tema1
 ---
 
 [[norma-lp.pdf]]

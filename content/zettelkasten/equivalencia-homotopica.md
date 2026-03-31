@@ -1,6 +1,5 @@
 ---
 title: "Equivalencia homotópica"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,8 +8,6 @@ tags:
 ![[equivalencia-homotopica.pdf]]
 
 ## Referencias
-- [continuidad](./continuidad.md)
-- [continuidad](./continuidad.md)
 - [apl-homotopas](./apl-homotopas.md)
-- [apl-homotopas](./apl-homotopas.md)
+- [continuidad](./continuidad.md)
 

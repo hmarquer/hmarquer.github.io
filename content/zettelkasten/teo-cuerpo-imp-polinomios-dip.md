@@ -1,6 +1,5 @@
 ---
 title: "El anillo de polinomios de un cuerpo es un dominio de ideales principales"
-date: 2025-09-22
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -9,10 +8,9 @@ tags:
 ![[teo-cuerpo-imp-polinomios-dip.pdf]]
 
 ## Referencias
-- [cuerpo](./cuerpo.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [cuerpo](./cuerpo.md)
 - [dominio-ideales-principales](./dominio-ideales-principales.md)
-- [ideal](./ideal.md)
 - [ideal](./ideal.md)
 
 ## Etiquetas

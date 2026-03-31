@@ -1,9 +1,8 @@
 ---
 title: "Sucesión de Cauchy"
-date: 2025-02-05
 tags:
-  - teoria-descriptiva-de-conjuntos/tema1
   - analisis-funcional/tema2
+  - teoria-descriptiva-de-conjuntos/tema1
   - variable-compleja-i/tema1
   - variable-real/tema1
 ---

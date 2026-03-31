@@ -1,6 +1,5 @@
 ---
 title: "Teorema de la aplicación abierta en variable compleja"
-date: 2025-11-20
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1
@@ -10,10 +9,10 @@ tags:
 ![[teo-apl-abierta-compleja.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
 - [apl-abierta](./apl-abierta.md)
-- [teo-ceros-aislados](./teo-ceros-aislados.md)
 - [dominio](./dominio.md)
+- [fn-holomorfa](./fn-holomorfa.md)
+- [teo-ceros-aislados](./teo-ceros-aislados.md)
 
 ## Etiquetas
 #ORDENAR : referenciar

@@ -1,6 +1,5 @@
 ---
 title: "Cor norma p no prod interno"
-date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---
@@ -9,11 +8,10 @@ tags:
 ![[cor-norma-p-no-prod-interno.pdf]]
 
 ## Referencias
-- [norma-p](./norma-p.md)
-- [norma-inducida](./norma-inducida.md)
-- [prod-interno](./prod-interno.md)
-- [teo-prod-interno-iff-identidad-paralelogramo](./teo-prod-interno-iff-identidad-paralelogramo.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [norma-inducida](./norma-inducida.md)
+- [norma-p](./norma-p.md)
+- [prod-interno](./prod-interno.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN en las notas

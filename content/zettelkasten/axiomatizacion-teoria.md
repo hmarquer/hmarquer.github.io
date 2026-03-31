@@ -1,6 +1,5 @@
 ---
 title: "Axiomatización de una teoría"
-date: 2026-03-05
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[axiomatizacion-teoria.pdf]]
 
 ## Referencias
-- [teoria](./teoria.md)
 - [enunciado](./enunciado.md)
 - [prop-teoria-generada-enunciados](./prop-teoria-generada-enunciados.md)
+- [teoria](./teoria.md)
 

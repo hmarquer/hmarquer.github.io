@@ -1,6 +1,5 @@
 ---
 title: "Variedad algebraica afín"
-date: 2025-12-03
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -9,7 +8,7 @@ tags:
 ![[variedad-algebraica-afin.pdf]]
 
 ## Referencias
-- [esp-afin](./esp-afin.md)
 - [anillo-polinomios](./anillo-polinomios.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
+- [esp-afin](./esp-afin.md)
 

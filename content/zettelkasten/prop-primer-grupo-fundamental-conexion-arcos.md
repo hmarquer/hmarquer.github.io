@@ -1,6 +1,5 @@
 ---
 title: "Prop primer grupo fundamental conexion arcos"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,9 +8,8 @@ tags:
 ![[prop-primer-grupo-fundamental-conexion-arcos.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [conexion-arcos](./conexion-arcos.md)
-- [primer-grupo-fundamental](./primer-grupo-fundamental.md)
+- [esp-topologico](./esp-topologico.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 
 ## Etiquetas

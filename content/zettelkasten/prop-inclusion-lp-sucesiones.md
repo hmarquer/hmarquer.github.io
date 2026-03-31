@@ -1,6 +1,5 @@
 ---
-title: "Inclusión de espacios $\\ell^p$"
-date: 2025-10-19
+title: "Inclusión de espacios $\ell^p$"
 tags:
   - variable-real/tema1
 ---
@@ -9,7 +8,5 @@ tags:
 ![[prop-inclusion-lp-sucesiones.pdf]]
 
 ## Referencias
-- [esp-lp-sucesiones](./esp-lp-sucesiones.md)
-- [esp-lp-sucesiones](./esp-lp-sucesiones.md)
 - [esp-lp-sucesiones](./esp-lp-sucesiones.md)
 

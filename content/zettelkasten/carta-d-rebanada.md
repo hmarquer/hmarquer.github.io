@@ -1,6 +1,5 @@
 ---
 title: "Carta $d$-rebanada"
-date: 2025-06-16
 tags:
   - geometria-diferencial/tema5
 ---
@@ -9,7 +8,7 @@ tags:
 ![[carta-d-rebanada.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [carta](./carta.md)
 - [d-rebanada](./d-rebanada.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

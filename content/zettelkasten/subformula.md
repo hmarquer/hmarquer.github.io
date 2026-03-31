@@ -1,6 +1,5 @@
 ---
 title: "Subfórmula"
-date: 2026-02-07
 tags:
   - logica-matematica/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[subformula.pdf]]
 
 ## Referencias
-- [formula](./formula.md)
 - [aparicion](./aparicion.md)
+- [formula](./formula.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Aplicación recubridora"
-date: 2025-06-21
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,7 +8,7 @@ tags:
 ![[apl-recubridora.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [continuidad](./continuidad.md)
+- [esp-topologico](./esp-topologico.md)
 - [homeomorfismo](./homeomorfismo.md)
 

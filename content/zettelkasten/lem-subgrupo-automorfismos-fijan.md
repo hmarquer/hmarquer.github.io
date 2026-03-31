@@ -1,6 +1,5 @@
 ---
 title: "Lem subgrupo automorfismos fijan"
-date: 2026-02-10
 tags:
   - logica-matematica/tema1
 ---
@@ -9,10 +8,8 @@ tags:
 ![[lem-subgrupo-automorfismos-fijan.pdf]]
 
 ## Referencias
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
+- [automorfismo-estructuras](./automorfismo-estructuras.md)
 - [estructura](./estructura.md)
-- [automorfismo-estructuras](./automorfismo-estructuras.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [subgrupo](./subgrupo.md)
-- [automorfismo-estructuras](./automorfismo-estructuras.md)
-- [automorfismo-estructuras](./automorfismo-estructuras.md)
 

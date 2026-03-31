@@ -1,6 +1,5 @@
 ---
 title: "Seno topologo"
-date: 2025-06-06
 ---
 
 [[seno-topologo.pdf]]

@@ -1,9 +1,8 @@
 ---
 title: "Completitud métrica"
-date: 2025-02-05
 tags:
-  - teoria-descriptiva-de-conjuntos/tema1
   - analisis-funcional/tema2
+  - teoria-descriptiva-de-conjuntos/tema1
   - variable-real/tema1
 ---
 
@@ -11,7 +10,7 @@ tags:
 ![[completitud-metrica.pdf]]
 
 ## Referencias
+- [convergencia](./convergencia.md)
 - [metrica](./metrica.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
-- [convergencia](./convergencia.md)
 

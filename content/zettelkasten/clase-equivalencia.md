@@ -1,6 +1,5 @@
 ---
 title: "Clase equivalencia"
-date: 2025-09-23
 ---
 
 [[clase-equivalencia.pdf]]

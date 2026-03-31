@@ -1,6 +1,5 @@
 ---
 title: "Prop apl diferenciable diferencial inyectivo"
-date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---
@@ -10,6 +9,5 @@ tags:
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
-- [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 - [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 

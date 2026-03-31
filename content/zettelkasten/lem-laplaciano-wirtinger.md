@@ -1,6 +1,5 @@
 ---
 title: "Fórmula para el laplaciano en función de las derivadas de Wirtinger"
-date: 2025-11-12
 tags:
   - productos-finitos-de-blaschke/anexo
 ---
@@ -11,7 +10,5 @@ tags:
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
 - [laplaciano](./laplaciano.md)
-- [operadores-wirtinger](./operadores-wirtinger.md)
-- [operadores-wirtinger](./operadores-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 

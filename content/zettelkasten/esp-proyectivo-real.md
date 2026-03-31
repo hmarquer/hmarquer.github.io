@@ -1,6 +1,5 @@
 ---
 title: "Espacio proyectivo real"
-date: 2025-03-06
 tags:
   - geometria-diferencial/tema1
 ---
@@ -9,28 +8,21 @@ tags:
 ![[esp-proyectivo-real.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
-- [esp-topologico](./esp-topologico.md)
-- [topologia-subespacio](./topologia-subespacio.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
-- [segundo-numerable](./segundo-numerable.md)
-- [esp-proyectivo](./esp-proyectivo.md)
 - [apl-abierta](./apl-abierta.md)
-- [lem-relacion-equivalencia-abierta-segundo-numerable](./lem-relacion-equivalencia-abierta-segundo-numerable.md)
-- [segundo-numerable](./segundo-numerable.md)
-- [topologia-producto](./topologia-producto.md)
-- [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
-- [lem-relacion-equivalencia-abierta-hausdorff](./lem-relacion-equivalencia-abierta-hausdorff.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
-- [estructura-diferenciable](./estructura-diferenciable.md)
-- [carta](./carta.md)
-- [topologia-cociente](./topologia-cociente.md)
-- [homeomorfismo](./homeomorfismo.md)
-- [prop-fn-continua-cociente-iff-composicion-continua](./prop-fn-continua-cociente-iff-composicion-continua.md)
 - [atlas](./atlas.md)
 - [atlas-diferenciable](./atlas-diferenciable.md)
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
-- [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
-- [variedad-diferenciable](./variedad-diferenciable.md)
+- [carta](./carta.md)
+- [esp-proyectivo](./esp-proyectivo.md)
+- [esp-topologico](./esp-topologico.md)
+- [esp-vectorial](./esp-vectorial.md)
+- [estructura-diferenciable](./estructura-diferenciable.md)
+- [hausdorff-topologia](./hausdorff-topologia.md)
+- [homeomorfismo](./homeomorfismo.md)
+- [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
+- [segundo-numerable](./segundo-numerable.md)
+- [topologia-cociente](./topologia-cociente.md)
+- [topologia-producto](./topologia-producto.md)
+- [topologia-subespacio](./topologia-subespacio.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 

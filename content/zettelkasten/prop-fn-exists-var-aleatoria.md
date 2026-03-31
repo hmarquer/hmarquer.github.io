@@ -1,6 +1,5 @@
 ---
 title: "Prop fn exists var aleatoria"
-date: 2025-03-25
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,12 +8,8 @@ tags:
 ![[prop-fn-exists-var-aleatoria.pdf]]
 
 ## Referencias
-- [prop-fn-distribucion](./prop-fn-distribucion.md)
-- [prop-fn-distribucion](./prop-fn-distribucion.md)
-- [prop-fn-distribucion](./prop-fn-distribucion.md)
 - [esp-probabilidad](./esp-probabilidad.md)
-- [var-aleatoria](./var-aleatoria.md)
-- [esp-probabilidad](./esp-probabilidad.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
 - [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas

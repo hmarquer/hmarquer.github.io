@@ -1,6 +1,5 @@
 ---
 title: "La norma es semicontinua inferior para la convergencia débil"
-date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,9 +8,8 @@ tags:
 ![[prop-norma-semicontinua-inf-convergencia-debil.pdf]]
 
 ## Referencias
-- [esp-banach](./esp-banach.md)
 - [convergencia-debil](./convergencia-debil.md)
+- [esp-banach](./esp-banach.md)
 - [fn-semicontinua-inferior](./fn-semicontinua-inferior.md)
 - [topologia-debil](./topologia-debil.md)
-- [lem-acotado-dual-imp-acotado](./lem-acotado-dual-imp-acotado.md)
 

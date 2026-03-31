@@ -1,6 +1,5 @@
 ---
 title: "Modelo"
-date: 2026-03-02
 tags:
   - logica-matematica/tema1-1
 ---

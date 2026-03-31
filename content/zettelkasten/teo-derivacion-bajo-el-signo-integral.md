@@ -1,6 +1,5 @@
 ---
 title: "Teorema de derivación bajo el signo integral"
-date: 2025-12-30
 tags:
   - variable-real/tema2
 ---
@@ -9,10 +8,10 @@ tags:
 ![[teo-derivacion-bajo-el-signo-integral.pdf]]
 
 ## Referencias
-- [esp-medida](./esp-medida.md)
-- [integral](./integral.md)
 - [esp-lp](./esp-lp.md)
+- [esp-medida](./esp-medida.md)
 - [fn-diferenciable](./fn-diferenciable.md)
+- [integral](./integral.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 
 ## Etiquetas

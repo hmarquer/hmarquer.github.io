@@ -1,6 +1,5 @@
 ---
-title: "Intersección $\\sigma$-álgebra"
-date: 2025-02-12
+title: "Intersección $\sigma$-álgebra"
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,8 +8,5 @@ tags:
 ![[prop-interseccion-sigma-algebra.pdf]]
 
 ## Referencias
-- [sigma-algebra](./sigma-algebra.md)
-- [sigma-algebra](./sigma-algebra.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
 

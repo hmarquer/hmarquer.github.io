@@ -1,6 +1,5 @@
 ---
 title: "Teo fn suave soporte compacto denso lp"
-date: 2025-11-01
 tags:
   - variable-real/tema1
 ---
@@ -9,11 +8,9 @@ tags:
 ![[teo-fn-suave-soporte-compacto-denso-lp.pdf]]
 
 ## Referencias
-- [fn-suave-soporte-compacto](./fn-suave-soporte-compacto.md)
 - [con-denso](./con-denso.md)
 - [esp-lp](./esp-lp.md)
-- [lem-aprox-indicatriz-continua-norma-lp](./lem-aprox-indicatriz-continua-norma-lp.md)
-- [teo-fn-continua-soporte-compacto-denso-lp](./teo-fn-continua-soporte-compacto-denso-lp.md)
+- [fn-suave-soporte-compacto](./fn-suave-soporte-compacto.md)
 
 ## Etiquetas
 #COMPLETAR procede el dibujo de la foto

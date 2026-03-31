@@ -1,6 +1,5 @@
 ---
 title: "Fórmula para la clausura de Zariski de un morfismo de variedades algebraicas afines"
-date: 2026-01-05
 tags:
   - algebra-conmutativa/tema5
 ---
@@ -9,10 +8,8 @@ tags:
 ![[teo-clausura-zariski-morfismo-variedades-algebraicas-afines.pdf]]
 
 ## Referencias
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
+- [clausura-zariski](./clausura-zariski.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [clausura-zariski](./clausura-zariski.md)
-- [lem-clausura-zariski-con-ceros-ideal-anulacion](./lem-clausura-zariski-con-ceros-ideal-anulacion.md)
+- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
 

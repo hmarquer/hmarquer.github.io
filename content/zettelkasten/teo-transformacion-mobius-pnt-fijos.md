@@ -1,6 +1,5 @@
 ---
 title: "Teorema de puntos fijos de una transformación de Möbius"
-date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,7 +8,7 @@ tags:
 ![[teo-transformacion-mobius-pnt-fijos.pdf]]
 
 ## Referencias
-- [transformacion-mobius](./transformacion-mobius.md)
-- [pnt-fijo](./pnt-fijo.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
+- [pnt-fijo](./pnt-fijo.md)
+- [transformacion-mobius](./transformacion-mobius.md)
 

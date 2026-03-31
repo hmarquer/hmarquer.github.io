@@ -1,6 +1,5 @@
 ---
 title: "Convergencia localmente uniforme de funciones"
-date: 2025-04-24
 tags:
   - variable-compleja-i/tema3
 ---
@@ -9,9 +8,9 @@ tags:
 ![[convergencia-localmente-uniforme.pdf]]
 
 ## Referencias
-- [dominio](./dominio.md)
-- [esp-topologico](./esp-topologico.md)
-- [esp-metrico](./esp-metrico.md)
 - [compacidad](./compacidad.md)
 - [convergencia-uniforme](./convergencia-uniforme.md)
+- [dominio](./dominio.md)
+- [esp-metrico](./esp-metrico.md)
+- [esp-topologico](./esp-topologico.md)
 

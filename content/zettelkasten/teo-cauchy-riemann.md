@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Cauchy-Riemann"
-date: 2025-03-07
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema1

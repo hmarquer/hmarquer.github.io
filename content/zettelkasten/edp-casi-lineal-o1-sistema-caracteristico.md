@@ -1,6 +1,5 @@
 ---
 title: "Edp casi lineal o1 sistema caracteristico"
-date: 2025-03-30
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---

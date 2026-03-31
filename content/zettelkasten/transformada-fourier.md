@@ -1,6 +1,5 @@
 ---
 title: "Transformada de Fourier"
-date: 2025-10-29
 tags:
   - variable-real/tema3
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-prehilbert](./esp-prehilbert.md)
-- [sistema-ortonormal](./sistema-ortonormal.md)
 - [prod-interno](./prod-interno.md)
+- [sistema-ortonormal](./sistema-ortonormal.md)
 

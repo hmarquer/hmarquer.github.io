@@ -1,6 +1,5 @@
 ---
 title: "Lazo"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,7 +8,7 @@ tags:
 ![[lazo.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [arco](./arco.md)
 - [continuidad](./continuidad.md)
+- [esp-topologico](./esp-topologico.md)
 

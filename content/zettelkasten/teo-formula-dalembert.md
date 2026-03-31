@@ -1,6 +1,5 @@
 ---
 title: "Fórmula de D'Alembert"
-date: 2025-05-13
 ---
 
 [[teo-formula-dalembert.pdf]]

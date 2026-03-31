@@ -1,6 +1,5 @@
 ---
 title: "Criterio de Eisenstein"
-date: 2025-10-30
 ---
 
 [[teo-criterio-einsenstein.pdf]]

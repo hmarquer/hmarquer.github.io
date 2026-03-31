@@ -1,6 +1,5 @@
 ---
 title: "Desigualdad de Chebyshev con la varianza"
-date: 2025-06-13
 tags:
   - probabilidad-ii/tema2
 ---
@@ -10,8 +9,8 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
-- [var-aleatoria](./var-aleatoria.md)
 - [esperanza](./esperanza.md)
+- [var-aleatoria](./var-aleatoria.md)
 - [varianza](./varianza.md)
 
 ## Etiquetas

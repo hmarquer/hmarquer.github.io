@@ -1,6 +1,5 @@
 ---
 title: "Elemento irreducible"
-date: 2026-01-10
 ---
 
 [[elemento-irreducible.pdf]]

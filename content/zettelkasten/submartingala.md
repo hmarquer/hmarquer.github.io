@@ -1,6 +1,5 @@
 ---
 title: "Submartingala"
-date: 2025-06-14
 tags:
   - probabilidad-ii/tema4
 ---
@@ -9,8 +8,8 @@ tags:
 ![[submartingala.pdf]]
 
 ## Referencias
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [filtracion](./filtracion.md)
 - [proceso-estocastico](./proceso-estocastico.md)
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
-- [filtracion](./filtracion.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 

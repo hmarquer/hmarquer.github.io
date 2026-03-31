@@ -1,6 +1,5 @@
 ---
 title: "Base de la topología de subespacio"
-date: 2025-02-24
 ---
 
 [[base-topologia-subespacio.pdf]]
@@ -9,6 +8,5 @@ date: 2025-02-24
 ## Referencias
 - [base-topologia](./base-topologia.md)
 - [topologia](./topologia.md)
-- [base-topologia](./base-topologia.md)
 - [topologia-subespacio](./topologia-subespacio.md)
 

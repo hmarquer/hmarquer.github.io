@@ -1,6 +1,5 @@
 ---
 title: "Criterio cauchy"
-date: 2025-04-23
 tags:
   - variable-compleja-i/tema3
 ---
@@ -9,7 +8,7 @@ tags:
 ![[criterio-cauchy.pdf]]
 
 ## Referencias
-- [serie](./serie.md)
 - [convergencia-serie](./convergencia-serie.md)
+- [serie](./serie.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
 

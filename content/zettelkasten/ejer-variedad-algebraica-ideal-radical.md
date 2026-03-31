@@ -1,6 +1,5 @@
 ---
 title: "Un ideal y su radical definen la misma variedad algebraica"
-date: 2025-12-17
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -10,9 +9,8 @@ tags:
 
 ## Referencias
 - [anillo-polinomios](./anillo-polinomios.md)
-- [ideal](./ideal.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
-- [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
-- [radical-ideal](./radical-ideal.md)
 - [dominio-integridad](./dominio-integridad.md)
+- [ideal](./ideal.md)
+- [radical-ideal](./radical-ideal.md)
 

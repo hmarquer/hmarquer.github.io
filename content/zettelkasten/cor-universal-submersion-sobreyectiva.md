@@ -1,6 +1,5 @@
 ---
 title: "Corolario de la propiedad universal de las submersiones sobreyectivas"
-date: 2025-06-09
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,16 +8,9 @@ tags:
 ![[cor-universal-submersion-sobreyectiva.pdf]]
 
 ## Referencias
-- [submersion](./submersion.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [submersion](./submersion.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [apl-diferenciable](./apl-diferenciable.md)
 - [apl-cociente](./apl-cociente.md)
-- [cor-submersion-sobreyectiva-imp-cociente](./cor-submersion-sobreyectiva-imp-cociente.md)
+- [apl-diferenciable](./apl-diferenciable.md)
 - [continuidad](./continuidad.md)
+- [submersion](./submersion.md)
 - [teo-universal-apl-cociente](./teo-universal-apl-cociente.md)
-- [continuidad](./continuidad.md)
-- [teo-universal-submersion-sobreyectiva](./teo-universal-submersion-sobreyectiva.md)
 

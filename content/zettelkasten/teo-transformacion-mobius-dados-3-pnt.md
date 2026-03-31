@@ -1,6 +1,5 @@
 ---
 title: "Transformación de Möbius dados tres puntos"
-date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---
@@ -10,8 +9,5 @@ tags:
 
 ## Referencias
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
-- [plano-complejo-extendido](./plano-complejo-extendido.md)
-- [transformacion-mobius](./transformacion-mobius.md)
-- [cor-transformacion-mobius-3-pnt-fijos](./cor-transformacion-mobius-3-pnt-fijos.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 

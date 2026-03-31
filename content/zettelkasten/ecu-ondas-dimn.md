@@ -1,6 +1,5 @@
 ---
 title: "Ecu ondas dimn"
-date: 2026-03-09
 tags:
   - fisica-cuantica/tema1-2
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
-- [orden-edp](./orden-edp.md)
 - [laplaciano](./laplaciano.md)
+- [orden-edp](./orden-edp.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Toda transformación de Möbius es composición de traslaciones, dilataciones, rotaciones e inversiones"
-date: 2025-03-26
 tags:
   - variable-compleja-i/tema2
 ---

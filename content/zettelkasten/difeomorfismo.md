@@ -1,6 +1,5 @@
 ---
 title: "Difeomorfismo"
-date: 2025-02-13
 tags:
   - geometria-diferencial/tema2
 ---
@@ -9,7 +8,6 @@ tags:
 ![[difeomorfismo.pdf]]
 
 ## Referencias
+- [apl-diferenciable](./apl-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [apl-diferenciable](./apl-diferenciable.md)
 

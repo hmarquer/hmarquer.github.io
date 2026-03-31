@@ -1,6 +1,5 @@
 ---
 title: "Acción diferenciable propiamente discontinua"
-date: 2025-06-21
 tags:
   - geometria-diferencial/tema6
 ---

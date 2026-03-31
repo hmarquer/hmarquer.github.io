@@ -1,6 +1,5 @@
 ---
 title: "Ejer extension entera localizacion"
-date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---
@@ -10,12 +9,7 @@ tags:
 
 ## Referencias
 - [extension-anillos](./extension-anillos.md)
+- [extension-anillos-entera](./extension-anillos-entera.md)
 - [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
 - [prop-localizacion-anillo](./prop-localizacion-anillo.md)
-- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
-- [extension-anillos](./extension-anillos.md)
-- [extension-anillos-entera](./extension-anillos-entera.md)
-- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
-- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
-- [extension-anillos-entera](./extension-anillos-entera.md)
 

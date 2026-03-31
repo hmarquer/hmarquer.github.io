@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Isomorfismos de Banach"
-date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---
@@ -9,9 +8,9 @@ tags:
 ![[teo-isomorfismos-banach.pdf]]
 
 ## Referencias
-- [esp-banach](./esp-banach.md)
-- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [continuidad](./continuidad.md)
+- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
+- [esp-banach](./esp-banach.md)
 - [homeomorfismo](./homeomorfismo.md)
 - [teo-apl-abierta](./teo-apl-abierta.md)
 

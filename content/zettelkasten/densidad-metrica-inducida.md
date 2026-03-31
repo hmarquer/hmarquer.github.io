@@ -1,6 +1,5 @@
 ---
 title: "Densidad metrica inducida"
-date: 2026-01-22
 tags:
   - productos-finitos-de-blaschke/tema2
 ---
@@ -9,6 +8,6 @@ tags:
 ![[densidad-metrica-inducida.pdf]]
 
 ## Referencias
-- [teo-densidad-induce-metrica](./teo-densidad-induce-metrica.md)
 - [fn-holomorfa](./fn-holomorfa.md)
+- [teo-densidad-induce-metrica](./teo-densidad-induce-metrica.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Función potencia compleja"
-date: 2025-03-04
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,8 +8,6 @@ tags:
 ![[fn-potencia-compleja.pdf]]
 
 ## Referencias
-- [num-complejos](./num-complejos.md)
-- [num-complejos](./num-complejos.md)
 - [num-complejos](./num-complejos.md)
 - [rama-principal-log-complejo](./rama-principal-log-complejo.md)
 

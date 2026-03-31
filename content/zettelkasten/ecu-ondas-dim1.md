@@ -1,6 +1,5 @@
 ---
 title: "Ecuación de ondas en dimensión $1$"
-date: 2025-05-06
 tags:
   - fisica-cuantica/tema1-2
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [ecu-derivadas-parciales](./ecu-derivadas-parciales.md)
-- [orden-edp](./orden-edp.md)
 - [edp-lineal](./edp-lineal.md)
+- [orden-edp](./orden-edp.md)
 

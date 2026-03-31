@@ -1,6 +1,5 @@
 ---
 title: "Primer grupo fundamental"
-date: 2025-05-11
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,11 +8,11 @@ tags:
 ![[primer-grupo-fundamental.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
-- [prop-clases-homotopia-arcos](./prop-clases-homotopia-arcos.md)
-- [lazo](./lazo.md)
-- [grupo](./grupo.md)
 - [concatenacion-arcos](./concatenacion-arcos.md)
+- [esp-topologico](./esp-topologico.md)
+- [grupo](./grupo.md)
+- [lazo](./lazo.md)
+- [prop-clases-homotopia-arcos](./prop-clases-homotopia-arcos.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

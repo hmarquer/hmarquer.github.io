@@ -1,6 +1,5 @@
 ---
 title: "Convergencia fuerte implica débil"
-date: 2025-12-20
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,8 +8,8 @@ tags:
 ![[prop-convergencia-fuerte-imp-debil.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
+- [continuidad](./continuidad.md)
 - [convergencia](./convergencia.md)
 - [convergencia-debil](./convergencia-debil.md)
-- [continuidad](./continuidad.md)
+- [norma](./norma.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Prop transformada fourier traslacion modulacion dilatacion"
-date: 2026-01-13
 tags:
   - variable-real/tema5
 ---
@@ -9,12 +8,9 @@ tags:
 ![[prop-transformada-fourier-traslacion-modulacion-dilatacion.pdf]]
 
 ## Referencias
+- [dilatacion](./dilatacion.md)
 - [esp-lp](./esp-lp.md)
-- [traslacion](./traslacion.md)
 - [modulacion](./modulacion.md)
-- [modulacion](./modulacion.md)
-- [traslacion](./traslacion.md)
-- [dilatacion](./dilatacion.md)
-- [dilatacion](./dilatacion.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
+- [traslacion](./traslacion.md)
 

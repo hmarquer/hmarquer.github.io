@@ -1,6 +1,5 @@
 ---
 title: "Prop ideal primo iff cociente di integridad"
-date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -9,12 +8,9 @@ tags:
 ![[prop-ideal-primo-iff-cociente-di-integridad.pdf]]
 
 ## Referencias
+- [dominio-integridad](./dominio-integridad.md)
 - [ideal](./ideal.md)
 - [ideal-primo](./ideal-primo.md)
-- [dominio-integridad](./dominio-integridad.md)
-- [ideal-primo](./ideal-primo.md)
-- [ideal](./ideal.md)
-- [dominio-integridad](./dominio-integridad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

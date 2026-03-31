@@ -1,6 +1,5 @@
 ---
 title: "Proceso estocástico adaptado"
-date: 2025-04-07
 tags:
   - probabilidad-ii/tema4
 ---
@@ -9,8 +8,8 @@ tags:
 ![[proceso-estocastico-adaptado.pdf]]
 
 ## Referencias
-- [proceso-estocastico](./proceso-estocastico.md)
-- [filtracion](./filtracion.md)
 - [esp-probabilidad](./esp-probabilidad.md)
+- [filtracion](./filtracion.md)
 - [fn-medible](./fn-medible.md)
+- [proceso-estocastico](./proceso-estocastico.md)
 

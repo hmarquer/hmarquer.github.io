@@ -1,6 +1,5 @@
 ---
-title: "Teorema $\\pi$-$\\lambda$"
-date: 2025-03-27
+title: "Teorema $\pi$-$\lambda$"
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[teo-pi-sistema-subset-lambda-sistema.pdf]]
 
 ## Referencias
-- [pi-sistema](./pi-sistema.md)
 - [lambda-sistema](./lambda-sistema.md)
+- [pi-sistema](./pi-sistema.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 

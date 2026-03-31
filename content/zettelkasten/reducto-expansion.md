@@ -1,6 +1,5 @@
 ---
 title: "Reducto expansion"
-date: 2026-02-10
 tags:
   - logica-matematica/tema1
 ---
@@ -9,7 +8,6 @@ tags:
 ![[reducto-expansion.pdf]]
 
 ## Referencias
+- [estructura](./estructura.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
-- [estructura](./estructura.md)
-- [estructura](./estructura.md)
 

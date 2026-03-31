@@ -1,6 +1,5 @@
 ---
 title: "Espacio de Banach"
-date: 2025-03-06
 tags:
   - analisis-funcional/tema2
   - variable-real/tema1
@@ -10,8 +9,8 @@ tags:
 ![[esp-banach.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
-- [norma](./norma.md)
-- [metrica-inducida](./metrica-inducida.md)
 - [completitud-metrica](./completitud-metrica.md)
+- [esp-vectorial](./esp-vectorial.md)
+- [metrica-inducida](./metrica-inducida.md)
+- [norma](./norma.md)
 

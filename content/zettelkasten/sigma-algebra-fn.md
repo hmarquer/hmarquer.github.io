@@ -1,6 +1,5 @@
 ---
-title: "$\\sigma$-álgebra generada por una función"
-date: 2025-02-21
+title: "$\sigma$-álgebra generada por una función"
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,7 +8,6 @@ tags:
 ![[sigma-algebra-fn.pdf]]
 
 ## Referencias
-- [sigma-algebra](./sigma-algebra.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [fn-medible](./fn-medible.md)
+- [sigma-algebra](./sigma-algebra.md)
 

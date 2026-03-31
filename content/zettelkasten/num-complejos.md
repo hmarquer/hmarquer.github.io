@@ -1,6 +1,5 @@
 ---
 title: "Números complejos"
-date: 2025-01-29
 tags:
   - variable-compleja-i/tema1
 ---
@@ -9,12 +8,10 @@ tags:
 ![[num-complejos.pdf]]
 
 ## Referencias
-- [cuerpo](./cuerpo.md)
-- [cuerpo](./cuerpo.md)
 - [anillo](./anillo.md)
-- [grupo](./grupo.md)
-- [extension](./extension.md)
-- [morfismo-anillos](./morfismo-anillos.md)
-- [extension](./extension.md)
+- [cuerpo](./cuerpo.md)
 - [esp-vectorial](./esp-vectorial.md)
+- [extension](./extension.md)
+- [grupo](./grupo.md)
+- [morfismo-anillos](./morfismo-anillos.md)
 

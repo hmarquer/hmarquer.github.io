@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Caratheodory II"
-date: 2025-02-13
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -10,10 +9,10 @@ tags:
 
 ## Referencias
 - [algebra](./algebra.md)
-- [premedida](./premedida.md)
 - [conjunto-medible](./conjunto-medible.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [medida](./medida.md)
+- [premedida](./premedida.md)
+- [sigma-algebra](./sigma-algebra.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

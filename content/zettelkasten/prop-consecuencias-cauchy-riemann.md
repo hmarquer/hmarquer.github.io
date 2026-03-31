@@ -1,6 +1,5 @@
 ---
 title: "Consecuencias de las ecuaciones de Cauchy-Riemann"
-date: 2025-03-15
 tags:
   - variable-compleja-i/tema2
 ---
@@ -11,7 +10,5 @@ tags:
 ## Referencias
 - [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
-- [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 

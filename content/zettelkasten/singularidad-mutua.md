@@ -1,6 +1,5 @@
 ---
 title: "Singularidad mutua"
-date: 2025-05-04
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,8 +8,7 @@ tags:
 ![[singularidad-mutua.pdf]]
 
 ## Referencias
+- [con-nulo](./con-nulo.md)
 - [esp-medible](./esp-medible.md)
 - [smedida](./smedida.md)
-- [con-nulo](./con-nulo.md)
-- [con-nulo](./con-nulo.md)
 

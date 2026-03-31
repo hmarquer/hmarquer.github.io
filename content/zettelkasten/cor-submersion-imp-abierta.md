@@ -1,6 +1,5 @@
 ---
 title: "Toda submersión es una aplicación abierta"
-date: 2025-06-08
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,9 +8,7 @@ tags:
 ![[cor-submersion-imp-abierta.pdf]]
 
 ## Referencias
-- [submersion](./submersion.md)
 - [apl-abierta](./apl-abierta.md)
-- [submersion](./submersion.md)
-- [teo-submersion-iff-exists-seccion-local](./teo-submersion-iff-exists-seccion-local.md)
 - [seccion-local-apl-diferenciable](./seccion-local-apl-diferenciable.md)
+- [submersion](./submersion.md)
 

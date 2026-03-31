@@ -1,6 +1,5 @@
 ---
 title: "Teorema de convergencia de martingalas"
-date: 2025-06-15
 tags:
   - probabilidad-ii/tema4
 ---
@@ -9,14 +8,13 @@ tags:
 ![[teo-convergencia-martingalas.pdf]]
 
 ## Referencias
-- [submartingala](./submartingala.md)
-- [norma-lp](./norma-lp.md)
 - [convergencia-casi-segura](./convergencia-casi-segura.md)
-- [sucesion-cauchy](./sucesion-cauchy.md)
-- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [desigualdad-chebyshev](./desigualdad-chebyshev.md)
 - [lem-borel-cantelli-i](./lem-borel-cantelli-i.md)
-- [lem-borel-cantelli-i](./lem-borel-cantelli-i.md)
+- [norma-lp](./norma-lp.md)
+- [submartingala](./submartingala.md)
+- [sucesion-cauchy](./sucesion-cauchy.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
 #ORDENAR referenciar

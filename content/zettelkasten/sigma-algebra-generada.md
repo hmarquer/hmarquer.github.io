@@ -1,6 +1,5 @@
 ---
-title: "$\\sigma$ álgebra generada por una familia"
-date: 2025-02-12
+title: "$\sigma$ álgebra generada por una familia"
 ---
 
 [[sigma-algebra-generada.pdf]]

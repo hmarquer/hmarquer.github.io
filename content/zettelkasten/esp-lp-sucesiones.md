@@ -1,9 +1,8 @@
 ---
-title: "Espacio $\\ell^p$"
-date: 2025-10-17
+title: "Espacio $\ell^p$"
 tags:
-  - variable-real/tema1
   - analisis-funcional/tema2
+  - variable-real/tema1
 ---
 
 [[esp-lp-sucesiones.pdf]]
@@ -13,6 +12,5 @@ tags:
 - [esp-conteo](./esp-conteo.md)
 - [esp-lp](./esp-lp.md)
 - [esp-secuencial](./esp-secuencial.md)
-- [norma-lp](./norma-lp.md)
 - [norma-lp](./norma-lp.md)
 

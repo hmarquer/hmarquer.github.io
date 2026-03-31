@@ -1,10 +1,9 @@
 ---
 title: "Desigualdad cauchy schwarz"
-date: 2025-09-17
 tags:
   - analisis-funcional/tema1
-  - variable-real/tema3
   - aprendizaje-automatico/apendice
+  - variable-real/tema3
 ---
 
 [[desigualdad-cauchy-schwarz.pdf]]
@@ -12,7 +11,7 @@ tags:
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
-- [prod-interno](./prod-interno.md)
-- [norma-inducida](./norma-inducida.md)
 - [indep-lineal](./indep-lineal.md)
+- [norma-inducida](./norma-inducida.md)
+- [prod-interno](./prod-interno.md)
 

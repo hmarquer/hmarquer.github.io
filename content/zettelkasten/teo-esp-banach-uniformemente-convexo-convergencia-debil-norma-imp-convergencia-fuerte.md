@@ -1,6 +1,5 @@
 ---
 title: "Teo espacio banach uniformemente convexo convergencia debil norma imp convergencia fuerte"
-date: 2026-01-07
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,11 +8,8 @@ tags:
 ![[teo-esp-banach-uniformemente-convexo-convergencia-debil-norma-imp-convergencia-fuerte.pdf]]
 
 ## Referencias
+- [convergencia](./convergencia.md)
+- [convergencia-debil](./convergencia-debil.md)
 - [esp-banach](./esp-banach.md)
 - [norma-uniformemente-convexa](./norma-uniformemente-convexa.md)
-- [convergencia-debil](./convergencia-debil.md)
-- [convergencia](./convergencia.md)
-- [convergencia](./convergencia.md)
-- [prop-norma-semicontinua-inf-convergencia-debil](./prop-norma-semicontinua-inf-convergencia-debil.md)
-- [lem-norma-uniformemente-convexa](./lem-norma-uniformemente-convexa.md)
 

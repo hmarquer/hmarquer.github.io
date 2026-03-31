@@ -1,6 +1,5 @@
 ---
 title: "Conjunto dirigido"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---

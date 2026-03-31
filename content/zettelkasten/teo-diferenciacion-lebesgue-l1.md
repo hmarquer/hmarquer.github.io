@@ -1,6 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue en $\\mathcal{L}^1$"
-date: 2026-01-12
+title: "Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$"
 tags:
   - variable-real/tema2
 ---
@@ -9,7 +8,6 @@ tags:
 ![[teo-diferenciacion-lebesgue-l1.pdf]]
 
 ## Referencias
-- [esp-lp](./esp-lp.md)
 - [convergencia](./convergencia.md)
-- [lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte](./lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte.md)
+- [esp-lp](./esp-lp.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Clausura de Zariski"
-date: 2025-12-16
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -9,8 +8,8 @@ tags:
 ![[clausura-zariski.pdf]]
 
 ## Referencias
-- [esp-afin](./esp-afin.md)
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [clausura](./clausura.md)
+- [esp-afin](./esp-afin.md)
 - [prop-topologia-zariski](./prop-topologia-zariski.md)
+- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Prop espacio tangente fibra kernel diferencial"
-date: 2025-06-21
 tags:
   - geometria-diferencial/tema5
 ---
@@ -10,10 +9,10 @@ tags:
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
+- [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
+- [esp-tangente-variedad](./esp-tangente-variedad.md)
 - [fibra](./fibra.md)
 - [val-regular-apl-diferenciable](./val-regular-apl-diferenciable.md)
-- [esp-tangente-variedad](./esp-tangente-variedad.md)
-- [diferencial-apl-diferenciable](./diferencial-apl-diferenciable.md)
 
 ## Etiquetas
 #REVISAR 

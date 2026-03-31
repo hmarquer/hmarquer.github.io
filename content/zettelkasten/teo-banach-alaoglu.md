@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Banach-Alaoglu"
-date: 2026-01-07
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,11 +8,9 @@ tags:
 ![[teo-banach-alaoglu.pdf]]
 
 ## Referencias
+- [compacidad](./compacidad.md)
 - [norma](./norma.md)
 - [prop-apl-lineales-continuas-norma](./prop-apl-lineales-continuas-norma.md)
-- [compacidad](./compacidad.md)
-- [lem-carac-continuidad-topologia-inicial](./lem-carac-continuidad-topologia-inicial.md)
-- [lem-carac-continuidad-topologia-inicial](./lem-carac-continuidad-topologia-inicial.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

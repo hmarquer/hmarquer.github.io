@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Riesz-Fischer"
-date: 2025-12-30
 tags:
   - variable-real/tema3
 ---
@@ -10,8 +9,8 @@ tags:
 
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
-- [sistema-ortonormal](./sistema-ortonormal.md)
-- [transformada-fourier](./transformada-fourier.md)
-- [teo-pitagoras](./teo-pitagoras.md)
 - [prop-prod-interno-continua](./prop-prod-interno-continua.md)
+- [sistema-ortonormal](./sistema-ortonormal.md)
+- [teo-pitagoras](./teo-pitagoras.md)
+- [transformada-fourier](./transformada-fourier.md)
 

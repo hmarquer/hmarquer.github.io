@@ -1,6 +1,5 @@
 ---
 title: "Teorema de existencia y unicidad de una estructura diferenciable"
-date: 2025-05-31
 tags:
   - geometria-diferencial/tema1
 ---
@@ -10,7 +9,7 @@ tags:
 
 ## Referencias
 - [atlas-diferenciable](./atlas-diferenciable.md)
+- [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 - [esp-topologico](./esp-topologico.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
-- [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 

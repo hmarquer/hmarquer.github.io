@@ -1,6 +1,5 @@
 ---
 title: "Teoría generada por un conjunto de enunciados"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,14 +8,10 @@ tags:
 ![[prop-teoria-generada-enunciados.pdf]]
 
 ## Referencias
-- [enunciado](./enunciado.md)
-- [satisfacibilidad](./satisfacibilidad.md)
-- [satisfaccion](./satisfaccion.md)
-- [teoria](./teoria.md)
-- [modelo](./modelo.md)
-- [modelo](./modelo.md)
-- [modelo](./modelo.md)
-- [satisfaccion](./satisfaccion.md)
 - [consecuencia-semantica](./consecuencia-semantica.md)
+- [enunciado](./enunciado.md)
+- [modelo](./modelo.md)
 - [satisfaccion](./satisfaccion.md)
+- [satisfacibilidad](./satisfacibilidad.md)
+- [teoria](./teoria.md)
 

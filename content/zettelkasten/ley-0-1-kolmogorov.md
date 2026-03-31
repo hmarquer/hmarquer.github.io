@@ -1,6 +1,5 @@
 ---
 title: "Ley 0-1 de Kolmogorov"
-date: 2025-03-11
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,16 +8,13 @@ tags:
 ![[ley-0-1-kolmogorov.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
-- [sigma-algebra-cola](./sigma-algebra-cola.md)
+- [independencia-pi-sistemas](./independencia-pi-sistemas.md)
+- [independencia-sigma-algebras](./independencia-sigma-algebras.md)
 - [independencia-sucesos](./independencia-sucesos.md)
+- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [pi-sistema](./pi-sistema.md)
-- [independencia-pi-sistemas](./independencia-pi-sistemas.md)
-- [independencia-sigma-algebras](./independencia-sigma-algebras.md)
-- [pi-sistema](./pi-sistema.md)
-- [independencia-pi-sistemas](./independencia-pi-sistemas.md)
-- [independencia-sigma-algebras](./independencia-sigma-algebras.md)
+- [sigma-algebra-cola](./sigma-algebra-cola.md)
+- [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas
 #ORDENAR referenciar

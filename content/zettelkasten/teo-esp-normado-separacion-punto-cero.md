@@ -1,6 +1,5 @@
 ---
 title: "Teorema de separación de un punto y el origen en un espacio normado"
-date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,9 +8,9 @@ tags:
 ![[teo-esp-normado-separacion-punto-cero.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
-- [dual-topologico](./dual-topologico.md)
-- [subesp-vectorial](./subesp-vectorial.md)
 - [apl-lineal](./apl-lineal.md)
+- [dual-topologico](./dual-topologico.md)
+- [norma](./norma.md)
+- [subesp-vectorial](./subesp-vectorial.md)
 - [teo-hahn-banach-ii](./teo-hahn-banach-ii.md)
 

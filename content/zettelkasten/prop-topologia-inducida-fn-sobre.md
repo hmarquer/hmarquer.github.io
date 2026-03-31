@@ -1,6 +1,5 @@
 ---
 title: "Topología inducida por función sobreyectiva"
-date: 2025-02-11
 tags:
   - geometria-diferencial/tema1
 ---
@@ -9,9 +8,7 @@ tags:
 ![[prop-topologia-inducida-fn-sobre.pdf]]
 
 ## Referencias
+- [apl-cociente](./apl-cociente.md)
 - [esp-topologico](./esp-topologico.md)
 - [topologia](./topologia.md)
-- [apl-cociente](./apl-cociente.md)
-- [topologia](./topologia.md)
-- [apl-cociente](./apl-cociente.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Isomorfismo anillos"
-date: 2025-09-23
 tags:
   - algebra-conmutativa/tema1
 ---

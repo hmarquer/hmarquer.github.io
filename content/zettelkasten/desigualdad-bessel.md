@@ -1,6 +1,5 @@
 ---
 title: "Desigualdad de Bessel"
-date: 2025-11-11
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

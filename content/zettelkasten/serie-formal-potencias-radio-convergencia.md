@@ -1,6 +1,5 @@
 ---
 title: "Radio de convergencia de una serie de potencias"
-date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---
@@ -9,6 +8,6 @@ tags:
 ![[serie-formal-potencias-radio-convergencia.pdf]]
 
 ## Referencias
-- [serie-formal-potencias](./serie-formal-potencias.md)
 - [convergencia-serie](./convergencia-serie.md)
+- [serie-formal-potencias](./serie-formal-potencias.md)
 

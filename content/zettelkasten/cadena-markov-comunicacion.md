@@ -1,6 +1,5 @@
 ---
 title: "Comunicación en una cadena de Markov"
-date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---
@@ -10,6 +9,5 @@ tags:
 
 ## Referencias
 - [cadena-markov](./cadena-markov.md)
-- [cadena-markov-accesibilidad](./cadena-markov-accesibilidad.md)
 - [cadena-markov-accesibilidad](./cadena-markov-accesibilidad.md)
 

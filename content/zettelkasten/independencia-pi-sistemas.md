@@ -1,6 +1,5 @@
 ---
-title: "Independencia de $\\pi$-sistemas"
-date: 2025-02-21
+title: "Independencia de $\pi$-sistemas"
 tags:
   - probabilidad-ii/tema1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
-- [pi-sistema](./pi-sistema.md)
 - [independencia-sucesos](./independencia-sucesos.md)
+- [pi-sistema](./pi-sistema.md)
 

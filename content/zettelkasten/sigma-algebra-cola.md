@@ -1,6 +1,5 @@
 ---
-title: "$\\sigma$-álgebra de cola"
-date: 2025-03-11
+title: "$\sigma$-álgebra de cola"
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,9 +8,8 @@ tags:
 ![[sigma-algebra-cola.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra-fn](./sigma-algebra-fn.md)
-- [sigma-algebra-fn](./sigma-algebra-fn.md)
+- [var-aleatoria](./var-aleatoria.md)
 

@@ -1,6 +1,5 @@
 ---
-title: "Independencia de $\\sigma$-álgebras"
-date: 2025-02-11
+title: "Independencia de $\sigma$-álgebras"
 tags:
   - probabilidad-ii/tema1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [independencia-sucesos](./independencia-sucesos.md)
+- [sigma-algebra](./sigma-algebra.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Interpretación de términos"
-date: 2026-02-10
 tags:
   - logica-matematica/tema1
 ---
@@ -9,13 +8,12 @@ tags:
 ![[interpretacion-terminos.pdf]]
 
 ## Referencias
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
-- [estructura](./estructura.md)
-- [evaluacion](./evaluacion.md)
-- [termino](./termino.md)
 - [complejidad](./complejidad.md)
 - [constante](./constante.md)
-- [variables](./variables.md)
-- [teo-lectura-unica](./teo-lectura-unica.md)
+- [estructura](./estructura.md)
+- [evaluacion](./evaluacion.md)
 - [interpretacion-terminos](./interpretacion-terminos.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
+- [termino](./termino.md)
+- [variables](./variables.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Conjunto cerrado"
-date: 2026-01-09
 ---
 
 [[con-cerrado.pdf]]

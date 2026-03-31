@@ -1,6 +1,5 @@
 ---
 title: "Producto de ideales"
-date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[producto-ideales.pdf]]
 
 ## Referencias
-- [ideal](./ideal.md)
 - [anillo](./anillo.md)
+- [ideal](./ideal.md)
 - [ideal-generado](./ideal-generado.md)
 

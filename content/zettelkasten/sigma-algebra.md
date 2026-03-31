@@ -1,9 +1,8 @@
 ---
-title: "$\\sigma$-álgebra"
-date: 2025-01-17
+title: "$\sigma$-álgebra"
 tags:
-  - variable-real/tema1
   - probabilidad-ii/hoja0
+  - variable-real/tema1
 ---
 
 [[sigma-algebra.pdf]]

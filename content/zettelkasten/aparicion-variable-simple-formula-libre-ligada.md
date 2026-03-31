@@ -1,6 +1,5 @@
 ---
 title: "Tipo de aparición de variable simple en fórmula: libre o ligada"
-date: 2026-02-07
 tags:
   - logica-matematica/tema1
 ---
@@ -9,11 +8,8 @@ tags:
 ![[aparicion-variable-simple-formula-libre-ligada.pdf]]
 
 ## Referencias
+- [aparicion](./aparicion.md)
 - [formula](./formula.md)
+- [subformula](./subformula.md)
 - [variables](./variables.md)
-- [aparicion](./aparicion.md)
-- [subformula](./subformula.md)
-- [aparicion](./aparicion.md)
-- [subformula](./subformula.md)
-- [subformula](./subformula.md)
 

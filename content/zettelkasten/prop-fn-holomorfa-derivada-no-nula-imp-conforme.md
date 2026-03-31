@@ -1,6 +1,5 @@
 ---
 title: "Prop fn holomorfa derivada no nula imp conforme"
-date: 2026-03-18
 tags:
   - variable-compleja-ii/tema1
 ---
@@ -9,9 +8,9 @@ tags:
 ![[prop-fn-holomorfa-derivada-no-nula-imp-conforme.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
+- [apl-conforme](./apl-conforme.md)
 - [dominio](./dominio.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
-- [apl-conforme](./apl-conforme.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 

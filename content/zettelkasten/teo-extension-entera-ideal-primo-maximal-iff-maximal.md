@@ -1,6 +1,5 @@
 ---
 title: "Teo extension entera ideal primo maximal iff maximal"
-date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---
@@ -10,11 +9,6 @@ tags:
 
 ## Referencias
 - [extension-anillos-entera](./extension-anillos-entera.md)
+- [ideal-maximal](./ideal-maximal.md)
 - [ideal-primo](./ideal-primo.md)
-- [ideal-maximal](./ideal-maximal.md)
-- [ideal-maximal](./ideal-maximal.md)
-- [ejer-extension-entera-cociente](./ejer-extension-entera-cociente.md)
-- [prop-ideal-primo-iff-cociente-di-integridad](./prop-ideal-primo-iff-cociente-di-integridad.md)
-- [teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo](./teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo.md)
-- [prop-ideal-maximal-iff-cociente-cuerpo](./prop-ideal-maximal-iff-cociente-cuerpo.md)
 
