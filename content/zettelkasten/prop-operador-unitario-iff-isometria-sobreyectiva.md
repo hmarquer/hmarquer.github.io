@@ -1,6 +1,5 @@
 ---
 title: "Prop operador unitario iff isometria sobreyectiva"
-date: 2026-03-11
 tags:
   - fisica-cuantica/tema1-3
 ---
@@ -9,10 +8,10 @@ tags:
 ![[prop-operador-unitario-iff-isometria-sobreyectiva.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
 - [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
-- [operador-unitario](./operador-unitario.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [isometria](./isometria.md)
+- [operador-unitario](./operador-unitario.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN :

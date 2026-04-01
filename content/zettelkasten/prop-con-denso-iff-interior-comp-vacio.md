@@ -1,6 +1,5 @@
 ---
 title: "Equivalencia entre densidad y complemento con interior vacío"
-date: 2025-12-03
 tags:
   - analisis-funcional/tema2
 ---
@@ -9,9 +8,8 @@ tags:
 ![[prop-con-denso-iff-interior-comp-vacio.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [con-denso](./con-denso.md)
-- [prop-con-denso](./prop-con-denso.md)
+- [esp-topologico](./esp-topologico.md)
 
 ## Etiquetas
 #ORDENAR : crear nota y referenciar interior

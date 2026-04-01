@@ -1,6 +1,5 @@
 ---
-title: "Tautología como equivalencia semántica a $\\top$"
-date: 2026-03-26
+title: "Tautología como equivalencia semántica a $\top$"
 tags:
   - logica-matematica/tema1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [enunciado](./enunciado.md)
-- [tautologia](./tautologia.md)
 - [equivalencia-semantica](./equivalencia-semantica.md)
+- [tautologia](./tautologia.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Función regular de variedad algebraica afín"
-date: 2025-12-31
 tags:
   - algebra-conmutativa/tema5
 ---
@@ -9,6 +8,6 @@ tags:
 ![[funcion-regular-variedad-algebraica-afin.pdf]]
 
 ## Referencias
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 

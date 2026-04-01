@@ -1,6 +1,5 @@
 ---
 title: "Cambio de variables"
-date: 2026-02-15
 tags:
   - logica-matematica/tema1
 ---
@@ -9,26 +8,11 @@ tags:
 ![[obs-cambio-variables.pdf]]
 
 ## Referencias
-- [substitucion-terminos](./substitucion-terminos.md)
-- [termino](./termino.md)
-- [termino](./termino.md)
-- [termino](./termino.md)
 - [aparicion](./aparicion.md)
 - [formula](./formula.md)
-- [variable-simple-formula-libre-ligada](./variable-simple-formula-libre-ligada.md)
-- [aparicion](./aparicion.md)
 - [substitucion-formulas](./substitucion-formulas.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
+- [substitucion-terminos](./substitucion-terminos.md)
+- [termino](./termino.md)
+- [variable-simple-formula-libre-ligada](./variable-simple-formula-libre-ligada.md)
 - [variables](./variables.md)
 

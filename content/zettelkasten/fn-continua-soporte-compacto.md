@@ -1,6 +1,5 @@
 ---
 title: "Fn continua soporte compacto"
-date: 2025-11-01
 tags:
   - variable-real/tema1
 ---
@@ -9,10 +8,9 @@ tags:
 ![[fn-continua-soporte-compacto.pdf]]
 
 ## Referencias
+- [compacidad](./compacidad.md)
+- [continuidad](./continuidad.md)
 - [esp-medible](./esp-medible.md)
 - [sigma-algebra-borel](./sigma-algebra-borel.md)
-- [continuidad](./continuidad.md)
-- [soporte-cerrado](./soporte-cerrado.md)
-- [compacidad](./compacidad.md)
 - [soporte-cerrado](./soporte-cerrado.md)
 

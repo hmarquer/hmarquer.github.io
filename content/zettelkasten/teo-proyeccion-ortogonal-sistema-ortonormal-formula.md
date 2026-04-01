@@ -1,6 +1,5 @@
 ---
 title: "Fórmula para la proyección ortogonal en un sistema ortonormal finito"
-date: 2025-10-28
 tags:
   - analisis-funcional/tema2
 ---
@@ -10,11 +9,8 @@ tags:
 
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
-- [sistema-ortonormal](./sistema-ortonormal.md)
-- [subesp-vectorial-generado](./subesp-vectorial-generado.md)
-- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 - [prod-interno](./prod-interno.md)
-- [prop-subesp-vectorial-generado-cerrado](./prop-subesp-vectorial-generado-cerrado.md)
-- [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
+- [sistema-ortonormal](./sistema-ortonormal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 

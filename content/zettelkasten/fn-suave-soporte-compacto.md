@@ -1,6 +1,5 @@
 ---
 title: "Fn suave soporte compacto"
-date: 2025-11-01
 tags:
   - variable-real/tema1
 ---
@@ -9,11 +8,10 @@ tags:
 ![[fn-suave-soporte-compacto.pdf]]
 
 ## Referencias
-- [esp-medible](./esp-medible.md)
-- [sigma-algebra-borel](./sigma-algebra-borel.md)
-- [fn-continua-soporte-compacto](./fn-continua-soporte-compacto.md)
-- [fn-clase-ck](./fn-clase-ck.md)
-- [fn-clase-ck](./fn-clase-ck.md)
-- [soporte-cerrado](./soporte-cerrado.md)
 - [compacidad](./compacidad.md)
+- [esp-medible](./esp-medible.md)
+- [fn-clase-ck](./fn-clase-ck.md)
+- [fn-continua-soporte-compacto](./fn-continua-soporte-compacto.md)
+- [sigma-algebra-borel](./sigma-algebra-borel.md)
+- [soporte-cerrado](./soporte-cerrado.md)
 

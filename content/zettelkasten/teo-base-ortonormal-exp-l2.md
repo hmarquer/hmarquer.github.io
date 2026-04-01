@@ -1,6 +1,5 @@
 ---
 title: "Teo base ortonormal exp l2"
-date: 2026-01-12
 tags:
   - variable-real/tema4
 ---

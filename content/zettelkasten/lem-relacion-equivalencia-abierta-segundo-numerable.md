@@ -1,6 +1,5 @@
 ---
 title: "Lem-relacion-equivalencia-abierta-segundo-numerable"
-date: 2025-02-27
 tags:
   - geometria-diferencial/tema1
 ---
@@ -10,10 +9,9 @@ tags:
 
 ## Referencias
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
+- [segundo-numerable](./segundo-numerable.md)
 - [topologia](./topologia.md)
-- [segundo-numerable](./segundo-numerable.md)
 - [topologia-cociente](./topologia-cociente.md)
-- [segundo-numerable](./segundo-numerable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

@@ -1,6 +1,5 @@
 ---
 title: "Ideal nilradical"
-date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -10,8 +9,8 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
-- [nilpotencia-anillos](./nilpotencia-anillos.md)
 - [ideal](./ideal.md)
+- [nilpotencia-anillos](./nilpotencia-anillos.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN de las fotos y en parte EJERCICIO

@@ -1,6 +1,5 @@
 ---
 title: "Longitud de un camino"
-date: 2025-05-01
 tags:
   - variable-compleja-i/tema4
 ---

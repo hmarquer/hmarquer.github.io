@@ -1,6 +1,5 @@
 ---
 title: "Números enteros"
-date: 2025-02-03
 ---
 
 [[num-enteros.pdf]]

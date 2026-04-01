@@ -1,6 +1,5 @@
 ---
 title: "Operador adjunto de la composición"
-date: 2025-12-25
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,10 +8,7 @@ tags:
 ![[lem-adjunto-composicion.pdf]]
 
 ## Referencias
+- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [norma](./norma.md)
-- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
-- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
-- [operador-adjunto](./operador-adjunto.md)
-- [operador-adjunto](./operador-adjunto.md)
 - [operador-adjunto](./operador-adjunto.md)
 

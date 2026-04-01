@@ -1,6 +1,5 @@
 ---
 title: "Teo central limite"
-date: 2025-06-18
 tags:
   - probabilidad-ii/tema5
 ---
@@ -9,13 +8,13 @@ tags:
 ![[teo-central-limite.pdf]]
 
 ## Referencias
-- [esp-lp](./esp-lp.md)
-- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
-- [igualdad-distribucion](./igualdad-distribucion.md)
-- [esperanza](./esperanza.md)
-- [varianza](./varianza.md)
 - [convergencia-distribucion](./convergencia-distribucion.md)
+- [esp-lp](./esp-lp.md)
+- [esperanza](./esperanza.md)
 - [fn-distribucion](./fn-distribucion.md)
+- [igualdad-distribucion](./igualdad-distribucion.md)
+- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
+- [varianza](./varianza.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

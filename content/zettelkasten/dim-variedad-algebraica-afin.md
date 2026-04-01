@@ -1,6 +1,5 @@
 ---
 title: "Dimensión de una variedad algebraica afín"
-date: 2026-01-10
 tags:
   - algebra-conmutativa/tema6
 ---
@@ -9,9 +8,8 @@ tags:
 ![[dim-variedad-algebraica-afin.pdf]]
 
 ## Referencias
-- [variedad-algebraica-afin-irreducible](./variedad-algebraica-afin-irreducible.md)
-- [dim-krull](./dim-krull.md)
 - [anillo-coordenadas-variedad-algebraica-afin](./anillo-coordenadas-variedad-algebraica-afin.md)
+- [dim-krull](./dim-krull.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [variedad-algebraica-afin-irreducible](./variedad-algebraica-afin-irreducible.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Forma cuadrática"
-date: 2025-03-12
 ---
 
 [[forma-cuadratica.pdf]]

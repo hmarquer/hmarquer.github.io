@@ -1,6 +1,5 @@
 ---
 title: "Teorema de levantamiento de curvas"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -10,7 +9,6 @@ tags:
 
 ## Referencias
 - [apl-recubridora-diferenciable](./apl-recubridora-diferenciable.md)
-- [curva-diferenciable](./curva-diferenciable.md)
 - [curva-diferenciable](./curva-diferenciable.md)
 
 ## Etiquetas

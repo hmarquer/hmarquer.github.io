@@ -1,6 +1,5 @@
 ---
 title: "Cor indep var aleatorias iff indep fn distribucion"
-date: 2025-06-11
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,10 +8,8 @@ tags:
 ![[cor-indep-var-aleatorias-iff-indep-fn-distribucion.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
+- [independencia-pi-sistemas](./independencia-pi-sistemas.md)
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [pi-sistema](./pi-sistema.md)
-- [independencia-pi-sistemas](./independencia-pi-sistemas.md)
-- [prop-indep-pi-sistemas-imp-indep-sigma-algebras](./prop-indep-pi-sistemas-imp-indep-sigma-algebras.md)
+- [var-aleatoria](./var-aleatoria.md)
 

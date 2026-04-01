@@ -1,6 +1,5 @@
 ---
-title: "Corolario del orden de las normas $\\mathcal{L}^p$"
-date: 2025-03-27
+title: "Corolario del orden de las normas $\mathcal{L}^p$"
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,10 +8,8 @@ tags:
 ![[cor-orden-normas-lp.pdf]]
 
 ## Referencias
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [norma-lp](./norma-lp.md)
-- [norma-lp](./norma-lp.md)
-- [fn-convexa](./fn-convexa.md)
 - [desigualdad-jensen](./desigualdad-jensen.md)
+- [esp-lp](./esp-lp.md)
+- [fn-convexa](./fn-convexa.md)
+- [norma-lp](./norma-lp.md)
 

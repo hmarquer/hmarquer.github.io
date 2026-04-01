@@ -1,6 +1,5 @@
 ---
 title: "Cadena de Markov irreducible"
-date: 2025-03-20
 tags:
   - modelizacion/tema2
 ---

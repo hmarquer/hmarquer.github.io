@@ -1,6 +1,5 @@
 ---
 title: "Toda aplicación abierta entre espacios normados es sobreyectiva"
-date: 2025-12-13
 tags:
   - analisis-funcional/tema4
 ---
@@ -9,7 +8,7 @@ tags:
 ![[prop-apl-abierta-esp-normados-imp-sobreyectiva.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
-- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [apl-abierta](./apl-abierta.md)
+- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
+- [norma](./norma.md)
 

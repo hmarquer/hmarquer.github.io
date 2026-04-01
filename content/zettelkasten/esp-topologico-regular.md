@@ -1,6 +1,5 @@
 ---
 title: "Espacio topológico regular"
-date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[esp-topologico-regular.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [clausura](./clausura.md)
+- [esp-topologico](./esp-topologico.md)
 

@@ -1,6 +1,5 @@
 ---
-title: "Inclusión de espacios $\\mathcal{L}^p$: caso general"
-date: 2025-10-17
+title: "Inclusión de espacios $\mathcal{L}^p$: caso general"
 tags:
   - variable-real/tema1
 ---
@@ -9,17 +8,10 @@ tags:
 ![[prop-inclusion-lp-general.pdf]]
 
 ## Referencias
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [esp-lp](./esp-lp.md)
-- [norma-lp](./norma-lp.md)
-- [norma-lp](./norma-lp.md)
-- [norma-lp](./norma-lp.md)
 - [desigualdad-holder](./desigualdad-holder.md)
+- [esp-lp](./esp-lp.md)
 - [exponente-conjugado](./exponente-conjugado.md)
-- [desigualdad-holder](./desigualdad-holder.md)
+- [norma-lp](./norma-lp.md)
 
 ## Etiquetas
 #EJERCICIO 

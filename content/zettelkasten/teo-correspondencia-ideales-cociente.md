@@ -1,6 +1,5 @@
 ---
 title: "Teo correspacioondencia ideales cociente"
-date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -10,7 +9,6 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
-- [ideal](./ideal.md)
 - [anillo-cociente](./anillo-cociente.md)
 - [ideal](./ideal.md)
 - [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)

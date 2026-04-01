@@ -1,6 +1,5 @@
 ---
-title: "Convergencia puntual dominada implica convergencia en $\\mathcal{L}^p$"
-date: 2025-11-04
+title: "Convergencia puntual dominada implica convergencia en $\mathcal{L}^p$"
 tags:
   - variable-real/tema2
 ---
@@ -9,11 +8,10 @@ tags:
 ![[prop-convergencia-puntual-dominada-imp-lp.pdf]]
 
 ## Referencias
-- [fn-medible](./fn-medible.md)
-- [esp-medida](./esp-medida.md)
-- [esp-lp](./esp-lp.md)
-- [convergencia-puntual](./convergencia-puntual.md)
 - [convergencia-lp](./convergencia-lp.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
+- [convergencia-puntual](./convergencia-puntual.md)
+- [esp-lp](./esp-lp.md)
+- [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Teo cerrado convexo hilbert imp exists min norma"
-date: 2025-10-26
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -10,12 +9,11 @@ tags:
 ![[teo-cerrado-convexo-hilbert-imp-exists-min-norma.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
-- [con-convexo](./con-convexo.md)
-- [norma](./norma.md)
-- [identidad-paralelogramo](./identidad-paralelogramo.md)
-- [sucesion-cauchy](./sucesion-cauchy.md)
 - [completitud-metrica](./completitud-metrica.md)
+- [con-convexo](./con-convexo.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [identidad-paralelogramo](./identidad-paralelogramo.md)
+- [norma](./norma.md)
 - [prop-norma-continua](./prop-norma-continua.md)
+- [sucesion-cauchy](./sucesion-cauchy.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Equivalencia semantica"
-date: 2026-02-17
 tags:
   - logica-matematica/tema1
 ---
@@ -9,11 +8,9 @@ tags:
 ![[equivalencia-semantica.pdf]]
 
 ## Referencias
-- [formula](./formula.md)
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [estructura](./estructura.md)
 - [evaluacion](./evaluacion.md)
-- [satisfaccion](./satisfaccion.md)
+- [formula](./formula.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [satisfaccion](./satisfaccion.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Curva jordan"
-date: 2025-04-30
 tags:
   - variable-compleja-i/tema4
 ---
@@ -9,7 +8,7 @@ tags:
 ![[curva-jordan.pdf]]
 
 ## Referencias
-- [curva-topologica](./curva-topologica.md)
 - [curva-cerrada](./curva-cerrada.md)
 - [curva-simple](./curva-simple.md)
+- [curva-topologica](./curva-topologica.md)
 

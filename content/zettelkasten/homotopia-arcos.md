@@ -1,6 +1,5 @@
 ---
 title: "Homotopía de arcos"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,8 +8,8 @@ tags:
 ![[homotopia-arcos.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [arco](./arco.md)
+- [esp-topologico](./esp-topologico.md)
 - [homotopia](./homotopia.md)
 
 ## Etiquetas

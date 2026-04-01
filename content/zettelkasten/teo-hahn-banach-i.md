@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Hahn-Banach I"
-date: 2025-12-19
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,12 +8,9 @@ tags:
 ![[teo-hahn-banach-i.pdf]]
 
 ## Referencias
+- [apl-lineal](./apl-lineal.md)
 - [esp-vectorial](./esp-vectorial.md)
-- [subesp-vectorial](./subesp-vectorial.md)
-- [seminorma](./seminorma.md)
-- [apl-lineal](./apl-lineal.md)
-- [apl-lineal](./apl-lineal.md)
 - [funcional-minkowski](./funcional-minkowski.md)
-- [teo-extension-apl-lineal-minkowski](./teo-extension-apl-lineal-minkowski.md)
-- [lem-apl-lineal-complejo-reduccion-real](./lem-apl-lineal-complejo-reduccion-real.md)
+- [seminorma](./seminorma.md)
+- [subesp-vectorial](./subesp-vectorial.md)
 

@@ -1,18 +1,13 @@
 ---
 title: "Topología producto"
-date: 2025-02-24
 ---
 
 [[topologia-producto.pdf]]
 ![[topologia-producto.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [base-topologia](./base-topologia.md)
-- [prop-base-alguna-topologia](./prop-base-alguna-topologia.md)
-- [prop-base-alguna-topologia](./prop-base-alguna-topologia.md)
-- [prop-base-alguna-topologia](./prop-base-alguna-topologia.md)
 - [esp-topologico](./esp-topologico.md)
+- [prop-base-alguna-topologia](./prop-base-alguna-topologia.md)
 - [topologia](./topologia.md)
-- [base-topologia](./base-topologia.md)
 

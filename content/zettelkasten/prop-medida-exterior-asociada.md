@@ -1,6 +1,5 @@
 ---
 title: "Medida exterior asociada"
-date: 2025-02-13
 ---
 
 [[prop-medida-exterior-asociada.pdf]]
@@ -8,9 +7,8 @@ date: 2025-02-13
 
 ## Referencias
 - [algebra](./algebra.md)
+- [medida-exterior](./medida-exterior.md)
 - [premedida](./premedida.md)
-- [medida-exterior](./medida-exterior.md)
-- [medida-exterior](./medida-exterior.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

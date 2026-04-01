@@ -1,6 +1,5 @@
 ---
 title: "Regla de Barrow compleja"
-date: 2025-05-01
 tags:
   - variable-compleja-i/tema4
 ---
@@ -9,9 +8,9 @@ tags:
 ![[regla-barrow-compleja.pdf]]
 
 ## Referencias
-- [dominio](./dominio.md)
 - [camino](./camino.md)
 - [continuidad](./continuidad.md)
+- [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Segundo numerable implica separable"
-date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -10,8 +9,8 @@ tags:
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)
-- [segundo-numerable](./segundo-numerable.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
+- [segundo-numerable](./segundo-numerable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

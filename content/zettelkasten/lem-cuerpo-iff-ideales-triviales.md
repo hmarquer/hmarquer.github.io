@@ -1,6 +1,5 @@
 ---
 title: "Lem cuerpo iff ideales triviales"
-date: 2025-09-12
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -12,7 +11,5 @@ tags:
 - [anillo](./anillo.md)
 - [cuerpo](./cuerpo.md)
 - [ideal](./ideal.md)
-- [lem-ideal-total](./lem-ideal-total.md)
 - [ideal-generado](./ideal-generado.md)
-- [lem-ideal-generado](./lem-ideal-generado.md)
 

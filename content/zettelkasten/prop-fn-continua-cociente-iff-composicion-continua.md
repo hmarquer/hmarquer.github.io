@@ -1,6 +1,5 @@
 ---
 title: "Prop-fn-continua-cociente-iff-composicion-continua"
-date: 2025-03-01
 tags:
   - geometria-diferencial/tema1
 ---
@@ -9,9 +8,8 @@ tags:
 ![[prop-fn-continua-cociente-iff-composicion-continua.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [topologia](./topologia.md)
 - [topologia-cociente](./topologia-cociente.md)
-- [continuidad](./continuidad.md)
-- [continuidad](./continuidad.md)
 

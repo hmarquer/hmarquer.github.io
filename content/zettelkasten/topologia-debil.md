@@ -1,6 +1,5 @@
 ---
 title: "Topología débil"
-date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,9 +8,9 @@ tags:
 ![[topologia-debil.pdf]]
 
 ## Referencias
-- [norma](./norma.md)
-- [topologia-inicial](./topologia-inicial.md)
-- [topologia](./topologia.md)
 - [continuidad](./continuidad.md)
 - [dual-topologico](./dual-topologico.md)
+- [norma](./norma.md)
+- [topologia](./topologia.md)
+- [topologia-inicial](./topologia-inicial.md)
 

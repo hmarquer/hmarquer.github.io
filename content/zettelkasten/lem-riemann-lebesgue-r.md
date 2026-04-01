@@ -1,6 +1,5 @@
 ---
-title: "Lema de Riemann-Lebesgue en $\\mathcal{L}^1(\\R)$"
-date: 2026-01-13
+title: "Lema de Riemann-Lebesgue en $\mathcal{L}^1(\R)$"
 tags:
   - variable-real/tema5
 ---
@@ -11,5 +10,4 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
-- [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 

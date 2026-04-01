@@ -1,6 +1,5 @@
 ---
-title: "Función \\textit{bump}"
-date: 2025-02-20
+title: "Función \textit{bump}"
 tags:
   - geometria-diferencial/tema2
 ---
@@ -9,6 +8,6 @@ tags:
 ![[fn-bump.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [fn-diferenciable-variedad](./fn-diferenciable-variedad.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

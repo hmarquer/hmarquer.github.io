@@ -1,6 +1,5 @@
 ---
 title: "Axiomas de Zermelo-Fraenkel"
-date: 2025-02-03
 ---
 
 [[zermelo-fraenkel.pdf]]

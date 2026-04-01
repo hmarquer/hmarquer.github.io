@@ -1,6 +1,5 @@
 ---
 title: "Prop clases homotopia arcos"
-date: 2025-06-22
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,10 +8,10 @@ tags:
 ![[prop-clases-homotopia-arcos.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
-- [arcos-homotopos](./arcos-homotopos.md)
-- [relacion-equivalencia](./relacion-equivalencia.md)
 - [arco](./arco.md)
+- [arcos-homotopos](./arcos-homotopos.md)
+- [esp-topologico](./esp-topologico.md)
+- [relacion-equivalencia](./relacion-equivalencia.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

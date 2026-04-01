@@ -1,6 +1,5 @@
 ---
-title: "Isometría de un sistema ortonormal finito a $\\mathbb{K}^n$"
-date: 2025-10-28
+title: "Isometría de un sistema ortonormal finito a $\mathbb{K}^n$"
 tags:
   - analisis-funcional/tema2
 ---
@@ -10,9 +9,9 @@ tags:
 
 ## Referencias
 - [esp-prehilbert](./esp-prehilbert.md)
+- [isometria](./isometria.md)
 - [sistema-ortonormal](./sistema-ortonormal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
-- [isometria](./isometria.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

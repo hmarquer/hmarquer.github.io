@@ -1,6 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue en $\\mathcal{L}^1$ para casi todo punto"
-date: 2026-01-12
+title: "Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$ para casi todo punto"
 tags:
   - variable-real/tema2
 ---
@@ -11,7 +10,5 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [medida-lebesgue](./medida-lebesgue.md)
-- [teo-fn-continua-soporte-compacto-denso-lp](./teo-fn-continua-soporte-compacto-denso-lp.md)
-- [teo-diferenciacion-lebesgue-continuas](./teo-diferenciacion-lebesgue-continuas.md)
 - [teo-hardy-littlewood](./teo-hardy-littlewood.md)
 

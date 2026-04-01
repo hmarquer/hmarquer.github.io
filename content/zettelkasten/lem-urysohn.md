@@ -1,6 +1,5 @@
 ---
 title: "Lema de Urysohn"
-date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[lem-urysohn.pdf]]
 
 ## Referencias
-- [esp-metrizable](./esp-metrizable.md)
 - [continuidad](./continuidad.md)
+- [esp-metrizable](./esp-metrizable.md)
 

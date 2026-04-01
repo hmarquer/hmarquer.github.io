@@ -1,6 +1,5 @@
 ---
 title: "Lem espacioeranza condicionada mejor aprox"
-date: 2025-06-14
 tags:
   - probabilidad-ii/tema4
 ---
@@ -11,10 +10,8 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [esp-probabilidad](./esp-probabilidad.md)
-- [sigma-algebra](./sigma-algebra.md)
+- [esperanza](./esperanza.md)
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [fn-medible](./fn-medible.md)
-- [esperanza](./esperanza.md)
-- [esperanza](./esperanza.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [sigma-algebra](./sigma-algebra.md)
 

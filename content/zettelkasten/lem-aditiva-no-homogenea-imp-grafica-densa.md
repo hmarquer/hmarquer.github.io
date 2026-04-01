@@ -1,6 +1,5 @@
 ---
 title: "Toda función real aditiva y no homogénea tiene gráfica densa en el plano"
-date: 2025-10-01
 tags:
   - analisis-funcional/tema1
 ---
@@ -10,7 +9,6 @@ tags:
 
 ## Referencias
 - [aditividad](./aditividad.md)
-- [homogeneidad](./homogeneidad.md)
 - [con-denso](./con-denso.md)
-- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
+- [homogeneidad](./homogeneidad.md)
 

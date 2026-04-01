@@ -1,6 +1,5 @@
 ---
 title: "Norma"
-date: 2025-01-23
 tags:
   - analisis-funcional/tema1
 ---

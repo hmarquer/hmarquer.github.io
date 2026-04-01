@@ -1,6 +1,5 @@
 ---
 title: "Las variedades difeomorfas tienen la misma dimensión"
-date: 2025-06-05
 tags:
   - geometria-diferencial/tema3
 ---
@@ -9,11 +8,9 @@ tags:
 ![[cor-variedades-difeomorfas-misma-dimension.pdf]]
 
 ## Referencias
-- [variedades-difeomorfas](./variedades-difeomorfas.md)
+- [difeomorfismo](./difeomorfismo.md)
+- [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
-- [difeomorfismo](./difeomorfismo.md)
-- [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)
-- [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
-- [cor-dim-esp-tangente-variedad](./cor-dim-esp-tangente-variedad.md)
+- [variedades-difeomorfas](./variedades-difeomorfas.md)
 

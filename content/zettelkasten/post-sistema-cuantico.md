@@ -1,6 +1,5 @@
 ---
 title: "Postulado sobre sistemas cuánticos"
-date: 2026-03-11
 tags:
   - fisica-cuantica/tema1-3
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
-- [esp-separable](./esp-separable.md)
 - [esp-proyectivo](./esp-proyectivo.md)
+- [esp-separable](./esp-separable.md)
 

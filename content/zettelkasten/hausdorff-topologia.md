@@ -1,6 +1,5 @@
 ---
 title: "Topología de Hausdorff"
-date: 2025-02-03
 tags:
   - geometria-diferencial/tema1
 ---

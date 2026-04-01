@@ -1,6 +1,5 @@
 ---
-title: "Involucion disco unidad"
-date: 2025-12-10
+title: "Involución del disco unidad"
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

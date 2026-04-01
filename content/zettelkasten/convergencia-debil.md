@@ -1,6 +1,5 @@
 ---
 title: "Convergencia débil"
-date: 2025-12-20
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,8 +8,8 @@ tags:
 ![[convergencia-debil.pdf]]
 
 ## Referencias
+- [convergencia](./convergencia.md)
+- [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
 - [sucesion](./sucesion.md)
-- [dual-topologico](./dual-topologico.md)
-- [convergencia](./convergencia.md)
 

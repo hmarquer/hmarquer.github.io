@@ -1,6 +1,5 @@
 ---
 title: "Combinación convexa"
-date: 2026-02-04
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Polinomio mónico en la variable $x_i$"
-date: 2025-11-11
 tags:
   - algebra-conmutativa/tema4
 ---
@@ -9,6 +8,6 @@ tags:
 ![[polinomio-monico-variable.pdf]]
 
 ## Referencias
-- [cuerpo](./cuerpo.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [cuerpo](./cuerpo.md)
 

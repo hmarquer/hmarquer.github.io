@@ -1,6 +1,5 @@
 ---
 title: "Función derivable"
-date: 2025-02-12
 ---
 
 [[fn-derivable.pdf]]

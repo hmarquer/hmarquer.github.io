@@ -1,6 +1,5 @@
 ---
 title: "Derivadas parciales en función de las derivadas de Wirtinger"
-date: 2025-11-12
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

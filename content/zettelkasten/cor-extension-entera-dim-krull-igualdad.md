@@ -1,6 +1,5 @@
 ---
 title: "Cor extension entera dim krull igualdad"
-date: 2026-01-11
 tags:
   - algebra-conmutativa/tema6
 ---
@@ -9,9 +8,8 @@ tags:
 ![[cor-extension-entera-dim-krull-igualdad.pdf]]
 
 ## Referencias
+- [dim-krull](./dim-krull.md)
 - [extension-anillos-entera](./extension-anillos-entera.md)
-- [dim-krull](./dim-krull.md)
-- [dim-krull](./dim-krull.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN : EJERCICIO

@@ -1,6 +1,5 @@
 ---
 title: "$R$-álgebra"
-date: 2025-10-21
 tags:
   - algebra-conmutativa/tema2
 ---
@@ -11,5 +10,4 @@ tags:
 ## Referencias
 - [anillo](./anillo.md)
 - [modulo](./modulo.md)
-- [anillo](./anillo.md)
 

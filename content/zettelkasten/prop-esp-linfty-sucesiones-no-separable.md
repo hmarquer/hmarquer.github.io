@@ -1,6 +1,5 @@
 ---
 title: "Prop espacio linfty sucesiones no separable"
-date: 2025-10-25
 tags:
   - analisis-funcional/tema2
 ---

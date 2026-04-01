@@ -1,6 +1,5 @@
 ---
 title: "Teorema de extensión de una aplicación lineal según un funcional de Minkowski"
-date: 2025-12-13
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,10 +8,9 @@ tags:
 ![[teo-extension-apl-lineal-minkowski.pdf]]
 
 ## Referencias
+- [apl-lineal](./apl-lineal.md)
 - [esp-vectorial](./esp-vectorial.md)
-- [subesp-vectorial](./subesp-vectorial.md)
 - [funcional-minkowski](./funcional-minkowski.md)
-- [apl-lineal](./apl-lineal.md)
-- [apl-lineal](./apl-lineal.md)
 - [lem-zorn](./lem-zorn.md)
+- [subesp-vectorial](./subesp-vectorial.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Conexión por arcos"
-date: 2025-05-11
 tags:
   - geometria-diferencial/tema6
 ---
@@ -9,6 +8,6 @@ tags:
 ![[conexion-arcos.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [arco](./arco.md)
+- [esp-topologico](./esp-topologico.md)
 

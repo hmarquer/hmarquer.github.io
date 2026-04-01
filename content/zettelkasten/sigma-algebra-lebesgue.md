@@ -1,6 +1,5 @@
 ---
-title: "$\\sigma$-álgebra de Lebesgue"
-date: 2025-06-10
+title: "$\sigma$-álgebra de Lebesgue"
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,6 +8,6 @@ tags:
 ![[sigma-algebra-lebesgue.pdf]]
 
 ## Referencias
-- [medida-exterior-lebesgue](./medida-exterior-lebesgue.md)
 - [conjunto-medible](./conjunto-medible.md)
+- [medida-exterior-lebesgue](./medida-exterior-lebesgue.md)
 

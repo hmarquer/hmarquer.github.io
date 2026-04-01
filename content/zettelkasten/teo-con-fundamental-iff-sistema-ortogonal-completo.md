@@ -1,6 +1,5 @@
 ---
 title: "Relación entre conjunto fundamental y sistema ortogonal completo"
-date: 2025-12-24
 tags:
   - analisis-funcional/tema2
 ---
@@ -9,12 +8,9 @@ tags:
 ![[teo-con-fundamental-iff-sistema-ortogonal-completo.pdf]]
 
 ## Referencias
-- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
+- [con-fundamental](./con-fundamental.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [esp-prehilbert](./esp-prehilbert.md)
 - [sistema-ortogonal](./sistema-ortogonal.md)
-- [con-fundamental](./con-fundamental.md)
 - [sistema-ortogonal-completo](./sistema-ortogonal-completo.md)
-- [esp-hilbert](./esp-hilbert.md)
-- [sistema-ortogonal](./sistema-ortogonal.md)
-- [con-fundamental](./con-fundamental.md)
 

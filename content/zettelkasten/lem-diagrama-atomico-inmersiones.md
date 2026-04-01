@@ -1,6 +1,5 @@
 ---
 title: "Lem diagrama atomico inmersiones"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,14 +8,12 @@ tags:
 ![[lem-diagrama-atomico-inmersiones.pdf]]
 
 ## Referencias
-- [ejem-expansion-estructura-parametros](./ejem-expansion-estructura-parametros.md)
-- [estructura](./estructura.md)
-- [reducto-expansion](./reducto-expansion.md)
-- [ejem-expansion-estructura-parametros](./ejem-expansion-estructura-parametros.md)
-- [modelo](./modelo.md)
 - [diagrama-atomico-estructura](./diagrama-atomico-estructura.md)
 - [ejem-expansion-estructura-parametros](./ejem-expansion-estructura-parametros.md)
+- [estructura](./estructura.md)
 - [inmersion-estructuras](./inmersion-estructuras.md)
+- [modelo](./modelo.md)
+- [reducto-expansion](./reducto-expansion.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

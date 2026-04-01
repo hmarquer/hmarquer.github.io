@@ -1,6 +1,5 @@
 ---
-title: "$\\C$-derivabilidad en un punto"
-date: 2025-03-07
+title: "$\C$-derivabilidad en un punto"
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema1

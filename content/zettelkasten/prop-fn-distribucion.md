@@ -1,6 +1,5 @@
 ---
 title: "Propiedades de la función de distribución"
-date: 2025-03-25
 tags:
   - probabilidad-ii/tema1
 ---
@@ -10,14 +9,8 @@ tags:
 
 ## Referencias
 - [fn-distribucion](./fn-distribucion.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [var-aleatoria](./var-aleatoria.md)
-- [fn-distribucion](./fn-distribucion.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
-- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

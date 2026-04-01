@@ -1,6 +1,5 @@
 ---
 title: "Cor ideal primo localizacion extendido"
-date: 2026-01-10
 tags:
   - algebra-conmutativa/tema2
 ---
@@ -11,5 +10,4 @@ tags:
 ## Referencias
 - [ideal-primo](./ideal-primo.md)
 - [prop-localizacion-anillo](./prop-localizacion-anillo.md)
-- [ideal-primo](./ideal-primo.md)
 

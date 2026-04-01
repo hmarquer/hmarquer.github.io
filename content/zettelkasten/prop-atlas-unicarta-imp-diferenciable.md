@@ -1,6 +1,5 @@
 ---
 title: "Un atlas con una sola carta es diferenciable"
-date: 2025-02-24
 ---
 
 [[prop-atlas-unicarta-imp-diferenciable.pdf]]

@@ -1,6 +1,5 @@
 ---
 title: "Forma explícita de la subestructura generada"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -10,10 +9,10 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
-- [subestructura-generada](./subestructura-generada.md)
-- [interpretacion-terminos](./interpretacion-terminos.md)
-- [termino](./termino.md)
 - [evaluacion](./evaluacion.md)
+- [interpretacion-terminos](./interpretacion-terminos.md)
+- [subestructura-generada](./subestructura-generada.md)
+- [termino](./termino.md)
 
 ## Etiquetas
 #ORDENAR : arreglar formato y referencias

@@ -1,6 +1,5 @@
 ---
 title: "En un espacio de Hilbert, convergencia débil y en norma implica convergencia fuerte"
-date: 2025-12-27
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,8 +8,7 @@ tags:
 ![[prop-esp-hilbert-convergencia-debil-norma-imp-convergencia-fuerte.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
+- [convergencia](./convergencia.md)
 - [convergencia-debil](./convergencia-debil.md)
-- [convergencia](./convergencia.md)
-- [convergencia](./convergencia.md)
+- [esp-hilbert](./esp-hilbert.md)
 

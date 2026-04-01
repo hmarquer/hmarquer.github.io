@@ -1,6 +1,5 @@
 ---
 title: "Cor inmersion inyectiva imp embebimiento"
-date: 2025-06-21
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,15 +8,15 @@ tags:
 ![[cor-inmersion-inyectiva-imp-embebimiento.pdf]]
 
 ## Referencias
-- [inmersion](./inmersion.md)
-- [embebimiento](./embebimiento.md)
 - [apl-abierta](./apl-abierta.md)
 - [apl-cerrada](./apl-cerrada.md)
-- [compacidad](./compacidad.md)
 - [apl-propia](./apl-propia.md)
-- [variedad-diferenciable](./variedad-diferenciable.md)
-- [homeomorfismo](./homeomorfismo.md)
+- [compacidad](./compacidad.md)
 - [continuidad](./continuidad.md)
+- [embebimiento](./embebimiento.md)
+- [homeomorfismo](./homeomorfismo.md)
+- [inmersion](./inmersion.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 
 ## Etiquetas
 #EJERCICIO demostrarlo

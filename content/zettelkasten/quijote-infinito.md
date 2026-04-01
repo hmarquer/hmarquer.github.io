@@ -1,6 +1,5 @@
 ---
-title: "\\textit{Quijote} infinito"
-date: 2025-03-11
+title: "\textit{Quijote} infinito"
 tags:
   - probabilidad-ii/3.2-probabilidad-ii
 ---
@@ -9,12 +8,11 @@ tags:
 ![[quijote-infinito.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [lem-borel-cantelli-ii](./lem-borel-cantelli-ii.md)
+- [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
-- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
+- [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas
 #REVISAR 

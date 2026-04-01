@@ -1,6 +1,5 @@
 ---
 title: "Cor integral suma infinita"
-date: 2025-09-10
 tags:
   - variable-real/tema1
 ---
@@ -9,8 +8,8 @@ tags:
 ![[cor-integral-suma-infinita.pdf]]
 
 ## Referencias
-- [fn-medible](./fn-medible.md)
 - [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

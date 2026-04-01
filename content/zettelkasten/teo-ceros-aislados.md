@@ -1,6 +1,5 @@
 ---
 title: "Principio de los ceros aislados"
-date: 2025-05-06
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

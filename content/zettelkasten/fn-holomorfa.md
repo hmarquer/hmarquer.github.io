@@ -1,6 +1,5 @@
 ---
 title: "Función holomorfa"
-date: 2025-02-12
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema1
@@ -10,6 +9,6 @@ tags:
 ![[fn-holomorfa.pdf]]
 
 ## Referencias
-- [num-complejos](./num-complejos.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+- [num-complejos](./num-complejos.md)
 

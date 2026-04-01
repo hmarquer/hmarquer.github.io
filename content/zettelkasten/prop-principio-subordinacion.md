@@ -1,6 +1,5 @@
 ---
 title: "Principio de subordinación"
-date: 2026-03-20
 tags:
   - variable-compleja-ii/tema4
 ---
@@ -9,11 +8,9 @@ tags:
 ![[prop-principio-subordinacion.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
-- [subordinacion](./subordinacion.md)
-- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
-- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
 - [ejem-rotacion-disco-unidad](./ejem-rotacion-disco-unidad.md)
+- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 - [lem-schwarz](./lem-schwarz.md)
-- [lem-schwarz](./lem-schwarz.md)
+- [subordinacion](./subordinacion.md)
 

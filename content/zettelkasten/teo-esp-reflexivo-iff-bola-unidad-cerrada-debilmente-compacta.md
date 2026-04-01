@@ -1,6 +1,5 @@
 ---
 title: "Un espacio es reflexivo si y solo si la bola unidad cerrada es débilmente compacta"
-date: 2026-01-07
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,11 +8,10 @@ tags:
 ![[teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta.pdf]]
 
 ## Referencias
-- [esp-normado-reflexivo](./esp-normado-reflexivo.md)
 - [compacidad](./compacidad.md)
-- [topologia-debil](./topologia-debil.md)
+- [esp-normado-reflexivo](./esp-normado-reflexivo.md)
 - [teo-banach-alaoglu](./teo-banach-alaoglu.md)
-- [teo-esp-reflexivo-iff-dual-reflexivo](./teo-esp-reflexivo-iff-dual-reflexivo.md)
+- [topologia-debil](./topologia-debil.md)
 
 ## Etiquetas
 #REVISAR : yo creo que está mal

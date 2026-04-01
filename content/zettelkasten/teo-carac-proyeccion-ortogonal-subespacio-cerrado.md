@@ -1,6 +1,5 @@
 ---
 title: "Caracterización de la proyección ortogonal en un subespacio cerrado"
-date: 2025-10-28
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -11,9 +10,7 @@ tags:
 
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
-- [subesp-vectorial](./subesp-vectorial.md)
+- [ortogonalidad](./ortogonalidad.md)
 - [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
-- [ortogonalidad](./ortogonalidad.md)
-- [prop-carac-proyeccion-ortogonal-convexo-cerrado](./prop-carac-proyeccion-ortogonal-convexo-cerrado.md)
-- [ortogonalidad](./ortogonalidad.md)
+- [subesp-vectorial](./subesp-vectorial.md)
 

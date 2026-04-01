@@ -1,6 +1,5 @@
 ---
 title: "Espacio euclídeo"
-date: 2025-03-06
 ---
 
 [[esp-euclideo.pdf]]

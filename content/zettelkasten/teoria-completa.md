@@ -1,6 +1,5 @@
 ---
 title: "Teoría completa"
-date: 2026-03-05
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[teoria-completa.pdf]]
 
 ## Referencias
-- [teoria](./teoria.md)
 - [estructura](./estructura.md)
 - [prop-teoria-generada-estructura](./prop-teoria-generada-estructura.md)
+- [teoria](./teoria.md)
 

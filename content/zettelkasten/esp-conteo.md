@@ -1,6 +1,5 @@
 ---
 title: "Espacio conteo"
-date: 2025-10-17
 tags:
   - variable-real/tema1
 ---

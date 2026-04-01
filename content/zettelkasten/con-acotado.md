@@ -1,6 +1,5 @@
 ---
 title: "Conjunto acotado"
-date: 2025-02-05
 tags:
   - variable-compleja-i/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[con-acotado.pdf]]
 
 ## Referencias
-- [metrica](./metrica.md)
 - [bola-abierta](./bola-abierta.md)
+- [metrica](./metrica.md)
 

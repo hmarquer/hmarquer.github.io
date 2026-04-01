@@ -1,6 +1,5 @@
 ---
 title: "Función armónica"
-date: 2025-03-15
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5

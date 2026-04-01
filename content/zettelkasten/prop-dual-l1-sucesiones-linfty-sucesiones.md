@@ -1,6 +1,5 @@
 ---
-title: "El dual de $\\ell^1$ es $\\ell^\\infty$"
-date: 2026-01-07
+title: "El dual de $\ell^1$ es $\ell^\infty$"
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,10 +8,9 @@ tags:
 ![[prop-dual-l1-sucesiones-linfty-sucesiones.pdf]]
 
 ## Referencias
+- [apl-lineal](./apl-lineal.md)
 - [dual-topologico](./dual-topologico.md)
 - [esp-lp-sucesiones](./esp-lp-sucesiones.md)
-- [norma](./norma.md)
-- [esp-lp-sucesiones](./esp-lp-sucesiones.md)
 - [isometria](./isometria.md)
-- [apl-lineal](./apl-lineal.md)
+- [norma](./norma.md)
 

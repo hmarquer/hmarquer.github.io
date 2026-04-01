@@ -1,6 +1,5 @@
 ---
 title: "Prop clase ck velocidad convergencia uniforme fourier"
-date: 2026-01-12
 tags:
   - variable-real/tema4
 ---
@@ -9,10 +8,8 @@ tags:
 ![[prop-clase-ck-velocidad-convergencia-uniforme-fourier.pdf]]
 
 ## Referencias
+- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [norma-lp](./norma-lp.md)
-- [lem-serie-fourier-derivada](./lem-serie-fourier-derivada.md)
 - [teo-identidad-plancherel](./teo-identidad-plancherel.md)
-- [prop-criterio-dini](./prop-criterio-dini.md)
-- [desigualdad-cauchy-schwarz](./desigualdad-cauchy-schwarz.md)
 

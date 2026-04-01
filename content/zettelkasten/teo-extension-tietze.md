@@ -1,6 +1,5 @@
 ---
 title: "Teorema de extensión de Tietze"
-date: 2025-05-29
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -9,9 +8,8 @@ tags:
 ![[teo-extension-tietze.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [esp-metrizable](./esp-metrizable.md)
-- [continuidad](./continuidad.md)
-- [continuidad](./continuidad.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

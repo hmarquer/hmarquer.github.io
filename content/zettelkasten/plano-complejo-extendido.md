@@ -1,6 +1,5 @@
 ---
 title: "Plano complejo extendido"
-date: 2025-02-08
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema1
@@ -11,7 +10,6 @@ tags:
 
 ## Referencias
 - [num-complejos](./num-complejos.md)
-- [proyeccion-estereografica](./proyeccion-estereografica.md)
 - [proyeccion-estereografica](./proyeccion-estereografica.md)
 
 ## Etiquetas

@@ -1,6 +1,5 @@
 ---
 title: "Topología de Zariski"
-date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -9,12 +8,11 @@ tags:
 ![[prop-topologia-zariski.pdf]]
 
 ## Referencias
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [esp-afin](./esp-afin.md)
-- [topologia](./topologia.md)
 - [producto-ideales](./producto-ideales.md)
-- [prop-variedad-algebraica-afin-ideal](./prop-variedad-algebraica-afin-ideal.md)
 - [suma-ideales](./suma-ideales.md)
+- [topologia](./topologia.md)
+- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 
 ## Etiquetas
 #ORDENAR referenciar estas propiedades

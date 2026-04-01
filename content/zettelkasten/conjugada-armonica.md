@@ -1,6 +1,5 @@
 ---
 title: "Conjugada armónica"
-date: 2025-03-15
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema2
@@ -10,8 +9,8 @@ tags:
 ![[conjugada-armonica.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
-- [fn-clase-ck](./fn-clase-ck.md)
 - [fn-armonica](./fn-armonica.md)
+- [fn-clase-ck](./fn-clase-ck.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 

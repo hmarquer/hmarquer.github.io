@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Hardy-Littlewood"
-date: 2026-01-12
 tags:
   - variable-real/tema2
 ---
@@ -10,11 +9,9 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
-- [operador-hardy-littlewood](./operador-hardy-littlewood.md)
 - [fn-medible](./fn-medible.md)
-- [operador-hardy-littlewood](./operador-hardy-littlewood.md)
-- [operador-hardy-littlewood](./operador-hardy-littlewood.md)
 - [norma-lp](./norma-lp.md)
+- [operador-hardy-littlewood](./operador-hardy-littlewood.md)
 
 ## Etiquetas
 #ORDENAR : arreglar referencias y formato

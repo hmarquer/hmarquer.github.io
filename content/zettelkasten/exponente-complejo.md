@@ -1,6 +1,5 @@
 ---
 title: "Exponente complejo"
-date: 2025-03-04
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,6 +8,5 @@ tags:
 ![[exponente-complejo.pdf]]
 
 ## Referencias
-- [log-complejo](./log-complejo.md)
 - [log-complejo](./log-complejo.md)
 

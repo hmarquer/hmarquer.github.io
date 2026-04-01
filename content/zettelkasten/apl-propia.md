@@ -1,6 +1,5 @@
 ---
 title: "Aplicación propia"
-date: 2025-03-17
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,8 +8,7 @@ tags:
 ![[apl-propia.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
+- [compacidad](./compacidad.md)
 - [continuidad](./continuidad.md)
-- [compacidad](./compacidad.md)
-- [compacidad](./compacidad.md)
+- [esp-topologico](./esp-topologico.md)
 

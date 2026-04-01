@@ -1,6 +1,5 @@
 ---
 title: "Atlas diferenciable"
-date: 2025-12-11
 tags:
   - geometria-diferencial/tema1
 ---

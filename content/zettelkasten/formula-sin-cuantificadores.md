@@ -1,6 +1,5 @@
 ---
 title: "Fórmula sin cuantificadores"
-date: 2026-03-05
 tags:
   - logica-matematica/tema1
 ---
@@ -9,6 +8,6 @@ tags:
 ![[formula-sin-cuantificadores.pdf]]
 
 ## Referencias
-- [formula](./formula.md)
 - [aparicion](./aparicion.md)
+- [formula](./formula.md)
 

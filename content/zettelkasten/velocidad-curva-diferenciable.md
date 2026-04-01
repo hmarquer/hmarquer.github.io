@@ -1,6 +1,5 @@
 ---
 title: "Velocidad de una curva diferenciable"
-date: 2025-02-25
 tags:
   - geometria-diferencial/tema3
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Evaluación"
-date: 2026-02-10
 tags:
   - logica-matematica/tema1
 ---
@@ -9,18 +8,8 @@ tags:
 ![[evaluacion.pdf]]
 
 ## Referencias
-- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [estructura](./estructura.md)
+- [evaluacion](./evaluacion.md)
+- [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [variables](./variables.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
-- [evaluacion](./evaluacion.md)
 

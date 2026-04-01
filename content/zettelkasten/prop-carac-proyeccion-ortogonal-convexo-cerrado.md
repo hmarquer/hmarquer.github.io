@@ -1,6 +1,5 @@
 ---
 title: "Prop carac proyeccion ortogonal convexo cerrado"
-date: 2025-10-28
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -10,10 +9,10 @@ tags:
 ![[prop-carac-proyeccion-ortogonal-convexo-cerrado.pdf]]
 
 ## Referencias
-- [esp-hilbert](./esp-hilbert.md)
 - [con-convexo](./con-convexo.md)
-- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
+- [esp-hilbert](./esp-hilbert.md)
 - [identidad-polarizacion](./identidad-polarizacion.md)
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN de la foto del 30/09/2025

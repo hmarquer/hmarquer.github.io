@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Gram-Schmidt"
-date: 2025-10-28
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -10,10 +9,9 @@ tags:
 ![[teo-gram-schmidt.pdf]]
 
 ## Referencias
-- [indep-lineal](./indep-lineal.md)
 - [esp-prehilbert](./esp-prehilbert.md)
+- [indep-lineal](./indep-lineal.md)
 - [sistema-ortonormal](./sistema-ortonormal.md)
-- [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 
 ## Etiquetas

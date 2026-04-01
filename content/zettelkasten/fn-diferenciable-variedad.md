@@ -1,6 +1,5 @@
 ---
 title: "Función diferenciable en una variedad"
-date: 2025-02-13
 tags:
   - geometria-diferencial/tema2
 ---
@@ -9,7 +8,7 @@ tags:
 ![[fn-diferenciable-variedad.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
 - [carta](./carta.md)
 - [fn-clase-ck](./fn-clase-ck.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

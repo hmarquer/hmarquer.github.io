@@ -1,6 +1,5 @@
 ---
 title: "Isomorfismo de grupos"
-date: 2025-06-22
 ---
 
 [[isomorfismo-grupos.pdf]]

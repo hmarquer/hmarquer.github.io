@@ -1,6 +1,5 @@
 ---
 title: "Cor:convergencia serie cualquier n0"
-date: 2025-04-23
 tags:
   - variable-compleja-i/tema3
 ---
@@ -9,7 +8,6 @@ tags:
 ![[cor-convergencia-serie-cualquier-n0.pdf]]
 
 ## Referencias
+- [convergencia-serie](./convergencia-serie.md)
 - [serie](./serie.md)
-- [convergencia-serie](./convergencia-serie.md)
-- [convergencia-serie](./convergencia-serie.md)
 

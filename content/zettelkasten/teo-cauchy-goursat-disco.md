@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Cauchy-Goursat para discos"
-date: 2025-05-02
 tags:
   - variable-compleja-i/tema4
 ---
@@ -9,13 +8,13 @@ tags:
 ![[teo-cauchy-goursat-disco.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
 - [camino](./camino.md)
 - [curva-cerrada](./curva-cerrada.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
+- [regla-barrow-compleja](./regla-barrow-compleja.md)
 - [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
 - [teo-fn-holomorfa-imp-exists-primitiva](./teo-fn-holomorfa-imp-exists-primitiva.md)
-- [regla-barrow-compleja](./regla-barrow-compleja.md)
 
 ## Etiquetas
 #TODO estudiar la relación con el teorema de Green

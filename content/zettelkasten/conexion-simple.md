@@ -1,6 +1,5 @@
 ---
 title: "Conexión simple"
-date: 2025-04-30
 tags:
   - geometria-diferencial/tema6
   - variable-compleja-i/tema4
@@ -10,7 +9,7 @@ tags:
 ![[conexion-simple.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [conexion-arcos](./conexion-arcos.md)
+- [esp-topologico](./esp-topologico.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 

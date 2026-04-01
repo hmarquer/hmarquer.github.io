@@ -1,6 +1,5 @@
 ---
 title: "Extensión de anillos entera"
-date: 2025-10-28
 tags:
   - algebra-conmutativa/tema4
 ---
@@ -9,6 +8,6 @@ tags:
 ![[extension-anillos-entera.pdf]]
 
 ## Referencias
-- [extension-anillos](./extension-anillos.md)
 - [elemento-entero-sobre-anillo](./elemento-entero-sobre-anillo.md)
+- [extension-anillos](./extension-anillos.md)
 

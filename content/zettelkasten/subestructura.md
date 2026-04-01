@@ -1,6 +1,5 @@
 ---
 title: "Subestructura"
-date: 2026-03-12
 tags:
   - logica-matematica/tema1-1
 ---

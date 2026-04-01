@@ -1,6 +1,5 @@
 ---
 title: "Dos aplicaciones lineales son equivalentes si y solo si tienen el mismo rango"
-date: 2025-06-06
 tags:
   - geometria-diferencial/tema4
 ---
@@ -11,7 +10,6 @@ tags:
 ## Referencias
 - [apl-lineal](./apl-lineal.md)
 - [apl-lineales-equivalentes](./apl-lineales-equivalentes.md)
-- [rango](./rango.md)
 - [rango](./rango.md)
 
 ## Etiquetas

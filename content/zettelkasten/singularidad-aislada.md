@@ -1,16 +1,15 @@
 ---
 title: "Singularidad aislada"
-date: 2025-05-08
 tags:
+  - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema5
   - variable-compleja-ii/tema1
-  - productos-finitos-de-blaschke/anexo
 ---
 
 [[singularidad-aislada.pdf]]
 ![[singularidad-aislada.pdf]]
 
 ## Referencias
-- [fn-holomorfa-pnt](./fn-holomorfa-pnt.md)
 - [fn-holomorfa](./fn-holomorfa.md)
+- [fn-holomorfa-pnt](./fn-holomorfa-pnt.md)
 

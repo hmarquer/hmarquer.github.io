@@ -1,6 +1,5 @@
 ---
 title: "Propiedad universal de las submersiones sobreyectivas"
-date: 2025-06-08
 tags:
   - geometria-diferencial/tema4
 ---
@@ -9,10 +8,8 @@ tags:
 ![[teo-universal-submersion-sobreyectiva.pdf]]
 
 ## Referencias
+- [apl-diferenciable](./apl-diferenciable.md)
 - [submersion](./submersion.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [apl-diferenciable](./apl-diferenciable.md)
-- [teo-submersion-iff-exists-seccion-local](./teo-submersion-iff-exists-seccion-local.md)
 
 ## Etiquetas
 #COMPLETAR diagrama de whatsapp irune también tengo fotos de los apuntes de jacobo del día 08/04/2025

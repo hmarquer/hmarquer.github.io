@@ -1,6 +1,5 @@
 ---
 title: "Teo preservacion formulas horn producto"
-date: 2026-03-26
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,12 +8,11 @@ tags:
 ![[teo-preservacion-formulas-horn-producto.pdf]]
 
 ## Referencias
+- [equivalencia-semantica](./equivalencia-semantica.md)
 - [estructura](./estructura.md)
 - [estructura-producto](./estructura-producto.md)
-- [equivalencia-semantica](./equivalencia-semantica.md)
-- [formula-horn](./formula-horn.md)
 - [evaluacion](./evaluacion.md)
-- [satisfaccion](./satisfaccion.md)
+- [formula-horn](./formula-horn.md)
 - [satisfaccion](./satisfaccion.md)
 
 ## Etiquetas

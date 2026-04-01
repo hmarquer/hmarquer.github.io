@@ -1,6 +1,5 @@
 ---
 title: "Teo subvariedad iff carta d rebanada"
-date: 2025-06-16
 tags:
   - geometria-diferencial/tema5
 ---
@@ -9,9 +8,9 @@ tags:
 ![[teo-subvariedad-iff-carta-d-rebanada.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
-- [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 - [carta-d-rebanada](./carta-d-rebanada.md)
+- [subvariedad-diferenciable](./subvariedad-diferenciable.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

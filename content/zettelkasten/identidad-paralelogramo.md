@@ -1,6 +1,5 @@
 ---
 title: "Identidad paralelogramo"
-date: 2025-09-17
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3
@@ -11,8 +10,8 @@ tags:
 
 ## Referencias
 - [esp-vectorial](./esp-vectorial.md)
-- [prod-interno](./prod-interno.md)
 - [norma-inducida](./norma-inducida.md)
+- [prod-interno](./prod-interno.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

@@ -1,7 +1,7 @@
 ---
 title: "Corolario del principio del módulo máximo"
-date: 2026-02-04
 tags:
+  - variable-compleja-i/tema4
   - variable-compleja-ii/tema2
 ---
 
@@ -9,8 +9,8 @@ tags:
 ![[cor-modulo-maximo.pdf]]
 
 ## Referencias
+- [continuidad](./continuidad.md)
 - [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
-- [continuidad](./continuidad.md)
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
 

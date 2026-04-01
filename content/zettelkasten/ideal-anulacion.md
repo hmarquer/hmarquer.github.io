@@ -1,6 +1,5 @@
 ---
 title: "Ideal de anulación"
-date: 2025-12-14
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -9,6 +8,6 @@ tags:
 ![[ideal-anulacion.pdf]]
 
 ## Referencias
-- [esp-afin](./esp-afin.md)
 - [anillo-polinomios](./anillo-polinomios.md)
+- [esp-afin](./esp-afin.md)
 

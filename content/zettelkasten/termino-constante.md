@@ -1,6 +1,5 @@
 ---
 title: "Término constante"
-date: 2026-02-09
 tags:
   - logica-matematica/tema1
 ---
@@ -9,7 +8,7 @@ tags:
 ![[termino-constante.pdf]]
 
 ## Referencias
-- [termino](./termino.md)
 - [aparicion](./aparicion.md)
+- [termino](./termino.md)
 - [variables](./variables.md)
 

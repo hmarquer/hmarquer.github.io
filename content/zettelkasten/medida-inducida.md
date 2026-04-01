@@ -1,6 +1,5 @@
 ---
 title: "Medida inducida"
-date: 2025-03-25
 tags:
   - probabilidad-ii/tema1
 ---
@@ -9,8 +8,8 @@ tags:
 ![[medida-inducida.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
-- [esp-probabilidad](./esp-probabilidad.md)
 - [esp-medible](./esp-medible.md)
+- [esp-probabilidad](./esp-probabilidad.md)
 - [medida](./medida.md)
+- [var-aleatoria](./var-aleatoria.md)
 

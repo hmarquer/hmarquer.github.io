@@ -1,6 +1,5 @@
 ---
 title: "Topología métrica"
-date: 2025-03-13
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
@@ -9,9 +8,9 @@ tags:
 ![[topologia-metrica.pdf]]
 
 ## Referencias
-- [esp-metrico](./esp-metrico.md)
-- [bola-abierta](./bola-abierta.md)
 - [base-topologia](./base-topologia.md)
+- [bola-abierta](./bola-abierta.md)
+- [esp-metrico](./esp-metrico.md)
 - [topologia](./topologia.md)
 
 ## Etiquetas

@@ -1,6 +1,5 @@
 ---
 title: "Teorema de Caratheodory I"
-date: 2025-02-13
 tags:
   - probabilidad-ii/hoja0
 ---
@@ -9,10 +8,10 @@ tags:
 ![[teo-caratheodory-i.pdf]]
 
 ## Referencias
-- [medida-exterior](./medida-exterior.md)
 - [conjunto-medible](./conjunto-medible.md)
-- [sigma-algebra](./sigma-algebra.md)
 - [medida-completa](./medida-completa.md)
+- [medida-exterior](./medida-exterior.md)
+- [sigma-algebra](./sigma-algebra.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

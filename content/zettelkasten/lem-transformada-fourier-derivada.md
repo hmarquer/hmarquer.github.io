@@ -1,6 +1,5 @@
 ---
 title: "Lem transformada fourier derivada"
-date: 2026-01-13
 tags:
   - variable-real/tema5
 ---
@@ -11,8 +10,6 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [fn-derivable](./fn-derivable.md)
-- [esp-lp](./esp-lp.md)
-- [transformada-fourier-l1](./transformada-fourier-l1.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 
 ## Etiquetas

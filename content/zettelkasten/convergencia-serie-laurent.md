@@ -1,6 +1,5 @@
 ---
 title: "Convergencia de una serie de Laurent"
-date: 2025-05-08
 tags:
   - variable-compleja-i/tema5
 ---
@@ -9,7 +8,6 @@ tags:
 ![[convergencia-serie-laurent.pdf]]
 
 ## Referencias
+- [convergencia-serie](./convergencia-serie.md)
 - [serie-laurent](./serie-laurent.md)
-- [convergencia-serie](./convergencia-serie.md)
-- [convergencia-serie](./convergencia-serie.md)
 

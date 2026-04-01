@@ -1,6 +1,5 @@
 ---
 title: "Anillo cociente"
-date: 2025-10-08
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -10,10 +9,7 @@ tags:
 
 ## Referencias
 - [anillo](./anillo.md)
+- [con-cociente](./con-cociente.md)
 - [ideal](./ideal.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
-- [con-cociente](./con-cociente.md)
-- [anillo](./anillo.md)
-- [anillo](./anillo.md)
-- [anillo](./anillo.md)
 

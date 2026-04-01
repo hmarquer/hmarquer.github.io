@@ -1,6 +1,5 @@
 ---
 title: "Substitución en fórmulas"
-date: 2026-02-09
 tags:
   - logica-matematica/tema1
 ---
@@ -9,14 +8,9 @@ tags:
 ![[substitucion-formulas.pdf]]
 
 ## Referencias
+- [aparicion](./aparicion.md)
+- [complejidad](./complejidad.md)
 - [formula](./formula.md)
 - [termino](./termino.md)
 - [variables](./variables.md)
-- [variables](./variables.md)
-- [variables](./variables.md)
-- [aparicion](./aparicion.md)
-- [complejidad](./complejidad.md)
-- [aparicion](./aparicion.md)
-- [aparicion](./aparicion.md)
-- [aparicion](./aparicion.md)
 

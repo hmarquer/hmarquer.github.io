@@ -1,6 +1,5 @@
 ---
 title: "Obs derivada holomorfa wirtinger"
-date: 2026-01-22
 tags:
   - productos-finitos-de-blaschke/anexo
 ---
@@ -9,6 +8,6 @@ tags:
 ![[obs-derivada-holomorfa-wirtinger.pdf]]
 
 ## Referencias
-- [fn-holomorfa](./fn-holomorfa.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 

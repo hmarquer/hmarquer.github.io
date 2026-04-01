@@ -1,6 +1,5 @@
 ---
 title: "El radical de un ideal es un ideal"
-date: 2025-10-21
 tags:
   - algebra-conmutativa/tema1
 ---
@@ -11,8 +10,4 @@ tags:
 ## Referencias
 - [ideal](./ideal.md)
 - [radical-ideal](./radical-ideal.md)
-- [ideal](./ideal.md)
-- [ideal](./ideal.md)
-- [ideal](./ideal.md)
-- [ideal](./ideal.md)
 

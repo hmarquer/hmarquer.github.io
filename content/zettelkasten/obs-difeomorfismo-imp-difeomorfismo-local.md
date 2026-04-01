@@ -1,6 +1,5 @@
 ---
 title: "Todo difeomorfismo es un difeomorfismo local"
-date: 2025-04-07
 tags:
   - geometria-diferencial/tema4
 ---

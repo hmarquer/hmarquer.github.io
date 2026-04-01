@@ -1,6 +1,5 @@
 ---
 title: "Cor lem schwarz derivada distancia borde imagen"
-date: 2026-03-19
 tags:
   - variable-compleja-ii/tema3
 ---
@@ -10,7 +9,7 @@ tags:
 
 ## Referencias
 - [dominio](./dominio.md)
-- [fn-holomorfa](./fn-holomorfa.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
+- [fn-holomorfa](./fn-holomorfa.md)
 - [lem-schwarz](./lem-schwarz.md)
 

@@ -1,9 +1,8 @@
 ---
 title: "Función simple"
-date: 2025-10-19
 tags:
-  - variable-real/tema1
   - probabilidad-ii/hoja0
+  - variable-real/tema1
 ---
 
 [[fn-simple.pdf]]

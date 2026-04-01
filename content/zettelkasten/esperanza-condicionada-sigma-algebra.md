@@ -1,28 +1,23 @@
 ---
-title: "Esperanza condicionada a una $\\sigma$-álgebra"
-date: 2025-03-24
+title: "Esperanza condicionada a una $\sigma$-álgebra"
 tags:
-  - probabilidad-ii/tema4
   - aprendizaje-automatico/apendice
+  - probabilidad-ii/tema4
 ---
 
 [[esperanza-condicionada-sigma-algebra.pdf]]
 ![[esperanza-condicionada-sigma-algebra.pdf]]
 
 ## Referencias
+- [continuidad-absoluta](./continuidad-absoluta.md)
 - [esp-lp](./esp-lp.md)
 - [esp-probabilidad](./esp-probabilidad.md)
+- [esperanza](./esperanza.md)
+- [fn-medible](./fn-medible.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [esp-lp](./esp-lp.md)
-- [fn-medible](./fn-medible.md)
-- [esperanza](./esperanza.md)
-- [esperanza](./esperanza.md)
-- [esp-lp](./esp-lp.md)
-- [fn-medible](./fn-medible.md)
 - [smedida](./smedida.md)
-- [continuidad-absoluta](./continuidad-absoluta.md)
-- [teo-radon-nikodym](./teo-radon-nikodym.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
+- [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ## Etiquetas
 #EJERCICIO ver que $\nu$ es una medida con signo

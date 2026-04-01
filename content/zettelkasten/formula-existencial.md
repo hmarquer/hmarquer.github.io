@@ -1,6 +1,5 @@
 ---
 title: "Fórmula existencial"
-date: 2026-03-05
 tags:
   - logica-matematica/tema1
 ---
@@ -10,6 +9,6 @@ tags:
 
 ## Referencias
 - [formula](./formula.md)
-- [formula-sin-cuantificadores](./formula-sin-cuantificadores.md)
 - [formula-literal](./formula-literal.md)
+- [formula-sin-cuantificadores](./formula-sin-cuantificadores.md)
 

@@ -1,6 +1,5 @@
 ---
 title: "Conexión"
-date: 2025-02-05
 tags:
   - variable-compleja-i/tema1
 ---
@@ -9,6 +8,5 @@ tags:
 ![[conexion.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [esp-topologico](./esp-topologico.md)
 

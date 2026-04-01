@@ -1,6 +1,5 @@
 ---
 title: "Funcional de Minkowski asociado a un conjunto convexo"
-date: 2025-12-20
 tags:
   - analisis-funcional/tema3
 ---
@@ -9,8 +8,8 @@ tags:
 ![[lem-funcional-minkowski-conjunto-convexo.pdf]]
 
 ## Referencias
-- [esp-vectorial](./esp-vectorial.md)
 - [con-convexo](./con-convexo.md)
-- [norma](./norma.md)
+- [esp-vectorial](./esp-vectorial.md)
 - [funcional-minkowski](./funcional-minkowski.md)
+- [norma](./norma.md)
 

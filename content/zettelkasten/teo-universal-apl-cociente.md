@@ -1,6 +1,5 @@
 ---
 title: "Teorema universal de las aplicaciones cocientes"
-date: 2025-02-26
 tags:
   - geometria-diferencial/tema1
 ---
@@ -10,10 +9,7 @@ tags:
 
 ## Referencias
 - [apl-cociente](./apl-cociente.md)
+- [continuidad](./continuidad.md)
 - [esp-topologico](./esp-topologico.md)
 - [fibra](./fibra.md)
-- [continuidad](./continuidad.md)
-- [continuidad](./continuidad.md)
-- [apl-cociente](./apl-cociente.md)
-- [apl-cociente](./apl-cociente.md)
 

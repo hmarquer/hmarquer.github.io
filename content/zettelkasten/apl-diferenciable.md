@@ -1,6 +1,5 @@
 ---
 title: "Aplicación diferenciable"
-date: 2025-02-13
 tags:
   - geometria-diferencial/tema2
 ---
@@ -9,8 +8,8 @@ tags:
 ![[apl-diferenciable.pdf]]
 
 ## Referencias
-- [variedad-diferenciable](./variedad-diferenciable.md)
-- [continuidad](./continuidad.md)
 - [carta](./carta.md)
+- [continuidad](./continuidad.md)
 - [fn-clase-ck](./fn-clase-ck.md)
+- [variedad-diferenciable](./variedad-diferenciable.md)
 

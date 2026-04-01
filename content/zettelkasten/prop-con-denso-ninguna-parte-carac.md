@@ -1,6 +1,5 @@
 ---
 title: "Caracterización de conjunto denso en ninguna parte"
-date: 2025-10-28
 tags:
   - analisis-funcional/tema4
 ---
@@ -9,6 +8,6 @@ tags:
 ![[prop-con-denso-ninguna-parte-carac.pdf]]
 
 ## Referencias
-- [esp-topologico](./esp-topologico.md)
 - [con-denso-ninguna-parte](./con-denso-ninguna-parte.md)
+- [esp-topologico](./esp-topologico.md)
 

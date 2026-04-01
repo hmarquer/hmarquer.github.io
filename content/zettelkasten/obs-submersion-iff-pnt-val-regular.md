@@ -1,6 +1,5 @@
 ---
 title: "Obs submersion iff pnt val regular"
-date: 2025-06-17
 tags:
   - geometria-diferencial/tema5
 ---
@@ -10,7 +9,7 @@ tags:
 
 ## Referencias
 - [apl-diferenciable](./apl-diferenciable.md)
-- [submersion](./submersion.md)
 - [pnt-regular-apl-diferenciable](./pnt-regular-apl-diferenciable.md)
+- [submersion](./submersion.md)
 - [val-regular-apl-diferenciable](./val-regular-apl-diferenciable.md)
 
