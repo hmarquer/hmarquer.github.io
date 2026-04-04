@@ -1,5 +1,5 @@
 ---
-title: "Teo schwarz pick"
+title: "Teorema de Schwarz-Pick"
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3
@@ -16,5 +16,3 @@ tags:
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
 - [teo-schwarz-pick](./teo-schwarz-pick.md)
 
-## Etiquetas
-#COMPLETAR : explicar bien las implicaciones
