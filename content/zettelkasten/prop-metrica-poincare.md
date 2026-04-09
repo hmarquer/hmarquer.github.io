@@ -10,7 +10,9 @@ tags:
 
 ## Referencias
 - [Metrica](./Metrica.md)
+- [ejer-desigualdad-triangular-producto-hiperbolico](./ejer-desigualdad-triangular-producto-hiperbolico.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
+- [teo-desigualdad-triangular-generalizada](./teo-desigualdad-triangular-generalizada.md)
 
 ## Etiquetas
 #ORDENAR : referenciar bien

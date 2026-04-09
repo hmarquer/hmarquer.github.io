@@ -12,5 +12,6 @@ tags:
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
+- [teo-fn-continua-soporte-compacto-denso-lp](./teo-fn-continua-soporte-compacto-denso-lp.md)
 - [traslacion](./traslacion.md)
 

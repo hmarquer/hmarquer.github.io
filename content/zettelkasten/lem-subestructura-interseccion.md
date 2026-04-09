@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [lem-universos-subestructuras](./lem-universos-subestructuras.md)
 - [subestructura](./subestructura.md)
 

@@ -12,5 +12,6 @@ tags:
 - [esp-bidual](./esp-bidual.md)
 - [esp-normado-reflexivo](./esp-normado-reflexivo.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-esp-normado-separacion-punto-subespacio-cerrado](./teo-esp-normado-separacion-punto-subespacio-cerrado.md)
 - [teo-hahn-banach-ii](./teo-hahn-banach-ii.md)
 

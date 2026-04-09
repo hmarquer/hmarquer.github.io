@@ -14,4 +14,6 @@ tags:
 - [norma](./norma.md)
 - [operador-adjunto](./operador-adjunto.md)
 - [prop-apl-lineales-continuas-norma](./prop-apl-lineales-continuas-norma.md)
+- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
+- [teo-esp-normado-separacion-punto-cero](./teo-esp-normado-separacion-punto-cero.md)
 

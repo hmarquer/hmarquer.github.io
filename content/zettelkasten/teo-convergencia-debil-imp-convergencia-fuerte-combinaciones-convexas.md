@@ -11,4 +11,5 @@ tags:
 - [convergencia](./convergencia.md)
 - [convergencia-debil](./convergencia-debil.md)
 - [norma](./norma.md)
+- [teo-convexo-imp-cerrado-debil-iff-fuerte](./teo-convexo-imp-cerrado-debil-iff-fuerte.md)
 

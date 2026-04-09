@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
+- [lem-derivadas-parciales-wirtinger](./lem-derivadas-parciales-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 
 ## Etiquetas

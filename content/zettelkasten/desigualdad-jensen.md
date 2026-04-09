@@ -17,5 +17,6 @@ tags:
 - [esperanza](./esperanza.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-convexa](./fn-convexa.md)
+- [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
 - [var-aleatoria](./var-aleatoria.md)
 

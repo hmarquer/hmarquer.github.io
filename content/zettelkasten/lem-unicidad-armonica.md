@@ -11,4 +11,6 @@ tags:
 - [dominio](./dominio.md)
 - [fn-armonica](./fn-armonica.md)
 - [fn-holomorfa](./fn-holomorfa.md)
+- [prop-fn-armonica-imp-derivada-holomorfa](./prop-fn-armonica-imp-derivada-holomorfa.md)
+- [teo-ceros-aislados](./teo-ceros-aislados.md)
 

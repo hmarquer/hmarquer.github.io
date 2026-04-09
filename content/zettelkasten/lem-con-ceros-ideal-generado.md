@@ -12,4 +12,6 @@ tags:
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [cuerpo](./cuerpo.md)
 - [ideal-generado](./ideal-generado.md)
+- [lem-ideal-generado](./lem-ideal-generado.md)
+- [obs-con-ceros-ideal-generado-contenido-trivial](./obs-con-ceros-ideal-generado-contenido-trivial.md)
 

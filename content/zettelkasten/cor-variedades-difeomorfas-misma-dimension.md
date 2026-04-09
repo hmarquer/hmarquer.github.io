@@ -8,6 +8,7 @@ tags:
 ![[cor-variedades-difeomorfas-misma-dimension.pdf]]
 
 ## Referencias
+- [cor-dim-esp-tangente-variedad](./cor-dim-esp-tangente-variedad.md)
 - [difeomorfismo](./difeomorfismo.md)
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [prop-direfencial-apl-diferenciable](./prop-direfencial-apl-diferenciable.md)

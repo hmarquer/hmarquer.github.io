@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [complejidad](./complejidad.md)
 - [substitucion-terminos](./substitucion-terminos.md)
+- [teo-lectura-unica](./teo-lectura-unica.md)
 - [termino](./termino.md)
 - [variables](./variables.md)
 

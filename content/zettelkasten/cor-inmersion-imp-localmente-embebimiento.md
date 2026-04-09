@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [embebimiento](./embebimiento.md)
 - [inmersion](./inmersion.md)
+- [teo-cartas-adaptadas-inmersion](./teo-cartas-adaptadas-inmersion.md)
 

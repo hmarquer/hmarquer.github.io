@@ -11,6 +11,7 @@ tags:
 ## Referencias
 - [esp-hilbert](./esp-hilbert.md)
 - [ortogonalidad](./ortogonalidad.md)
+- [prop-carac-proyeccion-ortogonal-convexo-cerrado](./prop-carac-proyeccion-ortogonal-convexo-cerrado.md)
 - [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 - [subesp-vectorial](./subesp-vectorial.md)
 

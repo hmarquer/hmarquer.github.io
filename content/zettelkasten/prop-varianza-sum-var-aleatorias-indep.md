@@ -11,6 +11,7 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [obs-linealidad-esperanza](./obs-linealidad-esperanza.md)
+- [prop-esperanza-prod-var-aleatorias-indep](./prop-esperanza-prod-var-aleatorias-indep.md)
 - [prop-formula-varianza](./prop-formula-varianza.md)
 - [varianza](./varianza.md)
 

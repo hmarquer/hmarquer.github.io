@@ -15,5 +15,6 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [homeomorfismo](./homeomorfismo.md)
+- [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 

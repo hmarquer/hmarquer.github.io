@@ -11,4 +11,5 @@ tags:
 - [aditividad](./aditividad.md)
 - [con-denso](./con-denso.md)
 - [homogeneidad](./homogeneidad.md)
+- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
 

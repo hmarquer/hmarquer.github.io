@@ -11,6 +11,8 @@ tags:
 - [apl-lineal](./apl-lineal.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [funcional-minkowski](./funcional-minkowski.md)
+- [lem-apl-lineal-complejo-reduccion-real](./lem-apl-lineal-complejo-reduccion-real.md)
 - [seminorma](./seminorma.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-extension-apl-lineal-minkowski](./teo-extension-apl-lineal-minkowski.md)
 

@@ -11,4 +11,6 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [esp-separable](./esp-separable.md)
 - [norma](./norma.md)
+- [prop-con-denso](./prop-con-denso.md)
+- [teo-esp-normado-separacion-punto-subespacio-cerrado](./teo-esp-normado-separacion-punto-subespacio-cerrado.md)
 

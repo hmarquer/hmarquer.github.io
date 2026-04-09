@@ -11,6 +11,7 @@ tags:
 - [convolucion](./convolucion.md)
 - [nucleo-dirichlet](./nucleo-dirichlet.md)
 - [nucleo-fejer](./nucleo-fejer.md)
+- [obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet](./obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet.md)
 - [serie-fourier-l1](./serie-fourier-l1.md)
 - [sumacion-cesaro](./sumacion-cesaro.md)
 

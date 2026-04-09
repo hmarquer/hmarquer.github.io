@@ -15,6 +15,7 @@ tags:
 - [fibra](./fibra.md)
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 - [teo-cartas-adaptadas-submersion](./teo-cartas-adaptadas-submersion.md)
+- [teo-subvariedad-iff-carta-d-rebanada](./teo-subvariedad-iff-carta-d-rebanada.md)
 - [val-regular-apl-diferenciable](./val-regular-apl-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 

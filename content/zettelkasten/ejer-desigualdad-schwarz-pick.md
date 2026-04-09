@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [clase-schur](./clase-schur.md)
+- [ejer-identidad-auxiliar-disco-unidad](./ejer-identidad-auxiliar-disco-unidad.md)
 - [teo-schwarz-pick](./teo-schwarz-pick.md)
 

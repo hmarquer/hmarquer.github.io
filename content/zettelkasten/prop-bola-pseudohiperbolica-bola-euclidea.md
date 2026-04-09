@@ -14,6 +14,7 @@ tags:
 - [lem-involucion-disco-unidad](./lem-involucion-disco-unidad.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 - [transformacion-mobius](./transformacion-mobius.md)
+- [transformacion-mobius-circunferencias-generalizadas](./transformacion-mobius-circunferencias-generalizadas.md)
 
 ## Etiquetas
 #ORDENAR : referenciar

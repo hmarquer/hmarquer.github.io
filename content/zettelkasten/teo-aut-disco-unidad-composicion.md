@@ -11,5 +11,6 @@ tags:
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [ejem-rotacion-disco-unidad](./ejem-rotacion-disco-unidad.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
+- [lem-aut-disco-unidad-composicion-tau](./lem-aut-disco-unidad-composicion-tau.md)
 - [lem-involucion-disco-unidad-rho](./lem-involucion-disco-unidad-rho.md)
 

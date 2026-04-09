@@ -13,4 +13,5 @@ tags:
 - [esp-hilbert](./esp-hilbert.md)
 - [isometria](./isometria.md)
 - [prop-funcional-lineal-continuo-prod-interno](./prop-funcional-lineal-continuo-prod-interno.md)
+- [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
 

@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [lem-subestructura-interseccion](./lem-subestructura-interseccion.md)
 - [subestructura](./subestructura.md)
 

@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [lem-universos-subestructuras](./lem-universos-subestructuras.md)
 - [morfismo-estructuras](./morfismo-estructuras.md)
 - [subestructura-generada](./subestructura-generada.md)
 

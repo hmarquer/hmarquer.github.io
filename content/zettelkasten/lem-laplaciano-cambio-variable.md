@@ -8,8 +8,11 @@ tags:
 ![[lem-laplaciano-cambio-variable.pdf]]
 
 ## Referencias
+- [cor-wirtinger-composicion-holomorfas](./cor-wirtinger-composicion-holomorfas.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 - [laplaciano](./laplaciano.md)
+- [lem-laplaciano-wirtinger](./lem-laplaciano-wirtinger.md)
+- [prop-fn-holomorfa-iff-wirtinger](./prop-fn-holomorfa-iff-wirtinger.md)
 - [prop-regla-cadena-wirtinger](./prop-regla-cadena-wirtinger.md)
 
 ## Etiquetas

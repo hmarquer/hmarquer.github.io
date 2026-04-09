@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
+- [teo-fn-analitica-iff-holomorfa](./teo-fn-analitica-iff-holomorfa.md)
 
 ## Etiquetas
 #ORDENAR referenciar

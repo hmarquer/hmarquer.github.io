@@ -10,5 +10,6 @@ tags:
 ## Referencias
 - [fn-semicontinua-inferior](./fn-semicontinua-inferior.md)
 - [norma](./norma.md)
+- [prop-convergencia-fuerte-imp-debil](./prop-convergencia-fuerte-imp-debil.md)
 - [topologia-debil](./topologia-debil.md)
 

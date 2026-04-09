@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [norma](./norma.md)
 - [norma-p](./norma-p.md)
+- [teo-esp-normado-imp-bola-abierta-convexa](./teo-esp-normado-imp-bola-abierta-convexa.md)
 

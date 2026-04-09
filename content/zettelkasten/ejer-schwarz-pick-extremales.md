@@ -12,6 +12,7 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
 - [lem-involucion-disco-unidad-derivada](./lem-involucion-disco-unidad-derivada.md)
+- [obs-aut-disco-unidad-fija-origen-imp-rotacion](./obs-aut-disco-unidad-fija-origen-imp-rotacion.md)
 - [teo-schwarz-pick](./teo-schwarz-pick.md)
 
 ## Etiquetas

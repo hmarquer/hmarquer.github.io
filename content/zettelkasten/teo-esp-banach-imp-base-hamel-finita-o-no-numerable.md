@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [base-hamel](./base-hamel.md)
+- [ejer-esp-banach-union-cerrados-imp-interior-no-vacio](./ejer-esp-banach-union-cerrados-imp-interior-no-vacio.md)
 - [esp-banach](./esp-banach.md)
 

@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [constante](./constante.md)
 - [formula](./formula.md)
+- [lem-complejidad-univoca](./lem-complejidad-univoca.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [termino](./termino.md)
 - [variables](./variables.md)

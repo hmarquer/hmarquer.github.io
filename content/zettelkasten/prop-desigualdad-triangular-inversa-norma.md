@@ -10,5 +10,6 @@ tags:
 ## Referencias
 - [desigualdad-triangular-inversa](./desigualdad-triangular-inversa.md)
 - [metrica](./metrica.md)
+- [metrica-inducida](./metrica-inducida.md)
 - [norma](./norma.md)
 

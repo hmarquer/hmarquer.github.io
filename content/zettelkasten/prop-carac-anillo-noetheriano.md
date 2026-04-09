@@ -11,6 +11,7 @@ tags:
 - [anillo](./anillo.md)
 - [anillo-noetheriano](./anillo-noetheriano.md)
 - [cadena](./cadena.md)
+- [ejer-union-ideales-encajados](./ejer-union-ideales-encajados.md)
 - [ideal](./ideal.md)
 - [ideal-finitamente-generado](./ideal-finitamente-generado.md)
 - [relacion-orden](./relacion-orden.md)

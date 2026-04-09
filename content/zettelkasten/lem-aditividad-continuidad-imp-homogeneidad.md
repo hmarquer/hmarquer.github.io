@@ -12,4 +12,5 @@ tags:
 - [continuidad](./continuidad.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [homogeneidad](./homogeneidad.md)
+- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
 

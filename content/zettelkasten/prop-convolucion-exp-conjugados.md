@@ -13,6 +13,7 @@ tags:
 - [desigualdad-holder](./desigualdad-holder.md)
 - [esp-lp](./esp-lp.md)
 - [exponente-conjugado](./exponente-conjugado.md)
+- [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [norma-lp](./norma-lp.md)
 - [traslacion](./traslacion.md)
 

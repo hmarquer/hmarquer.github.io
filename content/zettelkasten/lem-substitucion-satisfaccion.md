@@ -14,6 +14,8 @@ tags:
 - [evaluacion](./evaluacion.md)
 - [formula](./formula.md)
 - [interpretacion-terminos](./interpretacion-terminos.md)
+- [lem-independencia-variables-no-libres](./lem-independencia-variables-no-libres.md)
+- [lem-substitucion-interpretacion](./lem-substitucion-interpretacion.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [satisfaccion](./satisfaccion.md)
 - [substitucion-formulas](./substitucion-formulas.md)

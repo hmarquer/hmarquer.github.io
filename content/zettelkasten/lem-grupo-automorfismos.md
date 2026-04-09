@@ -12,6 +12,7 @@ tags:
 - [estructura](./estructura.md)
 - [grupo](./grupo.md)
 - [isomorfismo-estructuras](./isomorfismo-estructuras.md)
+- [lem-composicion-morfismos](./lem-composicion-morfismos.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [morfismo-estructuras](./morfismo-estructuras.md)
 

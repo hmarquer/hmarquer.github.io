@@ -15,4 +15,5 @@ tags:
 - [esp-hilbert](./esp-hilbert.md)
 - [norma](./norma.md)
 - [prod-interno](./prod-interno.md)
+- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 

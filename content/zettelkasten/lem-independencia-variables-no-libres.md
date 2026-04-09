@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [complejidad](./complejidad.md)
+- [cor-independencia-dominio-evaluacion](./cor-independencia-dominio-evaluacion.md)
 - [estructura](./estructura.md)
 - [evaluacion](./evaluacion.md)
 - [formula](./formula.md)

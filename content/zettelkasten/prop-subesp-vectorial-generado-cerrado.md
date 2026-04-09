@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [continuidad](./continuidad.md)
 - [esp-prehilbert](./esp-prehilbert.md)
+- [prop-sistema-ortonormal-isometria](./prop-sistema-ortonormal-isometria.md)
 - [sistema-ortonormal](./sistema-ortonormal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 

@@ -16,4 +16,5 @@ tags:
 - [producto-finito-blaschke](./producto-finito-blaschke.md)
 - [singularidad-evitable](./singularidad-evitable.md)
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
+- [teo-singularidad-evitable-riemann](./teo-singularidad-evitable-riemann.md)
 

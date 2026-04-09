@@ -12,6 +12,7 @@ tags:
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
 - [esp-medida](./esp-medida.md)
+- [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 

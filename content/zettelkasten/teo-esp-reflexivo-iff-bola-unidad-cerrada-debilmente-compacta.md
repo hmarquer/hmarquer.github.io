@@ -11,6 +11,7 @@ tags:
 - [compacidad](./compacidad.md)
 - [esp-normado-reflexivo](./esp-normado-reflexivo.md)
 - [teo-banach-alaoglu](./teo-banach-alaoglu.md)
+- [teo-esp-reflexivo-iff-dual-reflexivo](./teo-esp-reflexivo-iff-dual-reflexivo.md)
 - [topologia-debil](./topologia-debil.md)
 
 ## Etiquetas

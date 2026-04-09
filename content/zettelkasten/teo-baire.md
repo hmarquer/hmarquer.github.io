@@ -11,4 +11,5 @@ tags:
 - [completitud-metrica](./completitud-metrica.md)
 - [con-denso](./con-denso.md)
 - [esp-metrico](./esp-metrico.md)
+- [prop-con-denso](./prop-con-denso.md)
 

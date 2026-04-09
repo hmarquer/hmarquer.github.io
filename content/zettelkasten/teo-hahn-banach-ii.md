@@ -14,4 +14,6 @@ tags:
 - [norma](./norma.md)
 - [seminorma](./seminorma.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
+- [teo-hahn-banach-i](./teo-hahn-banach-i.md)
 

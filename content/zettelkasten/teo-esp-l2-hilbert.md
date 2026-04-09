@@ -18,4 +18,5 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 

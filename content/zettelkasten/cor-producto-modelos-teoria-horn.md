@@ -9,5 +9,5 @@ tags:
 
 ## Referencias
 - [modelo](./modelo.md)
-- [teoria-horn](./teoria-horn.md)
+- [teoria-semantica-horn](./teoria-semantica-horn.md)
 

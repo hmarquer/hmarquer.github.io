@@ -16,4 +16,5 @@ tags:
 - [isometria](./isometria.md)
 - [norma](./norma.md)
 - [operador-adjunto](./operador-adjunto.md)
+- [prop-apl-adjunta-lineal-continua-norma](./prop-apl-adjunta-lineal-continua-norma.md)
 

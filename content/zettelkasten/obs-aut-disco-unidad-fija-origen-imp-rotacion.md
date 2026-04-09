@@ -10,4 +10,5 @@ tags:
 
 ## Referencias
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
+- [teo-formula-aut-disco-unidad](./teo-formula-aut-disco-unidad.md)
 

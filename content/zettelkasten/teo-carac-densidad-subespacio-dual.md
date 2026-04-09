@@ -12,4 +12,5 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-esp-normado-separacion-punto-subespacio-cerrado](./teo-esp-normado-separacion-punto-subespacio-cerrado.md)
 

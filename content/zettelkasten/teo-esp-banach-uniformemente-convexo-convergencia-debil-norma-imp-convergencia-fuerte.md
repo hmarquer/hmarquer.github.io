@@ -11,5 +11,7 @@ tags:
 - [convergencia](./convergencia.md)
 - [convergencia-debil](./convergencia-debil.md)
 - [esp-banach](./esp-banach.md)
+- [lem-norma-uniformemente-convexa](./lem-norma-uniformemente-convexa.md)
 - [norma-uniformemente-convexa](./norma-uniformemente-convexa.md)
+- [prop-norma-semicontinua-inf-convergencia-debil](./prop-norma-semicontinua-inf-convergencia-debil.md)
 

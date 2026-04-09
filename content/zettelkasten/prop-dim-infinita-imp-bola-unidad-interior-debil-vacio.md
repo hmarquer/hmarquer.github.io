@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [esp-banach](./esp-banach.md)
+- [prop-dim-infinita-imp-clausura-debil-esfera-bola](./prop-dim-infinita-imp-clausura-debil-esfera-bola.md)
 - [topologia-debil](./topologia-debil.md)
 

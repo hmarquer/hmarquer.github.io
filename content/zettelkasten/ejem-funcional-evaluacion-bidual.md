@@ -11,4 +11,5 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [esp-bidual](./esp-bidual.md)
 - [norma](./norma.md)
+- [teo-esp-normado-separacion-punto-cero](./teo-esp-normado-separacion-punto-cero.md)
 

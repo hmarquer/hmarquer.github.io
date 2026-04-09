@@ -11,6 +11,8 @@ tags:
 - [esp-hilbert](./esp-hilbert.md)
 - [prod-interno](./prod-interno.md)
 - [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
+- [prop-subesp-vectorial-generado-cerrado](./prop-subesp-vectorial-generado-cerrado.md)
 - [sistema-ortonormal](./sistema-ortonormal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
+- [teo-proyeccion-ortogonal](./teo-proyeccion-ortogonal.md)
 

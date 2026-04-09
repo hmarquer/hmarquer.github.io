@@ -13,4 +13,5 @@ tags:
 - [ideal](./ideal.md)
 - [ideal-anulacion](./ideal-anulacion.md)
 - [ideal-radical](./ideal-radical.md)
+- [lem-ideal](./lem-ideal.md)
 

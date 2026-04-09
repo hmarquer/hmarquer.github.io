@@ -12,4 +12,5 @@ tags:
 - [con-convexo](./con-convexo.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [norma](./norma.md)
+- [teo-cerrado-convexo-hilbert-imp-exists-min-norma](./teo-cerrado-convexo-hilbert-imp-exists-min-norma.md)
 

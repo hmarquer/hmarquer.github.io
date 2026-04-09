@@ -11,5 +11,6 @@ tags:
 - [bola-cerrada](./bola-cerrada.md)
 - [compacidad](./compacidad.md)
 - [esp-vectorial](./esp-vectorial.md)
+- [lem-riesz](./lem-riesz.md)
 - [norma](./norma.md)
 

@@ -10,6 +10,8 @@ tags:
 ## Referencias
 - [apl-lineal](./apl-lineal.md)
 - [continuidad](./continuidad.md)
+- [cor-esp-normado-separacion-puntos](./cor-esp-normado-separacion-puntos.md)
 - [dual-topologico](./dual-topologico.md)
 - [esp-banach](./esp-banach.md)
+- [teo-carac-continuidad-operador-lineal-esp-banach](./teo-carac-continuidad-operador-lineal-esp-banach.md)
 

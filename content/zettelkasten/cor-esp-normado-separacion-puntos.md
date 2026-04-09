@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
+- [teo-esp-normado-separacion-punto-cero](./teo-esp-normado-separacion-punto-cero.md)
 

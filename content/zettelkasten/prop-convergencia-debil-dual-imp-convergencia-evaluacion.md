@@ -12,4 +12,5 @@ tags:
 - [convergencia-debil](./convergencia-debil.md)
 - [dual-topologico](./dual-topologico.md)
 - [esp-banach](./esp-banach.md)
+- [prop-norma-semicontinua-inf-convergencia-debil](./prop-norma-semicontinua-inf-convergencia-debil.md)
 

@@ -14,4 +14,5 @@ tags:
 - [fn-diferenciable](./fn-diferenciable.md)
 - [lem-convolucion](./lem-convolucion.md)
 - [norma-lp](./norma-lp.md)
+- [teo-derivacion-bajo-el-signo-integral](./teo-derivacion-bajo-el-signo-integral.md)
 

@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
+- [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 

@@ -11,8 +11,9 @@ tags:
 - [enunciado](./enunciado.md)
 - [estructura](./estructura.md)
 - [formula-universal](./formula-universal.md)
+- [lem-preservacion-formulas-universales-subestructuras](./lem-preservacion-formulas-universales-subestructuras.md)
 - [modelo](./modelo.md)
-- [prop-teoria-generada-enunciados](./prop-teoria-generada-enunciados.md)
 - [subestructura](./subestructura.md)
-- [teoria-universal](./teoria-universal.md)
+- [teoria-semantica-generada-enunciados](./teoria-semantica-generada-enunciados.md)
+- [teoria-semantica-universal](./teoria-semantica-universal.md)
 

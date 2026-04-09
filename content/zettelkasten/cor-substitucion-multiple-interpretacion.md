@@ -11,6 +11,7 @@ tags:
 - [estructura](./estructura.md)
 - [evaluacion](./evaluacion.md)
 - [interpretacion-terminos](./interpretacion-terminos.md)
+- [lem-substitucion-interpretacion](./lem-substitucion-interpretacion.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [substitucion-terminos](./substitucion-terminos.md)
 - [termino](./termino.md)

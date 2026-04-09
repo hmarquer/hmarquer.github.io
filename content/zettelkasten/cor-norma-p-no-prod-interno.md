@@ -12,6 +12,7 @@ tags:
 - [norma-inducida](./norma-inducida.md)
 - [norma-p](./norma-p.md)
 - [prod-interno](./prod-interno.md)
+- [teo-prod-interno-iff-identidad-paralelogramo](./teo-prod-interno-iff-identidad-paralelogramo.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN en las notas

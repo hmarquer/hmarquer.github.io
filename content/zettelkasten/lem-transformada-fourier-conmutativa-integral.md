@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [esp-lp](./esp-lp.md)
+- [obs-propiedades-transformada-fourier-l1](./obs-propiedades-transformada-fourier-l1.md)
 - [teo-fubini](./teo-fubini.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 

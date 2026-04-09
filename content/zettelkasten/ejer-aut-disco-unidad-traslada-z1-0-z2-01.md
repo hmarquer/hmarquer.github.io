@@ -11,4 +11,5 @@ tags:
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [ejem-rotacion-disco-unidad](./ejem-rotacion-disco-unidad.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
+- [obs-aut-disco-unidad-fija-origen-imp-rotacion](./obs-aut-disco-unidad-fija-origen-imp-rotacion.md)
 

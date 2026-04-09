@@ -8,5 +8,6 @@ tags:
 ![[lem-derivada-prod-finito-blaschke-no-nula-toro.pdf]]
 
 ## Referencias
+- [lem-derivada-logaritmica-prod-finito-blaschke](./lem-derivada-logaritmica-prod-finito-blaschke.md)
 - [producto-finito-blaschke](./producto-finito-blaschke.md)
 

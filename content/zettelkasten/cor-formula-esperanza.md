@@ -11,5 +11,6 @@ tags:
 - [esperanza](./esperanza.md)
 - [fn-integrable](./fn-integrable.md)
 - [medida-inducida](./medida-inducida.md)
+- [prop-esperanza-fn](./prop-esperanza-fn.md)
 - [var-aleatoria](./var-aleatoria.md)
 

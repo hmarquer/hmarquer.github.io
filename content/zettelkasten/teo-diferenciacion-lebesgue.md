@@ -10,4 +10,6 @@ tags:
 ## Referencias
 - [convergencia](./convergencia.md)
 - [fn-integrable-localmente](./fn-integrable-localmente.md)
+- [lem-diferenciacion-lebesgue-l1-imp-loc-l1](./lem-diferenciacion-lebesgue-l1-imp-loc-l1.md)
+- [teo-diferenciacion-lebesgue-l1](./teo-diferenciacion-lebesgue-l1.md)
 

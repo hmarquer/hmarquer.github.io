@@ -11,4 +11,5 @@ title: "Prop ideales primos dominio ideales principales"
 - [ideal-generado](./ideal-generado.md)
 - [ideal-maximal](./ideal-maximal.md)
 - [ideal-primo](./ideal-primo.md)
+- [prop-di-imp-primo-imp-irreducible](./prop-di-imp-primo-imp-irreducible.md)
 

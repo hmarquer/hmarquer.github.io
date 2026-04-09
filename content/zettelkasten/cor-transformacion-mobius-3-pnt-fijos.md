@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [pnt-fijo](./pnt-fijo.md)
+- [teo-transformacion-mobius-pnt-fijos](./teo-transformacion-mobius-pnt-fijos.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 

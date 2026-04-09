@@ -11,6 +11,7 @@ tags:
 - [apl-lineal](./apl-lineal.md)
 - [continuidad](./continuidad.md)
 - [dual-topologico](./dual-topologico.md)
+- [lem-esp-banach-funcionales-lineales-dependientes](./lem-esp-banach-funcionales-lineales-dependientes.md)
 - [norma](./norma.md)
 - [topologia-debil](./topologia-debil.md)
 

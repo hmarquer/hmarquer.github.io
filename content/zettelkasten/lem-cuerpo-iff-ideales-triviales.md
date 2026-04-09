@@ -12,4 +12,6 @@ tags:
 - [cuerpo](./cuerpo.md)
 - [ideal](./ideal.md)
 - [ideal-generado](./ideal-generado.md)
+- [lem-ideal-generado](./lem-ideal-generado.md)
+- [lem-ideal-total](./lem-ideal-total.md)
 

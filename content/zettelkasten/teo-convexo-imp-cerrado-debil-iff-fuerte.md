@@ -9,6 +9,8 @@ tags:
 
 ## Referencias
 - [con-convexo](./con-convexo.md)
+- [lem-cerrado-debil-imp-cerrado-fuerte](./lem-cerrado-debil-imp-cerrado-fuerte.md)
+- [lem-separacion-punto-conjunto-convexo-abierto](./lem-separacion-punto-conjunto-convexo-abierto.md)
 - [norma](./norma.md)
 - [topologia-debil](./topologia-debil.md)
 

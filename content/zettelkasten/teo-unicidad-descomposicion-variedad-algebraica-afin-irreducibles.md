@@ -8,6 +8,7 @@ tags:
 ![[teo-unicidad-descomposicion-variedad-algebraica-afin-irreducibles.pdf]]
 
 ## Referencias
+- [teo-descomposicion-variedad-algebraica-afin-irreducibles](./teo-descomposicion-variedad-algebraica-afin-irreducibles.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 - [variedad-algebraica-afin-irreducible](./variedad-algebraica-afin-irreducible.md)
 
