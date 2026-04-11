@@ -1,5 +1,5 @@
 ---
-title: "Modelo"
+title: 'Modelo'
 tags:
   - logica-matematica/tema1-1
 ---

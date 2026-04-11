@@ -1,5 +1,5 @@
 ---
-title: "Teo morfismo anillos coordenadas imp morfismo variedades algebraicas afines"
+title: 'Teo morfismo anillos coordenadas imp morfismo variedades algebraicas afines'
 tags:
   - algebra-conmutativa/tema5
 ---

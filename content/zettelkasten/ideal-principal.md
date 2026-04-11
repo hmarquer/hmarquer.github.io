@@ -1,5 +1,5 @@
 ---
-title: "Ideal principal"
+title: 'Ideal principal'
 tags:
   - algebra-conmutativa/tema1
 ---

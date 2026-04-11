@@ -1,5 +1,5 @@
 ---
-title: "Conjunto positivo para una medida"
+title: 'Conjunto positivo para una medida'
 ---
 
 [[con-positivo.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Seminorma"
+title: 'Seminorma'
 tags:
   - analisis-funcional/tema1
 ---

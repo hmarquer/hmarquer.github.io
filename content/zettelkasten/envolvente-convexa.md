@@ -1,5 +1,5 @@
 ---
-title: "Envolvente convexa"
+title: 'Envolvente convexa'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

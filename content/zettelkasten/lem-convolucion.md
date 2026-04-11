@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de la convolución"
+title: 'Propiedades de la convolución'
 tags:
   - variable-real/parcial
   - variable-real/tema2

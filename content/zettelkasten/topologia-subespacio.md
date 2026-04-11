@@ -1,5 +1,5 @@
 ---
-title: "Topología del subespacio"
+title: 'Topología del subespacio'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

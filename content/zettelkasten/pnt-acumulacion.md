@@ -1,5 +1,5 @@
 ---
-title: "Punto de acumulación"
+title: 'Punto de acumulación'
 tags:
   - variable-compleja-i/tema1
 ---

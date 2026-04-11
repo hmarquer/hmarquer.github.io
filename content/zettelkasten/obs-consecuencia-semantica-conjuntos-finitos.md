@@ -1,5 +1,5 @@
 ---
-title: "Consecuencia semántica para conjuntos finitos"
+title: 'Consecuencia semántica para conjuntos finitos'
 tags:
   - logica-matematica/tema1-1
 ---

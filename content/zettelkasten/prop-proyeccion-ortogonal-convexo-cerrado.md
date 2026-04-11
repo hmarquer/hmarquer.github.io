@@ -1,5 +1,5 @@
 ---
-title: "Prop proyeccion ortogonal convexo cerrado"
+title: 'Prop proyeccion ortogonal convexo cerrado'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3
@@ -12,4 +12,5 @@ tags:
 - [con-convexo](./con-convexo.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [norma](./norma.md)
+- [teo-cerrado-convexo-hilbert-imp-exists-min-norma](./teo-cerrado-convexo-hilbert-imp-exists-min-norma.md)
 

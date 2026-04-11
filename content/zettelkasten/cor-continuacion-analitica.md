@@ -1,5 +1,5 @@
 ---
-title: "Principio de continuación analítica"
+title: 'Principio de continuación analítica'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de parada opcional"
+title: 'Teorema de parada opcional'
 tags:
   - probabilidad-ii/tema4
 ---

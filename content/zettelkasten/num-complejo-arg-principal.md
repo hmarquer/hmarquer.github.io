@@ -1,5 +1,5 @@
 ---
-title: "Argumento principal de un número complejo"
+title: 'Argumento principal de un número complejo'
 tags:
   - variable-compleja-i/tema1
 ---

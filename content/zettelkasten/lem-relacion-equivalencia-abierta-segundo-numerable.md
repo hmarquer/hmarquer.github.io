@@ -1,5 +1,5 @@
 ---
-title: "Lem-relacion-equivalencia-abierta-segundo-numerable"
+title: 'Lem-relacion-equivalencia-abierta-segundo-numerable'
 tags:
   - geometria-diferencial/tema1
 ---

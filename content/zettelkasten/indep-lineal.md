@@ -1,5 +1,5 @@
 ---
-title: "Independencia lineal"
+title: 'Independencia lineal'
 ---
 
 [[indep-lineal.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Jensen"
+title: 'Desigualdad de Jensen'
 tags:
   - probabilidad-ii/tema2
   - variable-real/parcial
@@ -17,5 +17,6 @@ tags:
 - [esperanza](./esperanza.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-convexa](./fn-convexa.md)
+- [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
 - [var-aleatoria](./var-aleatoria.md)
 

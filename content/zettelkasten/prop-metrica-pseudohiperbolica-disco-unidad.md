@@ -1,5 +1,5 @@
 ---
-title: "Prop metrica pseudohiperbolica disco unidad"
+title: 'Prop metrica pseudohiperbolica disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3

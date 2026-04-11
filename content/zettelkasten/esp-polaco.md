@@ -1,5 +1,5 @@
 ---
-title: "Espacio polaco"
+title: 'Espacio polaco'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

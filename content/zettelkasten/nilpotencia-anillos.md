@@ -1,5 +1,5 @@
 ---
-title: "Nilpotencia en anillos"
+title: 'Nilpotencia en anillos'
 tags:
   - algebra-conmutativa/tema1
 ---

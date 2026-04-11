@@ -1,5 +1,5 @@
 ---
-title: "Prop bola pseudohiperbolica bola euclidea"
+title: 'Prop bola pseudohiperbolica bola euclidea'
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3
@@ -14,6 +14,7 @@ tags:
 - [lem-involucion-disco-unidad](./lem-involucion-disco-unidad.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 - [transformacion-mobius](./transformacion-mobius.md)
+- [transformacion-mobius-circunferencias-generalizadas](./transformacion-mobius-circunferencias-generalizadas.md)
 
 ## Etiquetas
 #ORDENAR : referenciar

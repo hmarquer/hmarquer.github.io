@@ -1,5 +1,5 @@
 ---
-title: "Linealidad de la esperanza"
+title: 'Linealidad de la esperanza'
 tags:
   - probabilidad-ii/tema2
 ---
@@ -9,4 +9,6 @@ tags:
 
 ## Referencias
 - [esperanza](./esperanza.md)
+- [linealidad-integral](./linealidad-integral.md)
+- [prop-esperanza-fn](./prop-esperanza-fn.md)
 

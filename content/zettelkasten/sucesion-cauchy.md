@@ -1,5 +1,5 @@
 ---
-title: "Sucesión de Cauchy"
+title: 'Sucesión de Cauchy'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

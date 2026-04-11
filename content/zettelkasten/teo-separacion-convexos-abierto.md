@@ -1,5 +1,5 @@
 ---
-title: "Teorema de separación de convexos con uno abierto"
+title: 'Teorema de separación de convexos con uno abierto'
 tags:
   - analisis-funcional/tema3
 ---

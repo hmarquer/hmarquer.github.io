@@ -1,5 +1,5 @@
 ---
-title: "Teorema de levantamiento de curvas"
+title: 'Teorema de levantamiento de curvas'
 tags:
   - geometria-diferencial/tema6
 ---

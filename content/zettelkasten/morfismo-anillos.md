@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de anillos"
+title: 'Morfismo de anillos'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

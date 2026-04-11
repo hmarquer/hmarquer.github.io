@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la gráfica cerrada"
+title: 'Teorema de la gráfica cerrada'
 tags:
   - analisis-funcional/tema4
 ---
@@ -12,6 +12,8 @@ tags:
 - [continuidad](./continuidad.md)
 - [esp-banach](./esp-banach.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
+- [lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada](./lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada.md)
+- [lem-apl-lineal-iff-grafica-subesp-vectorial](./lem-apl-lineal-iff-grafica-subesp-vectorial.md)
 - [teo-isomorfismos-banach](./teo-isomorfismos-banach.md)
 - [topologia-producto](./topologia-producto.md)
 

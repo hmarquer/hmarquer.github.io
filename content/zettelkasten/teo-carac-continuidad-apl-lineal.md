@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la continuidad de una aplicación lineal"
+title: 'Caracterización de la continuidad de una aplicación lineal'
 tags:
   - analisis-funcional/tema2
 ---

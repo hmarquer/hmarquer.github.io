@@ -1,5 +1,5 @@
 ---
-title: "Una variedad algebraica afín es irreducible si y solo si su ideal de anulación es primo"
+title: 'Una variedad algebraica afín es irreducible si y solo si su ideal de anulación es primo'
 tags:
   - algebra-conmutativa/tema3
 ---

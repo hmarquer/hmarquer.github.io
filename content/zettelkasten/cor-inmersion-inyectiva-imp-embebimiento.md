@@ -1,5 +1,5 @@
 ---
-title: "Cor inmersion inyectiva imp embebimiento"
+title: 'Cor inmersion inyectiva imp embebimiento'
 tags:
   - geometria-diferencial/tema4
 ---

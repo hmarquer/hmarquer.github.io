@@ -1,5 +1,5 @@
 ---
-title: "Teorema de los ceros de Hilbert"
+title: 'Teorema de los ceros de Hilbert'
 tags:
   - algebra-conmutativa/tema4
 ---

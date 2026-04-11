@@ -1,5 +1,5 @@
 ---
-title: "Variable aleatoria discreta"
+title: 'Variable aleatoria discreta'
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Caracterizaciones de la convergencia casi segura"
+title: 'Caracterizaciones de la convergencia casi segura'
 tags:
   - probabilidad-ii/tema3
 ---

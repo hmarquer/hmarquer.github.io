@@ -1,5 +1,5 @@
 ---
-title: "Lem aprox indicatriz continua"
+title: 'Lem aprox indicatriz continua'
 tags:
   - variable-real/tema1
 ---

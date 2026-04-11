@@ -1,5 +1,5 @@
 ---
-title: "Substitución en fórmulas"
+title: 'Substitución en fórmulas'
 tags:
   - logica-matematica/tema1
 ---

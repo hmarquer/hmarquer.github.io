@@ -1,5 +1,5 @@
 ---
-title: "Prop transformada fourier traslacion modulacion dilatacion"
+title: 'Prop transformada fourier traslacion modulacion dilatacion'
 tags:
   - variable-real/tema5
 ---

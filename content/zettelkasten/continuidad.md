@@ -1,5 +1,5 @@
 ---
-title: "Continuidad"
+title: 'Continuidad'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
   - variable-compleja-i/tema1

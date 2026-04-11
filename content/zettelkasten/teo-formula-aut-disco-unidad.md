@@ -1,5 +1,5 @@
 ---
-title: "Fórmula general de los automorfismos del disco unidad"
+title: 'Fórmula general de los automorfismos del disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3

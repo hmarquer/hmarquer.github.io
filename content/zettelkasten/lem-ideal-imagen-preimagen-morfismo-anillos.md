@@ -1,5 +1,5 @@
 ---
-title: "Lem ideal imagen preimagen morfismo anillos"
+title: 'Lem ideal imagen preimagen morfismo anillos'
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de $K$-álgebras inducido por un morfismo de variedades algebraicas afines"
+title: 'Morfismo de $K$-álgebras inducido por un morfismo de variedades algebraicas afines'
 tags:
   - algebra-conmutativa/tema5
 ---

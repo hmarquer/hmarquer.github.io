@@ -1,5 +1,5 @@
 ---
-title: "El espacio tangente de un abierto es isomorfo al espacio tangente de la variedad"
+title: 'El espacio tangente de un abierto es isomorfo al espacio tangente de la variedad'
 tags:
   - geometria-diferencial/tema3
 ---

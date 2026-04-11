@@ -1,5 +1,5 @@
 ---
-title: "Prop ideal radical iff cociente reducido"
+title: 'Prop ideal radical iff cociente reducido'
 tags:
   - algebra-conmutativa/tema1
 ---

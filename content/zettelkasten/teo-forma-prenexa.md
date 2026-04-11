@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la forma prenexa"
+title: 'Teorema de la forma prenexa'
 tags:
   - logica-matematica/tema1
 ---
@@ -15,5 +15,6 @@ tags:
 - [formula-atomica](./formula-atomica.md)
 - [formula-prenexa](./formula-prenexa.md)
 - [formula-sin-cuantificadores](./formula-sin-cuantificadores.md)
+- [lem-equivalencia-semantica-cuantificadores](./lem-equivalencia-semantica-cuantificadores.md)
 - [variables](./variables.md)
 

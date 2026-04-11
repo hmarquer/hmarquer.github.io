@@ -1,5 +1,5 @@
 ---
-title: "Teo modulo maximo global"
+title: 'Teo modulo maximo global'
 tags:
   - variable-compleja-ii/tema2
 ---

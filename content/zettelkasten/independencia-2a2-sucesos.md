@@ -1,5 +1,5 @@
 ---
-title: "Independencia dos a dos de sucesos"
+title: 'Independencia dos a dos de sucesos'
 ---
 
 [[independencia-2a2-sucesos.pdf]]

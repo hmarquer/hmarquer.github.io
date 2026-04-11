@@ -1,5 +1,5 @@
 ---
-title: "Independencia de variables aleatorias"
+title: 'Independencia de variables aleatorias'
 tags:
   - probabilidad-ii/tema1
 ---

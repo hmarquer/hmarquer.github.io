@@ -1,5 +1,5 @@
 ---
-title: "Cor modulo minimo"
+title: 'Cor modulo minimo'
 tags:
   - variable-compleja-ii/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Satisfacción"
+title: 'Satisfacción'
 tags:
   - logica-matematica/tema1
 ---

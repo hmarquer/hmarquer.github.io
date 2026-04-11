@@ -1,5 +1,5 @@
 ---
-title: "Prop orden total num complejos"
+title: 'Prop orden total num complejos'
 tags:
   - variable-compleja-ii/tema1
 ---

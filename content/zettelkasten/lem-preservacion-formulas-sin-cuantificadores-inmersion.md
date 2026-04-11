@@ -1,5 +1,5 @@
 ---
-title: "Lem preservacion formulas sin cuantificadores inmersion"
+title: 'Lem preservacion formulas sin cuantificadores inmersion'
 tags:
   - logica-matematica/tema1
 ---
@@ -15,6 +15,7 @@ tags:
 - [formula-atomica](./formula-atomica.md)
 - [formula-sin-cuantificadores](./formula-sin-cuantificadores.md)
 - [inmersion-estructuras](./inmersion-estructuras.md)
+- [lem-morfismo-interpretacion-terminos](./lem-morfismo-interpretacion-terminos.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [satisfaccion](./satisfaccion.md)
 

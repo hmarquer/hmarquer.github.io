@@ -1,5 +1,5 @@
 ---
-title: "La norma es semicontinua inferior para la convergencia débil"
+title: 'La norma es semicontinua inferior para la convergencia débil'
 tags:
   - analisis-funcional/tema5
 ---
@@ -11,5 +11,6 @@ tags:
 - [convergencia-debil](./convergencia-debil.md)
 - [esp-banach](./esp-banach.md)
 - [fn-semicontinua-inferior](./fn-semicontinua-inferior.md)
+- [lem-acotado-dual-imp-acotado](./lem-acotado-dual-imp-acotado.md)
 - [topologia-debil](./topologia-debil.md)
 

@@ -1,5 +1,5 @@
 ---
-title: "Prop di imp primo imp irreducible"
+title: 'Prop di imp primo imp irreducible'
 ---
 
 [[prop-di-imp-primo-imp-irreducible.pdf]]

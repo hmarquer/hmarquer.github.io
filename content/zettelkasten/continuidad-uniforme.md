@@ -1,5 +1,5 @@
 ---
-title: "Continuidad uniforme"
+title: 'Continuidad uniforme'
 ---
 
 [[continuidad-uniforme.pdf]]

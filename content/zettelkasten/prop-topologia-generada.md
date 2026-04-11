@@ -1,5 +1,5 @@
 ---
-title: "Topología generada por una familia de conjuntos"
+title: 'Topología generada por una familia de conjuntos'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Métrica inducida"
+title: 'Métrica inducida'
 tags:
   - analisis-funcional/tema1
 ---

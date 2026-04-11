@@ -1,5 +1,5 @@
 ---
-title: "Parte multiplicativa de un anillo"
+title: 'Parte multiplicativa de un anillo'
 tags:
   - algebra-conmutativa/tema2
 ---

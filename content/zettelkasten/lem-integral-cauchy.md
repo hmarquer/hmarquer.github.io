@@ -1,5 +1,5 @@
 ---
-title: "Lema integral de Cauchy"
+title: 'Lema integral de Cauchy'
 tags:
   - variable-compleja-ii/tema1
 ---

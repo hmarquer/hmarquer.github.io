@@ -1,5 +1,5 @@
 ---
-title: "Operador autoadjunto"
+title: 'Operador autoadjunto'
 tags:
   - fisica-cuantica/tema1-3
 ---

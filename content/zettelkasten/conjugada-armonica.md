@@ -1,5 +1,5 @@
 ---
-title: "Conjugada armónica"
+title: 'Conjugada armónica'
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema2

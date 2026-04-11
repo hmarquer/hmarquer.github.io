@@ -1,5 +1,5 @@
 ---
-title: "Principio de subordinación"
+title: 'Principio de subordinación'
 tags:
   - variable-compleja-ii/tema4
 ---

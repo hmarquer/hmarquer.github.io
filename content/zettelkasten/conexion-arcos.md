@@ -1,5 +1,5 @@
 ---
-title: "Conexión por arcos"
+title: 'Conexión por arcos'
 tags:
   - geometria-diferencial/tema6
 ---

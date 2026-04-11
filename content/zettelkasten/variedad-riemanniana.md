@@ -1,5 +1,5 @@
 ---
-title: "Variedad riemanniana"
+title: 'Variedad riemanniana'
 ---
 
 [[variedad-riemanniana.pdf]]

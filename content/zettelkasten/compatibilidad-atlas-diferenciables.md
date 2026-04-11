@@ -1,5 +1,5 @@
 ---
-title: "Compatibilidad entre atlas diferenciables"
+title: 'Compatibilidad entre atlas diferenciables'
 tags:
   - geometria-diferencial/tema1
 ---

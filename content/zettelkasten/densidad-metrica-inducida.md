@@ -1,5 +1,5 @@
 ---
-title: "Densidad metrica inducida"
+title: 'Densidad metrica inducida'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ideal nilradical"
+title: 'Ideal nilradical'
 tags:
   - algebra-conmutativa/tema1
 ---

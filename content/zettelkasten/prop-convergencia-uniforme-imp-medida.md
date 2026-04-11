@@ -1,5 +1,5 @@
 ---
-title: "Prop convergencia uniforme imp medida"
+title: 'Prop convergencia uniforme imp medida'
 tags:
   - variable-real/tema2
 ---

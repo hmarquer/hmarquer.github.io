@@ -1,5 +1,5 @@
 ---
-title: "Convolución de dos funciones"
+title: 'Convolución de dos funciones'
 tags:
   - variable-real/parcial
   - variable-real/tema2

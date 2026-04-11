@@ -1,5 +1,5 @@
 ---
-title: "Teorema fundamental del Cálculo"
+title: 'Teorema fundamental del Cálculo'
 ---
 
 [[teo-fundamental-calculo.pdf]]

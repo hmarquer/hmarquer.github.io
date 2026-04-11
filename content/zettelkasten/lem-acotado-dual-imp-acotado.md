@@ -1,5 +1,5 @@
 ---
-title: "Si la imagen al pasar por elementos del dual es acotada, el conjunto es acotado"
+title: 'Si la imagen al pasar por elementos del dual es acotada, el conjunto es acotado'
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prop espacio c0 banach"
+title: 'Prop espacio c0 banach'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema1

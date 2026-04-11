@@ -1,5 +1,5 @@
 ---
-title: "Subestructura elemental"
+title: 'Subestructura elemental'
 tags:
   - logica-matematica/tema1-1
 ---

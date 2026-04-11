@@ -1,5 +1,5 @@
 ---
-title: "La preimagen de una subvariedad por un morfismo es una subvariedad"
+title: 'La preimagen de una subvariedad por un morfismo es una subvariedad'
 tags:
   - algebra-conmutativa/tema5
 ---

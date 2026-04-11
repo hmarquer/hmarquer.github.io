@@ -1,5 +1,5 @@
 ---
-title: "Conexión"
+title: 'Conexión'
 tags:
   - variable-compleja-i/tema1
 ---

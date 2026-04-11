@@ -1,5 +1,5 @@
 ---
-title: "La norma viene de un producto interno si y solo si satisface la identidad del paralelogramo"
+title: 'La norma viene de un producto interno si y solo si satisface la identidad del paralelogramo'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

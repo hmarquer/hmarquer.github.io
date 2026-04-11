@@ -1,5 +1,5 @@
 ---
-title: "Principio de Inclusión-Exclusión"
+title: 'Principio de Inclusión-Exclusión'
 ---
 
 [[principio-inclusion-exclusion.pdf]]

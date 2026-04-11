@@ -1,5 +1,5 @@
 ---
-title: "Diagrama de Poincaré"
+title: 'Diagrama de Poincaré'
 ---
 
 [[diagrama-poincare.pdf]]

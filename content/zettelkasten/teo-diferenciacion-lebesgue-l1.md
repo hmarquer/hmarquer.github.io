@@ -1,5 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$"
+title: 'Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$'
 tags:
   - variable-real/tema2
 ---
@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [convergencia](./convergencia.md)
 - [esp-lp](./esp-lp.md)
+- [lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte](./lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte.md)
 

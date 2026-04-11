@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra de parada"
+title: '$\sigma$-álgebra de parada'
 tags:
   - probabilidad-ii/tema4
 ---
@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
 - [filtracion](./filtracion.md)
+- [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 - [tiempo-parada](./tiempo-parada.md)

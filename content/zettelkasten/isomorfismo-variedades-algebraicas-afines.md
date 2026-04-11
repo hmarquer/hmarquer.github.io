@@ -1,5 +1,5 @@
 ---
-title: "Isomorfismo de variedades algebraicas afines"
+title: 'Isomorfismo de variedades algebraicas afines'
 tags:
   - algebra-conmutativa/tema5
 ---

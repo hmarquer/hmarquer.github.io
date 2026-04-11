@@ -1,5 +1,5 @@
 ---
-title: "Espacio de probabilidad"
+title: 'Espacio de probabilidad'
 tags:
   - probabilidad-i/2.2-probabilidad-i
   - probabilidad-ii/tema1

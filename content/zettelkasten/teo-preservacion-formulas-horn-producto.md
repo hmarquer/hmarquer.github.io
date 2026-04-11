@@ -1,5 +1,5 @@
 ---
-title: "Teo preservacion formulas horn producto"
+title: 'Teo preservacion formulas horn producto'
 tags:
   - logica-matematica/tema1-1
 ---

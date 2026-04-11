@@ -1,5 +1,5 @@
 ---
-title: "Base de Schauder"
+title: 'Base de Schauder'
 tags:
   - analisis-funcional/tema2
 ---

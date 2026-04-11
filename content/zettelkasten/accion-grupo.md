@@ -1,5 +1,5 @@
 ---
-title: "Acción de grupo"
+title: 'Acción de grupo'
 tags:
   - geometria-diferencial/tema6
 ---

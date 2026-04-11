@@ -1,5 +1,5 @@
 ---
-title: "Operador maximal de Hardy-Littlewood"
+title: 'Operador maximal de Hardy-Littlewood'
 tags:
   - variable-real/tema2
 ---

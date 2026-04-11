@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Hardy-Littlewood"
+title: 'Teorema de Hardy-Littlewood'
 tags:
   - variable-real/tema2
 ---

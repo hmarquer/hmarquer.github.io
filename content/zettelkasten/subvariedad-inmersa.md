@@ -1,5 +1,5 @@
 ---
-title: "Subvariedad inmersa"
+title: 'Subvariedad inmersa'
 tags:
   - geometria-diferencial/tema4
 ---

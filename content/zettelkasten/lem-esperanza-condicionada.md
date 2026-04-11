@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de la esperanza condicionada"
+title: 'Propiedades de la esperanza condicionada'
 tags:
   - probabilidad-ii/tema4
 ---

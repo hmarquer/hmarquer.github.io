@@ -1,5 +1,5 @@
 ---
-title: "Substitución en términos"
+title: 'Substitución en términos'
 tags:
   - logica-matematica/tema1
 ---

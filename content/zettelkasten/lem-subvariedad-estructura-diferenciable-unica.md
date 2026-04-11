@@ -1,5 +1,5 @@
 ---
-title: "Lem subvariedad estructura diferenciable unica"
+title: 'Lem subvariedad estructura diferenciable unica'
 tags:
   - geometria-diferencial/tema5
 ---
@@ -12,6 +12,8 @@ tags:
 - [embebimiento](./embebimiento.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [inmersion](./inmersion.md)
+- [lem-estructuras-diferenciables-iguales](./lem-estructuras-diferenciables-iguales.md)
+- [lem-subvariedad-diferenciable](./lem-subvariedad-diferenciable.md)
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 

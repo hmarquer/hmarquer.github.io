@@ -1,5 +1,5 @@
 ---
-title: "Esperanza de una función de una variable aleatoria"
+title: 'Esperanza de una función de una variable aleatoria'
 tags:
   - probabilidad-ii/tema2
 ---

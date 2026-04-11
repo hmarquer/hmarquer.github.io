@@ -1,5 +1,5 @@
 ---
-title: "Consecuencia semántica"
+title: 'Consecuencia semántica'
 tags:
   - logica-matematica/tema1-1
 ---

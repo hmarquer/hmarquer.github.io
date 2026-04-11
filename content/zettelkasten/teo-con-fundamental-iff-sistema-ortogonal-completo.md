@@ -1,5 +1,5 @@
 ---
-title: "Relación entre conjunto fundamental y sistema ortogonal completo"
+title: 'Relación entre conjunto fundamental y sistema ortogonal completo'
 tags:
   - analisis-funcional/tema2
 ---
@@ -11,6 +11,7 @@ tags:
 - [con-fundamental](./con-fundamental.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [esp-prehilbert](./esp-prehilbert.md)
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 - [sistema-ortogonal](./sistema-ortogonal.md)
 - [sistema-ortogonal-completo](./sistema-ortogonal-completo.md)
 

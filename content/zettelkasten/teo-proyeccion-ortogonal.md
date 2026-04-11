@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la proyección ortogonal"
+title: 'Teorema de la proyección ortogonal'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

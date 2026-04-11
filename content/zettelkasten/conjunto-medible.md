@@ -1,5 +1,5 @@
 ---
-title: "Conjunto medible"
+title: 'Conjunto medible'
 tags:
   - probabilidad-ii/hoja0
 ---

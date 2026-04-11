@@ -1,5 +1,5 @@
 ---
-title: "Prop divisor cero no unidad"
+title: 'Prop divisor cero no unidad'
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lem estructuras diferenciables iguales"
+title: 'Lem estructuras diferenciables iguales'
 tags:
   - geometria-diferencial/tema5
 ---

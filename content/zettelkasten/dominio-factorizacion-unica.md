@@ -1,5 +1,5 @@
 ---
-title: "Dominio factorización única"
+title: 'Dominio factorización única'
 ---
 
 [[dominio-factorizacion-unica.pdf]]

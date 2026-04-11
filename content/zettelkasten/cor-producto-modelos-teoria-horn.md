@@ -1,5 +1,5 @@
 ---
-title: "Cor producto modelos teoria horn"
+title: 'Cor producto modelos teoria horn'
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,5 +9,5 @@ tags:
 
 ## Referencias
 - [modelo](./modelo.md)
-- [teoria-horn](./teoria-horn.md)
+- [teoria-semantica-horn](./teoria-semantica-horn.md)
 

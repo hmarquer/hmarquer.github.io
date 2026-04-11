@@ -1,5 +1,5 @@
 ---
-title: "La envolvente convexa es el conjunto de combinaciones convexas"
+title: 'La envolvente convexa es el conjunto de combinaciones convexas'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

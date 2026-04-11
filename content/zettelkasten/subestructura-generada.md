@@ -1,5 +1,5 @@
 ---
-title: "Subestructura generada"
+title: 'Subestructura generada'
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [lem-subestructura-interseccion](./lem-subestructura-interseccion.md)
 - [subestructura](./subestructura.md)
 

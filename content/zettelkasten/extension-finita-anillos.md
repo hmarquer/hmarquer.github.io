@@ -1,5 +1,5 @@
 ---
-title: "Extensión finita de anillos"
+title: 'Extensión finita de anillos'
 tags:
   - algebra-conmutativa/tema6
 ---

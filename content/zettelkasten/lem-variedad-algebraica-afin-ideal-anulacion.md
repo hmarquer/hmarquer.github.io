@@ -1,5 +1,5 @@
 ---
-title: "Lema variedad algebraica afín ideal anulación"
+title: 'Lema variedad algebraica afín ideal anulación'
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -10,5 +10,6 @@ tags:
 ## Referencias
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [ideal-anulacion](./ideal-anulacion.md)
+- [prop-variedad-algebraica-afin-ideal](./prop-variedad-algebraica-afin-ideal.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 

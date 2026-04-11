@@ -1,5 +1,5 @@
 ---
-title: "Prop convergencia uniforme borde imp convergencia uniforme interior"
+title: 'Prop convergencia uniforme borde imp convergencia uniforme interior'
 tags:
   - variable-compleja-ii/tema2
 ---

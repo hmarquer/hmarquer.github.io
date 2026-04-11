@@ -1,5 +1,5 @@
 ---
-title: "En un espacio de Hilbert la bola unidad es estrictamente convexa"
+title: 'En un espacio de Hilbert la bola unidad es estrictamente convexa'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tipo de variable simple en un término: real o ficticia"
+title: 'Tipo de variable simple en un término: real o ficticia'
 tags:
   - logica-matematica/tema1
 ---

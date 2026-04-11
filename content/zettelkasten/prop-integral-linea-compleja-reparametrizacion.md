@@ -1,5 +1,5 @@
 ---
-title: "Prop integral linea compleja reparametrizacion"
+title: 'Prop integral linea compleja reparametrizacion'
 tags:
   - variable-compleja-i/tema4
 ---

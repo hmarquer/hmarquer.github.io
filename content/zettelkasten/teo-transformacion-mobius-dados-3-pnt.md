@@ -1,5 +1,5 @@
 ---
-title: "Transformación de Möbius dados tres puntos"
+title: 'Transformación de Möbius dados tres puntos'
 tags:
   - variable-compleja-i/tema2
 ---
@@ -8,6 +8,7 @@ tags:
 ![[teo-transformacion-mobius-dados-3-pnt.pdf]]
 
 ## Referencias
+- [cor-transformacion-mobius-3-pnt-fijos](./cor-transformacion-mobius-3-pnt-fijos.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 

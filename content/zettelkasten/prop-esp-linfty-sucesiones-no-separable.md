@@ -1,5 +1,5 @@
 ---
-title: "Prop espacio linfty sucesiones no separable"
+title: 'Prop espacio linfty sucesiones no separable'
 tags:
   - analisis-funcional/tema2
 ---

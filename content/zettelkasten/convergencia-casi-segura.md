@@ -1,5 +1,5 @@
 ---
-title: "Convergencia casi segura"
+title: 'Convergencia casi segura'
 tags:
   - probabilidad-ii/tema3
 ---

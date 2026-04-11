@@ -1,5 +1,5 @@
 ---
-title: "Lem diagrama atomico inmersiones"
+title: 'Lem diagrama atomico inmersiones'
 tags:
   - logica-matematica/tema1-1
 ---

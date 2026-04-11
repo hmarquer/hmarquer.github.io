@@ -1,5 +1,5 @@
 ---
-title: "Teorema fundamental del álgebra"
+title: 'Teorema fundamental del álgebra'
 tags:
   - variable-compleja-i/tema4
 ---

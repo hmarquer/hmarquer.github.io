@@ -1,5 +1,5 @@
 ---
-title: "Filtración"
+title: 'Filtración'
 tags:
   - probabilidad-ii/tema4
 ---

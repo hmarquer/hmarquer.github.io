@@ -1,5 +1,5 @@
 ---
-title: "Productos finitos de Blaschke"
+title: 'Productos finitos de Blaschke'
 tags:
   - productos-finitos-de-blaschke
 ---

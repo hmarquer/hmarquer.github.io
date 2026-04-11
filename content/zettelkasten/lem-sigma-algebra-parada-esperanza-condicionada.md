@@ -1,5 +1,5 @@
 ---
-title: "Lem sigma algebra parada esperanza condicionada"
+title: 'Lem sigma algebra parada esperanza condicionada'
 tags:
   - probabilidad-ii/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Var-aleatoria-centrada"
+title: 'Var-aleatoria-centrada'
 ---
 
 [[var-aleatoria-centrada.pdf]]

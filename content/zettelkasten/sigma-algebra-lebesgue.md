@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra de Lebesgue"
+title: '$\sigma$-álgebra de Lebesgue'
 tags:
   - probabilidad-ii/hoja0
 ---

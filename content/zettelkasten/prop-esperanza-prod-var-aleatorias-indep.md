@@ -1,5 +1,5 @@
 ---
-title: "Prop espacioeranza prod var aleatorias indep"
+title: 'Prop espacioeranza prod var aleatorias indep'
 tags:
   - probabilidad-ii/tema2
 ---

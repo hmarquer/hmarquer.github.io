@@ -1,5 +1,5 @@
 ---
-title: "Base de entornos de una topología"
+title: 'Base de entornos de una topología'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

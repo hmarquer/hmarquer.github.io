@@ -1,5 +1,5 @@
 ---
-title: "Atlas diferenciable"
+title: 'Atlas diferenciable'
 tags:
   - geometria-diferencial/tema1
 ---

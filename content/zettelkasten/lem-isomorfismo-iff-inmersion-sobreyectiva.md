@@ -1,5 +1,5 @@
 ---
-title: "Lem isomorfismo iff inmersion sobreyectiva"
+title: 'Lem isomorfismo iff inmersion sobreyectiva'
 tags:
   - logica-matematica/tema1
 ---

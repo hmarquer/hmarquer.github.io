@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad jensen condicional"
+title: 'Desigualdad jensen condicional'
 tags:
   - probabilidad-ii/tema4
 ---

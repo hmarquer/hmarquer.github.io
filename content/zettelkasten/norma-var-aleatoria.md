@@ -1,5 +1,5 @@
 ---
-title: "Norma de una variable aleatoria"
+title: 'Norma de una variable aleatoria'
 tags:
   - probabilidad-ii/tema2
 ---

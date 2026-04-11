@@ -1,5 +1,5 @@
 ---
-title: "Formula"
+title: 'Formula'
 tags:
   - logica-matematica/tema1
 ---

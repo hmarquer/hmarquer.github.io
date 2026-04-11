@@ -1,5 +1,5 @@
 ---
-title: "Transformada de Fourier en $\mathcal{L}^1$"
+title: 'Transformada de Fourier en $\mathcal{L}^1$'
 tags:
   - variable-real/tema5
 ---

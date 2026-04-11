@@ -1,5 +1,5 @@
 ---
-title: "Lema de independencia de variables ficticias"
+title: 'Lema de independencia de variables ficticias'
 tags:
   - logica-matematica/tema1
 ---

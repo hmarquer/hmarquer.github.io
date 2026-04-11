@@ -1,5 +1,5 @@
 ---
-title: "Lem primer grupo fundamental morfismo inducido"
+title: 'Lem primer grupo fundamental morfismo inducido'
 tags:
   - geometria-diferencial/tema6
 ---

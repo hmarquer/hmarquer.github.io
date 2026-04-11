@@ -1,5 +1,5 @@
 ---
-title: "Conjunto cociente"
+title: 'Conjunto cociente'
 ---
 
 [[con-cociente.pdf]]

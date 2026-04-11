@@ -1,5 +1,5 @@
 ---
-title: "Clase schwartz"
+title: 'Clase schwartz'
 tags:
   - variable-real/tema5
 ---

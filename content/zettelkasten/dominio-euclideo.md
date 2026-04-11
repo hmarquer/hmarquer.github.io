@@ -1,5 +1,5 @@
 ---
-title: "Dominio euclídeo"
+title: 'Dominio euclídeo'
 ---
 
 [[dominio-euclideo.pdf]]

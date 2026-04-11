@@ -1,5 +1,5 @@
 ---
-title: "Existencia de cartas adaptadas a una inmersion"
+title: 'Existencia de cartas adaptadas a una inmersion'
 tags:
   - geometria-diferencial/tema4
 ---

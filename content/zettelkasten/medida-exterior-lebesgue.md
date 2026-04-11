@@ -1,5 +1,5 @@
 ---
-title: "Medida exterior de Lebesgue"
+title: 'Medida exterior de Lebesgue'
 tags:
   - probabilidad-ii/hoja0
 ---

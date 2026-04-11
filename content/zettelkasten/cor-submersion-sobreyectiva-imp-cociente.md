@@ -1,5 +1,5 @@
 ---
-title: "Toda submersión sobreyectiva es una aplicación cociente"
+title: 'Toda submersión sobreyectiva es una aplicación cociente'
 tags:
   - geometria-diferencial/tema4
 ---
@@ -11,5 +11,6 @@ tags:
 - [apl-abierta](./apl-abierta.md)
 - [apl-cociente](./apl-cociente.md)
 - [continuidad](./continuidad.md)
+- [cor-submersion-imp-abierta](./cor-submersion-imp-abierta.md)
 - [submersion](./submersion.md)
 

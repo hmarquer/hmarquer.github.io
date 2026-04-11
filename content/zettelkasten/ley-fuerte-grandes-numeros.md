@@ -1,5 +1,5 @@
 ---
-title: "Ley fuerte de los grandes números"
+title: 'Ley fuerte de los grandes números'
 tags:
   - probabilidad-ii/tema5
 ---

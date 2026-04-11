@@ -1,5 +1,5 @@
 ---
-title: "Lem serie fourier derivada"
+title: 'Lem serie fourier derivada'
 tags:
   - variable-real/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Combinación convexa"
+title: 'Combinación convexa'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

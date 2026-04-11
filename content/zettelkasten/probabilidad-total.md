@@ -1,5 +1,5 @@
 ---
-title: "Probabilidad total"
+title: 'Probabilidad total'
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Equivalencia elemental estructuras"
+title: 'Equivalencia elemental estructuras'
 tags:
   - logica-matematica/tema1-1
 ---
@@ -10,6 +10,6 @@ tags:
 ## Referencias
 - [enunciado](./enunciado.md)
 - [estructura](./estructura.md)
-- [prop-teoria-generada-estructura](./prop-teoria-generada-estructura.md)
 - [satisfaccion](./satisfaccion.md)
+- [teoria-semantica-generada-estructura](./teoria-semantica-generada-estructura.md)
 

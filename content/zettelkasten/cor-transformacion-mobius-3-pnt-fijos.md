@@ -1,5 +1,5 @@
 ---
-title: "Transformación de Möbius con tres puntos fijos"
+title: 'Transformación de Möbius con tres puntos fijos'
 tags:
   - variable-compleja-i/tema2
 ---
@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [pnt-fijo](./pnt-fijo.md)
+- [teo-transformacion-mobius-pnt-fijos](./teo-transformacion-mobius-pnt-fijos.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 

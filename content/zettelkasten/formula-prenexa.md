@@ -1,5 +1,5 @@
 ---
-title: "Formula prenexa"
+title: 'Formula prenexa'
 tags:
   - logica-matematica/tema1
 ---

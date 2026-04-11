@@ -1,5 +1,5 @@
 ---
-title: "Topología inducida por función sobreyectiva"
+title: 'Topología inducida por función sobreyectiva'
 tags:
   - geometria-diferencial/tema1
 ---

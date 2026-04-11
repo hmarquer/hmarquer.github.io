@@ -1,5 +1,5 @@
 ---
-title: "órbita de una acción de grupo"
+title: 'órbita de una acción de grupo'
 tags:
   - geometria-diferencial/tema6
 ---

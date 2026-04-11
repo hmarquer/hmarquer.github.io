@@ -1,5 +1,5 @@
 ---
-title: "Toda función homogénea es subaditiva si y solo si es convexa"
+title: 'Toda función homogénea es subaditiva si y solo si es convexa'
 tags:
   - analisis-funcional/tema1
 ---

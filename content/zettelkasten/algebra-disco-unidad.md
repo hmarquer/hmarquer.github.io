@@ -1,5 +1,5 @@
 ---
-title: "Algebra disco unidad"
+title: 'Algebra disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

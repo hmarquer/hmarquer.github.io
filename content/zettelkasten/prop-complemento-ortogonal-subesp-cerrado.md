@@ -1,5 +1,5 @@
 ---
-title: "Prop complemento ortogonal subespacio cerrado"
+title: 'Prop complemento ortogonal subespacio cerrado'
 tags:
   - variable-real/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Relación de equivalencia"
+title: 'Relación de equivalencia'
 ---
 
 [[relacion-equivalencia.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Lema de Urysohn"
+title: 'Lema de Urysohn'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Young para convoluciones"
+title: 'Desigualdad de Young para convoluciones'
 tags:
   - variable-real/parcial
   - variable-real/tema2

@@ -1,5 +1,5 @@
 ---
-title: "Isometría"
+title: 'Isometría'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

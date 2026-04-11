@@ -1,5 +1,5 @@
 ---
-title: "Métrica"
+title: 'Métrica'
 tags:
   - analisis-funcional/tema1
   - productos-finitos-de-blaschke/tema2

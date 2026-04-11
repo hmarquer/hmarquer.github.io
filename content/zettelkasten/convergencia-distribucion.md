@@ -1,5 +1,5 @@
 ---
-title: "Convergencia en distribución"
+title: 'Convergencia en distribución'
 tags:
   - probabilidad-ii/tema3
 ---

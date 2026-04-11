@@ -1,5 +1,5 @@
 ---
-title: "Obs submersion iff pnt val regular"
+title: 'Obs submersion iff pnt val regular'
 tags:
   - geometria-diferencial/tema5
 ---

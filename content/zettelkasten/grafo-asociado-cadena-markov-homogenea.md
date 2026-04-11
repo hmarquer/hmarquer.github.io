@@ -1,5 +1,5 @@
 ---
-title: "Grafo asociado a una cadena de Markov homogénea"
+title: 'Grafo asociado a una cadena de Markov homogénea'
 tags:
   - modelizacion/tema2
 ---

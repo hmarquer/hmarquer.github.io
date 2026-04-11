@@ -1,5 +1,5 @@
 ---
-title: "Directamente conforme implica holomorfa"
+title: 'Directamente conforme implica holomorfa'
 tags:
   - productos-finitos-de-blaschke/apl-conformes
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Obs holomorfa conjugada antiholomorfa"
+title: 'Obs holomorfa conjugada antiholomorfa'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

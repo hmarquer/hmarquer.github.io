@@ -1,5 +1,5 @@
 ---
-title: "Proceso estocástico"
+title: 'Proceso estocástico'
 tags:
   - probabilidad-ii/tema4
 ---

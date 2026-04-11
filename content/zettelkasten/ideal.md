@@ -1,5 +1,5 @@
 ---
-title: "Ideal"
+title: 'Ideal'
 tags:
   - algebra-conmutativa/tema1
 ---

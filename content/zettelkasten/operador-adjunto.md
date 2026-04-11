@@ -1,5 +1,5 @@
 ---
-title: "Operador adjunto"
+title: 'Operador adjunto'
 tags:
   - analisis-funcional/tema3
 ---

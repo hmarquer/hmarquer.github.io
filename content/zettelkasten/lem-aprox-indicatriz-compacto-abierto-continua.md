@@ -1,5 +1,5 @@
 ---
-title: "Lem aprox indicatriz compacto abierto continua"
+title: 'Lem aprox indicatriz compacto abierto continua'
 tags:
   - variable-real/tema1
 ---
@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [compacidad](./compacidad.md)
 - [fn-continua-soporte-compacto](./fn-continua-soporte-compacto.md)
+- [lem-aprox-indicatriz-continua](./lem-aprox-indicatriz-continua.md)
 

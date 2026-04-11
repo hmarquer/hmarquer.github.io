@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la función implícita"
+title: 'Teorema de la función implícita'
 ---
 
 [[teo-fn-implicita.pdf]]

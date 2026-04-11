@@ -1,5 +1,5 @@
 ---
-title: "Singularidad esencial"
+title: 'Singularidad esencial'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema5

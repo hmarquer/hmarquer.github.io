@@ -1,5 +1,5 @@
 ---
-title: "Obs comparacion metricas pseudohiperbolica euclidea"
+title: 'Obs comparacion metricas pseudohiperbolica euclidea'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "El conjunto de ceros de una familia de polinomios es igual al conjunto de ceros del ideal que genera"
+title: 'El conjunto de ceros de una familia de polinomios es igual al conjunto de ceros del ideal que genera'
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -12,4 +12,6 @@ tags:
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [cuerpo](./cuerpo.md)
 - [ideal-generado](./ideal-generado.md)
+- [lem-ideal-generado](./lem-ideal-generado.md)
+- [obs-con-ceros-ideal-generado-contenido-trivial](./obs-con-ceros-ideal-generado-contenido-trivial.md)
 

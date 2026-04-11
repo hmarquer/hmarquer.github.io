@@ -1,5 +1,5 @@
 ---
-title: "Forma bilineal"
+title: 'Forma bilineal'
 ---
 
 [[forma-bilineal.pdf]]

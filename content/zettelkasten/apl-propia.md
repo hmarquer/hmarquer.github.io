@@ -1,5 +1,5 @@
 ---
-title: "Aplicación propia"
+title: 'Aplicación propia'
 tags:
   - geometria-diferencial/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fórmula integral de Cauchy para derivadas de orden arbitrario en un camino simple cerrado"
+title: 'Fórmula integral de Cauchy para derivadas de orden arbitrario en un camino simple cerrado'
 tags:
   - variable-compleja-ii/tema1
 ---

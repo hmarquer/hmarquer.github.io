@@ -1,5 +1,5 @@
 ---
-title: "Lema de substitución en fórmulas"
+title: 'Lema de substitución en fórmulas'
 tags:
   - logica-matematica/tema1
 ---
@@ -12,6 +12,7 @@ tags:
 - [aparicion-variable-simple-formula-libre-ligada](./aparicion-variable-simple-formula-libre-ligada.md)
 - [complejidad](./complejidad.md)
 - [formula](./formula.md)
+- [lem-substitucion-terminos](./lem-substitucion-terminos.md)
 - [substitucion-formulas](./substitucion-formulas.md)
 - [termino](./termino.md)
 - [variable-simple-formula-libre-ligada](./variable-simple-formula-libre-ligada.md)

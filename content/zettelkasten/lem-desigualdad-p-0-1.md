@@ -1,5 +1,5 @@
 ---
-title: "Lem desigualdad p 0 1"
+title: 'Lem desigualdad p 0 1'
 tags:
   - variable-real/tema1
 ---

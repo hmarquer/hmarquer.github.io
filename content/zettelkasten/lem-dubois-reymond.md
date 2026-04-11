@@ -1,5 +1,5 @@
 ---
-title: "Lema de DuBois Reymond"
+title: 'Lema de DuBois Reymond'
 tags:
   - modelizacion/tema3
 ---

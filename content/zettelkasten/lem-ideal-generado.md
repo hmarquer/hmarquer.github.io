@@ -1,5 +1,5 @@
 ---
-title: "Lem ideal generado"
+title: 'Lem ideal generado'
 tags:
   - algebra-conmutativa/tema1
 ---

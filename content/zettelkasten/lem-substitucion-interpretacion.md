@@ -1,5 +1,5 @@
 ---
-title: "Lema de substitución en interpretaciones de términos"
+title: 'Lema de substitución en interpretaciones de términos'
 tags:
   - logica-matematica/tema1
 ---

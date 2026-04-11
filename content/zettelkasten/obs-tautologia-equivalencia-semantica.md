@@ -1,5 +1,5 @@
 ---
-title: "Tautología como equivalencia semántica a $\top$"
+title: 'Tautología como equivalencia semántica a $\top$'
 tags:
   - logica-matematica/tema1
 ---

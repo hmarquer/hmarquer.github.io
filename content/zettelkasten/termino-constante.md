@@ -1,5 +1,5 @@
 ---
-title: "Término constante"
+title: 'Término constante'
 tags:
   - logica-matematica/tema1
 ---

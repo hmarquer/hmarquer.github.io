@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la función inversa"
+title: 'Teorema de la función inversa'
 ---
 
 [[teo-fn-inversa.pdf]]

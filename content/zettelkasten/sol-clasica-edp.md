@@ -1,5 +1,5 @@
 ---
-title: "Solución clásica de una EDP"
+title: 'Solución clásica de una EDP'
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---

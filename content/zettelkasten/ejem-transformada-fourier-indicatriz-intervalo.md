@@ -1,5 +1,5 @@
 ---
-title: "Ejem transformada fourier indicatriz intervalo"
+title: 'Ejem transformada fourier indicatriz intervalo'
 tags:
   - variable-real/tema5
 ---

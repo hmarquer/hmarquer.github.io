@@ -1,5 +1,5 @@
 ---
-title: "Axioma de elección"
+title: 'Axioma de elección'
 ---
 
 [[axm-eleccion.pdf]]

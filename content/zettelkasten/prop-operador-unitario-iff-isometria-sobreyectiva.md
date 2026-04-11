@@ -1,5 +1,5 @@
 ---
-title: "Prop operador unitario iff isometria sobreyectiva"
+title: 'Prop operador unitario iff isometria sobreyectiva'
 tags:
   - fisica-cuantica/tema1-3
 ---

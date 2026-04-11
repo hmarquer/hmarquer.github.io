@@ -1,5 +1,5 @@
 ---
-title: "Teo base schauder imp separable"
+title: 'Teo base schauder imp separable'
 tags:
   - analisis-funcional/tema2
 ---

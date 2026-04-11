@@ -1,5 +1,5 @@
 ---
-title: "En dimensión infinita, el interior débil de la bola cerrada es vacío"
+title: 'En dimensión infinita, el interior débil de la bola cerrada es vacío'
 tags:
   - analisis-funcional/tema5
 ---
@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [esp-banach](./esp-banach.md)
+- [prop-dim-infinita-imp-clausura-debil-esfera-bola](./prop-dim-infinita-imp-clausura-debil-esfera-bola.md)
 - [topologia-debil](./topologia-debil.md)
 

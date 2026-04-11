@@ -1,5 +1,5 @@
 ---
-title: "Ideal radical"
+title: 'Ideal radical'
 tags:
   - algebra-conmutativa/tema1
 ---

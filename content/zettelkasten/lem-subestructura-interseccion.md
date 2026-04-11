@@ -1,5 +1,5 @@
 ---
-title: "Lem subestructura interseccion"
+title: 'Lem subestructura interseccion'
 tags:
   - logica-matematica/tema1-1
 ---
@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [lem-universos-subestructuras](./lem-universos-subestructuras.md)
 - [subestructura](./subestructura.md)
 

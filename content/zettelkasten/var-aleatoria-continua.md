@@ -1,5 +1,5 @@
 ---
-title: "Variable aleatoria continua"
+title: 'Variable aleatoria continua'
 tags:
   - probabilidad-ii/tema1
 ---

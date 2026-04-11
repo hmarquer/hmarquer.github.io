@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Chebyshev con la varianza"
+title: 'Desigualdad de Chebyshev con la varianza'
 tags:
   - probabilidad-ii/tema2
 ---

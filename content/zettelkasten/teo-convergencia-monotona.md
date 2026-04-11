@@ -1,5 +1,5 @@
 ---
-title: "Teorema de convergencia monótona"
+title: 'Teorema de convergencia monótona'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

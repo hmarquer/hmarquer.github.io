@@ -1,5 +1,5 @@
 ---
-title: "Lem convergencia uniforme imp ctp"
+title: 'Lem convergencia uniforme imp ctp'
 tags:
   - variable-real/tema2
 ---

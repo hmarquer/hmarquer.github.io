@@ -1,5 +1,5 @@
 ---
-title: "Ideal primo"
+title: 'Ideal primo'
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Segundo-numerable"
+title: 'Segundo-numerable'
 tags:
   - geometria-diferencial/tema1
   - teoria-descriptiva-de-conjuntos/tema1

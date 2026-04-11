@@ -1,5 +1,5 @@
 ---
-title: "Convergencia absoluta serie"
+title: 'Convergencia absoluta serie'
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

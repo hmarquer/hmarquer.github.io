@@ -1,5 +1,5 @@
 ---
-title: "Anillo de coordenadas de variedad algebraica afín"
+title: 'Anillo de coordenadas de variedad algebraica afín'
 tags:
   - algebra-conmutativa/tema5
 ---

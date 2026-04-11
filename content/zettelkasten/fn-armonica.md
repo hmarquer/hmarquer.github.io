@@ -1,5 +1,5 @@
 ---
-title: "Función armónica"
+title: 'Función armónica'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5

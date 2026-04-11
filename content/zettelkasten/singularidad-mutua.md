@@ -1,5 +1,5 @@
 ---
-title: "Singularidad mutua"
+title: 'Singularidad mutua'
 tags:
   - probabilidad-ii/hoja0
 ---

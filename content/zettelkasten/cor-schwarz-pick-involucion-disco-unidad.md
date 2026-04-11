@@ -1,5 +1,5 @@
 ---
-title: "Cor schwarz pick involucion disco unidad"
+title: 'Cor schwarz pick involucion disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Grafo"
+title: 'Grafo'
 ---
 
 [[grafo.pdf]]

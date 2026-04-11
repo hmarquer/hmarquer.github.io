@@ -1,5 +1,5 @@
 ---
-title: "Lem transformada fourier gaussiana"
+title: 'Lem transformada fourier gaussiana'
 tags:
   - variable-real/tema5
 ---

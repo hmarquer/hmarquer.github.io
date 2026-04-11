@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la convergencia dominada"
+title: 'Teorema de la convergencia dominada'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Regla de la cadena para derivadas de Wirtinger"
+title: 'Regla de la cadena para derivadas de Wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---
@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
+- [lem-derivadas-parciales-wirtinger](./lem-derivadas-parciales-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 
 ## Etiquetas

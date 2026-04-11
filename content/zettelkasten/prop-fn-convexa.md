@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de las funciones convexas"
+title: 'Propiedades de las funciones convexas'
 tags:
   - probabilidad-ii/tema2
   - variable-real/tema1

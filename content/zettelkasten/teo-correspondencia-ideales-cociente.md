@@ -1,5 +1,5 @@
 ---
-title: "Teo correspacioondencia ideales cociente"
+title: 'Teo correspacioondencia ideales cociente'
 tags:
   - algebra-conmutativa/tema1
 ---

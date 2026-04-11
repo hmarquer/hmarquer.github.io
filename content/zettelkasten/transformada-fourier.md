@@ -1,5 +1,5 @@
 ---
-title: "Transformada de Fourier"
+title: 'Transformada de Fourier'
 tags:
   - variable-real/tema3
 ---

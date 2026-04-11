@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Heine-Borel"
+title: 'Teorema de Heine-Borel'
 ---
 
 [[teo-heine-borel.pdf]]

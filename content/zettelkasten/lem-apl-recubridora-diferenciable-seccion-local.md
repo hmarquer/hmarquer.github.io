@@ -1,5 +1,5 @@
 ---
-title: "Lem apl recubridora diferenciable seccion local"
+title: 'Lem apl recubridora diferenciable seccion local'
 tags:
   - geometria-diferencial/tema6
 ---

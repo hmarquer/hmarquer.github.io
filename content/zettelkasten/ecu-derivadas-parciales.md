@@ -1,5 +1,5 @@
 ---
-title: "Ecuación en derivadas parciales"
+title: 'Ecuación en derivadas parciales'
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---

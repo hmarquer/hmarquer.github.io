@@ -1,5 +1,5 @@
 ---
-title: "Linealidad de la integral"
+title: 'Linealidad de la integral'
 ---
 
 [[linealidad-integral.pdf]]

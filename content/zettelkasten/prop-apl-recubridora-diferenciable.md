@@ -1,5 +1,5 @@
 ---
-title: "Prop apl recubridora diferenciable"
+title: 'Prop apl recubridora diferenciable'
 tags:
   - geometria-diferencial/tema6
 ---

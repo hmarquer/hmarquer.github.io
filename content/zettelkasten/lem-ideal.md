@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de ideal"
+title: 'Caracterización de ideal'
 tags:
   - algebra-conmutativa/tema1
 ---

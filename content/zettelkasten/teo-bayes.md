@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Bayes"
+title: 'Teorema de Bayes'
 tags:
   - probabilidad-ii/tema1
 ---

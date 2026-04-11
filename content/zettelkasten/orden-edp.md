@@ -1,5 +1,5 @@
 ---
-title: "Orden de una EDP"
+title: 'Orden de una EDP'
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Espacio c0"
+title: 'Espacio c0'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema1

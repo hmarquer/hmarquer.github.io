@@ -1,5 +1,5 @@
 ---
-title: "Proceso estocástico adaptado"
+title: 'Proceso estocástico adaptado'
 tags:
   - probabilidad-ii/tema4
 ---

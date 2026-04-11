@@ -1,5 +1,5 @@
 ---
-title: "$R$-álgebra"
+title: '$R$-álgebra'
 tags:
   - algebra-conmutativa/tema2
 ---

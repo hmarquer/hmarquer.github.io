@@ -1,5 +1,5 @@
 ---
-title: "Espacio topologico contractil"
+title: 'Espacio topologico contractil'
 tags:
   - geometria-diferencial/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teo metrica lp 0 1"
+title: 'Teo metrica lp 0 1'
 tags:
   - variable-real/tema1
 ---
@@ -9,5 +9,6 @@ tags:
 
 ## Referencias
 - [esp-medida](./esp-medida.md)
+- [lem-desigualdad-p-0-1](./lem-desigualdad-p-0-1.md)
 - [metrica](./metrica.md)
 

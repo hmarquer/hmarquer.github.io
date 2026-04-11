@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad maximal doob"
+title: 'Desigualdad maximal doob'
 tags:
   - probabilidad-ii/tema4
 ---

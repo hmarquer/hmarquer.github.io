@@ -1,5 +1,5 @@
 ---
-title: "Conjunto negativo para una medida"
+title: 'Conjunto negativo para una medida'
 ---
 
 [[con-negativo.pdf]]

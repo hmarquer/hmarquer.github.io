@@ -1,5 +1,5 @@
 ---
-title: "Un atlas con una sola carta es diferenciable"
+title: 'Un atlas con una sola carta es diferenciable'
 ---
 
 [[prop-atlas-unicarta-imp-diferenciable.pdf]]

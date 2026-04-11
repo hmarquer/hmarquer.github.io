@@ -1,5 +1,5 @@
 ---
-title: "$d$-rebanada de una variedad diferenciable"
+title: '$d$-rebanada de una variedad diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

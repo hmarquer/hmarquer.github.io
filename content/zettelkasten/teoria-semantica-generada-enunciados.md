@@ -1,11 +1,11 @@
 ---
-title: "Teoría generada por un conjunto de enunciados"
+title: 'Teoría generada por un conjunto de enunciados'
 tags:
   - logica-matematica/tema1-1
 ---
 
-[[prop-teoria-generada-enunciados.pdf]]
-![[prop-teoria-generada-enunciados.pdf]]
+[[teoria-semantica-generada-enunciados.pdf]]
+![[teoria-semantica-generada-enunciados.pdf]]
 
 ## Referencias
 - [consecuencia-semantica](./consecuencia-semantica.md)
@@ -13,5 +13,5 @@ tags:
 - [modelo](./modelo.md)
 - [satisfaccion](./satisfaccion.md)
 - [satisfacibilidad](./satisfacibilidad.md)
-- [teoria](./teoria.md)
+- [teoria-semantica](./teoria-semantica.md)
 

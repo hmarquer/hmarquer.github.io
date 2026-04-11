@@ -1,5 +1,5 @@
 ---
-title: "Todo espacio $\mathcal{L}^p$ es de Banach"
+title: 'Todo espacio $\mathcal{L}^p$ es de Banach'
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4
@@ -15,6 +15,7 @@ tags:
 - [esp-banach](./esp-banach.md)
 - [esp-lp](./esp-lp.md)
 - [esp-medida](./esp-medida.md)
+- [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-fatou](./lem-fatou.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)

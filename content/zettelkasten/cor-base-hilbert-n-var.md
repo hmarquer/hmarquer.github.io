@@ -1,5 +1,5 @@
 ---
-title: "Corolario del Teorema de la base de Hilbert para $n$ variables"
+title: 'Corolario del Teorema de la base de Hilbert para $n$ variables'
 tags:
   - algebra-conmutativa/tema2
 ---

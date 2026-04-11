@@ -1,5 +1,5 @@
 ---
-title: "Límite inferior conjuntos"
+title: 'Límite inferior conjuntos'
 tags:
   - probabilidad-ii/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función diferenciable en una variedad"
+title: 'Función diferenciable en una variedad'
 tags:
   - geometria-diferencial/tema2
 ---

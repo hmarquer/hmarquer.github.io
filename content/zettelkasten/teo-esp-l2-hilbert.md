@@ -1,5 +1,5 @@
 ---
-title: "Todo espacio $L^2$ es un espacio de Hilbert"
+title: 'Todo espacio $L^2$ es un espacio de Hilbert'
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4
@@ -18,4 +18,5 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 

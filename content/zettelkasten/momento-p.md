@@ -1,5 +1,5 @@
 ---
-title: "Momento de orden $p$"
+title: 'Momento de orden $p$'
 tags:
   - probabilidad-ii/tema2
 ---

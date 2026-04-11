@@ -1,5 +1,5 @@
 ---
-title: "Subanillo"
+title: 'Subanillo'
 tags:
   - algebra-conmutativa/tema1
 ---

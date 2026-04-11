@@ -1,5 +1,5 @@
 ---
-title: "Obs sumas parciales serie fourier convolucion nucleo dirichlet"
+title: 'Obs sumas parciales serie fourier convolucion nucleo dirichlet'
 tags:
   - variable-real/tema4
 ---

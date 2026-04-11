@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Cauchy-Goursat para discos"
+title: 'Teorema de Cauchy-Goursat para discos'
 tags:
   - variable-compleja-i/tema4
 ---

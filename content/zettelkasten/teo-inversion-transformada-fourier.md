@@ -1,5 +1,5 @@
 ---
-title: "Teorema de inversión de la transformada de Fourier"
+title: 'Teorema de inversión de la transformada de Fourier'
 tags:
   - variable-real/tema5
 ---
@@ -10,7 +10,9 @@ tags:
 ## Referencias
 - [continuidad](./continuidad.md)
 - [esp-lp](./esp-lp.md)
+- [lem-transformada-fourier-convolucion](./lem-transformada-fourier-convolucion.md)
 - [lem-transformada-fourier-gaussiana](./lem-transformada-fourier-gaussiana.md)
+- [prop-transformada-fourier-traslacion-modulacion-dilatacion](./prop-transformada-fourier-traslacion-modulacion-dilatacion.md)
 - [teo-aproximacion-identidad-convolucion](./teo-aproximacion-identidad-convolucion.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-fubini](./teo-fubini.md)

@@ -1,5 +1,5 @@
 ---
-title: "Matriz ortogonal"
+title: 'Matriz ortogonal'
 ---
 
 [[matriz-ortogonal.pdf]]

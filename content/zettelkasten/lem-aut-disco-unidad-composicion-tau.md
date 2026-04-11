@@ -1,5 +1,5 @@
 ---
-title: "Lem aut disco unidad composicion tau"
+title: 'Lem aut disco unidad composicion tau'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---
@@ -10,4 +10,5 @@ tags:
 ## Referencias
 - [ejem-rotacion-disco-unidad](./ejem-rotacion-disco-unidad.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
+- [teo-aut-disco-unidad-parametros](./teo-aut-disco-unidad-parametros.md)
 

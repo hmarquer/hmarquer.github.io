@@ -1,5 +1,5 @@
 ---
-title: "Parámetros de un automorfismo del disco unidad"
+title: 'Parámetros de un automorfismo del disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Radical de un ideal"
+title: 'Radical de un ideal'
 tags:
   - algebra-conmutativa/tema1
 ---

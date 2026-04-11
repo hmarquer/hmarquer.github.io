@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de variedades algebraicas afines"
+title: 'Morfismo de variedades algebraicas afines'
 tags:
   - algebra-conmutativa/tema5
 ---

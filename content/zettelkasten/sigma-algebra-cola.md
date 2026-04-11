@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra de cola"
+title: '$\sigma$-álgebra de cola'
 tags:
   - probabilidad-ii/tema2
 ---

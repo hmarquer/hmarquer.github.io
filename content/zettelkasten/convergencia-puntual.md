@@ -1,5 +1,5 @@
 ---
-title: "Convergencia puntual de funciones"
+title: 'Convergencia puntual de funciones'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-compleja-i/tema3

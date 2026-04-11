@@ -1,5 +1,5 @@
 ---
-title: "Espacio medible"
+title: 'Espacio medible'
 tags:
   - probabilidad-ii/hoja0
 ---

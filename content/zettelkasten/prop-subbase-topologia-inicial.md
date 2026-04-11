@@ -1,5 +1,5 @@
 ---
-title: "Subbase de la topología inicial"
+title: 'Subbase de la topología inicial'
 tags:
   - analisis-funcional/tema5
 ---

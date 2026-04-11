@@ -1,5 +1,5 @@
 ---
-title: "Formula de Euler"
+title: 'Formula de Euler'
 ---
 
 [[formula-euler.pdf]]

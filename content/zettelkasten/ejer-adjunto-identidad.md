@@ -1,5 +1,5 @@
 ---
-title: "El adjunto de la identidad es la identidad"
+title: 'El adjunto de la identidad es la identidad'
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la base de Hilbert"
+title: 'Teorema de la base de Hilbert'
 tags:
   - algebra-conmutativa/tema2
 ---
@@ -13,4 +13,6 @@ tags:
 - [grado-polinomio](./grado-polinomio.md)
 - [ideal](./ideal.md)
 - [ideal-finitamente-generado](./ideal-finitamente-generado.md)
+- [lem-ideal-generado](./lem-ideal-generado.md)
+- [prop-carac-anillo-noetheriano](./prop-carac-anillo-noetheriano.md)
 

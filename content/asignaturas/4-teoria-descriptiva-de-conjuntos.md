@@ -1,5 +1,5 @@
 ---
-title: "Teoría descriptiva de conjuntos"
+title: 'Teoría descriptiva de conjuntos'
 tags:
   - teoria-descriptiva-de-conjuntos
 ---

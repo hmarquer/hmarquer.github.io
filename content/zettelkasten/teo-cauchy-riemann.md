@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Cauchy-Riemann"
+title: 'Teorema de Cauchy-Riemann'
 tags:
   - variable-compleja-i/tema2
   - variable-compleja-ii/tema1

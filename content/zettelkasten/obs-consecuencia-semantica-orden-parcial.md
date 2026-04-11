@@ -1,5 +1,5 @@
 ---
-title: "La consecuencia semántica es una relación de orden parcial"
+title: 'La consecuencia semántica es una relación de orden parcial'
 tags:
   - logica-matematica/tema1-1
 ---

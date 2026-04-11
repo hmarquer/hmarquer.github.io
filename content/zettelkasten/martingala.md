@@ -1,5 +1,5 @@
 ---
-title: "Martingala"
+title: 'Martingala'
 tags:
   - probabilidad-ii/tema4
 ---

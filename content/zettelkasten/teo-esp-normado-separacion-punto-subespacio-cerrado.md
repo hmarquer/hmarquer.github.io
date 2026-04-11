@@ -1,5 +1,5 @@
 ---
-title: "Teorema de separación de un punto y un subespacio cerrado en un espacio normado"
+title: 'Teorema de separación de un punto y un subespacio cerrado en un espacio normado'
 tags:
   - analisis-funcional/tema3
 ---
@@ -11,5 +11,6 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-hahn-banach-ii](./teo-hahn-banach-ii.md)
 

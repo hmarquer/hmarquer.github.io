@@ -1,5 +1,5 @@
 ---
-title: "Prop di imp anillo polinomios di"
+title: 'Prop di imp anillo polinomios di'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

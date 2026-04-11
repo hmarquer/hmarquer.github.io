@@ -1,5 +1,5 @@
 ---
-title: "Supremo esencial"
+title: 'Supremo esencial'
 ---
 
 [[supremo-esencial.pdf]]

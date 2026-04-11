@@ -1,5 +1,5 @@
 ---
-title: "Carta"
+title: 'Carta'
 tags:
   - geometria-diferencial/tema1
 ---

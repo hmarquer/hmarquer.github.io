@@ -1,5 +1,5 @@
 ---
-title: "Proposición"
+title: 'Proposición'
 tags:
   - logica-matematica/tema1
 ---

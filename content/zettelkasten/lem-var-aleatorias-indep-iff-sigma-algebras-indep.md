@@ -1,5 +1,5 @@
 ---
-title: "Lem var aleatorias indep iff sigma algebras indep"
+title: 'Lem var aleatorias indep iff sigma algebras indep'
 tags:
   - probabilidad-ii/tema1
 ---

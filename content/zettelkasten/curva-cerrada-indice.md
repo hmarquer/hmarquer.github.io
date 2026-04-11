@@ -1,5 +1,5 @@
 ---
-title: "Índice de una curva cerrada"
+title: 'Índice de una curva cerrada'
 tags:
   - variable-compleja-i/tema4
 ---

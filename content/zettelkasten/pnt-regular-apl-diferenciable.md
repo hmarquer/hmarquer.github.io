@@ -1,5 +1,5 @@
 ---
-title: "Pnt regular apl diferenciable"
+title: 'Pnt regular apl diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

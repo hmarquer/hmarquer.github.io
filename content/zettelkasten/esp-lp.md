@@ -1,5 +1,5 @@
 ---
-title: "Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}"
+title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

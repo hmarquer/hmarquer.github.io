@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Radon-Nikodym"
+title: 'Teorema de Radon-Nikodym'
 tags:
   - probabilidad-ii/hoja0
 ---

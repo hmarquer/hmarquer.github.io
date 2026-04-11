@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la continuidad de un operador lineal entre espacios de Banach"
+title: 'Caracterización de la continuidad de un operador lineal entre espacios de Banach'
 tags:
   - analisis-funcional/tema4
 ---

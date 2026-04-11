@@ -1,5 +1,5 @@
 ---
-title: "El dual de $c_0$ es $\ell^1$"
+title: 'El dual de $c_0$ es $\ell^1$'
 tags:
   - analisis-funcional/tema3
 ---

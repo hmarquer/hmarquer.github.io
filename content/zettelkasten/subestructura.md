@@ -1,5 +1,5 @@
 ---
-title: "Subestructura"
+title: 'Subestructura'
 tags:
   - logica-matematica/tema1-1
 ---

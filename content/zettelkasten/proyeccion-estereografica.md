@@ -1,5 +1,5 @@
 ---
-title: "Proyección estereográfica"
+title: 'Proyección estereográfica'
 ---
 
 [[proyeccion-estereografica.pdf]]

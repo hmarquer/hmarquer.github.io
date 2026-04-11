@@ -1,5 +1,5 @@
 ---
-title: "Variables"
+title: 'Variables'
 tags:
   - logica-matematica/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "El funcional de evaluación como elemento del bidual"
+title: 'El funcional de evaluación como elemento del bidual'
 tags:
   - analisis-funcional/tema3
 ---
@@ -11,4 +11,5 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [esp-bidual](./esp-bidual.md)
 - [norma](./norma.md)
+- [teo-esp-normado-separacion-punto-cero](./teo-esp-normado-separacion-punto-cero.md)
 

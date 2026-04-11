@@ -1,5 +1,5 @@
 ---
-title: "Subfórmula"
+title: 'Subfórmula'
 tags:
   - logica-matematica/tema1
 ---

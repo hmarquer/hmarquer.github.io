@@ -1,5 +1,5 @@
 ---
-title: "Lem carac polo"
+title: 'Lem carac polo'
 tags:
   - variable-compleja-ii/tema1
 ---

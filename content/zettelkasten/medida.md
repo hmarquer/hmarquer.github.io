@@ -1,5 +1,5 @@
 ---
-title: "Medida"
+title: 'Medida'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

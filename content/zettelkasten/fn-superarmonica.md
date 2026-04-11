@@ -1,5 +1,5 @@
 ---
-title: "Función superarmónica"
+title: 'Función superarmónica'
 tags:
   - ecuaciones-en-derivadas-parciales/tema5
 ---

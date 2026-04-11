@@ -1,5 +1,5 @@
 ---
-title: "Lem composicion morfismos"
+title: 'Lem composicion morfismos'
 tags:
   - logica-matematica/tema1
 ---

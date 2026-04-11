@@ -1,5 +1,5 @@
 ---
-title: "Fórmula de la varianza"
+title: 'Fórmula de la varianza'
 tags:
   - probabilidad-ii/tema2
 ---

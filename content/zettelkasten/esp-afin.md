@@ -1,5 +1,5 @@
 ---
-title: "Espacio afín"
+title: 'Espacio afín'
 tags:
   - algebra-conmutativa/tema3
 ---

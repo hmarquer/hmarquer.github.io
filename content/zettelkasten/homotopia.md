@@ -1,5 +1,5 @@
 ---
-title: "Homotopía"
+title: 'Homotopía'
 tags:
   - geometria-diferencial/tema6
 ---

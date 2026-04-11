@@ -1,5 +1,5 @@
 ---
-title: "Equivalencia homotópica"
+title: 'Equivalencia homotópica'
 tags:
   - geometria-diferencial/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prop primer grupo fundamental conexion arcos"
+title: 'Prop primer grupo fundamental conexion arcos'
 tags:
   - geometria-diferencial/tema6
 ---

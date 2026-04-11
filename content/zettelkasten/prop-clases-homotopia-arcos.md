@@ -1,5 +1,5 @@
 ---
-title: "Prop clases homotopia arcos"
+title: 'Prop clases homotopia arcos'
 tags:
   - geometria-diferencial/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Las transformaciones de Möbius forman un grupo"
+title: 'Las transformaciones de Möbius forman un grupo'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema2

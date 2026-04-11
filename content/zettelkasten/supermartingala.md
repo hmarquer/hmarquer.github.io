@@ -1,5 +1,5 @@
 ---
-title: "Supermartingala"
+title: 'Supermartingala'
 tags:
   - probabilidad-ii/tema4
 ---

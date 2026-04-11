@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de continuidad para la topología inicial"
+title: 'Caracterización de continuidad para la topología inicial'
 tags:
   - analisis-funcional/tema5
 ---

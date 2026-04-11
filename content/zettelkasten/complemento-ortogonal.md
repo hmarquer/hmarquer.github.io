@@ -1,5 +1,5 @@
 ---
-title: "Complemento ortogonal"
+title: 'Complemento ortogonal'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

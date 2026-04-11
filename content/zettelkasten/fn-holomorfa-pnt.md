@@ -1,5 +1,5 @@
 ---
-title: "Función holomorfa en un punto"
+title: 'Función holomorfa en un punto'
 tags:
   - variable-compleja-i/tema2
 ---

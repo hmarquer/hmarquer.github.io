@@ -1,11 +1,12 @@
 ---
-title: "Expresión de la $\sigma$-álgebra generada"
+title: 'Expresión de la $\sigma$-álgebra generada'
 ---
 
 [[prop-sigma-algebra-generada.pdf]]
 ![[prop-sigma-algebra-generada.pdf]]
 
 ## Referencias
+- [prop-interseccion-sigma-algebra](./prop-interseccion-sigma-algebra.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 

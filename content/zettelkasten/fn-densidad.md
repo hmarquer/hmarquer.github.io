@@ -1,5 +1,5 @@
 ---
-title: "Función de densidad"
+title: 'Función de densidad'
 tags:
   - probabilidad-ii/tema1
 ---

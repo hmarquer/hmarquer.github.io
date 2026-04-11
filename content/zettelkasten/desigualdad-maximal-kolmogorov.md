@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad maximal de Kolmogorov"
+title: 'Desigualdad maximal de Kolmogorov'
 tags:
   - probabilidad-ii/tema2
 ---

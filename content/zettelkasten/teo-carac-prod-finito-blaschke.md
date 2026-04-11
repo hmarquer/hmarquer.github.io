@@ -1,5 +1,5 @@
 ---
-title: "Teo carac prod finito blaschke"
+title: 'Teo carac prod finito blaschke'
 tags:
   - productos-finitos-de-blaschke/tema3
   - variable-compleja-ii/tema2
@@ -16,4 +16,5 @@ tags:
 - [producto-finito-blaschke](./producto-finito-blaschke.md)
 - [singularidad-evitable](./singularidad-evitable.md)
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
+- [teo-singularidad-evitable-riemann](./teo-singularidad-evitable-riemann.md)
 

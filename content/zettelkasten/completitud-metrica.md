@@ -1,5 +1,5 @@
 ---
-title: "Completitud métrica"
+title: 'Completitud métrica'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

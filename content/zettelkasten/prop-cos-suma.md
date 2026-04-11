@@ -1,5 +1,5 @@
 ---
-title: "Fórmula del coseno de la suma"
+title: 'Fórmula del coseno de la suma'
 ---
 
 [[prop-cos-suma.pdf]]

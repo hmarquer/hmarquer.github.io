@@ -1,5 +1,5 @@
 ---
-title: "Toda función escalar aditiva y continua en algún punto es homogénea"
+title: 'Toda función escalar aditiva y continua en algún punto es homogénea'
 tags:
   - analisis-funcional/tema1
 ---
@@ -12,4 +12,5 @@ tags:
 - [continuidad](./continuidad.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [homogeneidad](./homogeneidad.md)
+- [lem-aditividad-imp-homogeneidad-racionales](./lem-aditividad-imp-homogeneidad-racionales.md)
 

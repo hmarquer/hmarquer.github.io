@@ -1,5 +1,5 @@
 ---
-title: "Laplaciano"
+title: 'Laplaciano'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5

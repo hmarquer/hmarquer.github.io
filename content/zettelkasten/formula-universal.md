@@ -1,5 +1,5 @@
 ---
-title: "Fórmula universal"
+title: 'Fórmula universal'
 tags:
   - logica-matematica/tema1
 ---

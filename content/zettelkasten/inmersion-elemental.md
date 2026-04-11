@@ -1,5 +1,5 @@
 ---
-title: "Inmersión elemental"
+title: 'Inmersión elemental'
 tags:
   - logica-matematica/tema1-1
 ---

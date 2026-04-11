@@ -1,5 +1,5 @@
 ---
-title: "Propiedad universal de las inmersiones"
+title: 'Propiedad universal de las inmersiones'
 tags:
   - geometria-diferencial/tema4
 ---

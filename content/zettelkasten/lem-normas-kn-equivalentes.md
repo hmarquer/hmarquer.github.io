@@ -1,5 +1,5 @@
 ---
-title: "Lem normas kn equivalentes"
+title: 'Lem normas kn equivalentes'
 tags:
   - analisis-funcional/tema2
 ---

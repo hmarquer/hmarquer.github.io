@@ -1,5 +1,5 @@
 ---
-title: "Gradiente"
+title: 'Gradiente'
 ---
 
 [[gradiente.pdf]]

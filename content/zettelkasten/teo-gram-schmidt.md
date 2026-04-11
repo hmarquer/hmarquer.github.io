@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Gram-Schmidt"
+title: 'Teorema de Gram-Schmidt'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

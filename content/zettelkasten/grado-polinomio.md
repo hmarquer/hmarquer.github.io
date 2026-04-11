@@ -1,5 +1,5 @@
 ---
-title: "Grado polinomio"
+title: 'Grado polinomio'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

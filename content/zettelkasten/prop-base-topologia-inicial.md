@@ -1,5 +1,5 @@
 ---
-title: "Base de la topología inicial"
+title: 'Base de la topología inicial'
 tags:
   - analisis-funcional/tema5
 ---

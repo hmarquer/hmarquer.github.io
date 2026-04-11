@@ -1,5 +1,5 @@
 ---
-title: "Prop variedad algebraica afin ideal"
+title: 'Prop variedad algebraica afin ideal'
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -13,6 +13,7 @@ tags:
 - [cuerpo](./cuerpo.md)
 - [esp-afin](./esp-afin.md)
 - [ideal](./ideal.md)
+- [lem-con-ceros-ideal-generado](./lem-con-ceros-ideal-generado.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 
 ## Etiquetas

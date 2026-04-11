@@ -1,5 +1,5 @@
 ---
-title: "Probabilidad condicionada"
+title: 'Probabilidad condicionada'
 tags:
   - probabilidad-ii/tema1
 ---

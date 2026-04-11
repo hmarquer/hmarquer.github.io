@@ -1,5 +1,5 @@
 ---
-title: "Toda aplicación abierta entre espacios normados es sobreyectiva"
+title: 'Toda aplicación abierta entre espacios normados es sobreyectiva'
 tags:
   - analisis-funcional/tema4
 ---

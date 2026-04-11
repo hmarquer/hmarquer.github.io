@@ -1,5 +1,5 @@
 ---
-title: "Topología de Fréchet"
+title: 'Topología de Fréchet'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

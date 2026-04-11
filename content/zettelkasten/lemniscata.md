@@ -1,5 +1,5 @@
 ---
-title: "Lemniscata"
+title: 'Lemniscata'
 ---
 
 [[lemniscata.pdf]]

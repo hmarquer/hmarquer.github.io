@@ -1,5 +1,5 @@
 ---
-title: "Espacio proyectivo"
+title: 'Espacio proyectivo'
 tags:
   - geometria-diferencial/tema1
 ---

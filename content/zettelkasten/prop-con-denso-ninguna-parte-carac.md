@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de conjunto denso en ninguna parte"
+title: 'Caracterización de conjunto denso en ninguna parte'
 tags:
   - analisis-funcional/tema4
 ---

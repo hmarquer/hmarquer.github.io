@@ -1,5 +1,5 @@
 ---
-title: "Divisor de cero"
+title: 'Divisor de cero'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Ejer limsup liminf con"
+title: 'Ejer limsup liminf con'
 tags:
   - probabilidad-ii/tema2
 ---

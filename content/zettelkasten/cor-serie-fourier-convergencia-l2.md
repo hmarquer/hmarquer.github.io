@@ -1,5 +1,5 @@
 ---
-title: "Cor serie fourier convergencia l2"
+title: 'Cor serie fourier convergencia l2'
 tags:
   - variable-real/tema4
 ---

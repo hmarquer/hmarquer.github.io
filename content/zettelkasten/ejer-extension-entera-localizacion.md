@@ -1,5 +1,5 @@
 ---
-title: "Ejer extension entera localizacion"
+title: 'Ejer extension entera localizacion'
 tags:
   - algebra-conmutativa/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Isometría de un sistema ortonormal finito a $\mathbb{K}^n$"
+title: 'Isometría de un sistema ortonormal finito a $\mathbb{K}^n$'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lema de Schwarz"
+title: 'Lema de Schwarz'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema4

@@ -1,5 +1,5 @@
 ---
-title: "Reducto expansion"
+title: 'Reducto expansion'
 tags:
   - logica-matematica/tema1
 ---

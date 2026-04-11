@@ -1,5 +1,5 @@
 ---
-title: "Teorema de derivación bajo el signo integral"
+title: 'Teorema de derivación bajo el signo integral'
 tags:
   - variable-real/tema2
 ---

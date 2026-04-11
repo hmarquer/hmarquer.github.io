@@ -1,5 +1,5 @@
 ---
-title: "Producto escalar"
+title: 'Producto escalar'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

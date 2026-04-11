@@ -1,5 +1,5 @@
 ---
-title: "Teorema de separación estricta de convexos con uno cerrado y otro compacto"
+title: 'Teorema de separación estricta de convexos con uno cerrado y otro compacto'
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fn suave soporte compacto"
+title: 'Fn suave soporte compacto'
 tags:
   - variable-real/tema1
 ---

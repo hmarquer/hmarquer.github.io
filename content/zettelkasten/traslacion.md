@@ -1,5 +1,5 @@
 ---
-title: "Traslación"
+title: 'Traslación'
 tags:
   - variable-real/tema2
 ---

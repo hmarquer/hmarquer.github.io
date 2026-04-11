@@ -1,5 +1,5 @@
 ---
-title: "Toda bola abierta es convexa en espacios normados"
+title: 'Toda bola abierta es convexa en espacios normados'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Función meromorfa"
+title: 'Función meromorfa'
 ---
 
 [[fn-meromorfa.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Longitud de una cadena de ideales primos"
+title: 'Longitud de una cadena de ideales primos'
 tags:
   - algebra-conmutativa/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Topología métrica"
+title: 'Topología métrica'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

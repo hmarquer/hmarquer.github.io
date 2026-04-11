@@ -1,5 +1,5 @@
 ---
-title: "Subgrupo normal"
+title: 'Subgrupo normal'
 ---
 
 [[subgrupo-normal.pdf]]

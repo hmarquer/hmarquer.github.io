@@ -1,5 +1,5 @@
 ---
-title: "Aplicaciones lineales equivalentes"
+title: 'Aplicaciones lineales equivalentes'
 tags:
   - geometria-diferencial/tema4
 ---

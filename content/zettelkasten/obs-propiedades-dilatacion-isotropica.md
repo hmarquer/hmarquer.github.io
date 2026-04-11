@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de la dilatación isotrópica"
+title: 'Propiedades de la dilatación isotrópica'
 tags:
   - variable-real/tema2
 ---

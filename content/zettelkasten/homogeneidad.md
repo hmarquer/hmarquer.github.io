@@ -1,5 +1,5 @@
 ---
-title: "Homogeneidad"
+title: 'Homogeneidad'
 tags:
   - analisis-funcional/tema1
 ---

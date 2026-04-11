@@ -1,5 +1,5 @@
 ---
-title: "Teo con ceros polinomios espacio afin ideal propio cuerpo alg cerrado no vacio"
+title: 'Teo con ceros polinomios espacio afin ideal propio cuerpo alg cerrado no vacio'
 tags:
   - algebra-conmutativa/tema4
 ---

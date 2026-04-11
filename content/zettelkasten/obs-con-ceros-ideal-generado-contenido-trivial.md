@@ -1,5 +1,5 @@
 ---
-title: "Contenido trivial del conjunto de ceros de un ideal generado"
+title: 'Contenido trivial del conjunto de ceros de un ideal generado'
 tags:
   - algebra-conmutativa/tema3
 ---

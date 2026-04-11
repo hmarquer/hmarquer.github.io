@@ -1,5 +1,5 @@
 ---
-title: "Continuidad de la norma"
+title: 'Continuidad de la norma'
 tags:
   - variable-real/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Continuidad secuencial"
+title: 'Continuidad secuencial'
 ---
 
 [[continuidad-secuencial.pdf]]

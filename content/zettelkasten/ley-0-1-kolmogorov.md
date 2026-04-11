@@ -1,5 +1,5 @@
 ---
-title: "Ley 0-1 de Kolmogorov"
+title: 'Ley 0-1 de Kolmogorov'
 tags:
   - probabilidad-ii/tema2
 ---

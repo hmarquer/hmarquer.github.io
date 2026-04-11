@@ -1,5 +1,5 @@
 ---
-title: "Espacio métrico"
+title: 'Espacio métrico'
 tags:
   - analisis-funcional/tema1
   - teoria-descriptiva-de-conjuntos/tema1

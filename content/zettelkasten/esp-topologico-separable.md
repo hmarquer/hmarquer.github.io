@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológico separable"
+title: 'Espacio topológico separable'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

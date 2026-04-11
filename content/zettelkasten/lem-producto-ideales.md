@@ -1,5 +1,5 @@
 ---
-title: "Lem producto ideales"
+title: 'Lem producto ideales'
 tags:
   - algebra-conmutativa/tema1
 ---

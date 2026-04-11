@@ -1,5 +1,5 @@
 ---
-title: "Dual algebraico"
+title: 'Dual algebraico'
 tags:
   - analisis-funcional/tema2
 ---

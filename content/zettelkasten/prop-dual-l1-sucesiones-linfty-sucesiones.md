@@ -1,5 +1,5 @@
 ---
-title: "El dual de $\ell^1$ es $\ell^\infty$"
+title: 'El dual de $\ell^1$ es $\ell^\infty$'
 tags:
   - analisis-funcional/tema3
 ---

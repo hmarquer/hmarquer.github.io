@@ -1,5 +1,5 @@
 ---
-title: "Variedad topológica"
+title: 'Variedad topológica'
 tags:
   - geometria-diferencial/tema1
 ---

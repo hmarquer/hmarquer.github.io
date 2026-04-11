@@ -1,5 +1,5 @@
 ---
-title: "Medida completa"
+title: 'Medida completa'
 ---
 
 [[medida-completa.pdf]]

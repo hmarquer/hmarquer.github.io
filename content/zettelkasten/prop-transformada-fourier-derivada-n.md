@@ -1,5 +1,5 @@
 ---
-title: "Prop transformada fourier derivada n"
+title: 'Prop transformada fourier derivada n'
 tags:
   - variable-real/tema5
 ---
@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [esp-lp](./esp-lp.md)
 - [fn-clase-ck](./fn-clase-ck.md)
+- [lem-transformada-fourier-derivada](./lem-transformada-fourier-derivada.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 
 ## Etiquetas

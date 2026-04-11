@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la densidad de un subespacio cerrado según el espacio dual"
+title: 'Caracterización de la densidad de un subespacio cerrado según el espacio dual'
 tags:
   - analisis-funcional/tema3
 ---
@@ -12,4 +12,5 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
 - [subesp-vectorial](./subesp-vectorial.md)
+- [teo-esp-normado-separacion-punto-subespacio-cerrado](./teo-esp-normado-separacion-punto-subespacio-cerrado.md)
 

@@ -1,5 +1,5 @@
 ---
-title: "Cadena de Markov homogénea"
+title: 'Cadena de Markov homogénea'
 tags:
   - modelizacion/tema2
 ---

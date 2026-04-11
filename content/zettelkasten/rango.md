@@ -1,5 +1,5 @@
 ---
-title: "Rango"
+title: 'Rango'
 ---
 
 [[rango.pdf]]

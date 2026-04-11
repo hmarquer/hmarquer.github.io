@@ -1,5 +1,5 @@
 ---
-title: "Fórmula del núcleo de Fejér"
+title: 'Fórmula del núcleo de Fejér'
 tags:
   - variable-real/tema4
 ---

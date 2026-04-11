@@ -1,5 +1,5 @@
 ---
-title: "Sistema ortogonal completo"
+title: 'Sistema ortogonal completo'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

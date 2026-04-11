@@ -1,5 +1,5 @@
 ---
-title: "Subvariedad"
+title: 'Subvariedad'
 tags:
   - geometria-diferencial/tema4
 ---

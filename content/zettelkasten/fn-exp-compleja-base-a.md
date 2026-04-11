@@ -1,5 +1,5 @@
 ---
-title: "Función exponencial compleja"
+title: 'Función exponencial compleja'
 tags:
   - variable-compleja-i/tema2
 ---

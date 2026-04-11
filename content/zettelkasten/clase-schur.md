@@ -1,5 +1,5 @@
 ---
-title: "La clase de Schur"
+title: 'La clase de Schur'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3

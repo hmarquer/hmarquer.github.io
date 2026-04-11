@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad aritmético geométrica por Jensen"
+title: 'Desigualdad aritmético geométrica por Jensen'
 tags:
   - variable-real/tema1
 ---

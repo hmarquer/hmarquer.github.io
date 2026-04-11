@@ -1,5 +1,5 @@
 ---
-title: "Logaritmo complejo"
+title: 'Logaritmo complejo'
 tags:
   - variable-compleja-i/tema2
 ---

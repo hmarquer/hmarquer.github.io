@@ -1,5 +1,5 @@
 ---
-title: "Prop espacio tangente fibra kernel diferencial"
+title: 'Prop espacio tangente fibra kernel diferencial'
 tags:
   - geometria-diferencial/tema5
 ---

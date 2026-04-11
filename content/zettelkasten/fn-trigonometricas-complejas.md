@@ -1,5 +1,5 @@
 ---
-title: "Fn-trigonometricas-complejas"
+title: 'Fn-trigonometricas-complejas'
 tags:
   - variable-compleja-i/tema2
 ---

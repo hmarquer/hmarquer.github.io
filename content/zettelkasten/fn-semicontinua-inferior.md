@@ -1,5 +1,5 @@
 ---
-title: "Función semicontinua inferior"
+title: 'Función semicontinua inferior'
 tags:
   - analisis-funcional/tema5
 ---

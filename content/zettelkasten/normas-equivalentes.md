@@ -1,5 +1,5 @@
 ---
-title: "Normas equivalentes"
+title: 'Normas equivalentes'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Cauchy"
+title: 'Desigualdad de Cauchy'
 tags:
   - variable-compleja-i/tema4
 ---

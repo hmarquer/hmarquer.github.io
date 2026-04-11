@@ -1,5 +1,5 @@
 ---
-title: "Fórmula integral de Cauchy para discos"
+title: 'Fórmula integral de Cauchy para discos'
 tags:
   - variable-compleja-i/tema4
 ---

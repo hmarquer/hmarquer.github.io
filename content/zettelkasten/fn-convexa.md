@@ -1,5 +1,5 @@
 ---
-title: "Función convexa"
+title: 'Función convexa'
 tags:
   - analisis-funcional/tema1
   - probabilidad-ii/tema2

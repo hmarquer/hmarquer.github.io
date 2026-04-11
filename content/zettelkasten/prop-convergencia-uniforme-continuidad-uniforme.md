@@ -1,5 +1,5 @@
 ---
-title: "Prop convergencia uniforme continuidad uniforme"
+title: 'Prop convergencia uniforme continuidad uniforme'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Convergencia en probabilidad implica en distribución"
+title: 'Convergencia en probabilidad implica en distribución'
 tags:
   - probabilidad-ii/tema3
 ---

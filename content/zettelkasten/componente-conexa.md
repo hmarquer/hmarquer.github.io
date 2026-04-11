@@ -1,5 +1,5 @@
 ---
-title: "Componente conexa"
+title: 'Componente conexa'
 ---
 
 [[componente-conexa.pdf]]

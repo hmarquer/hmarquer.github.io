@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Pitágoras"
+title: 'Teorema de Pitágoras'
 tags:
   - variable-real/tema3
 ---

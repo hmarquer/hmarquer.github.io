@@ -1,5 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue para funciones continuas"
+title: 'Teorema de diferenciación de Lebesgue para funciones continuas'
 tags:
   - variable-real/tema2
 ---

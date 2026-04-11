@@ -1,5 +1,5 @@
 ---
-title: "Pnt critico apl diferenciable"
+title: 'Pnt critico apl diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

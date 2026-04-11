@@ -1,5 +1,5 @@
 ---
-title: "Teo-cartas-adaptadas-submersion"
+title: 'Teo-cartas-adaptadas-submersion'
 tags:
   - geometria-diferencial/tema4
 ---

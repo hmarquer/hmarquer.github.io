@@ -1,5 +1,5 @@
 ---
-title: "Subcuerpo"
+title: 'Subcuerpo'
 tags:
   - algebra-conmutativa/tema1
 ---

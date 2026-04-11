@@ -1,5 +1,5 @@
 ---
-title: "Topología de Zariski"
+title: 'Topología de Zariski'
 tags:
   - algebra-conmutativa/tema3
 ---
@@ -10,6 +10,7 @@ tags:
 ## Referencias
 - [esp-afin](./esp-afin.md)
 - [producto-ideales](./producto-ideales.md)
+- [prop-variedad-algebraica-afin-ideal](./prop-variedad-algebraica-afin-ideal.md)
 - [suma-ideales](./suma-ideales.md)
 - [topologia](./topologia.md)
 - [variedad-algebraica-afin](./variedad-algebraica-afin.md)

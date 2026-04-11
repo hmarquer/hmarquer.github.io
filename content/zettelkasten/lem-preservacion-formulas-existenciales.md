@@ -1,5 +1,5 @@
 ---
-title: "Lem preservacion formulas existenciales"
+title: 'Lem preservacion formulas existenciales'
 tags:
   - logica-matematica/tema1
 ---
@@ -15,5 +15,6 @@ tags:
 - [formula-existencial](./formula-existencial.md)
 - [formula-literal](./formula-literal.md)
 - [inmersion-estructuras](./inmersion-estructuras.md)
+- [lem-preservacion-formulas-sin-cuantificadores-inmersion](./lem-preservacion-formulas-sin-cuantificadores-inmersion.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 

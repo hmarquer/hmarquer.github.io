@@ -1,5 +1,5 @@
 ---
-title: "Ejems lenguajes primer orden"
+title: 'Ejems lenguajes primer orden'
 tags:
   - logica-matematica/tema1
 ---

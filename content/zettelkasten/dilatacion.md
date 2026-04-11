@@ -1,5 +1,5 @@
 ---
-title: "Dilatación"
+title: 'Dilatación'
 tags:
   - variable-real/tema5
 ---

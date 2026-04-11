@@ -1,5 +1,5 @@
 ---
-title: "Prop-fn-compleja-derivable"
+title: 'Prop-fn-compleja-derivable'
 tags:
   - variable-compleja-i/tema2
 ---

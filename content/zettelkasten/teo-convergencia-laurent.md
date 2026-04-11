@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la convergencia de Laurent"
+title: 'Teorema de la convergencia de Laurent'
 tags:
   - variable-compleja-i/tema5
 ---

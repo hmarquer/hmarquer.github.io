@@ -1,5 +1,5 @@
 ---
-title: "Convergencia localmente uniforme de funciones"
+title: 'Convergencia localmente uniforme de funciones'
 tags:
   - variable-compleja-i/tema3
 ---

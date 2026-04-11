@@ -1,5 +1,5 @@
 ---
-title: "Serie formal de potencias"
+title: 'Serie formal de potencias'
 tags:
   - modelizacion/tema2
   - variable-compleja-i/tema3

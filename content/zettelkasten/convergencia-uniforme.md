@@ -1,5 +1,5 @@
 ---
-title: "Convergencia uniforme de funciones"
+title: 'Convergencia uniforme de funciones'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-compleja-i/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Lem independencia variables no libres"
+title: 'Lem independencia variables no libres'
 tags:
   - logica-matematica/tema1
 ---
@@ -9,6 +9,7 @@ tags:
 
 ## Referencias
 - [complejidad](./complejidad.md)
+- [cor-independencia-dominio-evaluacion](./cor-independencia-dominio-evaluacion.md)
 - [estructura](./estructura.md)
 - [evaluacion](./evaluacion.md)
 - [formula](./formula.md)

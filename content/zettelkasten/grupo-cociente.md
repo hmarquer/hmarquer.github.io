@@ -1,5 +1,5 @@
 ---
-title: "Grupo cociente"
+title: 'Grupo cociente'
 ---
 
 [[grupo-cociente.pdf]]

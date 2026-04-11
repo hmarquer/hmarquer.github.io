@@ -1,5 +1,5 @@
 ---
-title: "Serie funcional"
+title: 'Serie funcional'
 tags:
   - variable-compleja-i/tema3
 ---

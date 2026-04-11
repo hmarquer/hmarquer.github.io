@@ -1,5 +1,5 @@
 ---
-title: "Teo bola cerrada compacta imp dim finita"
+title: 'Teo bola cerrada compacta imp dim finita'
 tags:
   - analisis-funcional/tema2
 ---
@@ -11,5 +11,6 @@ tags:
 - [bola-cerrada](./bola-cerrada.md)
 - [compacidad](./compacidad.md)
 - [esp-vectorial](./esp-vectorial.md)
+- [lem-riesz](./lem-riesz.md)
 - [norma](./norma.md)
 

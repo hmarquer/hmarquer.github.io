@@ -1,5 +1,5 @@
 ---
-title: "Subtérmino"
+title: 'Subtérmino'
 tags:
   - logica-matematica/tema1
 ---

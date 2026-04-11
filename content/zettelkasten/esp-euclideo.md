@@ -1,5 +1,5 @@
 ---
-title: "Espacio euclídeo"
+title: 'Espacio euclídeo'
 ---
 
 [[esp-euclideo.pdf]]

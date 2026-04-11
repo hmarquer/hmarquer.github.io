@@ -1,5 +1,5 @@
 ---
-title: "Esperanza condicionada a una $\sigma$-álgebra"
+title: 'Esperanza condicionada a una $\sigma$-álgebra'
 tags:
   - aprendizaje-automatico/apendice
   - probabilidad-ii/tema4

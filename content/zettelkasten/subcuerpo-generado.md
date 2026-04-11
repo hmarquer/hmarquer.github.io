@@ -1,5 +1,5 @@
 ---
-title: "Subcuerpo generado"
+title: 'Subcuerpo generado'
 tags:
   - algebra-conmutativa/tema1
 ---

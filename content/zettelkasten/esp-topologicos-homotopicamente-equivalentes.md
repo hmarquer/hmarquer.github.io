@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológicos homotópicamente equivalentes"
+title: 'Espacio topológicos homotópicamente equivalentes'
 tags:
   - geometria-diferencial/tema6
 ---

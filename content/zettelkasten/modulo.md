@@ -1,5 +1,5 @@
 ---
-title: "Módulo"
+title: 'Módulo'
 tags:
   - algebra-conmutativa/tema2
 ---

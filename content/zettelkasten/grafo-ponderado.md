@@ -1,5 +1,5 @@
 ---
-title: "Grafo ponderado"
+title: 'Grafo ponderado'
 ---
 
 [[grafo-ponderado.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Relación de equivalencia abierta"
+title: 'Relación de equivalencia abierta'
 tags:
   - geometria-diferencial/tema1
 ---

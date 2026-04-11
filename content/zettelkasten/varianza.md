@@ -1,5 +1,5 @@
 ---
-title: "Varianza"
+title: 'Varianza'
 tags:
   - probabilidad-ii/tema2
 ---

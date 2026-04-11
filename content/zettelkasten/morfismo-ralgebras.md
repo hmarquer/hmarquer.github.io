@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de $R$-álgebras"
+title: 'Morfismo de $R$-álgebras'
 tags:
   - algebra-conmutativa/tema2
 ---

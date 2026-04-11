@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la función inversa para funciones holomorfas"
+title: 'Teorema de la función inversa para funciones holomorfas'
 tags:
   - variable-compleja-i/tema2
 ---

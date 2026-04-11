@@ -1,5 +1,5 @@
 ---
-title: "Operador adjunto de la composición"
+title: 'Operador adjunto de la composición'
 tags:
   - analisis-funcional/tema3
 ---

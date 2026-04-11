@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la curva de Jordan"
+title: 'Teorema de la curva de Jordan'
 ---
 
 [[teo-curva-jordan.pdf]]

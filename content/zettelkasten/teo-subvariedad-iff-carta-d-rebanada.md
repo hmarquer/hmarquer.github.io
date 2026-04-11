@@ -1,5 +1,5 @@
 ---
-title: "Teo subvariedad iff carta d rebanada"
+title: 'Teo subvariedad iff carta d rebanada'
 tags:
   - geometria-diferencial/tema5
 ---

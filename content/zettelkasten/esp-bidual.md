@@ -1,5 +1,5 @@
 ---
-title: "Espacio bidual"
+title: 'Espacio bidual'
 tags:
   - analisis-funcional/tema3
 ---

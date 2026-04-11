@@ -1,5 +1,5 @@
 ---
-title: "Cor integral suma infinita"
+title: 'Cor integral suma infinita'
 tags:
   - variable-real/tema1
 ---

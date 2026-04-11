@@ -1,5 +1,5 @@
 ---
-title: "Norma uniformemente convexa"
+title: 'Norma uniformemente convexa'
 tags:
   - analisis-funcional/tema5
 ---

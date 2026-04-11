@@ -1,5 +1,5 @@
 ---
-title: "Grupo"
+title: 'Grupo'
 tags:
   - teoria-de-galois/tema1
 ---

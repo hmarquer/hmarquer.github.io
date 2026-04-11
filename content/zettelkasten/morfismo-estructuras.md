@@ -1,5 +1,5 @@
 ---
-title: "Morfismo estructuras"
+title: 'Morfismo estructuras'
 tags:
   - logica-matematica/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Transferencia de diferenciabilidad por embebimiento"
+title: 'Transferencia de diferenciabilidad por embebimiento'
 tags:
   - geometria-diferencial/tema4
 ---
@@ -12,4 +12,5 @@ tags:
 - [continuidad](./continuidad.md)
 - [embebimiento](./embebimiento.md)
 - [inmersion](./inmersion.md)
+- [teo-inmersion-transferencia-diferenciabilidad](./teo-inmersion-transferencia-diferenciabilidad.md)
 

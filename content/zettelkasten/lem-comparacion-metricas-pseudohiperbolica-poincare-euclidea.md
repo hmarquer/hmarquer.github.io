@@ -1,5 +1,5 @@
 ---
-title: "Lem comparacion metricas pseudohiperbolica poincare euclidea"
+title: 'Lem comparacion metricas pseudohiperbolica poincare euclidea'
 tags:
   - variable-compleja-ii/tema3
 ---

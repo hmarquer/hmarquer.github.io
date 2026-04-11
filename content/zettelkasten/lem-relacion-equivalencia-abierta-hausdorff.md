@@ -1,5 +1,5 @@
 ---
-title: "Relación de equivalencia abierta y espacio cociente de Hausdorff"
+title: 'Relación de equivalencia abierta y espacio cociente de Hausdorff'
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prop continuidad imp continuidad secuencial"
+title: 'Prop continuidad imp continuidad secuencial'
 ---
 
 [[prop-continuidad-imp-continuidad-secuencial.pdf]]

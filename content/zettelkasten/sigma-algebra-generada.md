@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$ álgebra generada por una familia"
+title: '$\sigma$ álgebra generada por una familia'
 ---
 
 [[sigma-algebra-generada.pdf]]

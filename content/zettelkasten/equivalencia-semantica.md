@@ -1,5 +1,5 @@
 ---
-title: "Equivalencia semantica"
+title: 'Equivalencia semantica'
 tags:
   - logica-matematica/tema1
 ---

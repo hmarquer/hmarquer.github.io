@@ -1,5 +1,5 @@
 ---
-title: "Función integrable"
+title: 'Función integrable'
 tags:
   - probabilidad-ii/hoja0
 ---

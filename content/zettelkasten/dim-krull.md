@@ -1,5 +1,5 @@
 ---
-title: "Dimensión de Krull"
+title: 'Dimensión de Krull'
 tags:
   - algebra-conmutativa/tema6
 ---

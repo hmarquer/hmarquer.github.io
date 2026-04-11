@@ -1,5 +1,5 @@
 ---
-title: "Aplicación conforme"
+title: 'Aplicación conforme'
 tags:
   - productos-finitos-de-blaschke/apl-conformes
   - variable-compleja-ii/tema1

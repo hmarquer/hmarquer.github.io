@@ -1,5 +1,5 @@
 ---
-title: "Lem cuerpo imp di"
+title: 'Lem cuerpo imp di'
 tags:
   - teoria-de-galois/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función Lipschitz"
+title: 'Función Lipschitz'
 ---
 
 [[fn-lipschitz.pdf]]

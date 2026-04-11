@@ -1,5 +1,5 @@
 ---
-title: "Automorfismo disco unidad"
+title: 'Automorfismo disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

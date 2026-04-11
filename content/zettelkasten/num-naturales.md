@@ -1,5 +1,5 @@
 ---
-title: "Números naturales"
+title: 'Números naturales'
 ---
 
 [[num-naturales.pdf]]

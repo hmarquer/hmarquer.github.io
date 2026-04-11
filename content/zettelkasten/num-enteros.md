@@ -1,5 +1,5 @@
 ---
-title: "Números enteros"
+title: 'Números enteros'
 ---
 
 [[num-enteros.pdf]]

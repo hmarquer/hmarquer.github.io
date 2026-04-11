@@ -1,5 +1,5 @@
 ---
-title: "Cadena de Markov irreducible"
+title: 'Cadena de Markov irreducible'
 tags:
   - modelizacion/tema2
 ---

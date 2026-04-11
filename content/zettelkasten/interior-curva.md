@@ -1,5 +1,5 @@
 ---
-title: "Interior de una curva"
+title: 'Interior de una curva'
 ---
 
 [[interior-curva.pdf]]

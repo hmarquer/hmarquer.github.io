@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la convergencia en la topología inicial"
+title: 'Caracterización de la convergencia en la topología inicial'
 ---
 
 [[prop-carac-convergencia-topologia-inicial.pdf]]

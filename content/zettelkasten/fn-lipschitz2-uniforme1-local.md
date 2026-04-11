@@ -1,5 +1,5 @@
 ---
-title: "Función localmente Lipschitz en la segunda variable uniforme en la primera"
+title: 'Función localmente Lipschitz en la segunda variable uniforme en la primera'
 ---
 
 [[fn-lipschitz2-uniforme1-local.pdf]]

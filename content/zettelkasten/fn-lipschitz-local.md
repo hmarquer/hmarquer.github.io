@@ -1,5 +1,5 @@
 ---
-title: "Función localmente Lipschitz"
+title: 'Función localmente Lipschitz'
 ---
 
 [[fn-lipschitz-local.pdf]]

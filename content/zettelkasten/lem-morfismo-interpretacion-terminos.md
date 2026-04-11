@@ -1,5 +1,5 @@
 ---
-title: "Lema de interpretación de términos a través de morfismos de estructuras"
+title: 'Lema de interpretación de términos a través de morfismos de estructuras'
 tags:
   - logica-matematica/tema1
 ---

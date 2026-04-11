@@ -1,5 +1,5 @@
 ---
-title: "Continuidad de la transformada de Fourier en $\mathcal{L}^1(\R)$"
+title: 'Continuidad de la transformada de Fourier en $\mathcal{L}^1(\R)$'
 tags:
   - variable-real/tema5
 ---

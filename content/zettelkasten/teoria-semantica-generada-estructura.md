@@ -1,11 +1,11 @@
 ---
-title: "Prop teoria generada estructura"
+title: 'Prop teoria generada estructura'
 tags:
   - logica-matematica/tema1-1
 ---
 
-[[prop-teoria-generada-estructura.pdf]]
-![[prop-teoria-generada-estructura.pdf]]
+[[teoria-semantica-generada-estructura.pdf]]
+![[teoria-semantica-generada-estructura.pdf]]
 
 ## Referencias
 - [consecuencia-semantica](./consecuencia-semantica.md)
@@ -14,5 +14,5 @@ tags:
 - [modelo](./modelo.md)
 - [satisfaccion](./satisfaccion.md)
 - [satisfacibilidad](./satisfacibilidad.md)
-- [teoria](./teoria.md)
+- [teoria-semantica](./teoria-semantica.md)
 

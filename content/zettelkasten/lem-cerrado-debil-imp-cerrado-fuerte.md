@@ -1,5 +1,5 @@
 ---
-title: "Todo cerrado débil es cerrado fuerte"
+title: 'Todo cerrado débil es cerrado fuerte'
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Condición necesaria y suficiente para ser base de una topología concreta"
+title: 'Condición necesaria y suficiente para ser base de una topología concreta'
 ---
 
 [[prop-base-topologia.pdf]]
