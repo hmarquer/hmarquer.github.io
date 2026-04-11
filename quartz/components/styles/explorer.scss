@@ -29,8 +29,10 @@
 
 .explorer {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   overflow-y: hidden;
+  align-items: center;
+  gap: 1rem;
 
   min-height: 1.2rem;
   flex: 0 1 auto;
@@ -50,13 +52,13 @@
   }
 
   @media all and ($mobile) {
-    order: -1;
+    order: 0;
     height: initial;
     overflow: hidden;
     flex-shrink: 0;
-    align-self: flex-start;
-    margin-top: auto;
-    margin-bottom: auto;
+    align-self: auto;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   button.mobile-explorer {
@@ -117,23 +119,35 @@ button.desktop-explorer {
   overflow-y: auto;
   margin-top: 0.5rem;
 
+  @media all and ($mobile) {
+    margin-top: 0;
+  }
+
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
 
     &.explorer-ul {
       overscroll-behavior: contain;
     }
 
-    & li > a {
-      color: var(--dark);
-      opacity: 0.75;
-      pointer-events: all;
-
-      &.active {
-        opacity: 1;
-        color: var(--tertiary);
+    & li {
+      margin: 0 !important;
+      padding: 0 !important;
+      & > a {
+        color: var(--dark);
+        opacity: 0.75;
+        pointer-events: all;
+  
+        &.active {
+          opacity: 1;
+          color: var(--tertiary);
+        }
       }
     }
   }
@@ -222,53 +236,20 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .explorer {
   @media all and ($mobile) {
-    &.collapsed {
-      flex: 0 0 34px;
-
-      & > .explorer-content {
-        transform: translateX(-100vw);
-        visibility: hidden;
-      }
-    }
-
-    &:not(.collapsed) {
-      flex: 0 0 34px;
-
-      & > .explorer-content {
-        transform: translateX(0);
-        visibility: visible;
-      }
-    }
-
     .explorer-content {
       box-sizing: border-box;
-      z-index: 100;
-      position: absolute;
-      top: 0;
-      left: 0;
+      position: static;
       margin-top: 0;
-      background-color: var(--light);
-      max-width: 100vw;
-      width: 100vw;
-      transform: translateX(-100vw);
-      transition:
-        transform 200ms ease,
-        visibility 200ms ease;
-      overflow: hidden;
-      padding: 4rem 0 2rem 0;
-      height: 100dvh;
-      max-height: 100dvh;
-      visibility: hidden;
-    }
-
-    .mobile-explorer {
-      margin: 0;
-      padding: 5px;
-      z-index: 101;
-
-      .lucide-menu {
-        stroke: var(--darkgray);
-      }
+      background-color: transparent;
+      max-width: 100%;
+      width: auto;
+      transform: none;
+      transition: none;
+      overflow: visible;
+      padding: 0;
+      height: auto;
+      max-height: none;
+      visibility: visible;
     }
   }
 }

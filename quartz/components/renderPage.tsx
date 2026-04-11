@@ -240,6 +240,7 @@ export function renderPage(
   } = components
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
+  const bodyDisplayClass = right.length === 0 ? "no-right-sidebar" : undefined
 
   const LeftComponent = (
     <div class="left sidebar">
@@ -264,7 +265,7 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
-          <Body {...componentData}>
+          <Body {...componentData} displayClass={bodyDisplayClass}>
             {LeftComponent}
             <div class="center">
               <div class="page-header">
@@ -273,11 +274,11 @@ export function renderPage(
                     <HeaderComponent {...componentData} />
                   ))}
                 </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
-                </div>
+              </div>
+              <div class="popover-hint">
+                {beforeBody.map((BodyComponent) => (
+                  <BodyComponent {...componentData} />
+                ))}
               </div>
               <Content {...componentData} />
               <hr />

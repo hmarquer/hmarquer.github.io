@@ -122,7 +122,9 @@ function createFolderNode(
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
-    a.href = resolveRelative(currentSlug, normalizedFolderPath)
+    let href = resolveRelative(currentSlug, normalizedFolderPath)
+    if (href.endsWith("/")) href = href.slice(0, -1) as any
+    a.href = href
     a.dataset.for = normalizedFolderPath
     a.className = "folder-title"
     a.textContent = node.displayName
@@ -294,13 +296,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 })
 
 window.addEventListener("resize", function () {
-  // Desktop explorer opens by default, and it stays open when the window is resized
-  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
-  const explorer = document.querySelector(".explorer")
-  if (explorer && !explorer.classList.contains("collapsed")) {
-    document.documentElement.classList.add("mobile-no-scroll")
-    return
-  }
+  document.documentElement.classList.remove("mobile-no-scroll")
 })
 
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {

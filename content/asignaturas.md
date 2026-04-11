@@ -11,14 +11,14 @@ title: "Asignaturas"
     2.1 Primer cuatrimestre
 
     2.2 Segundo cuatrimestre
-    - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]]
-    - [[2.2-geometria-de-curvas-y-superficies|Geometría de curvas y superficies]]
-    - [[2.2-probabilidad-i|Probabilidad I]]
+    <!-- - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]] -->
+    <!-- - [[2.2-geometria-de-curvas-y-superficies|Geometría de curvas y superficies]] -->
+    <!-- - [[2.2-probabilidad-i|Probabilidad I]] -->
     
 3. Tercer curso
     3.1 Primer cuatrimestre
-    - [[3.1-topologia|Topología]]
-    - [[3.1-estadistica-i|Estadística I]]
+    <!-- - [[3.1-topologia|Topología]] -->
+    <!-- - [[3.1-estadistica-i|Estadística I]] -->
     - [[3.1-teoria-de-galois|Teoría de Galois]]
     - [[3.1-teoria-de-la-integral-y-la-medida|Teoría de la integral y la medida]]
     - [[3.1-metodos-numericos-para-edo|Métodos numéricos para EDO]]
