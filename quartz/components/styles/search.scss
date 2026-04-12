@@ -28,6 +28,18 @@
       text-wrap: unset;
     }
 
+    & > .search-shortcut {
+      margin-left: auto;
+      padding: 0.15rem 0.45rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      background-color: var(--light);
+      color: var(--gray);
+      font-size: 0.72rem;
+      line-height: 1;
+      letter-spacing: 0.01em;
+    }
+
     & svg {
       cursor: pointer;
       width: 18px;
@@ -38,6 +50,12 @@
         stroke: var(--darkgray);
         stroke-width: 1.5px;
         transition: stroke 0.5s ease;
+      }
+    }
+
+    @media all and ($mobile) {
+      & > .search-shortcut {
+        display: none;
       }
     }
   }

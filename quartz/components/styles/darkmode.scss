@@ -10,6 +10,21 @@
   text-align: inherit;
   flex-shrink: 0;
 
+  & .autoIcon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: calc(50% - 10px);
+    left: 0;
+    color: var(--darkgray);
+    font-size: 1.14rem;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    display: none;
+    user-select: none;
+  }
+
   & svg {
     position: absolute;
     width: 20px;
@@ -28,20 +43,37 @@
   color-scheme: light;
 }
 
-:root[saved-theme="dark"] .darkmode {
+:root[data-theme-mode="dark"] .darkmode {
   & > .dayIcon {
     display: none;
   }
   & > .nightIcon {
     display: inline;
+  }
+  & > .autoIcon {
+    display: none;
   }
 }
 
-:root .darkmode {
+:root[data-theme-mode="light"] .darkmode {
   & > .dayIcon {
     display: inline;
   }
   & > .nightIcon {
     display: none;
+  }
+  & > .autoIcon {
+    display: none;
+  }
+}
+
+:root[data-theme-mode="auto"] .darkmode {
+  & > .dayIcon,
+  & > .nightIcon {
+    display: none;
+  }
+
+  & > .autoIcon {
+    display: inline;
   }
 }
