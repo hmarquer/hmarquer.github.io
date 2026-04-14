@@ -1,5 +1,5 @@
 ---
-title: "Ejer aut disco unidad inversa"
+title: 'Ejer aut disco unidad inversa'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

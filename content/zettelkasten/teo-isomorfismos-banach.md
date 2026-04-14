@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Isomorfismos de Banach"
+title: 'Teorema de Isomorfismos de Banach'
 tags:
   - analisis-funcional/tema4
 ---

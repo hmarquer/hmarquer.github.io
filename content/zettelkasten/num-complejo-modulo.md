@@ -1,5 +1,5 @@
 ---
-title: "Módulo de un número complejo"
+title: 'Módulo de un número complejo'
 tags:
   - variable-compleja-i/tema1
 ---

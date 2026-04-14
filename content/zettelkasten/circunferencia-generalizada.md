@@ -1,5 +1,5 @@
 ---
-title: "Circunferencia generalizada"
+title: 'Circunferencia generalizada'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

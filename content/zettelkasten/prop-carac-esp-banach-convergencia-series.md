@@ -1,5 +1,5 @@
 ---
-title: "Prop carac espacio banach convergencia series"
+title: 'Prop carac espacio banach convergencia series'
 tags:
   - analisis-funcional/tema2
 ---

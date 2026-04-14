@@ -1,5 +1,5 @@
 ---
-title: "Función entera"
+title: 'Función entera'
 tags:
   - variable-compleja-i/tema2
 ---

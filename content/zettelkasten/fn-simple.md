@@ -1,5 +1,5 @@
 ---
-title: "Función simple"
+title: 'Función simple'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

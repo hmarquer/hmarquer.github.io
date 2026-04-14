@@ -1,5 +1,5 @@
 ---
-title: "Complejidad"
+title: 'Complejidad'
 tags:
   - logica-matematica/tema1
 ---

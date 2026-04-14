@@ -1,5 +1,5 @@
 ---
-title: "Lem transformada fourier convolucion"
+title: 'Lem transformada fourier convolucion'
 tags:
   - variable-real/tema5
 ---

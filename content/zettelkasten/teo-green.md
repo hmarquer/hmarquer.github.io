@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Green"
+title: 'Teorema de Green'
 ---
 
 [[teo-green.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Chebyshev"
+title: 'Desigualdad de Chebyshev'
 tags:
   - probabilidad-ii/tema2
 ---

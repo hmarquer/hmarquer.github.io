@@ -1,5 +1,5 @@
 ---
-title: "Cor:convergencia serie cualquier n0"
+title: 'Cor:convergencia serie cualquier n0'
 tags:
   - variable-compleja-i/tema3
 ---

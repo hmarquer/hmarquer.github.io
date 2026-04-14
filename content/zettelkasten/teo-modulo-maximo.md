@@ -1,5 +1,5 @@
 ---
-title: "Principio del módulo máximo"
+title: 'Principio del módulo máximo'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema2

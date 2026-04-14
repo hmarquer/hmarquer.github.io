@@ -1,5 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue"
+title: 'Teorema de diferenciación de Lebesgue'
 tags:
   - variable-real/tema2
 ---

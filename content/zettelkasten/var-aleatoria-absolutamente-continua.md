@@ -1,5 +1,5 @@
 ---
-title: "Var aleatoria absolutamente continua"
+title: 'Var aleatoria absolutamente continua'
 tags:
   - probabilidad-ii/tema1
 ---

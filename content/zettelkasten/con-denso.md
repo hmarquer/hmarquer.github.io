@@ -1,5 +1,5 @@
 ---
-title: "Conjunto denso"
+title: 'Conjunto denso'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

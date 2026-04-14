@@ -1,5 +1,5 @@
 ---
-title: "Función generatriz de probabilidad"
+title: 'Función generatriz de probabilidad'
 tags:
   - modelizacion/tema2
 ---

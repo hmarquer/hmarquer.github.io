@@ -1,5 +1,5 @@
 ---
-title: "Singularidad evitable"
+title: 'Singularidad evitable'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema5

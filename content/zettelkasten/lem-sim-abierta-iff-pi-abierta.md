@@ -1,5 +1,5 @@
 ---
-title: "Lema de equivalencia abierta"
+title: 'Lema de equivalencia abierta'
 tags:
   - geometria-diferencial/tema1
 ---

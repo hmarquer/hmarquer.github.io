@@ -1,5 +1,5 @@
 ---
-title: "Conexión simple"
+title: 'Conexión simple'
 tags:
   - geometria-diferencial/tema6
   - variable-compleja-i/tema4

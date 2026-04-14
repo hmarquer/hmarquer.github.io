@@ -1,5 +1,5 @@
 ---
-title: "Lem subanillo generado"
+title: 'Lem subanillo generado'
 tags:
   - algebra-conmutativa/tema1
 ---

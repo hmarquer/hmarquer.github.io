@@ -1,5 +1,5 @@
 ---
-title: "Convergencia de una serie de Laurent"
+title: 'Convergencia de una serie de Laurent'
 tags:
   - variable-compleja-i/tema5
 ---

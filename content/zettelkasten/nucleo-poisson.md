@@ -1,5 +1,5 @@
 ---
-title: "Núcleo de Poisson"
+title: 'Núcleo de Poisson'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
 ---

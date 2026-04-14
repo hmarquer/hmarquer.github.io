@@ -1,5 +1,5 @@
 ---
-title: "Ralgebra finitamente generada"
+title: 'Ralgebra finitamente generada'
 tags:
   - algebra-conmutativa/tema2
 ---

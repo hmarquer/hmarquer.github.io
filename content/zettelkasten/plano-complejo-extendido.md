@@ -1,5 +1,5 @@
 ---
-title: "Plano complejo extendido"
+title: 'Plano complejo extendido'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema1

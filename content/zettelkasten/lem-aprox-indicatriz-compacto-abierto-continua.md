@@ -1,5 +1,5 @@
 ---
-title: "Lem aprox indicatriz compacto abierto continua"
+title: 'Lem aprox indicatriz compacto abierto continua'
 tags:
   - variable-real/tema1
 ---

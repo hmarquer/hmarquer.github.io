@@ -1,5 +1,5 @@
 ---
-title: "Diferencial de una aplicación diferenciable"
+title: 'Diferencial de una aplicación diferenciable'
 tags:
   - geometria-diferencial/tema3
 ---

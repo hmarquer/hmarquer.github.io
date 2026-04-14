@@ -1,5 +1,5 @@
 ---
-title: "Lem subgrupo automorfismos fijan"
+title: 'Lem subgrupo automorfismos fijan'
 tags:
   - logica-matematica/tema1
 ---

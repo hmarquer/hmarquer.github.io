@@ -1,5 +1,5 @@
 ---
-title: "Isomorfismo anillos"
+title: 'Isomorfismo anillos'
 tags:
   - algebra-conmutativa/tema1
 ---

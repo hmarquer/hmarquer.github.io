@@ -1,5 +1,5 @@
 ---
-title: "Suma de ideales"
+title: 'Suma de ideales'
 tags:
   - algebra-conmutativa/tema1
 ---

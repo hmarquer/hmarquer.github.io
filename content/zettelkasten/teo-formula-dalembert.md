@@ -1,5 +1,5 @@
 ---
-title: "Fórmula de D'Alembert"
+title: 'Fórmula de D''Alembert'
 ---
 
 [[teo-formula-dalembert.pdf]]

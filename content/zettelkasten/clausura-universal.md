@@ -1,5 +1,5 @@
 ---
-title: "Clausura universal"
+title: 'Clausura universal'
 tags:
   - logica-matematica/tema2
 ---

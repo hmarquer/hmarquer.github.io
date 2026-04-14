@@ -1,5 +1,5 @@
 ---
-title: "Criterio de Eisenstein"
+title: 'Criterio de Eisenstein'
 ---
 
 [[teo-criterio-einsenstein.pdf]]

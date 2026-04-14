@@ -1,5 +1,5 @@
 ---
-title: "Fórmula de Horn básica"
+title: 'Fórmula de Horn básica'
 tags:
   - logica-matematica/tema1-1
 ---

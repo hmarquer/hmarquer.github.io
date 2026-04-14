@@ -1,5 +1,5 @@
 ---
-title: "$\Z$ es un dominio de ideales principales"
+title: '$\Z$ es un dominio de ideales principales'
 ---
 
 [[prop-anillo-z-dominio-ideales-principales.pdf]]

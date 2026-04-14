@@ -1,5 +1,5 @@
 ---
-title: "Teoría semántica"
+title: 'Teoría semántica'
 tags:
   - logica-matematica/tema1-1
 ---

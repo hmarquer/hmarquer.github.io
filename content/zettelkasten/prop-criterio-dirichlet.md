@@ -1,5 +1,5 @@
 ---
-title: "Criterio de Dirichlet"
+title: 'Criterio de Dirichlet'
 tags:
   - variable-real/tema4
 ---

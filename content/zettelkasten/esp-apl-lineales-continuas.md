@@ -1,5 +1,5 @@
 ---
-title: "Espacio de aplicaciones lineales continuas"
+title: 'Espacio de aplicaciones lineales continuas'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Continuidad absoluta"
+title: 'Continuidad absoluta'
 tags:
   - probabilidad-ii/hoja0
 ---

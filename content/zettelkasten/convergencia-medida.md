@@ -1,5 +1,5 @@
 ---
-title: "Convergencia medida"
+title: 'Convergencia medida'
 tags:
   - variable-real/tema2
 ---

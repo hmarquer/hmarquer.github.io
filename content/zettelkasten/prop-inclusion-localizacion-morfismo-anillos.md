@@ -1,5 +1,5 @@
 ---
-title: "La inclusión en una localización es un morfismo de anillos"
+title: 'La inclusión en una localización es un morfismo de anillos'
 tags:
   - algebra-conmutativa/tema2
 ---

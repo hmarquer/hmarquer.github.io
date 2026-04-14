@@ -1,5 +1,5 @@
 ---
-title: "Toda función real aditiva y no homogénea tiene gráfica densa en el plano"
+title: 'Toda función real aditiva y no homogénea tiene gráfica densa en el plano'
 tags:
   - analisis-funcional/tema1
 ---

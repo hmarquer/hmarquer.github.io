@@ -1,5 +1,5 @@
 ---
-title: "Prop localizacion anillo"
+title: 'Prop localizacion anillo'
 tags:
   - algebra-conmutativa/tema2
 ---

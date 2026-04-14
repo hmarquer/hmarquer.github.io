@@ -1,5 +1,5 @@
 ---
-title: "Prop bola pseudohiperbolica bola euclidea"
+title: 'Prop bola pseudohiperbolica bola euclidea'
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3

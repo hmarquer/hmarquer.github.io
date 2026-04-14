@@ -1,5 +1,5 @@
 ---
-title: "Primer grupo fundamental"
+title: 'Primer grupo fundamental'
 tags:
   - geometria-diferencial/tema6
 ---

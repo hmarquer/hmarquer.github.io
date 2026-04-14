@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de módulos"
+title: 'Morfismo de módulos'
 tags:
   - algebra-conmutativa/tema2
 ---

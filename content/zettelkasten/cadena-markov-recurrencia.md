@@ -1,5 +1,5 @@
 ---
-title: "Recurrencia en una cadena de Markov"
+title: 'Recurrencia en una cadena de Markov'
 tags:
   - modelizacion/tema2
 ---

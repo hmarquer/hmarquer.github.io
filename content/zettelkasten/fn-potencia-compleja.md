@@ -1,5 +1,5 @@
 ---
-title: "Función potencia compleja"
+title: 'Función potencia compleja'
 tags:
   - variable-compleja-i/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Integral"
+title: 'Integral'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Estructura diferenciable inducida por un homeomorfismo"
+title: 'Estructura diferenciable inducida por un homeomorfismo'
 tags:
   - geometria-diferencial/tema1
 ---

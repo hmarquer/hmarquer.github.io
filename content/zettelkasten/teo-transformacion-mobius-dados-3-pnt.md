@@ -1,5 +1,5 @@
 ---
-title: "Transformación de Möbius dados tres puntos"
+title: 'Transformación de Möbius dados tres puntos'
 tags:
   - variable-compleja-i/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ecuación en derivadas parciales casi-lineal"
+title: 'Ecuación en derivadas parciales casi-lineal'
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---

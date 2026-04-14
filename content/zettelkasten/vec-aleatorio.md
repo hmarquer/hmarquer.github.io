@@ -1,5 +1,5 @@
 ---
-title: "Vector aleatorio"
+title: 'Vector aleatorio'
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fórmula para la clausura de Zariski de un morfismo de variedades algebraicas afines"
+title: 'Fórmula para la clausura de Zariski de un morfismo de variedades algebraicas afines'
 tags:
   - algebra-conmutativa/tema5
 ---

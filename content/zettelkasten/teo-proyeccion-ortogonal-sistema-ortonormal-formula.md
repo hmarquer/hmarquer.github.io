@@ -1,5 +1,5 @@
 ---
-title: "Fórmula para la proyección ortogonal en un sistema ortonormal finito"
+title: 'Fórmula para la proyección ortogonal en un sistema ortonormal finito'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cor norma p no prod interno"
+title: 'Cor norma p no prod interno'
 tags:
   - analisis-funcional/tema1
 ---

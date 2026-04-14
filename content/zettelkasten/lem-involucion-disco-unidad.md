@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de las involuciones del disco unidad"
+title: 'Propiedades de las involuciones del disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

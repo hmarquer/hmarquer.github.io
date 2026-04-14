@@ -1,5 +1,5 @@
 ---
-title: "Teo subvariedad diferenciable fibra apl diferenciable"
+title: 'Teo subvariedad diferenciable fibra apl diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

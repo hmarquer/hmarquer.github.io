@@ -1,5 +1,5 @@
 ---
-title: "Cor wirtinger composicion antiholomorfas"
+title: 'Cor wirtinger composicion antiholomorfas'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

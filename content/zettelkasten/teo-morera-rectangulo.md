@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Morera para rectángulos"
+title: 'Teorema de Morera para rectángulos'
 tags:
   - variable-compleja-i/tema4
 ---

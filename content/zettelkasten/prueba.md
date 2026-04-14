@@ -1,5 +1,5 @@
 ---
-title: "Prueba"
+title: 'Prueba'
 ---
 
 [[prueba.pdf]]

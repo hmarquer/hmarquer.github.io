@@ -1,5 +1,5 @@
 ---
-title: "Ecu ondas dimn"
+title: 'Ecu ondas dimn'
 tags:
   - fisica-cuantica/tema1-2
 ---

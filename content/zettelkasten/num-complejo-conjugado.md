@@ -1,5 +1,5 @@
 ---
-title: "Conjugado de un número complejo"
+title: 'Conjugado de un número complejo'
 tags:
   - variable-compleja-i/tema1
 ---

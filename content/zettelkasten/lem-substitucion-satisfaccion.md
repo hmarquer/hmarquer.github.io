@@ -1,5 +1,5 @@
 ---
-title: "Lem substitucion satisfaccion"
+title: 'Lem substitucion satisfaccion'
 tags:
   - logica-matematica/tema1
 ---

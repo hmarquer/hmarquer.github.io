@@ -1,5 +1,5 @@
 ---
-title: "Corolario de independencia del dominio de evaluación"
+title: 'Corolario de independencia del dominio de evaluación'
 tags:
   - logica-matematica/tema1
 ---

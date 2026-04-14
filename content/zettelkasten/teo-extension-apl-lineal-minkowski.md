@@ -1,5 +1,5 @@
 ---
-title: "Teorema de extensión de una aplicación lineal según un funcional de Minkowski"
+title: 'Teorema de extensión de una aplicación lineal según un funcional de Minkowski'
 tags:
   - analisis-funcional/tema3
 ---

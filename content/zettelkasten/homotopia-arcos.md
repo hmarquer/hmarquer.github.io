@@ -1,5 +1,5 @@
 ---
-title: "Homotopía de arcos"
+title: 'Homotopía de arcos'
 tags:
   - geometria-diferencial/tema6
 ---

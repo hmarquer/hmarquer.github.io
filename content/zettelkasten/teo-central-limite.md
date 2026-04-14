@@ -1,5 +1,5 @@
 ---
-title: "Teo central limite"
+title: 'Teo central limite'
 tags:
   - probabilidad-ii/tema5
 ---

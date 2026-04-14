@@ -1,5 +1,5 @@
 ---
-title: "La convergencia débil y en el dual implica la convergencia de la evaluación"
+title: 'La convergencia débil y en el dual implica la convergencia de la evaluación'
 tags:
   - analisis-funcional/tema5
 ---

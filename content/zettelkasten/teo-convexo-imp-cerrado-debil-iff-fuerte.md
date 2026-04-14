@@ -1,5 +1,5 @@
 ---
-title: "Teo convexo imp cerrado debil iff fuerte"
+title: 'Teo convexo imp cerrado debil iff fuerte'
 tags:
   - analisis-funcional/tema5
 ---

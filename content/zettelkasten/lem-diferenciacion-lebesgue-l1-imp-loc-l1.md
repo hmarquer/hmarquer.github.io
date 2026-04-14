@@ -1,5 +1,5 @@
 ---
-title: "Lem diferenciacion lebesgue l1 imp loc l1"
+title: 'Lem diferenciacion lebesgue l1 imp loc l1'
 tags:
   - variable-real/tema2
 ---

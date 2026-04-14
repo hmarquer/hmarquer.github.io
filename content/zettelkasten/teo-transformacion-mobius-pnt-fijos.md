@@ -1,5 +1,5 @@
 ---
-title: "Teorema de puntos fijos de una transformación de Möbius"
+title: 'Teorema de puntos fijos de una transformación de Möbius'
 tags:
   - variable-compleja-i/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Cauchy-Hadamard"
+title: 'Teorema de Cauchy-Hadamard'
 tags:
   - variable-compleja-i/tema3
 ---

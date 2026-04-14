@@ -1,5 +1,5 @@
 ---
-title: "Dominio integridad"
+title: 'Dominio integridad'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

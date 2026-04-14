@@ -1,5 +1,5 @@
 ---
-title: "Teo fn convexa semicontinua fuerte imp debil"
+title: 'Teo fn convexa semicontinua fuerte imp debil'
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "La adjunta es una aplicación lineal continua que tiene la misma norma"
+title: 'La adjunta es una aplicación lineal continua que tiene la misma norma'
 tags:
   - analisis-funcional/tema3
 ---

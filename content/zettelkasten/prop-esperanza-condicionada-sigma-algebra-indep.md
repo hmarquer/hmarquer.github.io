@@ -1,5 +1,5 @@
 ---
-title: "Esperanza condicionada a una $\sigma$-álgebra independiente"
+title: 'Esperanza condicionada a una $\sigma$-álgebra independiente'
 tags:
   - probabilidad-ii/tema4
 ---

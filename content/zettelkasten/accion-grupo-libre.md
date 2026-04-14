@@ -1,5 +1,5 @@
 ---
-title: "Acción de grupo libre"
+title: 'Acción de grupo libre'
 tags:
   - geometria-diferencial/tema6
 ---

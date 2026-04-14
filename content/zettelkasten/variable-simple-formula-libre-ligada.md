@@ -1,5 +1,5 @@
 ---
-title: "Variable simple formula libre ligada"
+title: 'Variable simple formula libre ligada'
 tags:
   - logica-matematica/tema1
 ---

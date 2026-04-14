@@ -1,5 +1,5 @@
 ---
-title: "Funciones medibles de variables aleatorias independientes"
+title: 'Funciones medibles de variables aleatorias independientes'
 ---
 
 [[cor-indep-var-aleatorias-fn-medibles.pdf]]

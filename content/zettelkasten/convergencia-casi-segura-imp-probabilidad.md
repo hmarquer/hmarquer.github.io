@@ -1,5 +1,5 @@
 ---
-title: "Convergencia casi segura implica en probabilidad"
+title: 'Convergencia casi segura implica en probabilidad'
 tags:
   - probabilidad-ii/tema3
 ---

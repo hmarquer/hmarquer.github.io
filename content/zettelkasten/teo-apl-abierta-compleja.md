@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la aplicación abierta en variable compleja"
+title: 'Teorema de la aplicación abierta en variable compleja'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológico completamente metrizable"
+title: 'Espacio topológico completamente metrizable'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

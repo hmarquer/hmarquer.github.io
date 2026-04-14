@@ -1,5 +1,5 @@
 ---
-title: "Conmutador anillo"
+title: 'Conmutador anillo'
 tags:
   - fisica-cuantica/tema1-3
 ---

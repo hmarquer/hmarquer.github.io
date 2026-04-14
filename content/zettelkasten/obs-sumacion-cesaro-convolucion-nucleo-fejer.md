@@ -1,5 +1,5 @@
 ---
-title: "Obs sumacion cesaro convolucion nucleo fejer"
+title: 'Obs sumacion cesaro convolucion nucleo fejer'
 tags:
   - variable-real/tema4
 ---

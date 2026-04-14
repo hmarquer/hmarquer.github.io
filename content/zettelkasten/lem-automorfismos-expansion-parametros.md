@@ -1,5 +1,5 @@
 ---
-title: "Lem automorfismos expansion parametros"
+title: 'Lem automorfismos expansion parametros'
 tags:
   - logica-matematica/tema1
 ---

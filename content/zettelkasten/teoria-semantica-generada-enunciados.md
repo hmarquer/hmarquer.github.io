@@ -1,5 +1,5 @@
 ---
-title: "Teoría generada por un conjunto de enunciados"
+title: 'Teoría generada por un conjunto de enunciados'
 tags:
   - logica-matematica/tema1-1
 ---

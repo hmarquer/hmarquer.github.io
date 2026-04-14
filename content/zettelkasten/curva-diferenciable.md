@@ -1,5 +1,5 @@
 ---
-title: "Curva diferenciable"
+title: 'Curva diferenciable'
 tags:
   - geometria-diferencial/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Todo ideal maximal es un ideal primo"
+title: 'Todo ideal maximal es un ideal primo'
 tags:
   - algebra-conmutativa/tema1
 ---

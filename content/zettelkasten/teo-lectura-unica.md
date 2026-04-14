@@ -1,5 +1,5 @@
 ---
-title: "Teo lectura unica"
+title: 'Teo lectura unica'
 tags:
   - logica-matematica/tema1
 ---

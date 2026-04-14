@@ -1,5 +1,5 @@
 ---
-title: "Función diferenciable"
+title: 'Función diferenciable'
 ---
 
 [[fn-diferenciable.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Teo carac teorias completas"
+title: 'Teo carac teorias completas'
 tags:
   - logica-matematica/tema1-1
 ---

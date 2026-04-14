@@ -1,5 +1,5 @@
 ---
-title: "Lem transformada fourier derivada"
+title: 'Lem transformada fourier derivada'
 tags:
   - variable-real/tema5
 ---

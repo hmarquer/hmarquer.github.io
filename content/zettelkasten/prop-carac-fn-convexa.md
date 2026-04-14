@@ -1,5 +1,5 @@
 ---
-title: "Prop carac fn convexa"
+title: 'Prop carac fn convexa'
 tags:
   - variable-real/tema1
 ---

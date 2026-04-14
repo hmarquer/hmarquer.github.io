@@ -1,5 +1,5 @@
 ---
-title: "Inclusión de espacios $\ell^p$"
+title: 'Inclusión de espacios $\ell^p$'
 tags:
   - variable-real/tema1
 ---

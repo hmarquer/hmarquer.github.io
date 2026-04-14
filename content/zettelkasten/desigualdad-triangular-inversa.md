@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad triangular inversa"
+title: 'Desigualdad triangular inversa'
 tags:
   - analisis-funcional/tema1
 ---

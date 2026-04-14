@@ -1,5 +1,5 @@
 ---
-title: "Fórmula de la esperanza"
+title: 'Fórmula de la esperanza'
 tags:
   - probabilidad-ii/tema2
 ---

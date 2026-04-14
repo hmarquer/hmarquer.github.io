@@ -1,5 +1,5 @@
 ---
-title: "Fibra"
+title: 'Fibra'
 tags:
   - geometria-diferencial/tema5
 ---

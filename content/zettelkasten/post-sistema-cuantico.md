@@ -1,5 +1,5 @@
 ---
-title: "Postulado sobre sistemas cuánticos"
+title: 'Postulado sobre sistemas cuánticos'
 tags:
   - fisica-cuantica/tema1-3
 ---

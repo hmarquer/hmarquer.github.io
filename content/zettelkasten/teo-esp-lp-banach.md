@@ -1,5 +1,5 @@
 ---
-title: "Todo espacio $\mathcal{L}^p$ es de Banach"
+title: 'Todo espacio $\mathcal{L}^p$ es de Banach'
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

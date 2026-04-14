@@ -1,5 +1,5 @@
 ---
-title: "Números reales"
+title: 'Números reales'
 ---
 
 [[num-reales.pdf]]

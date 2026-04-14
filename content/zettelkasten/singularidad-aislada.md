@@ -1,5 +1,5 @@
 ---
-title: "Singularidad aislada"
+title: 'Singularidad aislada'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema5

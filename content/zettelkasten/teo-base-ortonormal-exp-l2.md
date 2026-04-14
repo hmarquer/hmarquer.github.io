@@ -1,5 +1,5 @@
 ---
-title: "Teo base ortonormal exp l2"
+title: 'Teo base ortonormal exp l2'
 tags:
   - variable-real/tema4
 ---

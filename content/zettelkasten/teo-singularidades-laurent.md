@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de las singularidades por la serie de Laurent"
+title: 'Caracterización de las singularidades por la serie de Laurent'
 tags:
   - variable-compleja-i/tema5
 ---

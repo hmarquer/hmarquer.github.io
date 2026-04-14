@@ -1,5 +1,5 @@
 ---
-title: "Espacio normado reflexivo"
+title: 'Espacio normado reflexivo'
 tags:
   - analisis-funcional/tema3
 ---

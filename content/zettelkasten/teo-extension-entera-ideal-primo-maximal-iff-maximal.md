@@ -1,5 +1,5 @@
 ---
-title: "Teo extension entera ideal primo maximal iff maximal"
+title: 'Teo extension entera ideal primo maximal iff maximal'
 tags:
   - algebra-conmutativa/tema6
 ---

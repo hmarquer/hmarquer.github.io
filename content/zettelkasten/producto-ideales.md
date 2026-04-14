@@ -1,5 +1,5 @@
 ---
-title: "Producto de ideales"
+title: 'Producto de ideales'
 tags:
   - algebra-conmutativa/tema1
 ---

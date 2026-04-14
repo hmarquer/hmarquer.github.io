@@ -1,5 +1,5 @@
 ---
-title: "Ejer desigualdad triangular producto hiperbolico"
+title: 'Ejer desigualdad triangular producto hiperbolico'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

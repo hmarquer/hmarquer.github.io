@@ -1,5 +1,5 @@
 ---
-title: "Lem subestructura interseccion"
+title: 'Lem subestructura interseccion'
 tags:
   - logica-matematica/tema1-1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "La suma de funciones medibles es medible"
+title: 'La suma de funciones medibles es medible'
 ---
 
 [[prop-suma-fn-medibles.pdf]]

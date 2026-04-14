@@ -1,5 +1,5 @@
 ---
-title: "Todo anillo tiene un ideal maximal"
+title: 'Todo anillo tiene un ideal maximal'
 tags:
   - algebra-conmutativa/tema1
 ---

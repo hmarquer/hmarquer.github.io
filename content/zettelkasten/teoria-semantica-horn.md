@@ -1,5 +1,5 @@
 ---
-title: "Teoria horn"
+title: 'Teoria horn'
 tags:
   - logica-matematica/tema1-1
 ---

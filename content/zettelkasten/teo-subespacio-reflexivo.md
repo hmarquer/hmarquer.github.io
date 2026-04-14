@@ -1,5 +1,5 @@
 ---
-title: "Todo subespacio de un espacio reflexivo es reflexivo"
+title: 'Todo subespacio de un espacio reflexivo es reflexivo'
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teoría completa"
+title: 'Teoría completa'
 ---
 
 [[teoria-completa.pdf]]

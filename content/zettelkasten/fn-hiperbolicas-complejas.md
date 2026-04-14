@@ -1,5 +1,5 @@
 ---
-title: "Funciones hiperbólicas complejas"
+title: 'Funciones hiperbólicas complejas'
 tags:
   - variable-compleja-i/tema2
 ---

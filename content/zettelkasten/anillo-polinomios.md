@@ -1,5 +1,5 @@
 ---
-title: "Anillo polinomios"
+title: 'Anillo polinomios'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

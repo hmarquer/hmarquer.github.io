@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Schwarz-Pick"
+title: 'Teorema de Schwarz-Pick'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3

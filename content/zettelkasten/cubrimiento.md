@@ -1,5 +1,5 @@
 ---
-title: "Cubrimiento"
+title: 'Cubrimiento'
 ---
 
 [[cubrimiento.pdf]]

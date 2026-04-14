@@ -1,5 +1,5 @@
 ---
-title: "Lem independencia variables no libres"
+title: 'Lem independencia variables no libres'
 tags:
   - logica-matematica/tema1
 ---

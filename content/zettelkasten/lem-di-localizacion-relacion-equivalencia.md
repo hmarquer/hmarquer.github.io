@@ -1,5 +1,5 @@
 ---
-title: "Lem di localizacion relacion equivalencia"
+title: 'Lem di localizacion relacion equivalencia'
 tags:
   - algebra-conmutativa/tema2
 ---

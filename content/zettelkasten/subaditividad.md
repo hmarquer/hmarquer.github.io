@@ -1,5 +1,5 @@
 ---
-title: "Subaditividad"
+title: 'Subaditividad'
 tags:
   - analisis-funcional/tema1
 ---

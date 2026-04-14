@@ -1,5 +1,5 @@
 ---
-title: "Identidad paralelogramo"
+title: 'Identidad paralelogramo'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Ejer var aleatorias prod suma"
+title: 'Ejer var aleatorias prod suma'
 tags:
   - probabilidad-ii/tema1
 ---

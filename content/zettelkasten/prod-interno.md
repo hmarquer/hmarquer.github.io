@@ -1,5 +1,5 @@
 ---
-title: "Producto interno"
+title: 'Producto interno'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de completación de espacios métricos"
+title: 'Teorema de completación de espacios métricos'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

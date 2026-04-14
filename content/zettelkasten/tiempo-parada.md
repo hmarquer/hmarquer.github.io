@@ -1,5 +1,5 @@
 ---
-title: "Tiempo parada"
+title: 'Tiempo parada'
 tags:
   - probabilidad-ii/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Clase equivalencia"
+title: 'Clase equivalencia'
 ---
 
 [[clase-equivalencia.pdf]]

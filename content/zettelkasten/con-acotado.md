@@ -1,5 +1,5 @@
 ---
-title: "Conjunto acotado"
+title: 'Conjunto acotado'
 tags:
   - variable-compleja-i/tema1
 ---

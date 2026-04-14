@@ -1,5 +1,5 @@
 ---
-title: "Ejer aut disco unidad traslada z1 0 z2 01"
+title: 'Ejer aut disco unidad traslada z1 0 z2 01'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

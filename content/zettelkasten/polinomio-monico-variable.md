@@ -1,5 +1,5 @@
 ---
-title: "Polinomio mónico en la variable $x_i$"
+title: 'Polinomio mónico en la variable $x_i$'
 tags:
   - algebra-conmutativa/tema4
 ---

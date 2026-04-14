@@ -1,5 +1,5 @@
 ---
-title: "Lema de la proyección cartesiana como morfismo"
+title: 'Lema de la proyección cartesiana como morfismo'
 tags:
   - logica-matematica/tema1-1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lem cuerpo iff ideales triviales"
+title: 'Lem cuerpo iff ideales triviales'
 tags:
   - algebra-conmutativa/tema1
 ---

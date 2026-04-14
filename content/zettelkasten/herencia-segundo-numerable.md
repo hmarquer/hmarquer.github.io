@@ -1,5 +1,5 @@
 ---
-title: "La propiedad de segundo numerable es hereditaria"
+title: 'La propiedad de segundo numerable es hereditaria'
 tags:
   - geometria-diferencial/tema1
 ---

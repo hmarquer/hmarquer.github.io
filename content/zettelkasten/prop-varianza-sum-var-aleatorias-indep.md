@@ -1,5 +1,5 @@
 ---
-title: "Prop varianza sum var aleatorias indep"
+title: 'Prop varianza sum var aleatorias indep'
 tags:
   - probabilidad-ii/tema2
 ---

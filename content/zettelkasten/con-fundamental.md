@@ -1,5 +1,5 @@
 ---
-title: "Conjunto fundamental"
+title: 'Conjunto fundamental'
 tags:
   - analisis-funcional/tema2
 ---

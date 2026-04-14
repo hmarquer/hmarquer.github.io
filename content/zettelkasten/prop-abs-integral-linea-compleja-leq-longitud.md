@@ -1,5 +1,5 @@
 ---
-title: "Prop abs integral linea compleja leq longitud"
+title: 'Prop abs integral linea compleja leq longitud'
 tags:
   - variable-compleja-i/tema4
 ---

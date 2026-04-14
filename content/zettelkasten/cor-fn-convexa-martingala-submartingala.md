@@ -1,5 +1,5 @@
 ---
-title: "Cor fn convexa martingala submartingala"
+title: 'Cor fn convexa martingala submartingala'
 tags:
   - probabilidad-ii/tema4
 ---

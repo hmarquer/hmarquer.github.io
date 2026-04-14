@@ -1,5 +1,5 @@
 ---
-title: "Medida inducida"
+title: 'Medida inducida'
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de descomposición de una variedad algebraica afín en irreducibles"
+title: 'Teorema de descomposición de una variedad algebraica afín en irreducibles'
 tags:
   - algebra-conmutativa/tema3
 ---

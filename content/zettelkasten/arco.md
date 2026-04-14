@@ -1,5 +1,5 @@
 ---
-title: "Arco"
+title: 'Arco'
 tags:
   - geometria-diferencial/tema6
 ---

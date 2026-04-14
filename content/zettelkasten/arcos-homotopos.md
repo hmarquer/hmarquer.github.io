@@ -1,5 +1,5 @@
 ---
-title: "Arcos homotopos"
+title: 'Arcos homotopos'
 tags:
   - geometria-diferencial/tema6
 ---

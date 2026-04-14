@@ -1,5 +1,5 @@
 ---
-title: "Teo max fn armonica"
+title: 'Teo max fn armonica'
 tags:
   - variable-compleja-ii/tema2
 ---

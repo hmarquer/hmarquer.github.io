@@ -1,5 +1,5 @@
 ---
-title: "Formula de Moivre"
+title: 'Formula de Moivre'
 tags:
   - variable-compleja-i/tema1
 ---

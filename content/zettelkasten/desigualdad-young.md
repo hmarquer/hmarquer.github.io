@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Young"
+title: 'Desigualdad de Young'
 tags:
   - probabilidad-ii/tema2
   - variable-real/tema1

@@ -1,5 +1,5 @@
 ---
-title: "Conjunto secuencialmente compacto"
+title: 'Conjunto secuencialmente compacto'
 tags:
   - analisis-funcional/tema5
 ---

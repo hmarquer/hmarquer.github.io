@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Representación de Riesz"
+title: 'Teorema de Representación de Riesz'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

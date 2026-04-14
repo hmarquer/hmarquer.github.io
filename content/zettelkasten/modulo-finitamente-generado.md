@@ -1,5 +1,5 @@
 ---
-title: "Modulo finitamente generado"
+title: 'Modulo finitamente generado'
 tags:
   - algebra-conmutativa/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Elemento algebraico sobre un anillo"
+title: 'Elemento algebraico sobre un anillo'
 tags:
   - algebra-conmutativa/tema4
 ---

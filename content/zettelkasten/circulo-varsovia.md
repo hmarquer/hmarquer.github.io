@@ -1,5 +1,5 @@
 ---
-title: "Círculo de Varsovia"
+title: 'Círculo de Varsovia'
 ---
 
 [[circulo-varsovia.pdf]]

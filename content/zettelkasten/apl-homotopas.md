@@ -1,5 +1,5 @@
 ---
-title: "Aplicaciones homótopas"
+title: 'Aplicaciones homótopas'
 tags:
   - geometria-diferencial/tema6
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Esperanza condicionada a $\sigma$-álgebras anidadas"
+title: 'Esperanza condicionada a $\sigma$-álgebras anidadas'
 tags:
   - probabilidad-ii/tema4
 ---

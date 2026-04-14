@@ -1,5 +1,5 @@
 ---
-title: "Conjunto cerrado implica secuencialmente cerrado"
+title: 'Conjunto cerrado implica secuencialmente cerrado'
 ---
 
 [[prop-con-cerrado-imp-secuencialmente-cerrado.pdf]]

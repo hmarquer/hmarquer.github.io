@@ -1,5 +1,5 @@
 ---
-title: "Ejer schwarz pick extremales"
+title: 'Ejer schwarz pick extremales'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

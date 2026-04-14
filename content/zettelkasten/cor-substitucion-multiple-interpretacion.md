@@ -1,5 +1,5 @@
 ---
-title: "Corolario de substitución múltiple en interpretaciones"
+title: 'Corolario de substitución múltiple en interpretaciones'
 tags:
   - logica-matematica/tema1
 ---

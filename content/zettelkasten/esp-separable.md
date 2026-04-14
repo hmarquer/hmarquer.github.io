@@ -1,5 +1,5 @@
 ---
-title: "Espacio separable"
+title: 'Espacio separable'
 tags:
   - analisis-funcional/tema2
 ---

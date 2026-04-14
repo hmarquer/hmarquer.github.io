@@ -1,5 +1,5 @@
 ---
-title: "Fórmula existencial"
+title: 'Fórmula existencial'
 tags:
   - logica-matematica/tema1
 ---

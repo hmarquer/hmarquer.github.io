@@ -1,5 +1,5 @@
 ---
-title: "Lema de aproximación por funciones simples"
+title: 'Lema de aproximación por funciones simples'
 tags:
   - variable-real/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teo cauchy goursat rectangulos"
+title: 'Teo cauchy goursat rectangulos'
 tags:
   - variable-compleja-i/tema4
 ---

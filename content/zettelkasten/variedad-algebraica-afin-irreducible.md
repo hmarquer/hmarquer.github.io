@@ -1,5 +1,5 @@
 ---
-title: "Variedad algebraica afín irreducible"
+title: 'Variedad algebraica afín irreducible'
 tags:
   - algebra-conmutativa/tema3
 ---

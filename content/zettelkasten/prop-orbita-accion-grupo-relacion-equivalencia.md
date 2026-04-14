@@ -1,5 +1,5 @@
 ---
-title: "Prop orbita accion grupo relacion equivalencia"
+title: 'Prop orbita accion grupo relacion equivalencia'
 tags:
   - geometria-diferencial/tema6
 ---

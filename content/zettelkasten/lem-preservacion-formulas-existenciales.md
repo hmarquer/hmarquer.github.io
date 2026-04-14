@@ -1,5 +1,5 @@
 ---
-title: "Lem preservacion formulas existenciales"
+title: 'Lem preservacion formulas existenciales'
 tags:
   - logica-matematica/tema1
 ---

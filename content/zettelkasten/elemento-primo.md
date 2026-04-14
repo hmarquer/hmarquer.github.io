@@ -1,5 +1,5 @@
 ---
-title: "Elemento primo"
+title: 'Elemento primo'
 ---
 
 [[elemento-primo.pdf]]

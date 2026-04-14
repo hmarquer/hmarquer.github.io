@@ -1,5 +1,5 @@
 ---
-title: "Continuidad del producto interno"
+title: 'Continuidad del producto interno'
 tags:
   - variable-real/tema3
 ---

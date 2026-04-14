@@ -1,5 +1,5 @@
 ---
-title: "Identidad de Plancherel"
+title: 'Identidad de Plancherel'
 tags:
   - variable-real/tema3
 ---

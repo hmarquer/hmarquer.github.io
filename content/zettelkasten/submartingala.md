@@ -1,5 +1,5 @@
 ---
-title: "Submartingala"
+title: 'Submartingala'
 tags:
   - probabilidad-ii/tema4
 ---

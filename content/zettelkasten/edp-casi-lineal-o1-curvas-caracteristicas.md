@@ -1,5 +1,5 @@
 ---
-title: "Curvas características de una EDP casi lineal de primer orden"
+title: 'Curvas características de una EDP casi lineal de primer orden'
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---

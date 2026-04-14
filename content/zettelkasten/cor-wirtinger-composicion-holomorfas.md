@@ -1,5 +1,5 @@
 ---
-title: "Derivada de Wirtinger para la composición de funciones"
+title: 'Derivada de Wirtinger para la composición de funciones'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

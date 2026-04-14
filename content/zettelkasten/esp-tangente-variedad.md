@@ -1,5 +1,5 @@
 ---
-title: "Espacio tangente a una variedad diferenciable"
+title: 'Espacio tangente a una variedad diferenciable'
 tags:
   - geometria-diferencial/tema3
 ---

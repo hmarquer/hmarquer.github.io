@@ -1,5 +1,5 @@
 ---
-title: "Teorema de equivalencia entre analiticidad y holomorfía"
+title: 'Teorema de equivalencia entre analiticidad y holomorfía'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

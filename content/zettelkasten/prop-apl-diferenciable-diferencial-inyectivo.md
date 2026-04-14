@@ -1,5 +1,5 @@
 ---
-title: "Prop apl diferenciable diferencial inyectivo"
+title: 'Prop apl diferenciable diferencial inyectivo'
 tags:
   - geometria-diferencial/tema4
 ---

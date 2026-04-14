@@ -1,5 +1,5 @@
 ---
-title: "Las aplicaciones lineales continuas forman un espacio vectorial"
+title: 'Las aplicaciones lineales continuas forman un espacio vectorial'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

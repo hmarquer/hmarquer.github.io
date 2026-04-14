@@ -1,5 +1,5 @@
 ---
-title: "Todo difeomorfismo es un difeomorfismo local"
+title: 'Todo difeomorfismo es un difeomorfismo local'
 tags:
   - geometria-diferencial/tema4
 ---

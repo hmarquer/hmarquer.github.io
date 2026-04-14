@@ -1,5 +1,5 @@
 ---
-title: "Forma explícita de la subestructura generada"
+title: 'Forma explícita de la subestructura generada'
 tags:
   - logica-matematica/tema1-1
 ---

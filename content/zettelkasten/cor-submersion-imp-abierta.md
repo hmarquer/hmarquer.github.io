@@ -1,5 +1,5 @@
 ---
-title: "Toda submersión es una aplicación abierta"
+title: 'Toda submersión es una aplicación abierta'
 tags:
   - geometria-diferencial/tema4
 ---

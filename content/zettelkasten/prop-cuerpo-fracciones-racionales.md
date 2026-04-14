@@ -1,5 +1,5 @@
 ---
-title: "Prop cuerpo fracciones racionales"
+title: 'Prop cuerpo fracciones racionales'
 tags:
   - teoria-de-galois/tema1
 ---

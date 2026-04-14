@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra de parada"
+title: '$\sigma$-álgebra de parada'
 tags:
   - probabilidad-ii/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de reflexión de Schwarz para el disco unidad"
+title: 'Teorema de reflexión de Schwarz para el disco unidad'
 ---
 
 [[cor-reflexion-schwarz-disco-unidad.pdf]]

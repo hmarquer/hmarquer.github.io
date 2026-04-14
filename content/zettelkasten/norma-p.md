@@ -1,5 +1,5 @@
 ---
-title: "Norma $p$"
+title: 'Norma $p$'
 tags:
   - analisis-funcional/tema1
 ---

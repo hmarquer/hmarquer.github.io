@@ -1,5 +1,5 @@
 ---
-title: "Seno topologo"
+title: 'Seno topologo'
 ---
 
 [[seno-topologo.pdf]]

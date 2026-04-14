@@ -1,5 +1,5 @@
 ---
-title: "Espacio de medida"
+title: 'Espacio de medida'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

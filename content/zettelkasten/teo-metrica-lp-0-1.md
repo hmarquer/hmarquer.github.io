@@ -1,5 +1,5 @@
 ---
-title: "Teo metrica lp 0 1"
+title: 'Teo metrica lp 0 1'
 tags:
   - variable-real/tema1
 ---

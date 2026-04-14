@@ -1,5 +1,5 @@
 ---
-title: "Propiedades del direfencial de una aplicación diferenciable"
+title: 'Propiedades del direfencial de una aplicación diferenciable'
 tags:
   - geometria-diferencial/tema3
 ---

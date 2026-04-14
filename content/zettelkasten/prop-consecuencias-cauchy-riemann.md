@@ -1,5 +1,5 @@
 ---
-title: "Consecuencias de las ecuaciones de Cauchy-Riemann"
+title: 'Consecuencias de las ecuaciones de Cauchy-Riemann'
 tags:
   - variable-compleja-i/tema2
 ---

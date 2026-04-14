@@ -1,5 +1,5 @@
 ---
-title: "Subbase de una topología"
+title: 'Subbase de una topología'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

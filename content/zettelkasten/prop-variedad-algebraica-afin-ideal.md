@@ -1,5 +1,5 @@
 ---
-title: "Prop variedad algebraica afin ideal"
+title: 'Prop variedad algebraica afin ideal'
 tags:
   - algebra-conmutativa/tema3
 ---

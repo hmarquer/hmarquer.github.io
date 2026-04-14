@@ -1,5 +1,5 @@
 ---
-title: "Aplicación diferenciable"
+title: 'Aplicación diferenciable'
 tags:
   - geometria-diferencial/tema2
 ---

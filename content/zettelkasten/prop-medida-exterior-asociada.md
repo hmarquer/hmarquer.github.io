@@ -1,5 +1,5 @@
 ---
-title: "Medida exterior asociada"
+title: 'Medida exterior asociada'
 ---
 
 [[prop-medida-exterior-asociada.pdf]]

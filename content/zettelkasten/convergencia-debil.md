@@ -1,5 +1,5 @@
 ---
-title: "Convergencia débil"
+title: 'Convergencia débil'
 tags:
   - analisis-funcional/tema5
 ---

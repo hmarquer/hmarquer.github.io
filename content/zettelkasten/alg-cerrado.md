@@ -1,5 +1,5 @@
 ---
-title: "Cuerpo algebraicamente cerrado"
+title: 'Cuerpo algebraicamente cerrado'
 tags:
   - algebra-conmutativa/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Grupo simple"
+title: 'Grupo simple'
 ---
 
 [[grupo-simple.pdf]]

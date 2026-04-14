@@ -1,5 +1,5 @@
 ---
-title: "El espacio dual es siempre de Banach"
+title: 'El espacio dual es siempre de Banach'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

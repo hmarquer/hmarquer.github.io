@@ -1,5 +1,5 @@
 ---
-title: "Lema de reducción a la parte real para aplicaciones lineales complejas"
+title: 'Lema de reducción a la parte real para aplicaciones lineales complejas'
 tags:
   - analisis-funcional/tema3
 ---

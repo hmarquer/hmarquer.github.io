@@ -1,5 +1,5 @@
 ---
-title: "Val regular apl diferenciable"
+title: 'Val regular apl diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

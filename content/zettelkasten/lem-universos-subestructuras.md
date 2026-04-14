@@ -1,5 +1,5 @@
 ---
-title: "Lem universos subestructuras"
+title: 'Lem universos subestructuras'
 tags:
   - logica-matematica/tema1-1
 ---

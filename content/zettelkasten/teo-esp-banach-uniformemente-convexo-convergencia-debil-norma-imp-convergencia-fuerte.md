@@ -1,5 +1,5 @@
 ---
-title: "Teo espacio banach uniformemente convexo convergencia debil norma imp convergencia fuerte"
+title: 'Teo espacio banach uniformemente convexo convergencia debil norma imp convergencia fuerte'
 tags:
   - analisis-funcional/tema5
 ---

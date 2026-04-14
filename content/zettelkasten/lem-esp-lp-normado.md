@@ -1,5 +1,5 @@
 ---
-title: "Todo espacio $L^p$ es un espacio normado"
+title: 'Todo espacio $L^p$ es un espacio normado'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1

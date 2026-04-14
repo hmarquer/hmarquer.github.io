@@ -1,5 +1,5 @@
 ---
-title: "Edp lineal homogénea"
+title: 'Edp lineal homogénea'
 tags:
   - ecuaciones-en-derivadas-parciales/tema1
 ---

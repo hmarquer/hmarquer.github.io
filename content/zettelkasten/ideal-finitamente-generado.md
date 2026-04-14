@@ -1,5 +1,5 @@
 ---
-title: "Ideal finitamente generado"
+title: 'Ideal finitamente generado'
 tags:
   - algebra-conmutativa/tema2
 ---

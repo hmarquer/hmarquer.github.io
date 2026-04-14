@@ -1,5 +1,5 @@
 ---
-title: "Corolario de la propiedad universal de las submersiones sobreyectivas"
+title: 'Corolario de la propiedad universal de las submersiones sobreyectivas'
 tags:
   - geometria-diferencial/tema4
 ---

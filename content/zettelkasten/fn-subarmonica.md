@@ -1,5 +1,5 @@
 ---
-title: "Función subarmónica"
+title: 'Función subarmónica'
 tags:
   - ecuaciones-en-derivadas-parciales/tema5
 ---

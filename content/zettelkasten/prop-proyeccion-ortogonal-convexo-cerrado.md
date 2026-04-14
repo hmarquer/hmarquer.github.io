@@ -1,5 +1,5 @@
 ---
-title: "Prop proyeccion ortogonal convexo cerrado"
+title: 'Prop proyeccion ortogonal convexo cerrado'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

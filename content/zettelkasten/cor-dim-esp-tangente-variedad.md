@@ -1,5 +1,5 @@
 ---
-title: "La dimensión del espacio tangente coincide con la de la variedad"
+title: 'La dimensión del espacio tangente coincide con la de la variedad'
 tags:
   - geometria-diferencial/tema3
 ---

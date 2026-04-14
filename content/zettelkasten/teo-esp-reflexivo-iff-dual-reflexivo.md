@@ -1,5 +1,5 @@
 ---
-title: "Un espacio normado es reflexivo si y solo si su dual es reflexivo"
+title: 'Un espacio normado es reflexivo si y solo si su dual es reflexivo'
 tags:
   - analisis-funcional/tema3
 ---

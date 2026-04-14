@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la forma prenexa"
+title: 'Teorema de la forma prenexa'
 tags:
   - logica-matematica/tema1
 ---

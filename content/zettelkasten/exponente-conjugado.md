@@ -1,5 +1,5 @@
 ---
-title: "Exponente conjugado"
+title: 'Exponente conjugado'
 tags:
   - probabilidad-ii/tema2
   - variable-real/tema1

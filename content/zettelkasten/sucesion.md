@@ -1,5 +1,5 @@
 ---
-title: "Sucesión"
+title: 'Sucesión'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

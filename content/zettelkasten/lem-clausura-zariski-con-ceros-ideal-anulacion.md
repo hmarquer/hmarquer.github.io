@@ -1,5 +1,5 @@
 ---
-title: "La clausura de Zariski es el conjunto de ceros del ideal de anulación"
+title: 'La clausura de Zariski es el conjunto de ceros del ideal de anulación'
 tags:
   - algebra-conmutativa/tema3
 ---

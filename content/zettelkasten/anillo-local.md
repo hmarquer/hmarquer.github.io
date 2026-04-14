@@ -1,5 +1,5 @@
 ---
-title: "Anillo local"
+title: 'Anillo local'
 ---
 
 [[anillo-local.pdf]]

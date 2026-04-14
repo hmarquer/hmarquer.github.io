@@ -1,5 +1,5 @@
 ---
-title: "Independencia de sucesos"
+title: 'Independencia de sucesos'
 tags:
   - probabilidad-ii/tema1
 ---

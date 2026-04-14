@@ -1,5 +1,5 @@
 ---
-title: "Ideal generado"
+title: 'Ideal generado'
 tags:
   - algebra-conmutativa/tema1
 ---

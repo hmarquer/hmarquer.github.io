@@ -1,5 +1,5 @@
 ---
-title: "Ideal maximal"
+title: 'Ideal maximal'
 tags:
   - algebra-conmutativa/tema1
 ---

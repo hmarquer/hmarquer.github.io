@@ -1,5 +1,5 @@
 ---
-title: "Aditividad"
+title: 'Aditividad'
 tags:
   - analisis-funcional/tema1
 ---

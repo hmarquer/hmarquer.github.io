@@ -1,5 +1,5 @@
 ---
-title: "Estructura producto"
+title: 'Estructura producto'
 tags:
   - logica-matematica/tema1-1
 ---

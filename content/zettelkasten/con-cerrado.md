@@ -1,5 +1,5 @@
 ---
-title: "Conjunto cerrado"
+title: 'Conjunto cerrado'
 ---
 
 [[con-cerrado.pdf]]

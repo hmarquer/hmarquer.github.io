@@ -1,5 +1,5 @@
 ---
-title: "Aplicación cerrada"
+title: 'Aplicación cerrada'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

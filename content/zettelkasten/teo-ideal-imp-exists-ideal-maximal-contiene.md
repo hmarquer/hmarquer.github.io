@@ -1,5 +1,5 @@
 ---
-title: "Todo ideal propio está contenido en un ideal maximal"
+title: 'Todo ideal propio está contenido en un ideal maximal'
 tags:
   - algebra-conmutativa/tema1
 ---

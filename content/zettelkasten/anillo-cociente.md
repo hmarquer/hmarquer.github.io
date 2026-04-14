@@ -1,5 +1,5 @@
 ---
-title: "Anillo cociente"
+title: 'Anillo cociente'
 tags:
   - algebra-conmutativa/tema1
 ---

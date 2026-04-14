@@ -1,5 +1,5 @@
 ---
-title: "Derivada hiperbólica"
+title: 'Derivada hiperbólica'
 tags:
   - variable-compleja-ii/tema3
 ---

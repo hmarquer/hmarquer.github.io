@@ -1,5 +1,5 @@
 ---
-title: "Toda aplicación continua de un espacio topológico a un espacio de Hausdorff tiene gráfica cerrada"
+title: 'Toda aplicación continua de un espacio topológico a un espacio de Hausdorff tiene gráfica cerrada'
 tags:
   - analisis-funcional/tema4
 ---

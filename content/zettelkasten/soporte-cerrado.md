@@ -1,5 +1,5 @@
 ---
-title: "Soporte cerrado"
+title: 'Soporte cerrado'
 tags:
   - geometria-diferencial/tema3
 ---

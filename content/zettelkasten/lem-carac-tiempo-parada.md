@@ -1,5 +1,5 @@
 ---
-title: "Lem carac tiempo parada"
+title: 'Lem carac tiempo parada'
 tags:
   - probabilidad-ii/tema4
 ---

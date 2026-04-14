@@ -1,5 +1,5 @@
 ---
-title: "Teorema de existencia y unicidad de una estructura diferenciable"
+title: 'Teorema de existencia y unicidad de una estructura diferenciable'
 tags:
   - geometria-diferencial/tema1
 ---

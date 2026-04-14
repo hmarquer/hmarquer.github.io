@@ -1,5 +1,5 @@
 ---
-title: "Axiomas de separación"
+title: 'Axiomas de separación'
 ---
 
 [[axm-separacion.pdf]]

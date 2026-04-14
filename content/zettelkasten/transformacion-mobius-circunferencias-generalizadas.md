@@ -1,5 +1,5 @@
 ---
-title: "Toda transformación de Möbius manda circunferencias generalizadas a circunferencias generalizadas"
+title: 'Toda transformación de Möbius manda circunferencias generalizadas a circunferencias generalizadas'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema2

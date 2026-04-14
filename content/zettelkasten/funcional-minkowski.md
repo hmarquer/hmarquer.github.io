@@ -1,5 +1,5 @@
 ---
-title: "Funcional de Minkowski"
+title: 'Funcional de Minkowski'
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Banach-Steinhaus"
+title: 'Teorema de Banach-Steinhaus'
 tags:
   - analisis-funcional/tema4
 ---

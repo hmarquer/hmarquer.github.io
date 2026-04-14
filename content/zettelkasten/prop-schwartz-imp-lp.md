@@ -1,5 +1,5 @@
 ---
-title: "Prop schwartz imp lp"
+title: 'Prop schwartz imp lp'
 tags:
   - variable-real/tema5
 ---

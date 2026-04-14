@@ -1,5 +1,5 @@
 ---
-title: "Norma $\mathcal{L}^p$"
+title: 'Norma $\mathcal{L}^p$'
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - probabilidad-ii/tema2

@@ -1,5 +1,5 @@
 ---
-title: "Anillo"
+title: 'Anillo'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

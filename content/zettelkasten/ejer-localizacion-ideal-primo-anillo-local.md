@@ -1,5 +1,5 @@
 ---
-title: "Ejer localizacion ideal primo anillo local"
+title: 'Ejer localizacion ideal primo anillo local'
 tags:
   - algebra-conmutativa/tema2
 ---

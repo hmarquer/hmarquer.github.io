@@ -1,5 +1,5 @@
 ---
-title: "Palabra"
+title: 'Palabra'
 tags:
   - logica-matematica/tema1
 ---

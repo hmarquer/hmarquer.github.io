@@ -1,5 +1,5 @@
 ---
-title: "Compacidad"
+title: 'Compacidad'
 tags:
   - variable-compleja-i/tema1
   - variable-compleja-ii/tema6

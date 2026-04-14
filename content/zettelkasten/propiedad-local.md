@@ -1,5 +1,5 @@
 ---
-title: "Propiedad local"
+title: 'Propiedad local'
 tags:
   - geometria-diferencial/tema2
 ---

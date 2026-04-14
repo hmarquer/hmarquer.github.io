@@ -1,5 +1,5 @@
 ---
-title: "$\sigma$-álgebra"
+title: '$\sigma$-álgebra'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

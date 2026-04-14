@@ -1,5 +1,5 @@
 ---
-title: "Lem diferencia productos leq suma diferencias"
+title: 'Lem diferencia productos leq suma diferencias'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

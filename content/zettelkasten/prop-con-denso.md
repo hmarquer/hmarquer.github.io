@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de un conjunto denso"
+title: 'Caracterización de un conjunto denso'
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

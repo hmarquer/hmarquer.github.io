@@ -1,5 +1,5 @@
 ---
-title: "Medida-exterior"
+title: 'Medida-exterior'
 ---
 
 [[medida-exterior.pdf]]

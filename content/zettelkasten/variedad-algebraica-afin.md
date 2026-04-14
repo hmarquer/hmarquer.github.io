@@ -1,5 +1,5 @@
 ---
-title: "Variedad algebraica afín"
+title: 'Variedad algebraica afín'
 tags:
   - algebra-conmutativa/tema3
 ---

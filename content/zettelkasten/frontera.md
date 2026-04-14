@@ -1,5 +1,5 @@
 ---
-title: "Frontera"
+title: 'Frontera'
 ---
 
 [[frontera.pdf]]

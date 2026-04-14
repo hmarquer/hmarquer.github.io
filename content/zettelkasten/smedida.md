@@ -1,5 +1,5 @@
 ---
-title: "Medida con signo"
+title: 'Medida con signo'
 tags:
   - probabilidad-ii/hoja0
 ---

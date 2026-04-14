@@ -1,5 +1,5 @@
 ---
-title: "Lem espacioeranza condicionada mejor aprox"
+title: 'Lem espacioeranza condicionada mejor aprox'
 tags:
   - probabilidad-ii/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema universal de las aplicaciones cocientes"
+title: 'Teorema universal de las aplicaciones cocientes'
 tags:
   - geometria-diferencial/tema1
 ---

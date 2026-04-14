@@ -1,5 +1,5 @@
 ---
-title: "Estructura"
+title: 'Estructura'
 tags:
   - logica-matematica/tema1
 ---

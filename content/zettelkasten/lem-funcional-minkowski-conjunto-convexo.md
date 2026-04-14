@@ -1,5 +1,5 @@
 ---
-title: "Funcional de Minkowski asociado a un conjunto convexo"
+title: 'Funcional de Minkowski asociado a un conjunto convexo'
 tags:
   - analisis-funcional/tema3
 ---

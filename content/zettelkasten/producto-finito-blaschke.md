@@ -1,5 +1,5 @@
 ---
-title: "Producto finito de Blaschke"
+title: 'Producto finito de Blaschke'
 tags:
   - productos-finitos-de-blaschke/tema3
   - variable-compleja-ii/tema2

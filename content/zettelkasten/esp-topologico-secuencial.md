@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológico secuencial"
+title: 'Espacio topológico secuencial'
 ---
 
 [[esp-topologico-secuencial.pdf]]

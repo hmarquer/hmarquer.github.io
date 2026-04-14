@@ -1,5 +1,5 @@
 ---
-title: "La derivada de un producto finito de Blaschke no se anula en la circunferencia unidad"
+title: 'La derivada de un producto finito de Blaschke no se anula en la circunferencia unidad'
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

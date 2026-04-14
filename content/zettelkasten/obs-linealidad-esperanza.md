@@ -1,5 +1,5 @@
 ---
-title: "Linealidad de la esperanza"
+title: 'Linealidad de la esperanza'
 tags:
   - probabilidad-ii/tema2
 ---

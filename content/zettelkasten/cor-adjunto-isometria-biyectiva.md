@@ -1,5 +1,5 @@
 ---
-title: "Operador adjunto de una isometría biyectiva"
+title: 'Operador adjunto de una isometría biyectiva'
 tags:
   - analisis-funcional/tema3
 ---

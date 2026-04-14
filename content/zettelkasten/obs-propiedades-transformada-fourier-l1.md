@@ -1,5 +1,5 @@
 ---
-title: "Obs propiedades transformada fourier l1"
+title: 'Obs propiedades transformada fourier l1'
 tags:
   - variable-real/tema5
 ---

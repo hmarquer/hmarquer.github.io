@@ -1,5 +1,5 @@
 ---
-title: "Teoría universal"
+title: 'Teoría universal'
 tags:
   - logica-matematica/tema1-1
 ---

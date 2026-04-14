@@ -1,5 +1,5 @@
 ---
-title: "Acción diferenciable"
+title: 'Acción diferenciable'
 tags:
   - geometria-diferencial/tema6
 ---

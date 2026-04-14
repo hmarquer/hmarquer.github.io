@@ -1,5 +1,5 @@
 ---
-title: "Prop clase ck velocidad convergencia uniforme fourier"
+title: 'Prop clase ck velocidad convergencia uniforme fourier'
 tags:
   - variable-real/tema4
 ---

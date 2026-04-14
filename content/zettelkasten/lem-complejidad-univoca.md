@@ -1,5 +1,5 @@
 ---
-title: "Lem complejidad univoca"
+title: 'Lem complejidad univoca'
 tags:
   - logica-matematica/tema1
 ---

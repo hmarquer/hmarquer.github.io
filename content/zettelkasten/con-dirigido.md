@@ -1,5 +1,5 @@
 ---
-title: "Conjunto dirigido"
+title: 'Conjunto dirigido'
 tags:
   - logica-matematica/tema1-1
 ---

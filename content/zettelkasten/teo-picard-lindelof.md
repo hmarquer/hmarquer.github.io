@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Picard-Lindelöf"
+title: 'Teorema de Picard-Lindelöf'
 ---
 
 [[teo-picard-lindelof.pdf]]

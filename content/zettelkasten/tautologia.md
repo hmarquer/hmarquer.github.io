@@ -1,5 +1,5 @@
 ---
-title: "Tautología"
+title: 'Tautología'
 tags:
   - logica-matematica/tema1
 ---

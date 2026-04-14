@@ -1,5 +1,5 @@
 ---
-title: "Cor lem schwarz derivada distancia borde imagen"
+title: 'Cor lem schwarz derivada distancia borde imagen'
 tags:
   - variable-compleja-ii/tema3
 ---

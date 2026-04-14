@@ -1,5 +1,5 @@
 ---
-title: "Fórmula atómica"
+title: 'Fórmula atómica'
 tags:
   - logica-matematica/tema1
 ---

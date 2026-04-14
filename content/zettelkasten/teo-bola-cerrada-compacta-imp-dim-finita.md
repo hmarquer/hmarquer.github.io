@@ -1,5 +1,5 @@
 ---
-title: "Teo bola cerrada compacta imp dim finita"
+title: 'Teo bola cerrada compacta imp dim finita'
 tags:
   - analisis-funcional/tema2
 ---

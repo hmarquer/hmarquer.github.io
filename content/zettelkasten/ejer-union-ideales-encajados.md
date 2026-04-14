@@ -1,5 +1,5 @@
 ---
-title: "La unión de ideales encajados es un ideal"
+title: 'La unión de ideales encajados es un ideal'
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función antiholomorfa"
+title: 'Función antiholomorfa'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

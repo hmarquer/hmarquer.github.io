@@ -1,5 +1,5 @@
 ---
-title: "Teo cociente dalembert"
+title: 'Teo cociente dalembert'
 tags:
   - variable-compleja-i/tema3
 ---

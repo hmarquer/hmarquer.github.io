@@ -1,5 +1,5 @@
 ---
-title: "Ley débil de los grandes números"
+title: 'Ley débil de los grandes números'
 tags:
   - probabilidad-ii/tema5
 ---

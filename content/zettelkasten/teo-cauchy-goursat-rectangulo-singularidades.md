@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Cauchy-Goursat para rectángulos con singularidades"
+title: 'Teorema de Cauchy-Goursat para rectángulos con singularidades'
 tags:
   - variable-compleja-i/tema4
 ---

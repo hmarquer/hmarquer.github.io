@@ -1,5 +1,5 @@
 ---
-title: "Espacio secuencial (de sucesiones)"
+title: 'Espacio secuencial (de sucesiones)'
 ---
 
 [[esp-secuencial.pdf]]

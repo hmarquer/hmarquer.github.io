@@ -1,5 +1,5 @@
 ---
-title: "Aplicación recubridora"
+title: 'Aplicación recubridora'
 tags:
   - geometria-diferencial/tema6
 ---

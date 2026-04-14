@@ -1,5 +1,5 @@
 ---
-title: "Clausura de Zariski"
+title: 'Clausura de Zariski'
 tags:
   - algebra-conmutativa/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prop teoria generada estructura parametros"
+title: 'Prop teoria generada estructura parametros'
 tags:
   - logica-matematica/tema1-1
 ---

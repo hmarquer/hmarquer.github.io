@@ -1,5 +1,5 @@
 ---
-title: "Lema técnico sobre funcionales lineales dependientes en un espacio de Banach"
+title: 'Lema técnico sobre funcionales lineales dependientes en un espacio de Banach'
 tags:
   - analisis-funcional/tema5
 ---

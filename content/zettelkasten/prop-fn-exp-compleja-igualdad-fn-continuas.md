@@ -1,5 +1,5 @@
 ---
-title: "Prop fn exp compleja igualdad fn continuas"
+title: 'Prop fn exp compleja igualdad fn continuas'
 tags:
   - variable-compleja-ii/tema1
 ---

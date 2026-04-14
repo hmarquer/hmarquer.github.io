@@ -1,5 +1,5 @@
 ---
-title: "Subgrupo"
+title: 'Subgrupo'
 ---
 
 [[subgrupo.pdf]]

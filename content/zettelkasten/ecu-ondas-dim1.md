@@ -1,5 +1,5 @@
 ---
-title: "Ecuación de ondas en dimensión $1$"
+title: 'Ecuación de ondas en dimensión $1$'
 tags:
   - fisica-cuantica/tema1-2
 ---

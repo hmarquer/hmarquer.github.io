@@ -1,5 +1,5 @@
 ---
-title: "Segundo numerable implica separable"
+title: 'Segundo numerable implica separable'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

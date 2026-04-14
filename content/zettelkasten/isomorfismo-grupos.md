@@ -1,5 +1,5 @@
 ---
-title: "Isomorfismo de grupos"
+title: 'Isomorfismo de grupos'
 ---
 
 [[isomorfismo-grupos.pdf]]

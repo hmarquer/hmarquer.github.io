@@ -1,5 +1,5 @@
 ---
-title: "Lem involucion disco unidad rho"
+title: 'Lem involucion disco unidad rho'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

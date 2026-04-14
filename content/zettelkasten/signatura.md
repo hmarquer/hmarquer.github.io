@@ -1,5 +1,5 @@
 ---
-title: "Signatura"
+title: 'Signatura'
 tags:
   - logica-matematica/tema1
 ---

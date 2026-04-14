@@ -1,5 +1,5 @@
 ---
-title: "Lem localmente inyectiva implica inversa no nula"
+title: 'Lem localmente inyectiva implica inversa no nula'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

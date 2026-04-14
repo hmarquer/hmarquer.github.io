@@ -1,5 +1,5 @@
 ---
-title: "Integral del núcleo de Dirichlet"
+title: 'Integral del núcleo de Dirichlet'
 tags:
   - variable-real/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de metrización de Urysohn"
+title: 'Teorema de metrización de Urysohn'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

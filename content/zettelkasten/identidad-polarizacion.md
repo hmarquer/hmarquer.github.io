@@ -1,5 +1,5 @@
 ---
-title: "Identidad de polarización"
+title: 'Identidad de polarización'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

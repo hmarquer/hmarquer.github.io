@@ -1,5 +1,5 @@
 ---
-title: "Interpretación de términos"
+title: 'Interpretación de términos'
 tags:
   - logica-matematica/tema1
 ---

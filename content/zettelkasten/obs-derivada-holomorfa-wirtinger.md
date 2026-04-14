@@ -1,5 +1,5 @@
 ---
-title: "Obs derivada holomorfa wirtinger"
+title: 'Obs derivada holomorfa wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

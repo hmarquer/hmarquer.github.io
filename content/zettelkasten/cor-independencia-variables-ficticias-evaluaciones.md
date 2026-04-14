@@ -1,5 +1,5 @@
 ---
-title: "Corolario de independencia de variables ficticias en evaluaciones"
+title: 'Corolario de independencia de variables ficticias en evaluaciones'
 tags:
   - logica-matematica/tema1
 ---

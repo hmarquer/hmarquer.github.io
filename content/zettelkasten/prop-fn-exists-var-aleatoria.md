@@ -1,5 +1,5 @@
 ---
-title: "Prop fn exists var aleatoria"
+title: 'Prop fn exists var aleatoria'
 tags:
   - probabilidad-ii/tema1
 ---

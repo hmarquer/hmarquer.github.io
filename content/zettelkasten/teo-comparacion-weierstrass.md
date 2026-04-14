@@ -1,5 +1,5 @@
 ---
-title: "Teo comparacion weierstrass"
+title: 'Teo comparacion weierstrass'
 tags:
   - variable-compleja-i/tema3
 ---

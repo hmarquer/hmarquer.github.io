@@ -1,5 +1,5 @@
 ---
-title: "Regla de Barrow compleja"
+title: 'Regla de Barrow compleja'
 tags:
   - variable-compleja-i/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Propiedad universal de la localización"
+title: 'Propiedad universal de la localización'
 tags:
   - algebra-conmutativa/tema2
 ---

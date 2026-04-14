@@ -1,5 +1,5 @@
 ---
-title: "Isomorfismo estructuras"
+title: 'Isomorfismo estructuras'
 tags:
   - logica-matematica/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cor producto modelos teoria horn"
+title: 'Cor producto modelos teoria horn'
 tags:
   - logica-matematica/tema1-1
 ---

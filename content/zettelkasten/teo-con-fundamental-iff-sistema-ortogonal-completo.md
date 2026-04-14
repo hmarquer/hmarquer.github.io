@@ -1,5 +1,5 @@
 ---
-title: "Relación entre conjunto fundamental y sistema ortogonal completo"
+title: 'Relación entre conjunto fundamental y sistema ortogonal completo'
 tags:
   - analisis-funcional/tema2
 ---

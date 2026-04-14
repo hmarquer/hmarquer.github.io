@@ -1,5 +1,5 @@
 ---
-title: "Topología de Zariski"
+title: 'Topología de Zariski'
 tags:
   - algebra-conmutativa/tema3
 ---

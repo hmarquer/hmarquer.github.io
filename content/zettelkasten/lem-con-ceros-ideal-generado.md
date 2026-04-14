@@ -1,5 +1,5 @@
 ---
-title: "El conjunto de ceros de una familia de polinomios es igual al conjunto de ceros del ideal que genera"
+title: 'El conjunto de ceros de una familia de polinomios es igual al conjunto de ceros del ideal que genera'
 tags:
   - algebra-conmutativa/tema3
 ---

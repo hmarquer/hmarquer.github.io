@@ -1,5 +1,5 @@
 ---
-title: "Teorema de descomposición de Doob"
+title: 'Teorema de descomposición de Doob'
 tags:
   - probabilidad-ii/tema4
 ---

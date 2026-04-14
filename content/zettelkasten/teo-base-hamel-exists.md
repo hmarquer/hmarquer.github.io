@@ -1,5 +1,5 @@
 ---
-title: "Existencia de una base de Hamel"
+title: 'Existencia de una base de Hamel'
 tags:
   - analisis-funcional/tema1
 ---

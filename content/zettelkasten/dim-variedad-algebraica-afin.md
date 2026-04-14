@@ -1,5 +1,5 @@
 ---
-title: "Dimensión de una variedad algebraica afín"
+title: 'Dimensión de una variedad algebraica afín'
 tags:
   - algebra-conmutativa/tema6
 ---

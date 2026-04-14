@@ -1,5 +1,5 @@
 ---
-title: "Prop liouville ampliacion"
+title: 'Prop liouville ampliacion'
 tags:
   - variable-compleja-ii/tema3
 ---

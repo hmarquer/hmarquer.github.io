@@ -1,5 +1,5 @@
 ---
-title: "Inmersion estructuras"
+title: 'Inmersion estructuras'
 tags:
   - logica-matematica/tema1
 ---

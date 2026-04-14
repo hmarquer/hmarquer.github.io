@@ -1,5 +1,5 @@
 ---
-title: "La norma en el espacio de aplicaciones lineales continuas"
+title: 'La norma en el espacio de aplicaciones lineales continuas'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

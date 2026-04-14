@@ -1,5 +1,5 @@
 ---
-title: "Ejer desigualdad schwarz pick"
+title: 'Ejer desigualdad schwarz pick'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

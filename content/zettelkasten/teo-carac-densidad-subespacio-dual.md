@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la densidad de un subespacio cerrado según el espacio dual"
+title: 'Caracterización de la densidad de un subespacio cerrado según el espacio dual'
 tags:
   - analisis-funcional/tema3
 ---

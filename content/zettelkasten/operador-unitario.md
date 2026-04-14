@@ -1,5 +1,5 @@
 ---
-title: "Operador unitario"
+title: 'Operador unitario'
 tags:
   - fisica-cuantica/tema1-3
 ---

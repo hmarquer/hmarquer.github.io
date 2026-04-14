@@ -1,5 +1,5 @@
 ---
-title: "Equivalencia entre densidad y complemento con interior vacío"
+title: 'Equivalencia entre densidad y complemento con interior vacío'
 tags:
   - analisis-funcional/tema2
 ---

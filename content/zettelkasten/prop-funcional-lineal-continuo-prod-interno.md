@@ -1,5 +1,5 @@
 ---
-title: "El funcional definido por el producto interno es lineal y continuo"
+title: 'El funcional definido por el producto interno es lineal y continuo'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

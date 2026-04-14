@@ -1,5 +1,5 @@
 ---
-title: "Producto de Cauchy"
+title: 'Producto de Cauchy'
 tags:
   - variable-compleja-i/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lem transformada fourier conmutativa integral"
+title: 'Lem transformada fourier conmutativa integral'
 tags:
   - variable-real/tema5
 ---

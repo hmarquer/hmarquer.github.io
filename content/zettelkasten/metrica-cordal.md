@@ -1,5 +1,5 @@
 ---
-title: "Métrica de cordal"
+title: 'Métrica de cordal'
 tags:
   - variable-compleja-i/tema1
 ---

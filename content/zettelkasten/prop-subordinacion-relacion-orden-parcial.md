@@ -1,5 +1,5 @@
 ---
-title: "Prop subordinacion relacion orden parcial"
+title: 'Prop subordinacion relacion orden parcial'
 tags:
   - variable-compleja-ii/tema4
 ---

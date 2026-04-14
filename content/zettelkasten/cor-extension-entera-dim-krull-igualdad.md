@@ -1,5 +1,5 @@
 ---
-title: "Cor extension entera dim krull igualdad"
+title: 'Cor extension entera dim krull igualdad'
 tags:
   - algebra-conmutativa/tema6
 ---

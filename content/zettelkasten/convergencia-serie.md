@@ -1,5 +1,5 @@
 ---
-title: "Convergencia-serie"
+title: 'Convergencia-serie'
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

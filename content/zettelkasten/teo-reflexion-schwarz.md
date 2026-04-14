@@ -1,5 +1,5 @@
 ---
-title: "Teorema de reflexión de Schwarz"
+title: 'Teorema de reflexión de Schwarz'
 ---
 
 [[teo-reflexion-schwarz.pdf]]

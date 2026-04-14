@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la base de Hilbert"
+title: 'Teorema de la base de Hilbert'
 tags:
   - algebra-conmutativa/tema2
 ---

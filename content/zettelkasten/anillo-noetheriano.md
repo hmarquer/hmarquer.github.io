@@ -1,5 +1,5 @@
 ---
-title: "Anillo noetheriano"
+title: 'Anillo noetheriano'
 tags:
   - algebra-conmutativa/tema2
 ---

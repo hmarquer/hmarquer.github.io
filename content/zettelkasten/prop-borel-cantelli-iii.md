@@ -1,5 +1,5 @@
 ---
-title: "Prop borel cantelli iii"
+title: 'Prop borel cantelli iii'
 tags:
   - probabilidad-ii/tema3
 ---

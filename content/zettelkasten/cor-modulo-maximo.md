@@ -1,5 +1,5 @@
 ---
-title: "Corolario del principio del módulo máximo"
+title: 'Corolario del principio del módulo máximo'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema2

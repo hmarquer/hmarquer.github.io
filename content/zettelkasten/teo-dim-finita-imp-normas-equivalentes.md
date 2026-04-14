@@ -1,5 +1,5 @@
 ---
-title: "Teo dim finita imp normas equivalentes"
+title: 'Teo dim finita imp normas equivalentes'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Diagrama atómico de una estructura"
+title: 'Diagrama atómico de una estructura'
 tags:
   - logica-matematica/tema1-1
 ---

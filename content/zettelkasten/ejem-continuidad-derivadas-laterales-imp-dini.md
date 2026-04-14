@@ -1,5 +1,5 @@
 ---
-title: "Ejem continuidad derivadas laterales imp dini"
+title: 'Ejem continuidad derivadas laterales imp dini'
 tags:
   - variable-real/tema4
 ---

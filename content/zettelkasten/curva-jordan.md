@@ -1,5 +1,5 @@
 ---
-title: "Curva jordan"
+title: 'Curva jordan'
 tags:
   - variable-compleja-i/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Anillo reducido"
+title: 'Anillo reducido'
 tags:
   - algebra-conmutativa/tema1
 ---

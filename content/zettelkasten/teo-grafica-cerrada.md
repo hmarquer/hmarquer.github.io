@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la gráfica cerrada"
+title: 'Teorema de la gráfica cerrada'
 tags:
   - analisis-funcional/tema4
 ---

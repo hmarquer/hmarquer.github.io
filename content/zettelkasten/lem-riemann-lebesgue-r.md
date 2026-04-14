@@ -1,5 +1,5 @@
 ---
-title: "Lema de Riemann-Lebesgue en $\mathcal{L}^1(\R)$"
+title: 'Lema de Riemann-Lebesgue en $\mathcal{L}^1(\R)$'
 tags:
   - variable-real/tema5
 ---

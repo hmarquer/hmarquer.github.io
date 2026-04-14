@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Caratheodory I"
+title: 'Teorema de Caratheodory I'
 tags:
   - probabilidad-ii/hoja0
 ---

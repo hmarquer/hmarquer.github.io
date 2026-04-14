@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Banach-Alaoglu"
+title: 'Teorema de Banach-Alaoglu'
 tags:
   - analisis-funcional/tema5
 ---

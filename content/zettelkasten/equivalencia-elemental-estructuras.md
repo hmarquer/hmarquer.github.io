@@ -1,5 +1,5 @@
 ---
-title: "Equivalencia elemental estructuras"
+title: 'Equivalencia elemental estructuras'
 tags:
   - logica-matematica/tema1-1
 ---

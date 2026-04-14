@@ -1,5 +1,5 @@
 ---
-title: "Ejer extension entera cociente"
+title: 'Ejer extension entera cociente'
 tags:
   - algebra-conmutativa/tema6
 ---

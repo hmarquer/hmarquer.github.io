@@ -1,5 +1,5 @@
 ---
-title: "Lema de Borel-Cantelli I"
+title: 'Lema de Borel-Cantelli I'
 tags:
   - probabilidad-ii/tema2
 ---

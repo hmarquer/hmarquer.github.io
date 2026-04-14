@@ -1,5 +1,5 @@
 ---
-title: "Regla de la cadena para derivadas de Wirtinger"
+title: 'Regla de la cadena para derivadas de Wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

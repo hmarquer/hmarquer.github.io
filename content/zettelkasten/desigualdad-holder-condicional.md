@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad holder condicionada"
+title: 'Desigualdad holder condicionada'
 tags:
   - probabilidad-ii/tema4
 ---

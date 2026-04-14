@@ -1,5 +1,5 @@
 ---
-title: "(Anti)holomorfía en términos de las derivadas de Wirtinger"
+title: '(Anti)holomorfía en términos de las derivadas de Wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

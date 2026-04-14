@@ -1,5 +1,5 @@
 ---
-title: "Propiedad de la convolución para exponentes conjugados"
+title: 'Propiedad de la convolución para exponentes conjugados'
 tags:
   - variable-real/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función de masa"
+title: 'Función de masa'
 ---
 
 [[fn-masa.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "Propiedades del índice de una curva cerrada"
+title: 'Propiedades del índice de una curva cerrada'
 tags:
   - variable-compleja-i/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Compatibilidad $\mathcal{C}^\infty$ entre cartas"
+title: 'Compatibilidad $\mathcal{C}^\infty$ entre cartas'
 tags:
   - geometria-diferencial/tema1
 ---

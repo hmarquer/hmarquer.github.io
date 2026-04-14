@@ -1,5 +1,5 @@
 ---
-title: "Conjunto secuencialmente cerrado"
+title: 'Conjunto secuencialmente cerrado'
 ---
 
 [[con-secuencialmente-cerrado.pdf]]

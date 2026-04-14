@@ -1,5 +1,5 @@
 ---
-title: "Cambio de variables"
+title: 'Cambio de variables'
 tags:
   - logica-matematica/tema1
 ---

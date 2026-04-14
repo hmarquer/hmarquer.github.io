@@ -1,5 +1,5 @@
 ---
-title: "Ejemplo de subestructura elementalmente equivalente que no es subestructura elemental"
+title: 'Ejemplo de subestructura elementalmente equivalente que no es subestructura elemental'
 tags:
   - logica-matematica/tema1-1
 ---

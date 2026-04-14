@@ -1,5 +1,5 @@
 ---
-title: "Principio de los ceros aislados"
+title: 'Principio de los ceros aislados'
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

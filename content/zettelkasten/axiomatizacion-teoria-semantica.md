@@ -1,5 +1,5 @@
 ---
-title: "Axiomatización de una teoría"
+title: 'Axiomatización de una teoría'
 tags:
   - logica-matematica/tema1-1
 ---

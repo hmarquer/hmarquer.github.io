@@ -1,5 +1,5 @@
 ---
-title: "Intersección $\sigma$-álgebra"
+title: 'Intersección $\sigma$-álgebra'
 tags:
   - probabilidad-ii/hoja0
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Curva simple"
+title: 'Curva simple'
 tags:
   - variable-compleja-i/tema4
 ---

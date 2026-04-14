@@ -1,5 +1,5 @@
 ---
-title: "Inversa de un morfismo de anillos biyectivo"
+title: 'Inversa de un morfismo de anillos biyectivo'
 tags:
   - algebra-conmutativa/tema1
 ---

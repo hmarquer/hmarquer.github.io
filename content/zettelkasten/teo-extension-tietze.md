@@ -1,5 +1,5 @@
 ---
-title: "Teorema de extensión de Tietze"
+title: 'Teorema de extensión de Tietze'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

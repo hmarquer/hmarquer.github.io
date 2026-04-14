@@ -1,5 +1,5 @@
 ---
-title: "Velocidad de una curva diferenciable"
+title: 'Velocidad de una curva diferenciable'
 tags:
   - geometria-diferencial/tema3
 ---

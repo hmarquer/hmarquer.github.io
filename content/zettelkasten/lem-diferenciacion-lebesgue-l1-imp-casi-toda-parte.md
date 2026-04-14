@@ -1,5 +1,5 @@
 ---
-title: "Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$ para casi todo punto"
+title: 'Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$ para casi todo punto'
 tags:
   - variable-real/tema2
 ---

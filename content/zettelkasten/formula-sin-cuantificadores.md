@@ -1,5 +1,5 @@
 ---
-title: "Fórmula sin cuantificadores"
+title: 'Fórmula sin cuantificadores'
 tags:
   - logica-matematica/tema1
 ---

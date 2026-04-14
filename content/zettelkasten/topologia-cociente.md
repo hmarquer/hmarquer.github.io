@@ -1,5 +1,5 @@
 ---
-title: "Topología cociente"
+title: 'Topología cociente'
 tags:
   - geometria-diferencial/tema1
 ---

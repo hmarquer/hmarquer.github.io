@@ -1,5 +1,5 @@
 ---
-title: "Serie de Laurent"
+title: 'Serie de Laurent'
 tags:
   - variable-compleja-i/tema5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teo di finito imp cuerpo"
+title: 'Teo di finito imp cuerpo'
 ---
 
 [[teo-di-finito-imp-cuerpo.pdf]]

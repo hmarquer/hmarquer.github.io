@@ -1,5 +1,5 @@
 ---
-title: "Corolario sobre la regularidad de la convolución"
+title: 'Corolario sobre la regularidad de la convolución'
 tags:
   - variable-real/tema2
 ---

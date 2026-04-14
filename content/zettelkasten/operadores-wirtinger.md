@@ -1,5 +1,5 @@
 ---
-title: "Operadores de Wirtinger"
+title: 'Operadores de Wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema2

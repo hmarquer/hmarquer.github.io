@@ -1,5 +1,5 @@
 ---
-title: "$L^2$ es el único espacio $L^p$ que es de Hilbert"
+title: '$L^2$ es el único espacio $L^p$ que es de Hilbert'
 tags:
   - variable-real/tema3
 ---

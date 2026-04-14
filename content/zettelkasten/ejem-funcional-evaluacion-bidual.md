@@ -1,5 +1,5 @@
 ---
-title: "El funcional de evaluación como elemento del bidual"
+title: 'El funcional de evaluación como elemento del bidual'
 tags:
   - analisis-funcional/tema3
 ---

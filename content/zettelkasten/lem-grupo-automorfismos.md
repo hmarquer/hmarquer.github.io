@@ -1,5 +1,5 @@
 ---
-title: "Lem grupo automorfismos"
+title: 'Lem grupo automorfismos'
 tags:
   - logica-matematica/tema1
 ---

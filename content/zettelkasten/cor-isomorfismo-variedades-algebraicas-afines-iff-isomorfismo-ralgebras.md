@@ -1,5 +1,5 @@
 ---
-title: "Cor isomorfismo variedades algebraicas afines iff isomorfismo ralgebras"
+title: 'Cor isomorfismo variedades algebraicas afines iff isomorfismo ralgebras'
 tags:
   - algebra-conmutativa/tema5
 ---

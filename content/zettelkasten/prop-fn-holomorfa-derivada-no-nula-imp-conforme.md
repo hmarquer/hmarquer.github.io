@@ -1,5 +1,5 @@
 ---
-title: "Prop fn holomorfa derivada no nula imp conforme"
+title: 'Prop fn holomorfa derivada no nula imp conforme'
 tags:
   - variable-compleja-ii/tema1
 ---

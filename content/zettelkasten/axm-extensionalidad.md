@@ -1,5 +1,5 @@
 ---
-title: "Axioma de extensionalidad"
+title: 'Axioma de extensionalidad'
 ---
 
 [[axm-extensionalidad.pdf]]

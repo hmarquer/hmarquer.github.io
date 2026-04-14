@@ -1,5 +1,5 @@
 ---
-title: "Lazo"
+title: 'Lazo'
 tags:
   - geometria-diferencial/tema6
 ---

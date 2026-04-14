@@ -1,5 +1,5 @@
 ---
-title: "Ejer espacio banach union cerrados imp interior no vacio"
+title: 'Ejer espacio banach union cerrados imp interior no vacio'
 tags:
   - analisis-funcional/tema4
 ---

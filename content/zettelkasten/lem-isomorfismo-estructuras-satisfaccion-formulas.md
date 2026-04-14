@@ -1,5 +1,5 @@
 ---
-title: "Lem isomorfismo estructuras satisfaccion formulas"
+title: 'Lem isomorfismo estructuras satisfaccion formulas'
 tags:
   - logica-matematica/tema1
 ---

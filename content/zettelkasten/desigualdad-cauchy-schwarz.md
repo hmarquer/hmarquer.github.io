@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad cauchy schwarz"
+title: 'Desigualdad cauchy schwarz'
 tags:
   - analisis-funcional/tema1
   - aprendizaje-automatico/apendice

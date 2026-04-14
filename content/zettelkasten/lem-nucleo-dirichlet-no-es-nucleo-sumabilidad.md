@@ -1,5 +1,5 @@
 ---
-title: "Lem nucleo dirichlet no es nucleo sumabilidad"
+title: 'Lem nucleo dirichlet no es nucleo sumabilidad'
 tags:
   - variable-real/tema4
 ---

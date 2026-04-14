@@ -1,5 +1,5 @@
 ---
-title: "Densidad de las funciones simples en $L^p$"
+title: 'Densidad de las funciones simples en $L^p$'
 tags:
   - variable-real/tema1
 ---

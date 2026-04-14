@@ -1,5 +1,5 @@
 ---
-title: "Lema de extensión de la unión de un conjunto dirigido de estructuras"
+title: 'Lema de extensión de la unión de un conjunto dirigido de estructuras'
 tags:
   - logica-matematica/tema1-1
 ---

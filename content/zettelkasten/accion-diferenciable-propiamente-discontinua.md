@@ -1,5 +1,5 @@
 ---
-title: "Acción diferenciable propiamente discontinua"
+title: 'Acción diferenciable propiamente discontinua'
 tags:
   - geometria-diferencial/tema6
 ---

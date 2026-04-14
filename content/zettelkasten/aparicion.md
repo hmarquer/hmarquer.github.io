@@ -1,5 +1,5 @@
 ---
-title: "Aparición"
+title: 'Aparición'
 tags:
   - logica-matematica/tema1
 ---

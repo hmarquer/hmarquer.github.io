@@ -1,5 +1,5 @@
 ---
-title: "Carta $d$-rebanada"
+title: 'Carta $d$-rebanada'
 tags:
   - geometria-diferencial/tema5
 ---

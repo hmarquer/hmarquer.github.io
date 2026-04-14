@@ -1,5 +1,5 @@
 ---
-title: "Función regular de variedad algebraica afín"
+title: 'Función regular de variedad algebraica afín'
 tags:
   - algebra-conmutativa/tema5
 ---

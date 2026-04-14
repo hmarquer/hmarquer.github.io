@@ -1,5 +1,5 @@
 ---
-title: "Igualdad distribución"
+title: 'Igualdad distribución'
 tags:
   - probabilidad-ii/tema1
 ---

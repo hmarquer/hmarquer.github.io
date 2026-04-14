@@ -1,5 +1,5 @@
 ---
-title: "Teorema de la singularidad evitable de Riemann"
+title: 'Teorema de la singularidad evitable de Riemann'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-ii/tema1

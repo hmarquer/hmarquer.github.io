@@ -1,5 +1,5 @@
 ---
-title: "Forma sesquilineal"
+title: 'Forma sesquilineal'
 ---
 
 [[forma-sesquilineal.pdf]]

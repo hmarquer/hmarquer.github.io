@@ -1,5 +1,5 @@
 ---
-title: "Lem convergencia lp imp medida"
+title: 'Lem convergencia lp imp medida'
 tags:
   - variable-real/tema2
 ---

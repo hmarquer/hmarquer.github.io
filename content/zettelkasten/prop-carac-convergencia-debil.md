@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la convergencia débil"
+title: 'Caracterización de la convergencia débil'
 tags:
   - analisis-funcional/tema5
 ---

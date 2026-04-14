@@ -1,5 +1,5 @@
 ---
-title: "Teorema de convergencia de martingalas"
+title: 'Teorema de convergencia de martingalas'
 tags:
   - probabilidad-ii/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función medible"
+title: 'Función medible'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

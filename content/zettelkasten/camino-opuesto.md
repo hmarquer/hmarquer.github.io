@@ -1,5 +1,5 @@
 ---
-title: "Camino opuesto"
+title: 'Camino opuesto'
 tags:
   - variable-compleja-i/tema4
 ---

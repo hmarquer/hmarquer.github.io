@@ -1,5 +1,5 @@
 ---
-title: "Lem var aleatoria fn distribucion c1"
+title: 'Lem var aleatoria fn distribucion c1'
 tags:
   - probabilidad-ii/tema1
 ---

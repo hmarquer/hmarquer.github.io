@@ -1,5 +1,5 @@
 ---
-title: "Lem ideal total"
+title: 'Lem ideal total'
 tags:
   - algebra-conmutativa/tema1
 ---

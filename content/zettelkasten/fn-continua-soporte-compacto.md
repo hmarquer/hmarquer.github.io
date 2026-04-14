@@ -1,5 +1,5 @@
 ---
-title: "Fn continua soporte compacto"
+title: 'Fn continua soporte compacto'
 tags:
   - variable-real/tema1
 ---

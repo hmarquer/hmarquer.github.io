@@ -1,5 +1,5 @@
 ---
-title: "Fórmula del núcleo de Dirichlet"
+title: 'Fórmula del núcleo de Dirichlet'
 tags:
   - variable-real/tema4
 ---

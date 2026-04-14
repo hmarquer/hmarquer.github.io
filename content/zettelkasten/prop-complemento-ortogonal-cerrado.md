@@ -1,5 +1,5 @@
 ---
-title: "El complemento ortogonal es un subespacio vectorial cerrado"
+title: 'El complemento ortogonal es un subespacio vectorial cerrado'
 tags:
   - analisis-funcional/tema2
 ---

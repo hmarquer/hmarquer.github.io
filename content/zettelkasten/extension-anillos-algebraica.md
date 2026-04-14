@@ -1,5 +1,5 @@
 ---
-title: "Extensión de anillos algebraica"
+title: 'Extensión de anillos algebraica'
 tags:
   - algebra-conmutativa/tema4
 ---

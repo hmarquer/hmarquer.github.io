@@ -1,5 +1,5 @@
 ---
-title: "Prop ideal primo iff cociente di integridad"
+title: 'Prop ideal primo iff cociente di integridad'
 tags:
   - algebra-conmutativa/tema1
 ---

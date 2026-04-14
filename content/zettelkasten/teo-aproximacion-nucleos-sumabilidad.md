@@ -1,5 +1,5 @@
 ---
-title: "Teorema de aproximación por un núcleo de sumabilidad"
+title: 'Teorema de aproximación por un núcleo de sumabilidad'
 tags:
   - variable-real/tema4
 ---

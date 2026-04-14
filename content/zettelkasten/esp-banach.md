@@ -1,5 +1,5 @@
 ---
-title: "Espacio de Banach"
+title: 'Espacio de Banach'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema1

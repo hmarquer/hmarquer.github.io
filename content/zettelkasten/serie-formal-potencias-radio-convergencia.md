@@ -1,5 +1,5 @@
 ---
-title: "Radio de convergencia de una serie de potencias"
+title: 'Radio de convergencia de una serie de potencias'
 tags:
   - modelizacion/tema2
 ---

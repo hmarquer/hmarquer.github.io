@@ -1,5 +1,5 @@
 ---
-title: "Cor substitucion multiple satisfaccion"
+title: 'Cor substitucion multiple satisfaccion'
 tags:
   - logica-matematica/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Subestructura generada"
+title: 'Subestructura generada'
 tags:
   - logica-matematica/tema1-1
 ---

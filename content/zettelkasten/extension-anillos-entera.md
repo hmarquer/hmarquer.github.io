@@ -1,5 +1,5 @@
 ---
-title: "Extensión de anillos entera"
+title: 'Extensión de anillos entera'
 tags:
   - algebra-conmutativa/tema4
 ---

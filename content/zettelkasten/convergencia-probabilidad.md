@@ -1,5 +1,5 @@
 ---
-title: "Convergencia en probabilidad"
+title: 'Convergencia en probabilidad'
 tags:
   - probabilidad-ii/tema3
 ---

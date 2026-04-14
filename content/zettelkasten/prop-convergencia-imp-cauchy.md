@@ -1,5 +1,5 @@
 ---
-title: "Prop convergencia imp cauchy"
+title: 'Prop convergencia imp cauchy'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lema de Fatou para probabilidades"
+title: 'Lema de Fatou para probabilidades'
 tags:
   - probabilidad-ii/tema2
 ---

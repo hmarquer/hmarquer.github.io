@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológico"
+title: 'Espacio topológico'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

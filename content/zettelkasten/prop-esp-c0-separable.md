@@ -1,5 +1,5 @@
 ---
-title: "El espacio $c_0$ es separable"
+title: 'El espacio $c_0$ es separable'
 tags:
   - analisis-funcional/tema2
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lem aut disco unidad composicion tau"
+title: 'Lem aut disco unidad composicion tau'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

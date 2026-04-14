@@ -1,5 +1,5 @@
 ---
-title: "Lenguaje primer orden"
+title: 'Lenguaje primer orden'
 tags:
   - logica-matematica/tema1
 ---

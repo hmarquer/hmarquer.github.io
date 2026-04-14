@@ -1,5 +1,5 @@
 ---
-title: "Elemento irreducible"
+title: 'Elemento irreducible'
 ---
 
 [[elemento-irreducible.pdf]]

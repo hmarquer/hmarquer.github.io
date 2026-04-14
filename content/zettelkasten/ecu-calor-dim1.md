@@ -1,5 +1,5 @@
 ---
-title: "Ecuación del calor en dimensión $1$"
+title: 'Ecuación del calor en dimensión $1$'
 ---
 
 [[ecu-calor-dim1.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: "$F$ es un difeomorfismo local si y solo si tiene rango máximo"
+title: '$F$ es un difeomorfismo local si y solo si tiene rango máximo'
 tags:
   - geometria-diferencial/tema4
 ---

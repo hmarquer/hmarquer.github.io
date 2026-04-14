@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: 'Norma'
 tags:
   - analisis-funcional/tema1
 ---

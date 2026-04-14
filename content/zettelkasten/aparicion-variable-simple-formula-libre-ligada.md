@@ -1,5 +1,5 @@
 ---
-title: "Tipo de aparición de variable simple en fórmula: libre o ligada"
+title: 'Tipo de aparición de variable simple en fórmula: libre o ligada'
 tags:
   - logica-matematica/tema1
 ---

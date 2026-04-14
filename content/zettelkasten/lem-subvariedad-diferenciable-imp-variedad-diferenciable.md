@@ -1,5 +1,5 @@
 ---
-title: "Toda subvariedad diferenciable es una variedad diferenciable"
+title: 'Toda subvariedad diferenciable es una variedad diferenciable'
 tags:
   - geometria-diferencial/tema4
 ---

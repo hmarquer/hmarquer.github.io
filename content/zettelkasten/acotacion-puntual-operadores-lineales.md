@@ -1,5 +1,5 @@
 ---
-title: "Acotación puntual de una familia de operadores lineales entre espacios normados"
+title: 'Acotación puntual de una familia de operadores lineales entre espacios normados'
 tags:
   - analisis-funcional/tema4
 ---

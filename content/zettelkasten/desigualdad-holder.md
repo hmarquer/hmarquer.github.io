@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Hölder"
+title: 'Desigualdad de Hölder'
 tags:
   - probabilidad-ii/tema2
   - variable-real/tema1

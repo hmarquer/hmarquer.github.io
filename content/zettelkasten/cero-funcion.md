@@ -1,5 +1,5 @@
 ---
-title: "Cero de una función"
+title: 'Cero de una función'
 tags:
   - variable-compleja-i/tema4
 ---

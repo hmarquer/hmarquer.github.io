@@ -1,5 +1,5 @@
 ---
-title: "Subespacio vectorial generado"
+title: 'Subespacio vectorial generado'
 tags:
   - analisis-funcional/tema2
 ---

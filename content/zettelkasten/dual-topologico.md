@@ -1,5 +1,5 @@
 ---
-title: "Dual topológico"
+title: 'Dual topológico'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

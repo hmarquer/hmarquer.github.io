@@ -1,5 +1,5 @@
 ---
-title: "Rango-apl-diferenciable"
+title: 'Rango-apl-diferenciable'
 tags:
   - geometria-diferencial/tema4
 ---

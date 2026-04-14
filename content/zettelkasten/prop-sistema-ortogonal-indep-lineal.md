@@ -1,5 +1,5 @@
 ---
-title: "Todo sistema ortogonal es linealmente independiente"
+title: 'Todo sistema ortogonal es linealmente independiente'
 tags:
   - variable-real/tema3
 ---

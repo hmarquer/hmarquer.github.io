@@ -1,5 +1,5 @@
 ---
-title: "Lem prod combinacion convexa prod finito blaschke"
+title: 'Lem prod combinacion convexa prod finito blaschke'
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cor extension entera anillos transitiva"
+title: 'Cor extension entera anillos transitiva'
 tags:
   - algebra-conmutativa/tema4
 ---

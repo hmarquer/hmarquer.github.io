@@ -1,5 +1,5 @@
 ---
-title: "Bola abierta"
+title: 'Bola abierta'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

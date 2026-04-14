@@ -1,5 +1,5 @@
 ---
-title: "Teoría completa"
+title: 'Teoría completa'
 tags:
   - logica-matematica/tema1-1
 ---

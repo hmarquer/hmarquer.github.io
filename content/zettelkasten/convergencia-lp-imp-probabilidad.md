@@ -1,5 +1,5 @@
 ---
-title: "Convergencia en $\mathcal{L}^p$ implica en probabilidad"
+title: 'Convergencia en $\mathcal{L}^p$ implica en probabilidad'
 tags:
   - probabilidad-ii/tema3
 ---

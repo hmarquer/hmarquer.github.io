@@ -1,5 +1,5 @@
 ---
-title: "Teo carac prod finito blaschke"
+title: 'Teo carac prod finito blaschke'
 tags:
   - productos-finitos-de-blaschke/tema3
   - variable-compleja-ii/tema2

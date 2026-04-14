@@ -1,5 +1,5 @@
 ---
-title: "Fórmula de Horn"
+title: 'Fórmula de Horn'
 tags:
   - logica-matematica/tema1-1
 ---

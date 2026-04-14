@@ -1,5 +1,5 @@
 ---
-title: "Satisfacibilidad"
+title: 'Satisfacibilidad'
 tags:
   - logica-matematica/tema1-1
 ---

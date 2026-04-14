@@ -1,5 +1,5 @@
 ---
-title: "Fórmula literal"
+title: 'Fórmula literal'
 tags:
   - logica-matematica/tema1
 ---

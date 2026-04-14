@@ -1,5 +1,5 @@
 ---
-title: "Lema de cambio de variable para el laplaciano"
+title: 'Lema de cambio de variable para el laplaciano'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

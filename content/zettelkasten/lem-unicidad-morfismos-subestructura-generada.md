@@ -1,5 +1,5 @@
 ---
-title: "Lem unicidad morfismos subestructura generada"
+title: 'Lem unicidad morfismos subestructura generada'
 tags:
   - logica-matematica/tema1-1
 ---

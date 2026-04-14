@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Euler-Lagrange"
+title: 'Teorema de Euler-Lagrange'
 tags:
   - modelizacion/tema3
 ---

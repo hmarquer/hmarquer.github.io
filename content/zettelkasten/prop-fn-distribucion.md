@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de la función de distribución"
+title: 'Propiedades de la función de distribución'
 tags:
   - probabilidad-ii/tema1
 ---

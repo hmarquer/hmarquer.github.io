@@ -1,5 +1,5 @@
 ---
-title: "Una variedad algebraica afín es irreducible si y solo si su anillo de coordenadas es un dominio de integridad"
+title: 'Una variedad algebraica afín es irreducible si y solo si su anillo de coordenadas es un dominio de integridad'
 tags:
   - algebra-conmutativa/tema5
 ---

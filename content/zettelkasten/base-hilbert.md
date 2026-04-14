@@ -1,5 +1,5 @@
 ---
-title: "Base de Hilbert"
+title: 'Base de Hilbert'
 tags:
   - analisis-funcional/tema2
 ---

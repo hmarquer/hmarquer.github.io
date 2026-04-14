@@ -1,5 +1,5 @@
 ---
-title: "Corolario del Teorema de Baire"
+title: 'Corolario del Teorema de Baire'
 tags:
   - analisis-funcional/tema4
 ---

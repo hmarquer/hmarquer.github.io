@@ -1,5 +1,5 @@
 ---
-title: "Teorema de aproximación de la identidad por convolución"
+title: 'Teorema de aproximación de la identidad por convolución'
 tags:
   - variable-real/tema2
 ---

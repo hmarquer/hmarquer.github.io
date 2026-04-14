@@ -1,5 +1,5 @@
 ---
-title: "Lem convergencia uniforme espacio finito imp lp"
+title: 'Lem convergencia uniforme espacio finito imp lp'
 tags:
   - variable-real/tema2
 ---

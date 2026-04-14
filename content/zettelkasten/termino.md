@@ -1,5 +1,5 @@
 ---
-title: "Termino"
+title: 'Termino'
 tags:
   - logica-matematica/tema1
 ---

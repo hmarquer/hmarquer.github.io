@@ -1,5 +1,5 @@
 ---
-title: "El radical de un ideal es un ideal"
+title: 'El radical de un ideal es un ideal'
 tags:
   - algebra-conmutativa/tema1
 ---

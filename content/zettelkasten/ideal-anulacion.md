@@ -1,5 +1,5 @@
 ---
-title: "Ideal de anulación"
+title: 'Ideal de anulación'
 tags:
   - algebra-conmutativa/tema3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Serie (de sumas parciales)"
+title: 'Serie (de sumas parciales)'
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

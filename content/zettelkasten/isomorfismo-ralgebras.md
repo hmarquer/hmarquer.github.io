@@ -1,5 +1,5 @@
 ---
-title: "Isomorfismo de $R$-álgebras"
+title: 'Isomorfismo de $R$-álgebras'
 tags:
   - algebra-conmutativa/tema5
 ---

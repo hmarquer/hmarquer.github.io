@@ -1,5 +1,5 @@
 ---
-title: "Forma cuadrática"
+title: 'Forma cuadrática'
 ---
 
 [[forma-cuadratica.pdf]]

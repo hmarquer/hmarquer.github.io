@@ -1,5 +1,5 @@
 ---
-title: "Cor indep var aleatorias iff indep fn distribucion"
+title: 'Cor indep var aleatorias iff indep fn distribucion'
 tags:
   - probabilidad-ii/tema1
 ---

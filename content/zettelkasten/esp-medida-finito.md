@@ -1,5 +1,5 @@
 ---
-title: "Espacio medida finito"
+title: 'Espacio medida finito'
 tags:
   - variable-real/tema1
 ---

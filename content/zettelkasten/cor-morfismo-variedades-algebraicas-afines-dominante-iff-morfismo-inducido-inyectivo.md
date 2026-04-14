@@ -1,5 +1,5 @@
 ---
-title: "Cor morfismo variedades algebraicas afines dominante iff morfismo inducido inyectivo"
+title: 'Cor morfismo variedades algebraicas afines dominante iff morfismo inducido inyectivo'
 tags:
   - algebra-conmutativa/tema5
 ---

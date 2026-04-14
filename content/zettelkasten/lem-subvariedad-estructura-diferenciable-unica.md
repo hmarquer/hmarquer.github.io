@@ -1,5 +1,5 @@
 ---
-title: "Lem subvariedad estructura diferenciable unica"
+title: 'Lem subvariedad estructura diferenciable unica'
 tags:
   - geometria-diferencial/tema5
 ---

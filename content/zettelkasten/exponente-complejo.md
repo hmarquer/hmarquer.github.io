@@ -1,5 +1,5 @@
 ---
-title: "Exponente complejo"
+title: 'Exponente complejo'
 tags:
   - variable-compleja-i/tema2
 ---

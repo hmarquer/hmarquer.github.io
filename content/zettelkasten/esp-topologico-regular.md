@@ -1,5 +1,5 @@
 ---
-title: "Espacio topológico regular"
+title: 'Espacio topológico regular'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

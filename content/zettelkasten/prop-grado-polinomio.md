@@ -1,5 +1,5 @@
 ---
-title: "Prop grado polinomio"
+title: 'Prop grado polinomio'
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

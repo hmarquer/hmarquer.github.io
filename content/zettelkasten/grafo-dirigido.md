@@ -1,5 +1,5 @@
 ---
-title: "Grafo dirigido"
+title: 'Grafo dirigido'
 ---
 
 [[grafo-dirigido.pdf]]

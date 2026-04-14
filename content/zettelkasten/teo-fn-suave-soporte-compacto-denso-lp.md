@@ -1,5 +1,5 @@
 ---
-title: "Teo fn suave soporte compacto denso lp"
+title: 'Teo fn suave soporte compacto denso lp'
 tags:
   - variable-real/tema1
 ---

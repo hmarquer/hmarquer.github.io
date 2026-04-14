@@ -1,5 +1,5 @@
 ---
-title: "Aplicación cociente"
+title: 'Aplicación cociente'
 tags:
   - geometria-diferencial/tema1
 ---

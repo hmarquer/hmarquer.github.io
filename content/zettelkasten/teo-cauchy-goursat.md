@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Cauchy-Goursat"
+title: 'Teorema de Cauchy-Goursat'
 tags:
   - variable-compleja-ii/tema1
 ---

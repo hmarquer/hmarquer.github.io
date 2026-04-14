@@ -1,5 +1,5 @@
 ---
-title: "Obs schur contraccion metrica pseudohiperbolica"
+title: 'Obs schur contraccion metrica pseudohiperbolica'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

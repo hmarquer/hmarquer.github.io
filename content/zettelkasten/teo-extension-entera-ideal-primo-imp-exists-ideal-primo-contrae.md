@@ -1,5 +1,5 @@
 ---
-title: "Teo extension entera ideal primo imp exists ideal primo contrae"
+title: 'Teo extension entera ideal primo imp exists ideal primo contrae'
 tags:
   - algebra-conmutativa/tema6
 ---

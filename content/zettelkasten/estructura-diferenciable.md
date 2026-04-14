@@ -1,5 +1,5 @@
 ---
-title: "Estructura diferenciable"
+title: 'Estructura diferenciable'
 tags:
   - geometria-diferencial/tema1
 ---

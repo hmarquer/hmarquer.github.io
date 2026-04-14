@@ -1,5 +1,5 @@
 ---
-title: "Conjunto de segunda categoría"
+title: 'Conjunto de segunda categoría'
 tags:
   - analisis-funcional/tema4
 ---

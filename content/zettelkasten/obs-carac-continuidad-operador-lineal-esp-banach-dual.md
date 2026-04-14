@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de la continuidad de un operador lineal entre espacios de Banach por elementos del dual"
+title: 'Caracterización de la continuidad de un operador lineal entre espacios de Banach por elementos del dual'
 tags:
   - analisis-funcional/tema4
 ---

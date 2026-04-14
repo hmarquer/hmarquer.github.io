@@ -1,5 +1,5 @@
 ---
-title: "Teo milman pettis"
+title: 'Teo milman pettis'
 tags:
   - analisis-funcional/tema5
 ---

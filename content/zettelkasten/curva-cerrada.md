@@ -1,5 +1,5 @@
 ---
-title: "Curva cerrada"
+title: 'Curva cerrada'
 tags:
   - variable-compleja-i/tema4
 ---

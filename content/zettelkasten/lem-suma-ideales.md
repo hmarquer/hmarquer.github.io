@@ -1,5 +1,5 @@
 ---
-title: "Lem suma ideales"
+title: 'Lem suma ideales'
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Función de distribución"
+title: 'Función de distribución'
 tags:
   - probabilidad-ii/tema1
 ---

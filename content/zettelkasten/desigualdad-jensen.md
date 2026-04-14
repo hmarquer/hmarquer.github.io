@@ -1,5 +1,5 @@
 ---
-title: "Desigualdad de Jensen"
+title: 'Desigualdad de Jensen'
 tags:
   - probabilidad-ii/tema2
   - variable-real/parcial

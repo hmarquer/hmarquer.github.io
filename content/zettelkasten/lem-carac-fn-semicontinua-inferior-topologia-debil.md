@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de funciones semicontinuas inferiores en la topología débil"
+title: 'Caracterización de funciones semicontinuas inferiores en la topología débil'
 tags:
   - analisis-funcional/tema5
 ---

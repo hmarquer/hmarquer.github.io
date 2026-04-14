@@ -1,5 +1,5 @@
 ---
-title: "Convergencia fuerte implica débil"
+title: 'Convergencia fuerte implica débil'
 tags:
   - analisis-funcional/tema5
 ---

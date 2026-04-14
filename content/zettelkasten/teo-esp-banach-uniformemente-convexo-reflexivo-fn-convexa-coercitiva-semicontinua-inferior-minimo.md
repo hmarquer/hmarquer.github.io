@@ -1,5 +1,5 @@
 ---
-title: "Teo espacio banach uniformemente convexo reflexivo fn convexa coercitiva semicontinua inferior minimo"
+title: 'Teo espacio banach uniformemente convexo reflexivo fn convexa coercitiva semicontinua inferior minimo'
 tags:
   - analisis-funcional/tema5
 ---

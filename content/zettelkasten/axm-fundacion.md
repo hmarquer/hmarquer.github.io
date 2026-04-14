@@ -1,5 +1,5 @@
 ---
-title: "Axioma de fundación"
+title: 'Axioma de fundación'
 ---
 
 [[axm-fundacion.pdf]]

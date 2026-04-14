@@ -1,5 +1,5 @@
 ---
-title: "En dimensión infinita, la clausura débil de la esfera es la bola cerrada"
+title: 'En dimensión infinita, la clausura débil de la esfera es la bola cerrada'
 tags:
   - analisis-funcional/tema5
 ---

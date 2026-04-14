@@ -1,5 +1,5 @@
 ---
-title: "Edp casi lineal o1 sistema caracteristico"
+title: 'Edp casi lineal o1 sistema caracteristico'
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---

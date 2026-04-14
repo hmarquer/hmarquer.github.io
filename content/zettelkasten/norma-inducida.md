@@ -1,5 +1,5 @@
 ---
-title: "Norma inducida por producto interno"
+title: 'Norma inducida por producto interno'
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

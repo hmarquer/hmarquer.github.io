@@ -1,5 +1,5 @@
 ---
-title: "Teo aut disco unidad composicion"
+title: 'Teo aut disco unidad composicion'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

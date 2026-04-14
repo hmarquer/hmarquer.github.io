@@ -1,5 +1,5 @@
 ---
-title: "Prop modulo constante imp constante"
+title: 'Prop modulo constante imp constante'
 tags:
   - variable-compleja-ii/tema2
 ---

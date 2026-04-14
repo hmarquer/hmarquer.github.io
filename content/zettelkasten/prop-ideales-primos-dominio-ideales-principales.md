@@ -1,5 +1,5 @@
 ---
-title: "Prop ideales primos dominio ideales principales"
+title: 'Prop ideales primos dominio ideales principales'
 ---
 
 [[prop-ideales-primos-dominio-ideales-principales.pdf]]

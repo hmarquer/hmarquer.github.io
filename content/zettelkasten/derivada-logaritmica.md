@@ -1,5 +1,5 @@
 ---
-title: "Derivada logarítmica"
+title: 'Derivada logarítmica'
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

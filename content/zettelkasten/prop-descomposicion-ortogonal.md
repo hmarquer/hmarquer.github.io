@@ -1,5 +1,5 @@
 ---
-title: "Prop descomposicion ortogonal"
+title: 'Prop descomposicion ortogonal'
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

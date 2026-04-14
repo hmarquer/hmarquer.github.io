@@ -1,5 +1,5 @@
 ---
-title: "Función integrable localmente"
+title: 'Función integrable localmente'
 tags:
   - variable-real/tema2
 ---

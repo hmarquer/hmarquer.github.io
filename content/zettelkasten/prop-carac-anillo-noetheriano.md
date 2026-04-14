@@ -1,5 +1,5 @@
 ---
-title: "Caracterización de un anillo noetheriano"
+title: 'Caracterización de un anillo noetheriano'
 tags:
   - algebra-conmutativa/tema2
 ---

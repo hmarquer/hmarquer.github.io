@@ -1,5 +1,5 @@
 ---
-title: "Teo morfismo inducido variedades algebraicas afines sobreyectivo imp isomorfismo"
+title: 'Teo morfismo inducido variedades algebraicas afines sobreyectivo imp isomorfismo'
 tags:
   - algebra-conmutativa/tema5
 ---

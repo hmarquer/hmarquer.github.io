@@ -1,5 +1,5 @@
 ---
-title: "Morfismo de grupos"
+title: 'Morfismo de grupos'
 ---
 
 [[morfismo-grupos.pdf]]

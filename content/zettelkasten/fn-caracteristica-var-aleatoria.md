@@ -1,5 +1,5 @@
 ---
-title: "Función característica de una variable aleatoria"
+title: 'Función característica de una variable aleatoria'
 tags:
   - probabilidad-ii/tema5
 ---

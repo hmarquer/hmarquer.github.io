@@ -1,5 +1,5 @@
 ---
-title: "Aplicación abierta"
+title: 'Aplicación abierta'
 tags:
   - analisis-funcional/tema4
   - teoria-descriptiva-de-conjuntos/tema1

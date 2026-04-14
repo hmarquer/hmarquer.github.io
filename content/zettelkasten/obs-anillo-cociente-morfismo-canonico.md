@@ -1,5 +1,5 @@
 ---
-title: "Obs anillo cociente morfismo canonico"
+title: 'Obs anillo cociente morfismo canonico'
 tags:
   - algebra-conmutativa/tema1
 ---

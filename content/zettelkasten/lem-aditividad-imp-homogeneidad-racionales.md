@@ -1,5 +1,5 @@
 ---
-title: "Lem aditividad imp homogeneidad racionales"
+title: 'Lem aditividad imp homogeneidad racionales'
 tags:
   - analisis-funcional/tema1
 ---

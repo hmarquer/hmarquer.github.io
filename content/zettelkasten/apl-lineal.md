@@ -1,5 +1,5 @@
 ---
-title: "Aplicación lineal"
+title: 'Aplicación lineal'
 tags:
   - analisis-funcional/tema2
 ---

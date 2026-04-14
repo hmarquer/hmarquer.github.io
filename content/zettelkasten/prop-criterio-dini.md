@@ -1,5 +1,5 @@
 ---
-title: "Criterio de Dini"
+title: 'Criterio de Dini'
 tags:
   - variable-real/tema4
 ---

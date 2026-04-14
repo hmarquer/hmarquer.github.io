@@ -1,5 +1,5 @@
 ---
-title: "Núcleo de Dirichlet"
+title: 'Núcleo de Dirichlet'
 tags:
   - variable-real/tema4
 ---

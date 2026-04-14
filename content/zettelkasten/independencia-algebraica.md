@@ -1,5 +1,5 @@
 ---
-title: "Independencia algebraica"
+title: 'Independencia algebraica'
 tags:
   - algebra-conmutativa/tema4
 ---

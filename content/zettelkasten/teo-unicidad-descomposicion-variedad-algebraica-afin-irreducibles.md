@@ -1,5 +1,5 @@
 ---
-title: "Unicidad de la descomposición de una variedad algebraica afín en irreducibles"
+title: 'Unicidad de la descomposición de una variedad algebraica afín en irreducibles'
 tags:
   - algebra-conmutativa/tema3
 ---

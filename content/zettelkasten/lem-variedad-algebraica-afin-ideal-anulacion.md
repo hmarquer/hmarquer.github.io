@@ -1,5 +1,5 @@
 ---
-title: "Lema variedad algebraica afín ideal anulación"
+title: 'Lema variedad algebraica afín ideal anulación'
 tags:
   - algebra-conmutativa/tema3
 ---

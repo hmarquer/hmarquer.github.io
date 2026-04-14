@@ -1,5 +1,5 @@
 ---
-title: "Cor ideal primo localizacion extendido"
+title: 'Cor ideal primo localizacion extendido'
 tags:
   - algebra-conmutativa/tema2
 ---

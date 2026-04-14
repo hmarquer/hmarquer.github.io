@@ -1,5 +1,5 @@
 ---
-title: "Las variedades difeomorfas tienen la misma dimensión"
+title: 'Las variedades difeomorfas tienen la misma dimensión'
 tags:
   - geometria-diferencial/tema3
 ---

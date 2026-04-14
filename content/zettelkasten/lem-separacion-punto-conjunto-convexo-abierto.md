@@ -1,5 +1,5 @@
 ---
-title: "Lema de separación de un punto y un conjunto convexo abierto"
+title: 'Lema de separación de un punto y un conjunto convexo abierto'
 tags:
   - analisis-funcional/tema3
 ---

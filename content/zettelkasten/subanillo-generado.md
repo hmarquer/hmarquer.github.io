@@ -1,5 +1,5 @@
 ---
-title: "Subanillo generado"
+title: 'Subanillo generado'
 tags:
   - algebra-conmutativa/tema1
 ---

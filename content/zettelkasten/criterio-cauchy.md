@@ -1,5 +1,5 @@
 ---
-title: "Criterio cauchy"
+title: 'Criterio cauchy'
 tags:
   - variable-compleja-i/tema3
 ---

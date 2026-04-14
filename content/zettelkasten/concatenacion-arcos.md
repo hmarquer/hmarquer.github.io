@@ -1,5 +1,5 @@
 ---
-title: "Concatenación de arcos"
+title: 'Concatenación de arcos'
 tags:
   - geometria-diferencial/tema6
 ---

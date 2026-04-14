@@ -1,5 +1,5 @@
 ---
-title: "Lema subvariedad diferenciable"
+title: 'Lema subvariedad diferenciable'
 tags:
   - geometria-diferencial/tema5
 ---

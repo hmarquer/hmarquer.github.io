@@ -1,5 +1,5 @@
 ---
-title: "Sistema ortonormal"
+title: 'Sistema ortonormal'
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

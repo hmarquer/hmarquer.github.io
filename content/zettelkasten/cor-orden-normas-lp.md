@@ -1,5 +1,5 @@
 ---
-title: "Corolario del orden de las normas $\mathcal{L}^p$"
+title: 'Corolario del orden de las normas $\mathcal{L}^p$'
 tags:
   - probabilidad-ii/tema2
 ---

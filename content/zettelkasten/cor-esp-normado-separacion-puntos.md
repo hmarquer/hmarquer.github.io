@@ -1,5 +1,5 @@
 ---
-title: "Corolario de separación de puntos en un espacio normado"
+title: 'Corolario de separación de puntos en un espacio normado'
 tags:
   - analisis-funcional/tema3
 ---

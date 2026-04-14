@@ -1,5 +1,5 @@
 ---
-title: "Teorema de continuidad de Lévy"
+title: 'Teorema de continuidad de Lévy'
 tags:
   - probabilidad-ii/tema5
 ---

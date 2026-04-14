@@ -1,5 +1,5 @@
 ---
-title: "Constante"
+title: 'Constante'
 tags:
   - logica-matematica/tema1
 ---

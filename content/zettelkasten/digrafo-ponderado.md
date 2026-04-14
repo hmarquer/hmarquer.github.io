@@ -1,5 +1,5 @@
 ---
-title: "Digrafo ponderado"
+title: 'Digrafo ponderado'
 ---
 
 [[digrafo-ponderado.pdf]]

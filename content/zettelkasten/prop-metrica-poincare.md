@@ -1,5 +1,5 @@
 ---
-title: "Prop metrica poincare"
+title: 'Prop metrica poincare'
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3

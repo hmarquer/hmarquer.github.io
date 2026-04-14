@@ -1,5 +1,5 @@
 ---
-title: "Álgebra"
+title: 'Álgebra'
 ---
 
 [[algebra.pdf]]

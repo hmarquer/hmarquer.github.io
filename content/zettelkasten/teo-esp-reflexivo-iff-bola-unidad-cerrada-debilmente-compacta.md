@@ -1,5 +1,5 @@
 ---
-title: "Un espacio es reflexivo si y solo si la bola unidad cerrada es débilmente compacta"
+title: 'Un espacio es reflexivo si y solo si la bola unidad cerrada es débilmente compacta'
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teo densidad induce metrica"
+title: 'Teo densidad induce metrica'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---

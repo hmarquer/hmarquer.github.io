@@ -1,5 +1,5 @@
 ---
-title: "Obs aut disco unidad fija origen imp rotacion"
+title: 'Obs aut disco unidad fija origen imp rotacion'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3

@@ -1,5 +1,5 @@
 ---
-title: "Topología de Kolmogorov"
+title: 'Topología de Kolmogorov'
 ---
 
 [[kolmogorov-topologia.pdf]]

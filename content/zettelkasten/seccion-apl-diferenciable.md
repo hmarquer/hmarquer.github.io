@@ -1,5 +1,5 @@
 ---
-title: "Sección de una aplicación diferenciable"
+title: 'Sección de una aplicación diferenciable'
 tags:
   - geometria-diferencial/tema4
 ---

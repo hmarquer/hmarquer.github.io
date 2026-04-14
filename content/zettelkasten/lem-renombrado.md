@@ -1,5 +1,5 @@
 ---
-title: "Lema del renombrado"
+title: 'Lema del renombrado'
 tags:
   - logica-matematica/tema1-1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Teorema de Fubini"
+title: 'Teorema de Fubini'
 ---
 
 [[teo-fubini.pdf]]

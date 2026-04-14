@@ -1,5 +1,5 @@
 ---
-title: "Preservación de fórmulas universales en subestructuras"
+title: 'Preservación de fórmulas universales en subestructuras'
 tags:
   - logica-matematica/tema1-1
 ---

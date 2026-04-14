@@ -1,5 +1,5 @@
 ---
-title: "Variedad diferenciable"
+title: 'Variedad diferenciable'
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cor subestructura modelo teoria universal"
+title: 'Cor subestructura modelo teoria universal'
 tags:
   - logica-matematica/tema1-1
 ---

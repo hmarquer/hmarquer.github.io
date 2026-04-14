@@ -1,5 +1,5 @@
 ---
-title: "Cor norma p no norma"
+title: 'Cor norma p no norma'
 tags:
   - analisis-funcional/tema1
 ---

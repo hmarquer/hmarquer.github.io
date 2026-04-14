@@ -1,5 +1,5 @@
 ---
-title: "Conmutador grupo"
+title: 'Conmutador grupo'
 ---
 
 [[conmutador-grupo.pdf]]

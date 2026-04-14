@@ -1,5 +1,5 @@
 ---
-title: "En espacios metrizables, separable es equivalente a segundo numerable"
+title: 'En espacios metrizables, separable es equivalente a segundo numerable'
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

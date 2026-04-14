@@ -1,5 +1,5 @@
 ---
-title: "Ejer identidad auxiliar disco unidad"
+title: 'Ejer identidad auxiliar disco unidad'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

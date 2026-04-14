@@ -1,5 +1,5 @@
 ---
-title: "Conjunto nulo para una medida"
+title: 'Conjunto nulo para una medida'
 ---
 
 [[con-nulo.pdf]]

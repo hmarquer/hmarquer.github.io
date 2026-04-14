@@ -1,5 +1,5 @@
 ---
-title: "Serie-formal-potencias-derivada"
+title: 'Serie-formal-potencias-derivada'
 ---
 
 [[serie-formal-potencias-derivada.pdf]]

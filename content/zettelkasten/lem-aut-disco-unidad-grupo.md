@@ -1,5 +1,5 @@
 ---
-title: "Lem aut disco unidad grupo"
+title: 'Lem aut disco unidad grupo'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

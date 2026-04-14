@@ -1,5 +1,5 @@
 ---
-title: "Teorema de separación de un punto y un subespacio cerrado en un espacio normado"
+title: 'Teorema de separación de un punto y un subespacio cerrado en un espacio normado'
 tags:
   - analisis-funcional/tema3
 ---

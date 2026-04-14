@@ -1,5 +1,5 @@
 ---
-title: "Propiedades de una derivación"
+title: 'Propiedades de una derivación'
 tags:
   - geometria-diferencial/tema3
 ---

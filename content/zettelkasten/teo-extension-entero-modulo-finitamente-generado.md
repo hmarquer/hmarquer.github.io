@@ -1,5 +1,5 @@
 ---
-title: "Toda extensión sobre un entero es un módulo finitamente generado"
+title: 'Toda extensión sobre un entero es un módulo finitamente generado'
 tags:
   - algebra-conmutativa/tema4
 ---

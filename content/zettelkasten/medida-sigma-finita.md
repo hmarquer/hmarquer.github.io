@@ -1,5 +1,5 @@
 ---
-title: "Medida sigma finita"
+title: 'Medida sigma finita'
 tags:
   - variable-real/tema1
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fórmula para el laplaciano en función de las derivadas de Wirtinger"
+title: 'Fórmula para el laplaciano en función de las derivadas de Wirtinger'
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

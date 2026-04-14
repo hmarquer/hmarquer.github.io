@@ -1,5 +1,5 @@
 ---
-title: "Núcleo de sumabilidad"
+title: 'Núcleo de sumabilidad'
 tags:
   - variable-real/tema4
 ---

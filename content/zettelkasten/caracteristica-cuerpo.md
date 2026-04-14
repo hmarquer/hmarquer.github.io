@@ -1,5 +1,5 @@
 ---
-title: "Característica de un cuerpo"
+title: 'Característica de un cuerpo'
 ---
 
 [[caracteristica-cuerpo.pdf]]

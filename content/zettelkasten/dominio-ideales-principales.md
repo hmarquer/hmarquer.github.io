@@ -1,5 +1,5 @@
 ---
-title: "Dominio de ideales principales"
+title: 'Dominio de ideales principales'
 tags:
   - algebra-conmutativa/tema1
 ---

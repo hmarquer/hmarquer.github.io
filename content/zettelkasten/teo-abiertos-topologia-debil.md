@@ -1,5 +1,5 @@
 ---
-title: "Abiertos de la topología débil"
+title: 'Abiertos de la topología débil'
 tags:
   - analisis-funcional/tema5
 ---

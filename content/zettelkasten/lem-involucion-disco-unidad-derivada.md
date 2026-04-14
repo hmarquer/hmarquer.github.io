@@ -1,5 +1,5 @@
 ---
-title: "Lem involucion disco unidad derivada"
+title: 'Lem involucion disco unidad derivada'
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

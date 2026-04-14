@@ -1,5 +1,5 @@
 ---
-title: "Lema de Fatou"
+title: 'Lema de Fatou'
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

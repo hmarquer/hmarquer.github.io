@@ -1,5 +1,5 @@
 ---
-title: "Inyectividad local"
+title: 'Inyectividad local'
 tags:
   - productos-finitos-de-blaschke/tema1
 ---
