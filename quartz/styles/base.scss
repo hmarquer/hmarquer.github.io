@@ -160,7 +160,8 @@ a {
 }
 
 .page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   & article {
     & > h1 {
@@ -211,9 +212,6 @@ a {
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
     }
 
-    @media all and not ($desktop) {
-      padding: 0 1rem;
-    }
     @media all and ($mobile) {
       margin: 0 auto;
     }
@@ -226,6 +224,10 @@ a {
       display: flex;
       height: 100vh;
       position: sticky;
+      
+      &:empty {
+        display: none;
+      }
     }
 
     & .sidebar.left {
@@ -246,18 +248,15 @@ a {
 
     & .sidebar.right {
       grid-area: grid-sidebar-right;
-      margin-right: 0;
+      margin: 1rem auto 0 auto;
       flex-direction: column;
-      @media all and ($mobile) {
-        margin-left: inherit;
-        margin-right: inherit;
-      }
+      position: initial;
+      height: unset;
+      top: auto;
+      padding: 0;
+      width: 100%;
       @media all and not ($desktop) {
-        position: initial;
-        height: unset;
-        width: 100%;
         flex-direction: row;
-        padding: 0;
         & > * {
           flex: 1;
           max-height: 24rem;
@@ -274,37 +273,67 @@ a {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      margin: 1rem 0 0 0;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      box-sizing: border-box;
+      @media all and ($desktop) {
+        padding-left: clamp(1rem, 2vw, 2rem);
+        padding-right: clamp(1rem, 2vw, 2rem);
+      }
       @media all and ($mobile) {
-        margin-top: 0;
-        padding: 0;
+        padding-left: 1rem;
+        padding-right: 1rem;
       }
     }
 
-    & .center > article {
+    &.no-right-sidebar {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "grid-header"
+        "grid-center"
+        "grid-footer";
+
+      & footer {
+        width: 100%;
+        max-width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+
+    & .center {
       grid-area: grid-center;
+      width: 100%;
+      max-width: 100%;
+      margin-left: 0;
+      margin-right: 0;
     }
 
     & footer {
       grid-area: grid-footer;
     }
 
-    & .center,
-    & footer {
-      max-width: 100%;
-      min-width: 100%;
+    & .center > .popover-hint,
+    & .center > article,
+    & .center > hr,
+    & .center > .page-footer,
+    & footer,
+    & .sidebar.right {
+      width: 100%;
+      max-width: 960px;
       margin-left: auto;
       margin-right: auto;
-      @media all and ($tablet) {
-        margin-right: 0;
-      }
-      @media all and ($mobile) {
-        margin-right: 0;
-        margin-left: 0;
+
+      @media all and not ($desktop) {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        box-sizing: border-box;
       }
     }
-    & footer {
-      margin-left: 0;
+
+    & .sidebar.right > * {
+      width: 100%;
     }
   }
 }

@@ -1,8 +1,17 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
-const currentTheme = localStorage.getItem("theme") ?? userPref
-document.documentElement.setAttribute("saved-theme", currentTheme)
+type ThemeMode = "auto" | "light" | "dark"
+type ResolvedTheme = "light" | "dark"
 
-const emitThemeChangeEvent = (theme: "light" | "dark") => {
+const getSystemTheme = (): ResolvedTheme =>
+  window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+
+const getResolvedTheme = (mode: ThemeMode): ResolvedTheme =>
+  mode === "auto" ? getSystemTheme() : mode
+
+let currentMode = (localStorage.getItem("theme") as ThemeMode | null) ?? "auto"
+document.documentElement.setAttribute("data-theme-mode", currentMode)
+document.documentElement.setAttribute("saved-theme", getResolvedTheme(currentMode))
+
+const emitThemeChangeEvent = (theme: ResolvedTheme) => {
   const event: CustomEventMap["themechange"] = new CustomEvent("themechange", {
     detail: { theme },
   })
@@ -10,18 +19,25 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 }
 
 document.addEventListener("nav", () => {
+  const applyMode = (mode: ThemeMode) => {
+    currentMode = mode
+    const resolvedTheme = getResolvedTheme(mode)
+    document.documentElement.setAttribute("data-theme-mode", mode)
+    document.documentElement.setAttribute("saved-theme", resolvedTheme)
+    localStorage.setItem("theme", mode)
+    emitThemeChangeEvent(resolvedTheme)
+  }
+
   const switchTheme = () => {
-    const newTheme =
-      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    emitThemeChangeEvent(newTheme)
+    const nextMode: ThemeMode =
+      currentMode === "auto" ? "dark" : currentMode === "dark" ? "light" : "auto"
+    applyMode(nextMode)
   }
 
   const themeChange = (e: MediaQueryListEvent) => {
-    const newTheme = e.matches ? "dark" : "light"
+    if (currentMode !== "auto") return
+    const newTheme: ResolvedTheme = e.matches ? "dark" : "light"
     document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
     emitThemeChangeEvent(newTheme)
   }
 
