@@ -1,5 +1,5 @@
 ---
-title: 'Cor substitucion multiple satisfaccion'
+title: 'Corolario de satisfacción de la substitución múltiple'
 tags:
   - logica-matematica/tema1
 ---

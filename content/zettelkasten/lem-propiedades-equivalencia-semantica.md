@@ -1,5 +1,5 @@
 ---
-title: 'Lem propiedades equivalencia semantica'
+title: 'Propiedades de la equivalencia semántica'
 tags:
   - logica-matematica/tema1
 ---

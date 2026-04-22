@@ -1,5 +1,5 @@
 ---
-title: 'Cor subestructura modelo teoria universal'
+title: 'La subestructura de un modelo de una teoría universal es un modelo de la teoría'
 tags:
   - logica-matematica/tema1-1
 ---
