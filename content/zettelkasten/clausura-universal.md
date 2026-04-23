@@ -1,7 +1,7 @@
 ---
 title: 'Clausura universal'
 tags:
-  - logica-matematica/tema2
+  - logica-matematica/tema3
 ---
 
 [[clausura-universal.pdf]]
