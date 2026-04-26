@@ -1,7 +1,7 @@
 ---
 title: 'Axiomas lógicos'
 tags:
-  - logica-matematica/tema2
+  - logica-matematica/tema3
 ---
 
 [[axiomas-logicos.pdf]]

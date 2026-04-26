@@ -1,5 +1,5 @@
 ---
-title: 'Lem equivalencia semantica cuantificadores'
+title: 'Lema de equivalencia semántica de cuantificadores'
 tags:
   - logica-matematica/tema1
 ---

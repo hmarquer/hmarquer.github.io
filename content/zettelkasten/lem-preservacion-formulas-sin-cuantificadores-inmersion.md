@@ -1,5 +1,5 @@
 ---
-title: 'Lem preservacion formulas sin cuantificadores inmersion'
+title: 'Preservación de fórmulas sin cuantificadores por una inmersión'
 tags:
   - logica-matematica/tema1
 ---

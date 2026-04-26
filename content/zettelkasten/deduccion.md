@@ -1,7 +1,7 @@
 ---
 title: 'Deducción'
 tags:
-  - logica-matematica/tema2
+  - logica-matematica/tema3
 ---
 
 [[deduccion.pdf]]

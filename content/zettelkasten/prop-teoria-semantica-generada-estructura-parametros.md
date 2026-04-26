@@ -1,5 +1,5 @@
 ---
-title: 'Prop teoria generada estructura parametros'
+title: 'Teoría semántica generada por una estructura con parámetros'
 tags:
   - logica-matematica/tema1-1
 ---

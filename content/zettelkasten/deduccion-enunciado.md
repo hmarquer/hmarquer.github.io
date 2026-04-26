@@ -1,7 +1,7 @@
 ---
 title: 'Deducción de un enunciado'
 tags:
-  - logica-matematica/tema2
+  - logica-matematica/tema3
 ---
 
 [[deduccion-enunciado.pdf]]
