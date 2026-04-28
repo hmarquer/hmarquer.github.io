@@ -11,5 +11,6 @@ tags:
 ![[convergencia-puntual.pdf]]
 
 ## Referencias
+- [convergencia](./convergencia.md)
 - [esp-metrico](./esp-metrico.md)
 
