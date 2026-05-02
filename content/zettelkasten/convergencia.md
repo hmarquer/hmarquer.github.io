@@ -3,6 +3,7 @@ title: 'Convergencia'
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema1
+  - variable-compleja-ii/tema6
 ---
 
 [[convergencia.pdf]]

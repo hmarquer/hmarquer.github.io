@@ -1,5 +1,7 @@
 ---
 title: 'Convergencia Uniforme Compactos'
+tags:
+  - variable-compleja-ii/tema6
 ---
 
 [[convergencia-uniforme-compactos.pdf]]
