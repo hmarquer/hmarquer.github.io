@@ -1,7 +1,7 @@
 ---
 title: 'Preservación de fórmulas existenciales por inmersiones'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-preservacion-formulas-existenciales.pdf]]

@@ -1,7 +1,7 @@
 ---
 title: 'Lema de substitución en fórmulas'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-substitucion-formulas.pdf]]

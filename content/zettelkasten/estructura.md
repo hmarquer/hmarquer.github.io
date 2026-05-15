@@ -1,7 +1,7 @@
 ---
 title: 'Estructura'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[estructura.pdf]]

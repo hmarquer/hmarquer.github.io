@@ -1,7 +1,7 @@
 ---
 title: 'La consecuencia semántica es una relación de orden parcial'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[obs-consecuencia-semantica-orden-parcial.pdf]]

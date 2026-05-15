@@ -1,14 +1,14 @@
 ---
-title: 'Satisfacibilidad'
+title: 'Clase de modelos'
 tags:
   - logica-matematica/tema1-2
 ---
 
-[[satisfacibilidad.pdf]]
-![[satisfacibilidad.pdf]]
+[[clase-modelos.pdf]]
+![[clase-modelos.pdf]]
 
 ## Referencias
-- [enunciado](./enunciado.md)
 - [estructura](./estructura.md)
 - [modelo](./modelo.md)
+- [teoria-semantica](./teoria-semantica.md)
 

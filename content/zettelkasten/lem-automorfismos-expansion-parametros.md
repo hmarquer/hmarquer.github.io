@@ -1,7 +1,7 @@
 ---
 title: 'Lema de automorfismos de la expansión por parámetros'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-automorfismos-expansion-parametros.pdf]]

@@ -1,7 +1,7 @@
 ---
 title: 'Lema de substitución en términos'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-substitucion-terminos.pdf]]

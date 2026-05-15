@@ -1,7 +1,7 @@
 ---
 title: 'Formula prenexa'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[formula-prenexa.pdf]]

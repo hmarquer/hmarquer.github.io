@@ -1,7 +1,7 @@
 ---
 title: 'Inmersión elemental'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[inmersion-elemental.pdf]]

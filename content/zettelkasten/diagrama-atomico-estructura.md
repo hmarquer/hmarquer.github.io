@@ -1,7 +1,7 @@
 ---
 title: 'Diagrama atómico de una estructura'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[diagrama-atomico-estructura.pdf]]

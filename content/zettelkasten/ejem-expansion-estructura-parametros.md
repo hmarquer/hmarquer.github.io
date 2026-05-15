@@ -1,7 +1,7 @@
 ---
 title: 'Ejem expansion estructura parametros'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[ejem-expansion-estructura-parametros.pdf]]

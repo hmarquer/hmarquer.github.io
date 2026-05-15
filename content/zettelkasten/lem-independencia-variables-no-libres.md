@@ -1,7 +1,7 @@
 ---
-title: 'Lem independencia variables no libres'
+title: 'Lema de independencia de variables no libres'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-independencia-variables-no-libres.pdf]]

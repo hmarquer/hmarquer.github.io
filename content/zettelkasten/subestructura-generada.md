@@ -1,7 +1,7 @@
 ---
 title: 'Subestructura generada'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[subestructura-generada.pdf]]

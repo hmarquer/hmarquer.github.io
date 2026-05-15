@@ -1,7 +1,7 @@
 ---
 title: 'Interpretación de términos'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[interpretacion-terminos.pdf]]

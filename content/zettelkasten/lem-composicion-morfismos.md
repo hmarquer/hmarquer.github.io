@@ -1,7 +1,7 @@
 ---
 title: 'Lem composicion morfismos'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-composicion-morfismos.pdf]]

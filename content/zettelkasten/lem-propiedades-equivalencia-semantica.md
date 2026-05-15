@@ -1,7 +1,7 @@
 ---
 title: 'Propiedades de la equivalencia semántica'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-propiedades-equivalencia-semantica.pdf]]

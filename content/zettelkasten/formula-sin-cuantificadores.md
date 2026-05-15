@@ -1,7 +1,7 @@
 ---
 title: 'Fórmula sin cuantificadores'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[formula-sin-cuantificadores.pdf]]

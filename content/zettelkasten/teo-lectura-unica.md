@@ -1,7 +1,7 @@
 ---
 title: 'Teorema de lectura única'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[teo-lectura-unica.pdf]]

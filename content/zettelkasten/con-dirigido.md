@@ -1,7 +1,7 @@
 ---
 title: 'Conjunto dirigido'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[con-dirigido.pdf]]

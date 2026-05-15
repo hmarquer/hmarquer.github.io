@@ -1,7 +1,7 @@
 ---
 title: 'Fórmula universal'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[formula-universal.pdf]]

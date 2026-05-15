@@ -1,7 +1,7 @@
 ---
 title: 'Teoría completa'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[teoria-semantica-completa.pdf]]

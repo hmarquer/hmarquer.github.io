@@ -1,7 +1,7 @@
 ---
 title: 'Tautología'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[tautologia.pdf]]

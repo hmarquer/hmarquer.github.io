@@ -1,7 +1,7 @@
 ---
 title: 'Lema de la proyección cartesiana como morfismo'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[lem-proyeccion-cartesiana-morfismo.pdf]]
