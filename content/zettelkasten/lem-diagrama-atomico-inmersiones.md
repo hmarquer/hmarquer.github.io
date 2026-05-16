@@ -16,4 +16,4 @@ tags:
 - [reducto-expansion](./reducto-expansion.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#COMPLETAR 

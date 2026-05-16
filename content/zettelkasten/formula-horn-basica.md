@@ -8,6 +8,7 @@ tags:
 ![[formula-horn-basica.pdf]]
 
 ## Referencias
+- [equivalencia-semantica](./equivalencia-semantica.md)
 - [formula](./formula.md)
 - [formula-atomica](./formula-atomica.md)
 

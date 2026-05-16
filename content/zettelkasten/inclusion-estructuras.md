@@ -1,5 +1,5 @@
 ---
-title: 'Inclusion estructuras'
+title: 'Inclusión de estructuras'
 tags:
   - logica-matematica/tema1-1
 ---
