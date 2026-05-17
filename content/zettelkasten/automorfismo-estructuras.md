@@ -1,7 +1,7 @@
 ---
 title: 'Automorfismo estructuras'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[automorfismo-estructuras.pdf]]

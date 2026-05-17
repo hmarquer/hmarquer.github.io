@@ -1,7 +1,7 @@
 ---
 title: 'Cambio de variables'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[obs-cambio-variables.pdf]]

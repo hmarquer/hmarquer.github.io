@@ -1,7 +1,7 @@
 ---
 title: 'Prop teoria generada estructura'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[teoria-semantica-generada-estructura.pdf]]

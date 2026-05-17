@@ -1,7 +1,7 @@
 ---
 title: 'Preservación de fórmulas universales en subestructuras'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[lem-preservacion-formulas-universales-subestructuras.pdf]]

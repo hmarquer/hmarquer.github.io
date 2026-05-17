@@ -1,7 +1,7 @@
 ---
 title: 'Lema de equivalencia semántica de cuantificadores'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-equivalencia-semantica-cuantificadores.pdf]]
@@ -9,6 +9,8 @@ tags:
 
 ## Referencias
 - [equivalencia-semantica](./equivalencia-semantica.md)
+- [lem-independencia-variables-no-libres](./lem-independencia-variables-no-libres.md)
+- [lem-propiedades-equivalencia-semantica](./lem-propiedades-equivalencia-semantica.md)
 - [variable-simple-formula-libre-ligada](./variable-simple-formula-libre-ligada.md)
 - [variables](./variables.md)
 

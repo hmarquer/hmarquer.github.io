@@ -1,7 +1,7 @@
 ---
 title: 'Fórmula existencial'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[formula-existencial.pdf]]

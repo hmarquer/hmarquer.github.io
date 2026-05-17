@@ -1,7 +1,7 @@
 ---
 title: 'Teorema de la forma prenexa'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[teo-forma-prenexa.pdf]]

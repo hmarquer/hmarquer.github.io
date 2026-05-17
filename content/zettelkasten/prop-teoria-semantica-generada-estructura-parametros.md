@@ -1,7 +1,7 @@
 ---
 title: 'Teoría semántica generada por una estructura con parámetros'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[prop-teoria-semantica-generada-estructura-parametros.pdf]]

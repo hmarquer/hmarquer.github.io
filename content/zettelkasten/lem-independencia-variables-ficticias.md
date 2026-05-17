@@ -1,7 +1,7 @@
 ---
 title: 'Lema de independencia de variables ficticias'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-independencia-variables-ficticias.pdf]]

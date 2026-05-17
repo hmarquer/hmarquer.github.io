@@ -1,7 +1,7 @@
 ---
 title: 'Lem subestructura interseccion'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[lem-subestructura-interseccion.pdf]]

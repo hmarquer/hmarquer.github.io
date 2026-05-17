@@ -1,7 +1,7 @@
 ---
 title: 'Variable simple formula libre ligada'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[variable-simple-formula-libre-ligada.pdf]]

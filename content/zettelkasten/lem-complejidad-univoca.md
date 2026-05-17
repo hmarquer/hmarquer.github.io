@@ -1,7 +1,7 @@
 ---
 title: 'Lem complejidad univoca'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-complejidad-univoca.pdf]]

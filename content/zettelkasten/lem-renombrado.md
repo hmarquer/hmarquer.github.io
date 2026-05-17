@@ -1,7 +1,7 @@
 ---
 title: 'Lema del renombrado'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[lem-renombrado.pdf]]

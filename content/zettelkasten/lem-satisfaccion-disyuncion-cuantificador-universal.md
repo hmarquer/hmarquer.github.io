@@ -1,7 +1,7 @@
 ---
 title: 'Lem satisfaccion disyuncion cuantificador universal'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-satisfaccion-disyuncion-cuantificador-universal.pdf]]

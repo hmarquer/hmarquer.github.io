@@ -1,7 +1,7 @@
 ---
 title: 'Tipo de aparición de variable simple en fórmula: libre o ligada'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[aparicion-variable-simple-formula-libre-ligada.pdf]]

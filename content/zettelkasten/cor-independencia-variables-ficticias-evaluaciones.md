@@ -1,7 +1,7 @@
 ---
 title: 'Corolario de independencia de variables ficticias en evaluaciones'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[cor-independencia-variables-ficticias-evaluaciones.pdf]]

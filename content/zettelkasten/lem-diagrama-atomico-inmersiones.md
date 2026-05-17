@@ -1,7 +1,7 @@
 ---
 title: 'Lem diagrama atomico inmersiones'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[lem-diagrama-atomico-inmersiones.pdf]]
@@ -16,4 +16,4 @@ tags:
 - [reducto-expansion](./reducto-expansion.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#COMPLETAR 

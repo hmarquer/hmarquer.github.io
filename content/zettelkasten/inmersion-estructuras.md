@@ -1,7 +1,7 @@
 ---
-title: 'Inmersion estructuras'
+title: 'Inmersión de estructuras'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[inmersion-estructuras.pdf]]
@@ -9,6 +9,6 @@ tags:
 
 ## Referencias
 - [estructura](./estructura.md)
+- [inclusion-estructuras](./inclusion-estructuras.md)
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
-- [morfismo-estructuras](./morfismo-estructuras.md)
 

@@ -1,7 +1,7 @@
 ---
 title: 'Lem isomorfismo estructuras satisfaccion formulas'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-isomorfismo-estructuras-satisfaccion-formulas.pdf]]

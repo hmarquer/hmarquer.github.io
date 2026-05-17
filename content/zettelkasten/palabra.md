@@ -1,7 +1,7 @@
 ---
 title: 'Palabra'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[palabra.pdf]]

@@ -1,7 +1,7 @@
 ---
 title: 'Isomorfismo estructuras'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[isomorfismo-estructuras.pdf]]

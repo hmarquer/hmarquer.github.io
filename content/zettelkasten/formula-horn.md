@@ -1,7 +1,7 @@
 ---
 title: 'Fórmula de Horn'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[formula-horn.pdf]]

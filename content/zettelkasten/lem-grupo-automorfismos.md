@@ -1,7 +1,7 @@
 ---
 title: 'Lem grupo automorfismos'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-grupo-automorfismos.pdf]]

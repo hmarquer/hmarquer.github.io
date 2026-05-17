@@ -1,7 +1,7 @@
 ---
-title: 'Lem substitucion satisfaccion'
+title: 'Lema de satisfacción de la substitución'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[lem-substitucion-satisfaccion.pdf]]

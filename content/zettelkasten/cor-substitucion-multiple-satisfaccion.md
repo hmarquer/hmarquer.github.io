@@ -1,7 +1,7 @@
 ---
 title: 'Corolario de satisfacción de la substitución múltiple'
 tags:
-  - logica-matematica/tema1
+  - logica-matematica/tema1-1
 ---
 
 [[cor-substitucion-multiple-satisfaccion.pdf]]

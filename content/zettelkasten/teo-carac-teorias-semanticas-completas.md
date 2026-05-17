@@ -1,7 +1,7 @@
 ---
 title: 'Caracterización de teorías completas'
 tags:
-  - logica-matematica/tema1-1
+  - logica-matematica/tema1-2
 ---
 
 [[teo-carac-teorias-semanticas-completas.pdf]]
