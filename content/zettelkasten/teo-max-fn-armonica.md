@@ -14,5 +14,3 @@ tags:
 - [prop-fn-armonica-simplemente-conexo-imp-holomorfa](./prop-fn-armonica-simplemente-conexo-imp-holomorfa.md)
 - [teo-modulo-maximo](./teo-modulo-maximo.md)
 
-## Etiquetas
-#ORDENAR referenciar

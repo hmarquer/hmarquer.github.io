@@ -2,6 +2,7 @@
 title: 'Toda función holomorfa tiene primitiva holomorfa'
 tags:
   - variable-compleja-i/tema4
+  - variable-compleja-ii/tema1
 ---
 
 [[teo-fn-holomorfa-imp-exists-primitiva.pdf]]

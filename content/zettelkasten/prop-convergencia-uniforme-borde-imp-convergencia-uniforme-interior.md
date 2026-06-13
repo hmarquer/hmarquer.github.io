@@ -11,6 +11,7 @@ tags:
 - [con-acotado](./con-acotado.md)
 - [continuidad](./continuidad.md)
 - [convergencia-uniforme](./convergencia-uniforme.md)
+- [cor-modulo-maximo](./cor-modulo-maximo.md)
 - [dominio](./dominio.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 
