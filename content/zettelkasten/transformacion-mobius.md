@@ -3,6 +3,7 @@ title: 'Transformación de Möbius'
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-i/tema2
+  - variable-compleja-ii/tema1
 ---
 
 [[transformacion-mobius.pdf]]
