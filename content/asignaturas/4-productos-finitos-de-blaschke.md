@@ -47,7 +47,6 @@ tags:
 - [ejer-schwarz-pick-extremales](./ejer-schwarz-pick-extremales.md)
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
 - [inyectividad-local](./inyectividad-local.md)
-- [lem-aut-disco-unidad-composicion-tau](./lem-aut-disco-unidad-composicion-tau.md)
 - [lem-aut-disco-unidad-grupo](./lem-aut-disco-unidad-grupo.md)
 - [lem-involucion-disco-unidad](./lem-involucion-disco-unidad.md)
 - [lem-involucion-disco-unidad-derivada](./lem-involucion-disco-unidad-derivada.md)

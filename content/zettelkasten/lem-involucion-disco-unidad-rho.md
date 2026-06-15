@@ -2,6 +2,7 @@
 title: 'Lem involucion disco unidad rho'
 tags:
   - productos-finitos-de-blaschke/tema1
+  - variable-compleja-ii/tema2
 ---
 
 [[lem-involucion-disco-unidad-rho.pdf]]

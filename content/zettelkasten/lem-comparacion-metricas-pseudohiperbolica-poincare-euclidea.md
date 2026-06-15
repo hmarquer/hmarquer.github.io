@@ -12,4 +12,4 @@ tags:
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#COMPLETAR : justificar la última igualdad

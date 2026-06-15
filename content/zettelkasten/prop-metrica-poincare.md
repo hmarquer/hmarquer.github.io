@@ -9,10 +9,8 @@ tags:
 ![[prop-metrica-poincare.pdf]]
 
 ## Referencias
-- [Metrica](./Metrica.md)
-- [ejer-desigualdad-triangular-producto-hiperbolico](./ejer-desigualdad-triangular-producto-hiperbolico.md)
+- [lem-desigualdad-triangular-producto-hiperbolico](./lem-desigualdad-triangular-producto-hiperbolico.md)
+- [metrica](./metrica.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
-- [teo-desigualdad-triangular-generalizada](./teo-desigualdad-triangular-generalizada.md)
+- [teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada](./teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada.md)
 
-## Etiquetas
-#ORDENAR : referenciar bien
