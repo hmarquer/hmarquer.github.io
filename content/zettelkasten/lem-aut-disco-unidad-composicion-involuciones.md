@@ -1,6 +1,7 @@
 ---
 title: 'Lem Aut Disco Unidad Composicion Involuciones'
 tags:
+  - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2
 ---
 
