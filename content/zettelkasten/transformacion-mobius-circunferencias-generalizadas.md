@@ -11,7 +11,6 @@ tags:
 
 ## Referencias
 - [circunferencia-generalizada](./circunferencia-generalizada.md)
-- [plano-complejo-extendido](./plano-complejo-extendido.md)
 - [prop-transformacion-mobius-composicion](./prop-transformacion-mobius-composicion.md)
 - [transformacion-mobius](./transformacion-mobius.md)
 

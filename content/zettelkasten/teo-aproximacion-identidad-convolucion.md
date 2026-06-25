@@ -15,7 +15,6 @@ tags:
 - [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [norma-lp](./norma-lp.md)
 - [obs-propiedades-dilatacion-isotropica](./obs-propiedades-dilatacion-isotropica.md)
-- [teo-desigualdad-holder](./teo-desigualdad-holder.md)
 - [teo-fubini](./teo-fubini.md)
 - [traslacion](./traslacion.md)
 

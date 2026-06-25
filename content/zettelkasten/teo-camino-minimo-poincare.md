@@ -12,7 +12,7 @@ tags:
 - [lem-camino-minimo-poincare-0-r](./lem-camino-minimo-poincare-0-r.md)
 - [lem-invariancia-conforme-longitud-hiperbolica](./lem-invariancia-conforme-longitud-hiperbolica.md)
 - [longitud-hiperbolica](./longitud-hiperbolica.md)
-- [metrica-poincare](./metrica-poincare.md)
 - [prop-aut-disco-unidad-inversa](./prop-aut-disco-unidad-inversa.md)
 - [prop-aut-disco-unidad-traslada-z1-0-z2-01](./prop-aut-disco-unidad-traslada-z1-0-z2-01.md)
+- [prop-metrica-poincare](./prop-metrica-poincare.md)
 

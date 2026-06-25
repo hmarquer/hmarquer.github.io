@@ -9,7 +9,6 @@ tags:
 ![[lem-esp-lp-vectorial.pdf]]
 
 ## Referencias
-- [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
 - [esp-medida](./esp-medida.md)
 - [esp-vectorial](./esp-vectorial.md)

@@ -8,7 +8,6 @@ tags:
 ![[var-aleatoria.pdf]]
 
 ## Referencias
-- [esp-medida](./esp-medida.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [fn-medible](./fn-medible.md)
 

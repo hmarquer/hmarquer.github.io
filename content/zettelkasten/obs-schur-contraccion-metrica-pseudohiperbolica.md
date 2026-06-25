@@ -1,5 +1,5 @@
 ---
-title: 'Obs schur contraccion metrica pseudohiperbolica'
+title: 'Toda función de la clase de Schur es una contracción para la métrica pseudohiperbólica'
 tags:
   - productos-finitos-de-blaschke/tema2
 ---
@@ -8,8 +8,8 @@ tags:
 ![[obs-schur-contraccion-metrica-pseudohiperbolica.pdf]]
 
 ## Referencias
-- [Prop-metrica-pseudohiperbolica-disco-unidad](./Prop-metrica-pseudohiperbolica-disco-unidad.md)
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [clase-schur](./clase-schur.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
+- [teo-schwarz-pick](./teo-schwarz-pick.md)
 

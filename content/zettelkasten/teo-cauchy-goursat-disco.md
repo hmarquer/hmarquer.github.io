@@ -13,7 +13,6 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 - [regla-barrow-compleja](./regla-barrow-compleja.md)
-- [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
 - [teo-fn-holomorfa-imp-exists-primitiva](./teo-fn-holomorfa-imp-exists-primitiva.md)
 
 ## Etiquetas

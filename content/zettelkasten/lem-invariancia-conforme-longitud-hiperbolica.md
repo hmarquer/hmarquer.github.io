@@ -1,5 +1,5 @@
 ---
-title: 'Lem Invariancia Conforme Longitud Hiperbolica'
+title: 'Invariancia conforme de la longitud hiperbólica'
 tags:
   - variable-compleja-ii/tema3
 ---
@@ -8,11 +8,11 @@ tags:
 ![[lem-invariancia-conforme-longitud-hiperbolica.pdf]]
 
 ## Referencias
-- [Teo-formula-aut-disco-unidad](./Teo-formula-aut-disco-unidad.md)
 - [automorfismo-disco-unidad](./automorfismo-disco-unidad.md)
 - [camino](./camino.md)
 - [ejem-rotacion-disco-unidad](./ejem-rotacion-disco-unidad.md)
 - [lem-involucion-disco-unidad](./lem-involucion-disco-unidad.md)
 - [longitud-hiperbolica](./longitud-hiperbolica.md)
+- [teo-formula-aut-disco-unidad](./teo-formula-aut-disco-unidad.md)
 - [teo-schwarz-pick](./teo-schwarz-pick.md)
 

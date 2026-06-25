@@ -1,5 +1,5 @@
 ---
-title: 'Prop-fn-compleja-derivable'
+title: 'Propiedades de la $\C$-derivabilidad'
 tags:
   - variable-compleja-i/tema2
 ---
@@ -8,8 +8,8 @@ tags:
 ![[prop-fn-compleja-derivable.pdf]]
 
 ## Referencias
-- [Continuidad](./Continuidad.md)
-- [Fn-compleja-derivable-pnt](./Fn-compleja-derivable-pnt.md)
+- [continuidad](./continuidad.md)
+- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

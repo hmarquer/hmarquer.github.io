@@ -12,7 +12,6 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 - [teo-cauchy-goursat-convexo](./teo-cauchy-goursat-convexo.md)
-- [teo-cauchy-goursat-disco](./teo-cauchy-goursat-disco.md)
 
 ## Etiquetas
 #ORDENAR referenciar

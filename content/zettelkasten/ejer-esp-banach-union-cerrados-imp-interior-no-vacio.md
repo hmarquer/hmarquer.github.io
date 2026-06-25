@@ -8,7 +8,6 @@ tags:
 ![[ejer-esp-banach-union-cerrados-imp-interior-no-vacio.pdf]]
 
 ## Referencias
-- [con-segunda-categoria](./con-segunda-categoria.md)
 - [cor-baire](./cor-baire.md)
 - [esp-banach](./esp-banach.md)
 - [prop-con-denso-ninguna-parte-carac](./prop-con-denso-ninguna-parte-carac.md)

@@ -9,7 +9,6 @@ tags:
 ![[desigualdad-holder.pdf]]
 
 ## Referencias
-- [desigualdad-jensen](./desigualdad-jensen.md)
 - [desigualdad-young](./desigualdad-young.md)
 - [esp-lp](./esp-lp.md)
 - [exponente-conjugado](./exponente-conjugado.md)
