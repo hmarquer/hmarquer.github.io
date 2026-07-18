@@ -1,5 +1,5 @@
 ---
-title: 'Lem subgrupo automorfismos fijan'
+title: 'Los automorfismos que fijan un subconjunto forman un subgrupo'
 tags:
   - logica-matematica/tema1-1
 ---

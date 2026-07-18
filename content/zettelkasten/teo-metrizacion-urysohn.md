@@ -9,9 +9,9 @@ tags:
 
 ## Referencias
 - [esp-metrizable](./esp-metrizable.md)
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico-regular](./esp-topologico-regular.md)
 - [frechet-topologia](./frechet-topologia.md)
-- [segundo-numerable](./segundo-numerable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

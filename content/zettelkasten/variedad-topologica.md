@@ -8,8 +8,8 @@ tags:
 ![[variedad-topologica.pdf]]
 
 ## Referencias
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [hausdorff-topologia](./hausdorff-topologia.md)
 - [homeomorfismo](./homeomorfismo.md)
-- [segundo-numerable](./segundo-numerable.md)
 

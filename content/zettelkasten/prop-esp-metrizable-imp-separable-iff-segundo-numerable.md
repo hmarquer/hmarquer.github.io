@@ -9,8 +9,8 @@ tags:
 
 ## Referencias
 - [esp-metrizable](./esp-metrizable.md)
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
-- [segundo-numerable](./segundo-numerable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

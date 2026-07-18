@@ -1,5 +1,5 @@
 ---
-title: 'Automorfismo estructuras'
+title: 'Automorfismo de estructuras'
 tags:
   - logica-matematica/tema1-1
 ---

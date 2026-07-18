@@ -1,5 +1,5 @@
 ---
-title: 'Lem unicidad armonica'
+title: 'Lema de unicidad para funciones armónicas'
 tags:
   - variable-compleja-ii/tema2
 ---

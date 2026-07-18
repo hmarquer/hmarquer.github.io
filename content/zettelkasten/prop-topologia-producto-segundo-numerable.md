@@ -6,6 +6,6 @@ title: 'El espacio topológico producto de dos espacios segundo numerables es se
 ![[prop-topologia-producto-segundo-numerable.pdf]]
 
 ## Referencias
-- [segundo-numerable](./segundo-numerable.md)
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [topologia-producto](./topologia-producto.md)
 

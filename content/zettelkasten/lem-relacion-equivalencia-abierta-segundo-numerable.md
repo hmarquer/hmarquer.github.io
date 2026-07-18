@@ -8,8 +8,8 @@ tags:
 ![[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
 
 ## Referencias
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
-- [segundo-numerable](./segundo-numerable.md)
 - [topologia](./topologia.md)
 - [topologia-cociente](./topologia-cociente.md)
 

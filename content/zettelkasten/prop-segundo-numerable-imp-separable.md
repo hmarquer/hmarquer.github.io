@@ -8,9 +8,9 @@ tags:
 ![[prop-segundo-numerable-imp-separable.pdf]]
 
 ## Referencias
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
-- [segundo-numerable](./segundo-numerable.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

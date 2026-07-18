@@ -2,6 +2,7 @@
 title: 'Métrica inducida'
 tags:
   - analisis-funcional/tema1
+  - topologia/tema1-1
 ---
 
 [[metrica-inducida.pdf]]

@@ -1,5 +1,5 @@
 ---
-title: 'Lem satisfaccion disyuncion cuantificador universal'
+title: 'Lema de satisfacción de la disyunción y del cuantificador universal'
 tags:
   - logica-matematica/tema1-1
 ---

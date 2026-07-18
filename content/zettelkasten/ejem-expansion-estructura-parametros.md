@@ -1,5 +1,5 @@
 ---
-title: 'Ejem expansion estructura parametros'
+title: 'Ejemplo de expansión de una estructura por parámetros'
 tags:
   - logica-matematica/tema1-1
 ---
