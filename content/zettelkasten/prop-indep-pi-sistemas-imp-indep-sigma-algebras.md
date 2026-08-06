@@ -1,5 +1,22 @@
 ---
 title: 'La independencia de $\pi$-sistemas implica la independencia de las $\sigma$-álgebras generadas'
+filename: 'prop-indep-pi-sistemas-imp-indep-sigma-algebras'
+created: '2025-02-22 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.171410057+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.427018469+00:00'
+labels:
+  - note
+  - prop:indep-pi-sistemas-imp-indep-sigma-algebras
+references:
+  - independencia-pi-sistemas
+  - independencia-sigma-algebras
+  - lambda-sistema
+  - teo-convergencia-monotona
+  - teo-pi-sistema-subset-lambda-sistema
+backlinks:
+  - cor-indep-var-aleatorias-iff-indep-fn-distribucion
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema1
 ---

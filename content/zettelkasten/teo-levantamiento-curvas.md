@@ -1,5 +1,17 @@
 ---
 title: 'Teorema de levantamiento de curvas'
+filename: 'teo-levantamiento-curvas'
+created: '2025-06-22 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.211909409+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.060595400+00:00'
+labels:
+  - note
+  - teo:levantamiento-curvas
+references:
+  - apl-recubridora-diferenciable
+  - curva-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema6
 ---

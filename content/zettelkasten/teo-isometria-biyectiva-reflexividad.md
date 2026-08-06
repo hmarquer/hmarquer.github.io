@@ -1,5 +1,26 @@
 ---
 title: 'Dos espacios normados relacionados por una isometría biyectiva son reflexivos simultáneamente'
+filename: 'teo-isometria-biyectiva-reflexividad'
+created: '2025-12-25 22:35:01.192004'
+last_edit_date: '2026-03-31T17:47:48.211221300+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.416724470+00:00'
+labels:
+  - note
+  - teo:isometria-biyectiva-reflexividad
+references:
+  - cor-adjunto-isometria-biyectiva
+  - ejem-funcional-evaluacion-bidual
+  - esp-apl-lineales-continuas
+  - esp-bidual
+  - esp-normado-reflexivo
+  - isometria
+  - norma
+  - operador-adjunto
+  - prop-apl-adjunta-lineal-continua-norma
+backlinks:
+  - teo-esp-reflexivo-iff-dual-reflexivo
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

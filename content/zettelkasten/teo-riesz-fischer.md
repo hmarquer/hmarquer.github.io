@@ -1,5 +1,20 @@
 ---
 title: 'Teorema de Riesz-Fischer'
+filename: 'teo-riesz-fischer'
+created: '2025-12-30 17:31:57.078928'
+last_edit_date: '2026-03-31T17:47:48.216286508+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.034646959+00:00'
+labels:
+  - note
+  - teo:riesz-fischer
+references:
+  - esp-hilbert
+  - prop-prod-interno-continua
+  - sistema-ortonormal
+  - teo-pitagoras
+  - transformada-fourier
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema3
 ---

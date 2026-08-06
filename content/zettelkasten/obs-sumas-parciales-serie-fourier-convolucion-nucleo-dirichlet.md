@@ -1,5 +1,23 @@
 ---
 title: 'Obs sumas parciales serie fourier convolucion nucleo dirichlet'
+filename: 'obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet'
+created: '2026-01-12 17:18:07.691467'
+last_edit_date: '2026-03-31T17:47:48.151523512+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.870837110+00:00'
+labels:
+  - note
+  - obs:sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet
+references:
+  - convolucion
+  - esp-lp
+  - nucleo-dirichlet
+  - serie-fourier-l1
+  - transformada-fourier
+backlinks:
+  - obs-sumacion-cesaro-convolucion-nucleo-fejer
+  - prop-criterio-dirichlet
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema4
 ---

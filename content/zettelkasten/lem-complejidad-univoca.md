@@ -1,5 +1,21 @@
 ---
 title: 'Lem complejidad univoca'
+filename: 'lem-complejidad-univoca'
+created: '2026-02-10 19:22:00.812812'
+last_edit_date: '2026-03-31T17:47:48.123019665+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.534269472+00:00'
+labels:
+  - lem:complejidad-univoca
+  - note
+references:
+  - formula
+  - lenguaje-primer-orden
+  - palabra
+  - termino
+backlinks:
+  - teo-lectura-unica
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

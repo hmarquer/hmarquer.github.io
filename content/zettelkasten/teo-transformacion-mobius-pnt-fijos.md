@@ -1,5 +1,20 @@
 ---
 title: 'Teorema de puntos fijos de una transformación de Möbius'
+filename: 'teo-transformacion-mobius-pnt-fijos'
+created: '2025-03-26 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.217999901+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.610855959+00:00'
+labels:
+  - note
+  - teo:transformacion-mobius-pnt-fijos
+references:
+  - plano-complejo-extendido
+  - pnt-fijo
+  - transformacion-mobius
+backlinks:
+  - cor-transformacion-mobius-3-pnt-fijos
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema2
 ---

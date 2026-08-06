@@ -1,5 +1,32 @@
 ---
 title: 'Teorema de aproximación de la identidad por convolución'
+filename: 'teo-aproximacion-identidad-convolucion'
+created: '2026-01-11 19:12:19.510616'
+last_edit_date: '2026-06-25T09:20:45.074361379+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.173973441+00:00'
+labels:
+  - dem:aproximacion-identidad-convolucion:ecu2
+  - dem:aproximacion-identidad-convolucion:ecu3
+  - dem:aproximacion-identidad-convolucion:ecu4
+  - note
+  - teo:aproximacion-identidad-convolucion
+  - teo:aproximacion-identidad-convolucion:linfty
+  - teo:aproximacion-identidad-convolucion:lp
+  - teo:aproximacion-identidad-convolucion:pnt
+references:
+  - continuidad
+  - continuidad-uniforme
+  - desigualdad-holder
+  - esp-lp
+  - lem-convergencia-lp-traslacion
+  - norma-lp
+  - obs-propiedades-dilatacion-isotropica
+  - teo-fubini
+  - traslacion
+backlinks:
+  - teo-inversion-transformada-fourier
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

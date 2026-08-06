@@ -1,5 +1,24 @@
 ---
 title: 'Ley 0-1 de Kolmogorov'
+filename: 'ley-0-1-kolmogorov'
+created: '2025-03-11 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.139678400+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.748768534+00:00'
+labels:
+  - dem:ley-0-1-kolmogorov:1
+  - dem:ley-0-1-kolmogorov:1:a
+  - note
+  - teo:ley-0-1-kolmogorov
+references:
+  - independencia-pi-sistemas
+  - independencia-sigma-algebras
+  - independencia-sucesos
+  - mindependencia-var-aleatorias
+  - pi-sistema
+  - sigma-algebra-cola
+  - var-aleatoria
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema2
 ---

@@ -1,5 +1,23 @@
 ---
 title: 'Lema de Fatou'
+filename: 'lem-fatou'
+created: '2025-12-11 19:31:56.709059'
+last_edit_date: '2026-03-31T17:47:48.127992289+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.289420177+00:00'
+labels:
+  - lem:fatou
+  - note
+references:
+  - esp-medida
+  - fn-medible
+  - teo-convergencia-monotona
+backlinks:
+  - lem-fatou-probabilidades
+  - teo-convergencia-dominada
+  - teo-esp-lp-banach
+projects:
+  - 3.2-probabilidad-ii
+  - 4.1-variable-real
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

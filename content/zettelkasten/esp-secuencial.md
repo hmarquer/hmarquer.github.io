@@ -1,5 +1,20 @@
 ---
 title: 'Espacio secuencial (de sucesiones)'
+filename: 'esp-secuencial'
+created: '2025-03-18 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.097757486+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.010086137+00:00'
+labels:
+  - note
+  - prop:esp-secuencial
+references:
+  - cuerpo
+  - esp-vectorial
+backlinks:
+  - esp-c0
+  - esp-lp-sucesiones
+  - prop-prod-interno-continua
+  - serie-formal-potencias
 ---
 
 [[esp-secuencial.pdf]]

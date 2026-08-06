@@ -1,5 +1,13 @@
 ---
 title: 'Teorema de la función implícita'
+filename: 'teo-fn-implicita'
+created: '2025-02-04 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.206922148+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.736597144+00:00'
+labels:
+  - note
+references:
+  - fn-clase-ck
 ---
 
 [[teo-fn-implicita.pdf]]

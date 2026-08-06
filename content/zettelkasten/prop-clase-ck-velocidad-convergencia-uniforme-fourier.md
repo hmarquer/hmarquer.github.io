@@ -1,5 +1,22 @@
 ---
 title: 'Prop clase ck velocidad convergencia uniforme fourier'
+filename: 'prop-clase-ck-velocidad-convergencia-uniforme-fourier'
+created: '2026-01-12 19:42:11.351583'
+last_edit_date: '2026-03-31T17:47:48.160282690+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.909996132+00:00'
+labels:
+  - dem:clase-ck-velocidad-convergencia-uniforme-fourier:ecu1
+  - note
+  - prop:clase-ck-velocidad-convergencia-uniforme-fourier
+references:
+  - desigualdad-cauchy-schwarz
+  - fn-clase-ck
+  - lem-serie-fourier-derivada
+  - norma-lp
+  - prop-criterio-dini
+  - teo-identidad-plancherel
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema4
 ---

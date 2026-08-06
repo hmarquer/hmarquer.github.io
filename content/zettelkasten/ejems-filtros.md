@@ -1,5 +1,18 @@
 ---
 title: 'Ejemplos de filtro'
+filename: 'ejems-filtros'
+created: '2026-05-15T19:28:45.396985454+00:00'
+last_edit_date: '2026-05-15T19:28:59.035962364+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.083097148+00:00'
+labels:
+  - ejems:filtros
+  - note
+references:
+  - esp-medida
+  - esp-topologico
+  - filtro
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

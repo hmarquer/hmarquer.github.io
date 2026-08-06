@@ -1,5 +1,25 @@
 ---
 title: 'Teorema de Banach-Steinhaus'
+filename: 'teo-banach-steinhaus'
+created: '2025-12-06 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.193022399+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.715596146+00:00'
+labels:
+  - note
+  - teo:banach-steinhaus
+references:
+  - acotacion-puntual-operadores-lineales
+  - acotacion-uniforme-operadores-lineales
+  - con-segunda-categoria
+  - cor-baire
+  - ejer-esp-banach-union-cerrados-imp-interior-no-vacio
+  - esp-apl-lineales-continuas
+  - esp-banach
+  - norma
+backlinks:
+  - lem-acotado-dual-imp-acotado
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

@@ -1,5 +1,19 @@
 ---
 title: 'Prop convergencia imp cauchy'
+filename: 'prop-convergencia-imp-cauchy'
+created: '2025-10-08 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.162067448+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.154330857+00:00'
+labels:
+  - note
+  - prop:convergencia-imp-cauchy
+references:
+  - convergencia
+  - esp-metrico
+  - metrica
+  - sucesion-cauchy
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---

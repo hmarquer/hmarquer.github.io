@@ -1,5 +1,23 @@
 ---
 title: 'Esperanza condicionada a una $\sigma$-álgebra independiente'
+filename: 'prop-esperanza-condicionada-sigma-algebra-indep'
+created: '2025-06-14 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.166328208+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.658931912+00:00'
+labels:
+  - note
+  - prop:esperanza-condicionada-sigma-algebra-indep
+references:
+  - esp-lp
+  - esperanza
+  - esperanza-condicionada-sigma-algebra
+  - independencia-sigma-algebras
+  - obs-linealidad-esperanza
+  - prop-esperanza-prod-var-aleatorias-indep
+  - sigma-algebra
+  - sigma-algebra-fn
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema4
 ---

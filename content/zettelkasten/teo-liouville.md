@@ -1,5 +1,24 @@
 ---
 title: 'Teorema de Liouville'
+filename: 'teo-liouville'
+created: '2025-05-11 00:00:00'
+last_edit_date: '2026-06-12T09:49:35.078929707+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.792767415+00:00'
+labels:
+  - note
+  - teo:liouville
+references:
+  - cor-lem-schwarz-desnormalizado
+  - fn-entera
+  - fn-holomorfa
+  - lem-schwarz
+  - teo-formula-integral-cauchy-disco
+backlinks:
+  - prop-liouville-ampliacion
+  - teo-fundamental-algebra
+projects:
+  - 3.2-variable-compleja-i
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema3

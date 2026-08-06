@@ -1,5 +1,26 @@
 ---
 title: 'Teorema de Hahn-Banach I'
+filename: 'teo-hahn-banach-i'
+created: '2025-12-19 17:20:42.149332'
+last_edit_date: '2026-03-31T17:47:48.209893585+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.015709785+00:00'
+labels:
+  - dem:hahn-banach-i:complejo
+  - dem:hahn-banach-i:real
+  - note
+  - teo:hahn-banach-i
+references:
+  - apl-lineal
+  - esp-vectorial
+  - funcional-minkowski
+  - lem-apl-lineal-complejo-reduccion-real
+  - seminorma
+  - subesp-vectorial
+  - teo-extension-apl-lineal-minkowski
+backlinks:
+  - teo-hahn-banach-ii
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,23 @@
 ---
 title: 'Linealidad de la integral'
+filename: 'linealidad-integral'
+created: '2025-12-11 19:31:56.714058'
+last_edit_date: '2026-03-31T17:47:48.140576084+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.718177726+00:00'
+labels:
+  - note
+  - teo:linealidad-integral
+references:
+  - esp-medida
+  - fn-integrable
+backlinks:
+  - desigualdad-minkowski
+  - lem-esp-lp-vectorial
+  - lem-esperanza-condicionada
+  - obs-linealidad-esperanza
+  - prop-esperanza-fn
+  - teo-convergencia-dominada
+  - teo-esp-l2-hilbert
 ---
 
 [[linealidad-integral.pdf]]

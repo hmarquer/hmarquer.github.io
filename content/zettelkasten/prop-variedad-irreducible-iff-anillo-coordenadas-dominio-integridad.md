@@ -1,5 +1,23 @@
 ---
 title: 'Una variedad algebraica afín es irreducible si y solo si su anillo de coordenadas es un dominio de integridad'
+filename: 'prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad'
+created: '2026-01-05 09:44:10.528593'
+last_edit_date: '2026-03-31T17:47:48.179072716+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.307882244+00:00'
+labels:
+  - note
+  - prop:variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
+references:
+  - anillo-coordenadas-variedad-algebraica-afin
+  - dominio-integridad
+  - ideal-anulacion
+  - ideal-primo
+  - prop-ideal-primo-iff-cociente-di-integridad
+  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
+  - variedad-algebraica-afin
+  - variedad-algebraica-afin-irreducible
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema5
 ---

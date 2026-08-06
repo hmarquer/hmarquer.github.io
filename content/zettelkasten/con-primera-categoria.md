@@ -1,5 +1,20 @@
 ---
 title: 'Conjunto de primera categoría'
+filename: 'con-primera-categoria'
+created: '2025-10-23 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.065525445+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.233470761+00:00'
+labels:
+  - defn:con-primera-categoria
+  - note
+references:
+  - con-denso-ninguna-parte
+  - esp-topologico
+backlinks:
+  - con-segunda-categoria
+  - cor-baire
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

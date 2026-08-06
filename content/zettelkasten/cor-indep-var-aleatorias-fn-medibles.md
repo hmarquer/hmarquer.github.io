@@ -1,5 +1,20 @@
 ---
 title: 'Funciones medibles de variables aleatorias independientes'
+filename: 'cor-indep-var-aleatorias-fn-medibles'
+created: '2025-06-18 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.072986854+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.475156368+00:00'
+labels:
+  - cor:indep-var-aleatorias-fn-medibles
+  - cor:indep-var-aleatorias-fn-medibles:i
+  - cor:indep-var-aleatorias-fn-medibles:ii
+  - dem:indep-var-aleatorias-fn-medibles:1
+  - note
+references:
+  - ejer-var-aleatorias-prod-suma
+  - fn-medible
+  - mindependencia-var-aleatorias
+  - vec-aleatorio
 ---
 
 [[cor-indep-var-aleatorias-fn-medibles.pdf]]

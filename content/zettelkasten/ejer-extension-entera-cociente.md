@@ -1,5 +1,21 @@
 ---
 title: 'Ejer extension entera cociente'
+filename: 'ejer-extension-entera-cociente'
+created: '2026-01-11 12:47:35.927945'
+last_edit_date: '2026-03-31T17:47:48.088226762+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.197240775+00:00'
+labels:
+  - ejer:extension-entera-cociente
+  - note
+references:
+  - anillo-cociente
+  - extension-anillos-entera
+  - ideal
+  - lem-ideal-imagen-preimagen-morfismo-anillos
+backlinks:
+  - teo-extension-entera-ideal-primo-maximal-iff-maximal
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema6
 ---

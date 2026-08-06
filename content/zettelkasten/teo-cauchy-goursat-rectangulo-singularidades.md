@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de Cauchy-Goursat para rectángulos con singularidades'
+filename: 'teo-cauchy-goursat-rectangulo-singularidades'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.196071823+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.942650673+00:00'
+labels:
+  - note
+  - teo:cauchy-goursat-rectangulo-singularidades
+references:
+  - dominio
+  - fn-holomorfa
+  - integral-linea-compleja
+  - limite-fn
+  - prop-abs-integral-linea-compleja-leq-longitud
+  - teo-cauchy-goursat-rectangulo
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

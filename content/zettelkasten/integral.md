@@ -1,5 +1,27 @@
 ---
 title: 'Integral'
+filename: 'integral'
+created: '2025-12-11 19:31:56.705059'
+last_edit_date: '2026-03-31T17:47:48.116257115+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.182772641+00:00'
+labels:
+  - defn:int-fn-simple
+  - defn:integral
+  - note
+references:
+  - esp-medida
+  - fn-medible
+  - fn-simple
+backlinks:
+  - convolucion
+  - integral-linea-compleja
+  - integral-linea-compleja-longitud
+  - lem-dubois-reymond
+  - longitud-camino
+  - teo-derivacion-bajo-el-signo-integral
+projects:
+  - 3.2-probabilidad-ii
+  - 4.1-variable-real
 tags:
   - probabilidad-ii/hoja0
   - variable-real/tema1

@@ -1,5 +1,19 @@
 ---
 title: 'Vector aleatorio'
+filename: 'vec-aleatorio'
+created: '2025-12-11 19:31:56.759052'
+last_edit_date: '2026-03-31T17:47:48.224839347+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.057496474+00:00'
+labels:
+  - defn:vec-aleatorio
+  - note
+references:
+  - fn-medible
+backlinks:
+  - cor-indep-var-aleatorias-fn-medibles
+  - ejer-var-aleatorias-prod-suma
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema1
 ---

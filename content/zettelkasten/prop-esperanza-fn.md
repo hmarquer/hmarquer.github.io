@@ -1,5 +1,30 @@
 ---
 title: 'Esperanza de una función de una variable aleatoria'
+filename: 'prop-esperanza-fn'
+created: '2025-02-13 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.166675734+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.387626317+00:00'
+labels:
+  - dem:esperanza-fn:1
+  - dem:esperanza-fn:2
+  - dem:esperanza-fn:3
+  - dem:esperanza-fn:4
+  - note
+  - prop:esperanza-fn
+references:
+  - esp-lp
+  - esperanza
+  - fn-medible
+  - fn-simple
+  - linealidad-integral
+  - medida-inducida
+  - teo-convergencia-monotona
+  - var-aleatoria
+backlinks:
+  - cor-formula-esperanza
+  - obs-linealidad-esperanza
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema2
 ---

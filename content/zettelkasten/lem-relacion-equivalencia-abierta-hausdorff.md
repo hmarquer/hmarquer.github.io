@@ -1,5 +1,21 @@
 ---
 title: 'Relación de equivalencia abierta y espacio cociente de Hausdorff'
+filename: 'lem-relacion-equivalencia-abierta-hausdorff'
+created: '2025-02-28 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.133466268+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.167251090+00:00'
+labels:
+  - lem:relacion-equivalencia-abierta-hausdorff
+  - note
+references:
+  - apl-abierta
+  - hausdorff-topologia
+  - relacion-equivalencia-abierta
+  - topologia
+backlinks:
+  - esp-proyectivo-real
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

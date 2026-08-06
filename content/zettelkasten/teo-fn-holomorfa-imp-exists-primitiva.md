@@ -1,5 +1,26 @@
 ---
 title: 'Toda función holomorfa tiene primitiva holomorfa'
+filename: 'teo-fn-holomorfa-imp-exists-primitiva'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.206769179+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.715827663+00:00'
+labels:
+  - note
+  - teo:fn-holomorfa-imp-exists-primitiva
+references:
+  - camino
+  - fn-holomorfa
+  - integral-linea-compleja
+  - regla-barrow-compleja
+  - teo-cauchy-goursat-rectangulo
+  - teo-cauchy-riemann
+backlinks:
+  - prop-fn-armonica-simplemente-conexo-imp-holomorfa
+  - teo-cauchy-goursat-disco
+  - teo-fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia
+projects:
+  - 3.2-variable-compleja-i
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

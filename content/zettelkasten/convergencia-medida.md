@@ -1,5 +1,21 @@
 ---
 title: 'Convergencia medida'
+filename: 'convergencia-medida'
+created: '2025-10-07 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.068248273+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.301804569+00:00'
+labels:
+  - defn:convergencia-medida
+  - note
+references:
+  - convergencia
+  - esp-medida
+  - fn-medible
+backlinks:
+  - lem-convergencia-lp-imp-medida
+  - prop-convergencia-uniforme-imp-medida
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

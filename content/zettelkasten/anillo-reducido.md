@@ -1,5 +1,19 @@
 ---
 title: 'Anillo reducido'
+filename: 'anillo-reducido'
+created: '2025-09-12 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.050970139+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.346376331+00:00'
+labels:
+  - defn:anillo-reducido
+  - note
+references:
+  - anillo
+  - nilpotencia-anillos
+backlinks:
+  - prop-ideal-radical-iff-cociente-reducido
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

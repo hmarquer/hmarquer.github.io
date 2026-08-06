@@ -1,5 +1,20 @@
 ---
 title: 'Teorema de equivalencia del radio interno y el supremo de la derivada hiperbólica'
+filename: 'teo-equivalencia-radio-interno-sup-derivada-hiperbolica'
+created: '2026-06-16T12:34:58.007854211+00:00'
+last_edit_date: '2026-06-16T12:35:29.103366421+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.759085666+00:00'
+labels:
+  - note
+  - teo:equivalencia-radio-interno-sup-derivada-hiperbolica
+references:
+  - derivada-hiperbolica
+  - dominio
+  - fn-holomorfa
+  - radio-interno
+  - teo-cubrimiento-bloch-invariante
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema5
 ---

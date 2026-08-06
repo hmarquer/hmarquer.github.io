@@ -1,5 +1,23 @@
 ---
 title: 'Ejem Topologia Metrica'
+filename: 'ejem-topologia-metrica'
+created: '2026-07-18T04:10:17.376997995+00:00'
+last_edit_date: '2026-07-18T04:10:38.754401648+00:00'
+last_build_date_pdf: '2026-07-18T05:31:32.060253400+00:00'
+labels:
+  - ejem:topologia-metrica
+  - note
+references:
+  - con-abierto-esp-metrico
+  - esp-metrico
+  - metrica
+  - prop-con-abiertos-esp-metrico
+  - topologia
+backlinks:
+  - ejem-topologia-discreta
+  - esp-topologico-metrizable
+projects:
+  - 3.1-topologia
 tags:
   - topologia/tema1-1
 ---

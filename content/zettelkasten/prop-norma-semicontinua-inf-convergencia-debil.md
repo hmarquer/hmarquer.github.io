@@ -1,5 +1,23 @@
 ---
 title: 'La norma es semicontinua inferior para la convergencia débil'
+filename: 'prop-norma-semicontinua-inf-convergencia-debil'
+created: '2025-12-27 18:21:13.236327'
+last_edit_date: '2026-03-31T17:47:48.173247565+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.618665732+00:00'
+labels:
+  - note
+  - prop:norma-semicontinua-inf-convergencia-debil
+references:
+  - convergencia-debil
+  - esp-banach
+  - fn-semicontinua-inferior
+  - lem-acotado-dual-imp-acotado
+  - topologia-debil
+backlinks:
+  - prop-convergencia-debil-dual-imp-convergencia-evaluacion
+  - teo-esp-banach-uniformemente-convexo-convergencia-debil-norma-imp-convergencia-fuerte
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
 ---

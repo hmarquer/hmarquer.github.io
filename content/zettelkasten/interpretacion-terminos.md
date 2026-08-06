@@ -1,5 +1,38 @@
 ---
 title: 'Interpretación de términos'
+filename: 'interpretacion-terminos'
+created: '2026-02-10 19:25:36.761435'
+last_edit_date: '2026-03-31T17:47:48.116531783+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.325805846+00:00'
+labels:
+  - defn:interpretacion-terminos
+  - note
+references:
+  - complejidad
+  - constante
+  - estructura
+  - evaluacion
+  - interpretacion-terminos
+  - lenguaje-primer-orden
+  - teo-lectura-unica
+  - termino
+  - variables
+backlinks:
+  - cor-independencia-dominio-evaluacion
+  - cor-independencia-variables-ficticias-evaluaciones
+  - cor-substitucion-multiple-interpretacion
+  - cor-substitucion-multiple-satisfaccion
+  - interpretacion-terminos
+  - lem-independencia-variables-ficticias
+  - lem-morfismo-interpretacion-terminos
+  - lem-reducto
+  - lem-substitucion-interpretacion
+  - lem-substitucion-satisfaccion
+  - lem-universos-subestructuras
+  - satisfaccion
+  - teo-forma-explicita-subestructura-generada
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

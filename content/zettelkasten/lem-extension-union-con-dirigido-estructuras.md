@@ -1,5 +1,18 @@
 ---
 title: 'Lema de extensión de la unión de un conjunto dirigido de estructuras'
+filename: 'lem-extension-union-con-dirigido-estructuras'
+created: '2026-03-26 18:40:21.844967'
+last_edit_date: '2026-03-31T17:47:48.127547309+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.210031443+00:00'
+labels:
+  - lem:extension-union-con-dirigido-estructuras
+  - note
+references:
+  - con-dirigido
+  - estructura
+  - subestructura
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

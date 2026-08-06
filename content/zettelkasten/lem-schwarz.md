@@ -1,5 +1,31 @@
 ---
 title: 'Lema de Schwarz'
+filename: 'lem-schwarz'
+created: '2025-08-14 00:00:00'
+last_edit_date: '2026-06-13T19:01:48.108231485+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.444891185+00:00'
+labels:
+  - lem:schwarz
+  - lem:schwarz:1
+  - lem:schwarz:2
+  - note
+references:
+  - fn-holomorfa
+  - teo-modulo-maximo
+  - teo-singularidad-evitable-riemann
+backlinks:
+  - cor-lem-schwarz-desnormalizado
+  - prop-liouville-ampliacion
+  - prop-principio-subordinacion
+  - prop-subordinacion-relacion-orden-parcial
+  - teo-cubrimiento-landau
+  - teo-formula-aut-disco-unidad
+  - teo-liouville
+  - teo-schwarz-pick
+projects:
+  - 3.2-variable-compleja-i
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema4

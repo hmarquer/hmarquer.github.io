@@ -1,5 +1,18 @@
 ---
 title: 'Base de Hamel de $\R$ como $\Q$-espacio vectorial'
+filename: 'cor-base-hamel-r-q'
+created: '2025-10-01 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.070063558+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.687348048+00:00'
+labels:
+  - cor:base-hamel-r-q
+  - note
+references:
+  - base-hamel
+  - esp-vectorial
+  - teo-base-hamel-exists
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema1
 ---

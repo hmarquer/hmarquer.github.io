@@ -1,5 +1,22 @@
 ---
 title: 'Teorema de Isomorfismos de Banach'
+filename: 'teo-isomorfismos-banach'
+created: '2025-12-13 12:54:29.225306'
+last_edit_date: '2026-03-31T17:47:48.211381903+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.771972276+00:00'
+labels:
+  - note
+  - teo:isomorfismos-banach
+references:
+  - continuidad
+  - esp-apl-lineales-continuas
+  - esp-banach
+  - homeomorfismo
+  - teo-apl-abierta
+backlinks:
+  - teo-grafica-cerrada
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

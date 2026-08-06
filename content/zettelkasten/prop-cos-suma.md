@@ -1,5 +1,12 @@
 ---
 title: 'Fórmula del coseno de la suma'
+filename: 'prop-cos-suma'
+created: '2025-03-03 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.163288051+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.970046143+00:00'
+labels:
+  - note
+  - prop:cos-suma
 ---
 
 [[prop-cos-suma.pdf]]

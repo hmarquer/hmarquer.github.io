@@ -1,5 +1,20 @@
 ---
 title: 'Derivación'
+filename: 'derivacion'
+created: '2025-02-19 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.078915952+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.465577108+00:00'
+labels:
+  - defn:derivacion
+  - note
+references:
+  - apl-lineal
+  - fn-diferenciable-variedad
+  - variedad-diferenciable
+backlinks:
+  - esp-tangente-variedad
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
 ---

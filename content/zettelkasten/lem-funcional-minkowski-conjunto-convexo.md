@@ -1,5 +1,21 @@
 ---
 title: 'Funcional de Minkowski asociado a un conjunto convexo'
+filename: 'lem-funcional-minkowski-conjunto-convexo'
+created: '2025-12-20 18:12:28.293512'
+last_edit_date: '2026-03-31T17:47:48.128575589+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.121949932+00:00'
+labels:
+  - lem:funcional-minkowski-conjunto-convexo
+  - note
+references:
+  - con-convexo
+  - esp-vectorial
+  - funcional-minkowski
+  - norma
+backlinks:
+  - lem-separacion-punto-conjunto-convexo-abierto
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,26 @@
 ---
 title: 'Subvariedad'
+filename: 'subvariedad-diferenciable'
+created: '2025-03-10 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.189538144+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.372340141+00:00'
+labels:
+  - defn:subvariedad-diferenciable
+  - note
+references:
+  - embebimiento
+  - variedad-diferenciable
+backlinks:
+  - codimension-subvariedad-diferenciable
+  - cor-subvariedad-diferenciable-cubrimiento
+  - lem-subvariedad-diferenciable
+  - lem-subvariedad-diferenciable-imp-variedad-diferenciable
+  - lem-subvariedad-estructura-diferenciable-unica
+  - obs-subvariedad-diferenciable-imp-subvariedad-inmersa
+  - teo-subvariedad-diferenciable-fibra-apl-diferenciable
+  - teo-subvariedad-iff-carta-d-rebanada
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema4
 ---

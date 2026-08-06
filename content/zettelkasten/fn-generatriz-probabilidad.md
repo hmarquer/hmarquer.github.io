@@ -1,5 +1,17 @@
 ---
 title: 'Función generatriz de probabilidad'
+filename: 'fn-generatriz-probabilidad'
+created: '2025-03-19 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.104379542+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.766730057+00:00'
+labels:
+  - defn:fn-generatriz-probabilidad
+  - note
+references:
+  - serie-formal-potencias
+  - var-aleatoria-discreta
+projects:
+  - 3.2-modelizacion
 tags:
   - modelizacion/tema2
 ---

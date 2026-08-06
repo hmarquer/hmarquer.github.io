@@ -1,5 +1,27 @@
 ---
 title: 'Inmersión'
+filename: 'inmersion'
+created: '2025-03-10 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.115828967+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.975389262+00:00'
+labels:
+  - defn:inmersion
+  - note
+references:
+  - apl-diferenciable
+  - diferencial-apl-diferenciable
+backlinks:
+  - cor-inmersion-imp-localmente-embebimiento
+  - cor-inmersion-inyectiva-imp-embebimiento
+  - embebimiento
+  - lem-subvariedad-diferenciable
+  - lem-subvariedad-estructura-diferenciable-unica
+  - subvariedad-inmersa
+  - teo-cartas-adaptadas-inmersion
+  - teo-embibimiento-transferencia-diferenciabilidad
+  - teo-inmersion-transferencia-diferenciabilidad
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema4
 ---

@@ -1,5 +1,22 @@
 ---
 title: 'Obs anillo cociente morfismo canonico'
+filename: 'obs-anillo-cociente-morfismo-canonico'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.148517299+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.809037839+00:00'
+labels:
+  - note
+  - obs:anillo-cociente-morfismo-canonico
+references:
+  - anillo
+  - anillo-cociente
+  - ideal
+  - morfismo-anillos
+backlinks:
+  - prop-ideal-maximal-iff-cociente-cuerpo
+  - teo-correspondencia-ideales-cociente
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

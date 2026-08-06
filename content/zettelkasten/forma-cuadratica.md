@@ -1,5 +1,15 @@
 ---
 title: 'Forma cuadrática'
+filename: 'forma-cuadratica'
+created: '2025-03-12 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.107403047+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.137483917+00:00'
+labels:
+  - defn:forma-cuadratica
+  - note
+references:
+  - esp-vectorial
+  - forma-bilineal
 ---
 
 [[forma-cuadratica.pdf]]

@@ -1,5 +1,21 @@
 ---
 title: 'Lem involucion disco unidad derivada'
+filename: 'lem-involucion-disco-unidad-derivada'
+created: '2026-01-22 13:53:11.017265'
+last_edit_date: '2026-03-31T17:47:48.129874520+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.475733878+00:00'
+labels:
+  - lem:involucion-disco-unidad-derivada
+  - note
+references:
+  - fn-compleja-derivable-pnt
+  - involucion-disco-unidad
+backlinks:
+  - ejer-schwarz-pick-extremales
+  - teo-schwarz-pick
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

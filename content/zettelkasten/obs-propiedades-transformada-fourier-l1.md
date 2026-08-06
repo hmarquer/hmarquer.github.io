@@ -1,5 +1,22 @@
 ---
 title: 'Obs propiedades transformada fourier l1'
+filename: 'obs-propiedades-transformada-fourier-l1'
+created: '2026-01-13 10:43:14.098770'
+last_edit_date: '2026-03-31T17:47:48.150813923+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.683456286+00:00'
+labels:
+  - note
+  - obs:propiedades-transformada-fourier-l1
+references:
+  - apl-lineal
+  - esp-lp
+  - prod-escalar
+  - prop-apl-lineales-continuas-norma
+  - transformada-fourier-l1
+backlinks:
+  - lem-transformada-fourier-conmutativa-integral
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

@@ -1,5 +1,15 @@
 ---
 title: 'Teorema de Picard-Lindelöf'
+filename: 'teo-picard-lindelof'
+created: '2025-02-13 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.214102778+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.751446435+00:00'
+labels:
+  - note
+  - teo:picard-lindelof
+references:
+  - continuidad
+  - fn-lipschitz2-uniforme1-local
 ---
 
 [[teo-picard-lindelof.pdf]]

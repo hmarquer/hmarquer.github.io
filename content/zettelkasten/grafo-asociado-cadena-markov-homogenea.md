@@ -1,5 +1,17 @@
 ---
 title: 'Grafo asociado a una cadena de Markov homogénea'
+filename: 'grafo-asociado-cadena-markov-homogenea'
+created: '2025-03-20 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.110476507+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.396510386+00:00'
+labels:
+  - defn:grafo-asociado-cadena-markov-homogenea
+  - note
+references:
+  - cadena-markov-homogenea
+  - digrafo-ponderado
+projects:
+  - 3.2-modelizacion
 tags:
   - modelizacion/tema2
 ---

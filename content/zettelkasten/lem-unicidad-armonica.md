@@ -1,5 +1,22 @@
 ---
 title: 'Lema de unicidad para funciones armónicas'
+filename: 'lem-unicidad-armonica'
+created: '2026-02-11 11:20:52.824950'
+last_edit_date: '2026-07-17T19:16:50.326783414+00:00'
+last_build_date_pdf: '2026-07-18T05:31:32.086223858+00:00'
+labels:
+  - lem:unicidad-armonica
+  - note
+references:
+  - dominio
+  - fn-armonica
+  - fn-holomorfa
+  - prop-fn-armonica-imp-derivada-holomorfa
+  - teo-ceros-aislados
+backlinks:
+  - teo-max-fn-armonica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema2
 ---

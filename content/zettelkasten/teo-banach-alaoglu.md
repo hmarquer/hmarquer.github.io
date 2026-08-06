@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de Banach-Alaoglu'
+filename: 'teo-banach-alaoglu'
+created: '2026-01-07 13:25:17.980763'
+last_edit_date: '2026-03-31T17:47:48.192868088+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.235634182+00:00'
+labels:
+  - note
+  - teo:banach-alaoglu
+references:
+  - compacidad
+  - lem-carac-continuidad-topologia-inicial
+  - norma
+  - prop-apl-lineales-continuas-norma
+backlinks:
+  - teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
 ---

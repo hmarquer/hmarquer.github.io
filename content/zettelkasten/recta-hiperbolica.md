@@ -1,5 +1,20 @@
 ---
 title: 'Recta Hiperbolica'
+filename: 'recta-hiperbolica'
+created: '2026-06-13T17:26:19.196099532+00:00'
+last_edit_date: '2026-06-13T17:26:21.760306309+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.657425169+00:00'
+labels:
+  - defn:recta-hiperbolica
+  - fig:recta-hiperbolica-disco
+  - note
+references:
+  - involucion-disco-unidad
+  - transformacion-mobius-circunferencias-generalizadas
+backlinks:
+  - cor-3-puntos-recta-hiperbolica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

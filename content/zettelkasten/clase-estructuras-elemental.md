@@ -1,5 +1,18 @@
 ---
 title: 'Clase de estructuras elemental'
+filename: 'clase-estructuras-elemental'
+created: '2026-05-15T13:09:11.989380858+00:00'
+last_edit_date: '2026-05-15T13:09:38.019737047+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.160987295+00:00'
+labels:
+  - defn:clase-estructuras-elemental
+  - note
+references:
+  - clase-modelos
+  - estructura
+  - teoria-semantica
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

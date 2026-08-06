@@ -1,5 +1,18 @@
 ---
 title: 'Prop complemento ortogonal subespacio cerrado'
+filename: 'prop-complemento-ortogonal-subesp-cerrado'
+created: '2025-11-12 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.160727910+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.356831444+00:00'
+labels:
+  - note
+  - prop:complemento-ortogonal-subesp-cerrado
+references:
+  - complemento-ortogonal
+  - esp-prehilbert
+  - subesp-vectorial
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema3
 ---

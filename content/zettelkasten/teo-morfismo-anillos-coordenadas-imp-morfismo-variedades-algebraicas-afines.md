@@ -1,5 +1,21 @@
 ---
 title: 'Teo morfismo anillos coordenadas imp morfismo variedades algebraicas afines'
+filename: 'teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines'
+created: '2026-01-05 09:59:58.272437'
+last_edit_date: '2026-03-31T17:47:48.213625306+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.893343227+00:00'
+labels:
+  - note
+  - teo:morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines
+references:
+  - morfismo-inducido-variedades-algebraicas-afines
+  - morfismo-ralgebras
+  - morfismo-variedades-algebraicas-afines
+  - variedad-algebraica-afin
+backlinks:
+  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema5
 ---

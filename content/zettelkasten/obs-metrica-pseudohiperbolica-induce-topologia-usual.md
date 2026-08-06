@@ -1,5 +1,18 @@
 ---
 title: 'Obs Metrica Pseudohiperbolica Induce Topologia Usual'
+filename: 'obs-metrica-pseudohiperbolica-induce-topologia-usual'
+created: '2026-06-12T10:54:03.526453811+00:00'
+last_edit_date: '2026-06-12T10:54:05.474863578+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.132306610+00:00'
+labels:
+  - note
+  - obs:metrica-pseudohiperbolica-induce-topologia-usual
+references:
+  - bola-abierta
+  - prop-bola-pseudohiperbolica-bola-euclidea
+  - prop-metrica-pseudohiperbolica-disco-unidad
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

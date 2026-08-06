@@ -1,5 +1,19 @@
 ---
 title: 'Medida sigma finita'
+filename: 'medida-sigma-finita'
+created: '2025-05-04 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.142071406+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.275822225+00:00'
+labels:
+  - defn:medida-sigma-finita
+  - note
+references:
+  - esp-medida
+backlinks:
+  - teo-fubini
+  - teo-radon-nikodym
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema1
 ---

@@ -1,5 +1,16 @@
 ---
 title: 'Conjunto decidible'
+filename: 'con-decidible'
+created: '2026-05-03T17:43:12.732512496+00:00'
+last_edit_date: '2026-05-03T17:43:20.220778671+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.997221107+00:00'
+labels:
+  - defn:con-decidible
+  - note
+references:
+  - fn-recursiva
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema2
 ---

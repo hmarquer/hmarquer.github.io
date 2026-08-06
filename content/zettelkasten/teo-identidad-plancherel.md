@@ -1,5 +1,24 @@
 ---
 title: 'Identidad de Plancherel'
+filename: 'teo-identidad-plancherel'
+created: '2026-01-09 10:47:00.636644'
+last_edit_date: '2026-03-31T17:47:48.210722680+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.464823997+00:00'
+labels:
+  - note
+  - teo:identidad-plancherel
+references:
+  - base-ortonormal
+  - desigualdad-bessel
+  - esp-hilbert
+  - metrica
+  - sistema-ortogonal-completo
+  - sistema-ortonormal
+  - teo-pitagoras
+backlinks:
+  - prop-clase-ck-velocidad-convergencia-uniforme-fourier
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema3
 ---

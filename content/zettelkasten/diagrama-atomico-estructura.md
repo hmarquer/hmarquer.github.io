@@ -1,5 +1,22 @@
 ---
 title: 'Diagrama atómico de una estructura'
+filename: 'diagrama-atomico-estructura'
+created: '2026-03-26 17:30:34.989374'
+last_edit_date: '2026-03-31T17:47:48.081770760+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.103836532+00:00'
+labels:
+  - defn:diagrama-atomico-estructura
+  - note
+references:
+  - ejem-expansion-estructura-parametros
+  - enunciado
+  - estructura
+  - formula-sin-cuantificadores
+  - satisfaccion
+backlinks:
+  - lem-diagrama-atomico-inmersiones
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

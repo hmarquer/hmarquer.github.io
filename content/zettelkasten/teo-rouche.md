@@ -1,5 +1,14 @@
 ---
 title: 'Teorema de Rouché'
+filename: 'teo-rouche'
+created: '2026-04-26T22:20:05.582573791+00:00'
+last_edit_date: '2026-04-26T22:20:57.406592745+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.265500333+00:00'
+labels:
+  - note
+  - teo:rouche
+references:
+  - fn-holomorfa
 ---
 
 [[teo-rouche.pdf]]

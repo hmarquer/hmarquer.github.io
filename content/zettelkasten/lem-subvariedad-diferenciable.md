@@ -1,5 +1,26 @@
 ---
 title: 'Lema subvariedad diferenciable'
+filename: 'lem-subvariedad-diferenciable'
+created: '2025-04-09 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.136756166+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.194525171+00:00'
+labels:
+  - lem:subvariedad-diferenciable
+  - note
+references:
+  - difeomorfismo
+  - embebimiento
+  - estructura-diferenciable
+  - homeomorfismo
+  - inmersion
+  - prop-estructura-diferenciable-inducida-homeomorfismo
+  - subvariedad-diferenciable
+  - topologia-subespacio
+  - variedad-diferenciable
+backlinks:
+  - lem-subvariedad-estructura-diferenciable-unica
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema5
 ---

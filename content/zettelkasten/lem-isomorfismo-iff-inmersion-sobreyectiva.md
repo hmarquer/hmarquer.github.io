@@ -1,5 +1,18 @@
 ---
 title: 'Lem isomorfismo iff inmersion sobreyectiva'
+filename: 'lem-isomorfismo-iff-inmersion-sobreyectiva'
+created: '2026-02-10 17:51:14.521444'
+last_edit_date: '2026-03-31T17:47:48.130503978+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.963404705+00:00'
+labels:
+  - lem:isomorfismo-iff-inmersion-sobreyectiva
+  - note
+references:
+  - inmersion-estructuras
+  - isomorfismo-estructuras
+  - morfismo-estructuras
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

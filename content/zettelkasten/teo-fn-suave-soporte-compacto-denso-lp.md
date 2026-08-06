@@ -1,5 +1,20 @@
 ---
 title: 'Teo fn suave soporte compacto denso lp'
+filename: 'teo-fn-suave-soporte-compacto-denso-lp'
+created: '2025-11-01 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.207382757+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.094270096+00:00'
+labels:
+  - note
+  - teo:fn-suave-soporte-compacto-denso-lp
+references:
+  - con-denso
+  - esp-lp
+  - fn-suave-soporte-compacto
+  - lem-aprox-indicatriz-continua-norma-lp
+  - teo-fn-continua-soporte-compacto-denso-lp
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema1
 ---

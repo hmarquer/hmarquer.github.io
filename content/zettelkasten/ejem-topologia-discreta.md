@@ -1,5 +1,18 @@
 ---
 title: 'Topología discreta'
+filename: 'ejem-topologia-discreta'
+created: '2026-07-18T04:15:10.123188897+00:00'
+last_edit_date: '2026-07-18T04:28:19.735938329+00:00'
+last_build_date_pdf: '2026-07-18T05:31:32.057751028+00:00'
+labels:
+  - ejem:topologia-discreta
+  - note
+references:
+  - ejem-metrica-discreta
+  - ejem-topologia-metrica
+  - topologia
+projects:
+  - 3.1-topologia
 tags:
   - topologia/tema1-1
 ---

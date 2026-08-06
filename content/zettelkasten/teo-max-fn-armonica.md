@@ -1,5 +1,22 @@
 ---
 title: 'Teo max fn armonica'
+filename: 'teo-max-fn-armonica'
+created: '2026-02-11 11:22:26.853564'
+last_edit_date: '2026-06-12T09:49:35.079040867+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.457819544+00:00'
+labels:
+  - note
+  - teo:max-fn-armonica
+references:
+  - dominio
+  - fn-armonica
+  - lem-unicidad-armonica
+  - prop-fn-armonica-simplemente-conexo-imp-holomorfa
+  - teo-modulo-maximo
+backlinks:
+  - cor-min-fn-armonica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema2
 ---

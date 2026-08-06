@@ -1,5 +1,19 @@
 ---
 title: 'Lem transformada fourier conmutativa integral'
+filename: 'lem-transformada-fourier-conmutativa-integral'
+created: '2026-01-13 10:44:18.825217'
+last_edit_date: '2026-03-31T17:47:48.137276157+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.083923547+00:00'
+labels:
+  - lem:transformada-fourier-conmutativa-integral
+  - note
+references:
+  - esp-lp
+  - obs-propiedades-transformada-fourier-l1
+  - teo-fubini
+  - transformada-fourier-l1
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

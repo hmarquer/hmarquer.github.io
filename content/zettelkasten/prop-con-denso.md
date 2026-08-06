@@ -1,5 +1,22 @@
 ---
 title: 'Caracterización de un conjunto denso'
+filename: 'prop-con-denso'
+created: '2025-05-29 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.161303036+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.291366308+00:00'
+labels:
+  - note
+  - prop:con-denso
+references:
+  - con-denso
+  - esp-topologico
+backlinks:
+  - prop-con-denso-iff-interior-comp-vacio
+  - teo-baire
+  - teo-dual-separable-imp-separable
+projects:
+  - 4-teoria-descriptiva-de-conjuntos
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

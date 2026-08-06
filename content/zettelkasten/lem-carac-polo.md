@@ -1,5 +1,21 @@
 ---
 title: 'Lem carac polo'
+filename: 'lem-carac-polo'
+created: '2026-03-18 19:11:32.235173'
+last_edit_date: '2026-03-31T17:47:48.122292724+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.811549477+00:00'
+labels:
+  - lem:carac-polo
+  - note
+references:
+  - fn-holomorfa
+  - orden-cero-fn-holomorfa
+  - polo
+  - singularidad-aislada
+  - singularidad-evitable
+  - teo-singularidad-evitable-riemann
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema1
 ---

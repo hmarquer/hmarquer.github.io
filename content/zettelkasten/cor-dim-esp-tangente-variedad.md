@@ -1,5 +1,24 @@
 ---
 title: 'La dimensión del espacio tangente coincide con la de la variedad'
+filename: 'cor-dim-esp-tangente-variedad'
+created: '2025-06-05 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.070988644+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.741769942+00:00'
+labels:
+  - cor:dim-esp-tangente-variedad
+  - note
+references:
+  - carta
+  - esp-tangente-variedad
+  - esp-vectorial
+  - prop-direfencial-apl-diferenciable
+  - prop-esp-tangente-abierto-isomorfismo
+  - teo-esp-tangente-rn-isomorfo-rn
+  - variedad-diferenciable
+backlinks:
+  - cor-variedades-difeomorfas-misma-dimension
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
 ---

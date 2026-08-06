@@ -1,5 +1,24 @@
 ---
 title: 'Caracterización de teorías completas'
+filename: 'teo-carac-teorias-semanticas-completas'
+created: '2026-03-26 12:38:40.575516'
+last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.281903887+00:00'
+labels:
+  - note
+  - teo:carac-teorias-semanticas-completas
+references:
+  - consecuencia-semantica
+  - enunciado
+  - equivalencia-elemental-estructuras
+  - modelo
+  - relacion-orden
+  - satisfacibilidad
+  - teoria-semantica
+  - teoria-semantica-completa
+  - teoria-semantica-generada-estructura
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

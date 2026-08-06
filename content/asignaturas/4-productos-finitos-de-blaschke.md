@@ -1,5 +1,80 @@
 ---
 title: 'Productos finitos de Blaschke'
+name: '4-productos-finitos-de-blaschke'
+created: '2025-12-11 19:31:56.810045'
+last_edit_date: '2026-06-25T10:37:05.848511025+00:00'
+last_build_date_pdf: '2026-06-25T14:36:53.255946072+00:00'
+inclusions:
+  - algebra-disco-unidad
+  - apl-conforme
+  - automorfismo-disco-unidad
+  - circunferencia-generalizada
+  - clase-schur
+  - combinacion-convexa
+  - cor-fn-holomorfa-compacto-imp-finitud-ceros
+  - cor-schwarz-pick-involucion-disco-unidad
+  - cor-wirtinger-composicion-antiholomorfas
+  - cor-wirtinger-composicion-holomorfas
+  - densidad-metrica-inducida
+  - derivada-logaritmica
+  - ejem-rotacion-disco-unidad
+  - ejer-aut-disco-unidad-inversa
+  - ejer-aut-disco-unidad-traslada-z1-0-z2-01
+  - ejer-desigualdad-schwarz-pick
+  - ejer-desigualdad-triangular-producto-hiperbolico
+  - ejer-identidad-auxiliar-disco-unidad
+  - ejer-schwarz-pick-extremales
+  - envolvente-convexa
+  - fn-antiholomorfa
+  - involucion-disco-unidad
+  - inyectividad-local
+  - laplaciano
+  - lem-aut-disco-unidad-composicion-involuciones
+  - lem-aut-disco-unidad-grupo
+  - lem-derivada-logaritmica-prod-finito-blaschke
+  - lem-derivada-prod-finito-blaschke-no-nula-toro
+  - lem-derivadas-parciales-wirtinger
+  - lem-diferencia-productos-leq-suma-diferencias
+  - lem-directamente-conforme-imp-holomorfa
+  - lem-involucion-disco-unidad
+  - lem-involucion-disco-unidad-derivada
+  - lem-involucion-disco-unidad-rho
+  - lem-laplaciano-cambio-variable
+  - lem-laplaciano-wirtinger
+  - lem-localmente-inyectiva-implica-inversa-no-nula
+  - lem-prod-combinacion-convexa-prod-finito-blaschke
+  - lem-schwarz
+  - metrica
+  - obs-aut-disco-unidad-fija-origen-imp-rotacion
+  - obs-comparacion-metricas-pseudohiperbolica-euclidea
+  - obs-derivada-holomorfa-wirtinger
+  - obs-holomorfa-conjugada-antiholomorfa
+  - obs-schur-contraccion-metrica-pseudohiperbolica
+  - operadores-wirtinger
+  - orden-cero-fn-holomorfa
+  - plano-complejo-extendido
+  - producto-finito-blaschke
+  - prop-bola-pseudohiperbolica-bola-euclidea
+  - prop-convergencia-uniforme-continuidad-uniforme
+  - prop-envolvente-convexa-combinacion-convexa
+  - prop-fn-holomorfa-iff-wirtinger
+  - prop-metrica-poincare
+  - prop-metrica-pseudohiperbolica-disco-unidad
+  - prop-regla-cadena-wirtinger
+  - prop-trans-mobius-grupo
+  - singularidad-aislada
+  - singularidad-esencial
+  - singularidad-evitable
+  - teo-aut-disco-unidad-composicion
+  - teo-aut-disco-unidad-parametros
+  - teo-carac-prod-finito-blaschke
+  - teo-densidad-induce-metrica
+  - teo-formula-aut-disco-unidad
+  - teo-schwarz-pick
+  - teo-singularidad-evitable-riemann
+  - transformacion-mobius
+  - transformacion-mobius-circunferencias-generalizadas
+  - valencia-fn-holomorfa
 tags:
   - productos-finitos-de-blaschke
 ---

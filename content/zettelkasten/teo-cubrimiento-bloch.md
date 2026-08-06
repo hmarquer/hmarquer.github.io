@@ -1,5 +1,26 @@
 ---
 title: 'Teorema del cubrimiento de Bloch'
+filename: 'teo-cubrimiento-bloch'
+created: '2026-06-15T18:44:39.971232705+00:00'
+last_edit_date: '2026-06-15T18:53:34.072681420+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.883973982+00:00'
+labels:
+  - note
+  - teo:cubrimiento-bloch
+references:
+  - bola-abierta
+  - conexion
+  - continuidad
+  - derivada-hiperbolica
+  - dominio
+  - fn-holomorfa
+  - radio-interno
+  - teo-apl-abierta-compleja
+  - teo-cubrimiento-bloch-invariante
+backlinks:
+  - obs-teo-bloch-imp-teo-bloch-invariante
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema5
 ---

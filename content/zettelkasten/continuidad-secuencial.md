@@ -1,5 +1,17 @@
 ---
 title: 'Continuidad secuencial'
+filename: 'continuidad-secuencial'
+created: '2026-01-09 10:28:40.643495'
+last_edit_date: '2026-03-31T17:47:48.066596486+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.959671552+00:00'
+labels:
+  - defn:continuidad-secuencial
+  - note
+references:
+  - convergencia
+  - esp-topologico
+backlinks:
+  - prop-continuidad-imp-continuidad-secuencial
 ---
 
 [[continuidad-secuencial.pdf]]

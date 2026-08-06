@@ -1,5 +1,23 @@
 ---
 title: 'Prop carac proyeccion ortogonal convexo cerrado'
+filename: 'prop-carac-proyeccion-ortogonal-convexo-cerrado'
+created: '2025-10-28 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.160134130+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.245952196+00:00'
+labels:
+  - dem:carac-proyeccion-ortogonal-convexo-cerrado:eq1
+  - note
+  - prop:carac-proyeccion-ortogonal-convexo-cerrado
+references:
+  - con-convexo
+  - esp-hilbert
+  - identidad-polarizacion
+  - prop-proyeccion-ortogonal-convexo-cerrado
+backlinks:
+  - teo-carac-proyeccion-ortogonal-subespacio-cerrado
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

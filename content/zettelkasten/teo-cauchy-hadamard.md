@@ -1,5 +1,19 @@
 ---
 title: 'Teorema de Cauchy-Hadamard'
+filename: 'teo-cauchy-hadamard'
+created: '2025-03-24 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.196561678+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.256186763+00:00'
+labels:
+  - note
+  - teo:cauchy-hadamard
+references:
+  - convergencia-absoluta-serie
+  - convergencia-uniforme
+  - serie-formal-potencias
+  - serie-formal-potencias-radio-convergencia
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema3
 ---

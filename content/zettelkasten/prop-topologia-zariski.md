@@ -1,5 +1,24 @@
 ---
 title: 'Topología de Zariski'
+filename: 'prop-topologia-zariski'
+created: '2025-12-14 17:39:57.598689'
+last_edit_date: '2026-03-31T17:47:48.177787632+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.155781204+00:00'
+labels:
+  - note
+  - prop:topologia-zariski
+references:
+  - esp-afin
+  - producto-ideales
+  - prop-variedad-algebraica-afin-ideal
+  - suma-ideales
+  - topologia
+  - variedad-algebraica-afin
+backlinks:
+  - clausura-zariski
+  - lem-clausura-zariski-con-ceros-ideal-anulacion
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema3
 ---

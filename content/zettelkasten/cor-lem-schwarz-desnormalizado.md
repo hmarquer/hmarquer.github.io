@@ -1,5 +1,21 @@
 ---
 title: 'Lema de Schwarz desnormalizado'
+filename: 'cor-lem-schwarz-desnormalizado'
+created: '2026-03-19 19:55:08.703336'
+last_edit_date: '2026-06-12T09:49:35.078030253+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.855636375+00:00'
+labels:
+  - cor:lem-schwarz-desnormalizado
+  - note
+references:
+  - dominio
+  - fn-holomorfa
+  - lem-schwarz
+backlinks:
+  - teo-lem-schwarz-desnormalizado-derivadas
+  - teo-liouville
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

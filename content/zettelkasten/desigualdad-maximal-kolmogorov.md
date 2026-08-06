@@ -1,5 +1,18 @@
 ---
 title: 'Desigualdad maximal de Kolmogorov'
+filename: 'desigualdad-maximal-kolmogorov'
+created: '2025-03-10 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.080992792+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.520283098+00:00'
+labels:
+  - note
+  - teo:desigualdad-maximal-kolmogorov
+references:
+  - esp-lp
+  - mindependencia-var-aleatorias
+  - var-aleatoria-centrada
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema2
 ---

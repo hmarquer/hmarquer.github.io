@@ -1,5 +1,19 @@
 ---
 title: 'Caracterización de las funciones recursivas primitivas'
+filename: 'lem-carac-fn-recursiva-primitiva'
+created: '2026-05-03T13:54:26.562473763+00:00'
+last_edit_date: '2026-06-25T09:20:45.073099845+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.495835348+00:00'
+labels:
+  - lem:carac-fn-recursiva-primitiva
+  - note
+references:
+  - fn-recursiva-atomica
+  - fn-recursiva-primitiva
+  - num-naturales
+  - teo-recursion
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema2
 ---

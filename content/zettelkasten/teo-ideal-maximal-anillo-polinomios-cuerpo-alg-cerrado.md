@@ -1,5 +1,21 @@
 ---
 title: 'Teo ideal maximal anillo polinomios cuerpo alg cerrado'
+filename: 'teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado'
+created: '2026-01-04 07:42:54.211804'
+last_edit_date: '2026-03-31T17:47:48.210544754+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.645032+00:00'
+labels:
+  - note
+  - teo:ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
+references:
+  - alg-cerrado
+  - anillo-polinomios
+  - cuerpo
+  - ideal-generado
+  - ideal-maximal
+  - lem-normalizacion-noether
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema4
 ---

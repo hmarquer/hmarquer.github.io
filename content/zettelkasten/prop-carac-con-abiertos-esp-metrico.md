@@ -1,5 +1,18 @@
 ---
 title: 'Caracterización de conjuntos abiertos en un espacio métrico'
+filename: 'prop-carac-con-abiertos-esp-metrico'
+created: '2026-07-17T20:07:20.190206672+00:00'
+last_edit_date: '2026-07-17T20:07:31.345205476+00:00'
+last_build_date_pdf: '2026-07-18T05:31:32.095617217+00:00'
+labels:
+  - note
+  - prop:carac-con-abiertos-esp-metrico
+references:
+  - bola-abierta
+  - con-abierto-esp-metrico
+  - esp-metrico
+projects:
+  - 3.1-topologia
 tags:
   - topologia/tema1-1
 ---

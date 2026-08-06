@@ -1,5 +1,36 @@
 ---
 title: 'Espacio proyectivo real'
+filename: 'esp-proyectivo-real'
+created: '2025-03-06 00:00:00'
+last_edit_date: '2026-07-18T05:07:01.346534150+00:00'
+last_build_date_pdf: '2026-07-18T05:31:32.064979921+00:00'
+labels:
+  - defn:esp-proyectivo-real
+  - note
+references:
+  - apl-abierta
+  - atlas
+  - atlas-diferenciable
+  - c-infty-compatibilidad
+  - carta
+  - esp-proyectivo
+  - esp-segundo-numerable
+  - esp-topologico
+  - esp-vectorial
+  - estructura-diferenciable
+  - hausdorff-topologia
+  - homeomorfismo
+  - lem-relacion-equivalencia-abierta-hausdorff
+  - lem-relacion-equivalencia-abierta-segundo-numerable
+  - prop-fn-continua-cociente-iff-composicion-continua
+  - relacion-equivalencia-abierta
+  - teo-existencia-unicidad-estructura-diferenciable
+  - topologia-cociente
+  - topologia-producto
+  - topologia-subespacio
+  - variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

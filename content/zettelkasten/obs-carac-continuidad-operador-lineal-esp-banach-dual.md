@@ -1,5 +1,21 @@
 ---
 title: 'Caracterización de la continuidad de un operador lineal entre espacios de Banach por elementos del dual'
+filename: 'obs-carac-continuidad-operador-lineal-esp-banach-dual'
+created: '2025-12-26 12:43:28.695799'
+last_edit_date: '2026-03-31T17:47:48.149026580+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.692294899+00:00'
+labels:
+  - note
+  - obs:carac-continuidad-operador-lineal-esp-banach-dual
+references:
+  - apl-lineal
+  - continuidad
+  - cor-esp-normado-separacion-puntos
+  - dual-topologico
+  - esp-banach
+  - teo-carac-continuidad-operador-lineal-esp-banach
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

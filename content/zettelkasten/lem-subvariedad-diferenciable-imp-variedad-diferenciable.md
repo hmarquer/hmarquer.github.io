@@ -1,5 +1,23 @@
 ---
 title: 'Toda subvariedad diferenciable es una variedad diferenciable'
+filename: 'lem-subvariedad-diferenciable-imp-variedad-diferenciable'
+created: '2025-06-06 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.136549897+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.074909012+00:00'
+labels:
+  - lem:subvariedad-diferenciable-imp-variedad-diferenciable
+  - note
+references:
+  - embebimiento
+  - estructura-diferenciable
+  - hausdorff-topologia
+  - herencia-segundo-numerable
+  - prop-estructura-diferenciable-inducida-homeomorfismo
+  - subvariedad-diferenciable
+  - topologia-subespacio
+  - variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema4
 ---

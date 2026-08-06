@@ -1,5 +1,18 @@
 ---
 title: 'Corolario de recursión vectorial'
+filename: 'cor-recursion-vectorial'
+created: '2026-05-03T15:09:39.805468865+00:00'
+last_edit_date: '2026-05-03T15:09:46.040350698+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.030849686+00:00'
+labels:
+  - cor:recursion-vectorial
+  - note
+references:
+  - cor-biyeccion-nk-n-recursiva-primitiva
+  - fn-recursiva-primitiva
+  - teo-recursion
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema2
 ---

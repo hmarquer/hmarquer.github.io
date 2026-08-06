@@ -1,5 +1,48 @@
 ---
 title: 'Teoría descriptiva de conjuntos'
+name: '4-teoria-descriptiva-de-conjuntos'
+created: '2025-12-11 19:31:56.814044'
+last_edit_date: '2026-06-25T10:37:13.097523255+00:00'
+last_build_date_pdf: '2026-06-25T14:36:53.258540717+00:00'
+inclusions:
+  - apl-abierta
+  - apl-cerrada
+  - base-entornos-topologia
+  - base-topologia
+  - bola-abierta
+  - bola-cerrada
+  - clausura
+  - completitud-metrica
+  - con-denso
+  - continuidad
+  - esp-metrico
+  - esp-metrizable
+  - esp-polaco
+  - esp-segundo-numerable
+  - esp-topologico
+  - esp-topologico-completamente-metrizable
+  - esp-topologico-regular
+  - esp-topologico-separable
+  - frechet-topologia
+  - homeomorfismo
+  - isometria
+  - lem-urysohn
+  - metrica
+  - prop-base-alguna-topologia
+  - prop-con-denso
+  - prop-esp-metrizable-imp-separable-iff-segundo-numerable
+  - prop-segundo-numerable-imp-separable
+  - prop-topologia-generada
+  - subbase-topologia
+  - sucesion
+  - sucesion-cauchy
+  - teo-compleccion-esp-metrico
+  - teo-extension-tietze
+  - teo-metrizacion-urysohn
+  - topologia
+  - topologia-metrica
+  - topologia-subespacio
+  - ultrametrica
 tags:
   - teoria-descriptiva-de-conjuntos
 ---

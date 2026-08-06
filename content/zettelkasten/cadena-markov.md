@@ -1,5 +1,23 @@
 ---
 title: 'Cadena de Markov'
+filename: 'cadena-markov'
+created: '2025-03-11 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.058473057+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.854914884+00:00'
+labels:
+  - defn:cadena-markov
+  - note
+references:
+  - var-aleatoria-discreta
+backlinks:
+  - cadena-markov-accesibilidad
+  - cadena-markov-comunicacion
+  - cadena-markov-homogenea
+  - cadena-markov-irreducible
+  - cadena-markov-recurrencia
+  - cadena-markov-transitoriedad
+projects:
+  - 3.2-modelizacion
 tags:
   - modelizacion/tema2
 ---

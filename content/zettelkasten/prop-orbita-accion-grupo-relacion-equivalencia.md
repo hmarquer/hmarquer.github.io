@@ -1,5 +1,19 @@
 ---
 title: 'Prop orbita accion grupo relacion equivalencia'
+filename: 'prop-orbita-accion-grupo-relacion-equivalencia'
+created: '2025-06-23 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.173543433+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.397996109+00:00'
+labels:
+  - note
+  - prop:orbita-accion-grupo-relacion-equivalencia
+references:
+  - accion-grupo
+  - grupo
+  - orbita-accion-grupo
+  - relacion-equivalencia
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema6
 ---

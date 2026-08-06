@@ -1,5 +1,21 @@
 ---
 title: 'Edp casi lineal o1 sistema caracteristico'
+filename: 'edp-casi-lineal-o1-sistema-caracteristico'
+created: '2025-03-30 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.085198698+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.915040037+00:00'
+labels:
+  - defn:edp-casi-lineal-o1-sistema-caracteristico
+  - eq:edp-casi-lineal-o1
+  - note
+references:
+  - ecu-derivadas-parciales
+  - edp-casi-lineal
+  - orden-edp
+backlinks:
+  - edp-casi-lineal-o1-curvas-caracteristicas
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
 tags:
   - ecuaciones-en-derivadas-parciales/tema2
 ---

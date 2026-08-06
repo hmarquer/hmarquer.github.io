@@ -1,5 +1,15 @@
 ---
 title: 'Función de masa'
+filename: 'fn-masa'
+created: '2025-02-21 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.105875435+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.924409141+00:00'
+labels:
+  - defn:fn-masa
+  - note
+references:
+  - esp-probabilidad
+  - var-aleatoria-discreta
 ---
 
 [[fn-masa.pdf]]

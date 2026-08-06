@@ -1,5 +1,23 @@
 ---
 title: 'Fórmula integral de Cauchy para discos'
+filename: 'teo-formula-integral-cauchy-disco'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.951500588+00:00'
+labels:
+  - note
+  - teo:formula-integral-cauchy-disco
+references:
+  - con-convexo
+  - fn-holomorfa
+  - integral-linea-compleja
+  - teo-cauchy-goursat-convexo
+backlinks:
+  - teo-fn-analitica-iff-holomorfa
+  - teo-liouville
+  - teo-modulo-maximo
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

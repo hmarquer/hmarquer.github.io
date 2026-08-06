@@ -1,5 +1,28 @@
 ---
 title: 'Modelo'
+filename: 'modelo'
+created: '2026-03-02 12:08:12.273615'
+last_edit_date: '2026-05-15T12:55:08.574116429+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.984123610+00:00'
+labels:
+  - defn:modelo
+  - note
+references:
+  - enunciado
+  - estructura
+  - satisfaccion
+backlinks:
+  - clase-modelos
+  - consecuencia-semantica
+  - cor-producto-modelos-teoria-horn
+  - cor-subestructura-modelo-teoria-universal
+  - lem-diagrama-atomico-inmersiones
+  - satisfacibilidad
+  - teo-carac-teorias-semanticas-completas
+  - teoria-semantica-generada-enunciados
+  - teoria-semantica-generada-estructura
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

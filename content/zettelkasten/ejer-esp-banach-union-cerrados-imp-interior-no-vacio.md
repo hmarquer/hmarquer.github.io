@@ -1,5 +1,23 @@
 ---
 title: 'Ejer espacio banach union cerrados imp interior no vacio'
+filename: 'ejer-esp-banach-union-cerrados-imp-interior-no-vacio'
+created: '2025-12-06 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.088049167+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.875239626+00:00'
+labels:
+  - ejer:esp-banach-union-cerrados-imp-interior-no-vacio
+  - note
+references:
+  - cor-baire
+  - esp-banach
+  - prop-con-denso-ninguna-parte-carac
+  - teo-baire
+backlinks:
+  - teo-apl-abierta
+  - teo-banach-steinhaus
+  - teo-esp-banach-imp-base-hamel-finita-o-no-numerable
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

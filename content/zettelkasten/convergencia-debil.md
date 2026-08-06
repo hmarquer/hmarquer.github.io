@@ -1,5 +1,27 @@
 ---
 title: 'Convergencia débil'
+filename: 'convergencia-debil'
+created: '2025-12-20 23:23:29.614001'
+last_edit_date: '2026-03-31T17:47:48.067491414+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.248780742+00:00'
+labels:
+  - defn:convergencia-debil
+  - note
+references:
+  - convergencia
+  - dual-topologico
+  - norma
+  - sucesion
+backlinks:
+  - prop-carac-convergencia-debil
+  - prop-convergencia-debil-dual-imp-convergencia-evaluacion
+  - prop-convergencia-fuerte-imp-debil
+  - prop-esp-hilbert-convergencia-debil-norma-imp-convergencia-fuerte
+  - prop-norma-semicontinua-inf-convergencia-debil
+  - teo-convergencia-debil-imp-convergencia-fuerte-combinaciones-convexas
+  - teo-esp-banach-uniformemente-convexo-convergencia-debil-norma-imp-convergencia-fuerte
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
 ---

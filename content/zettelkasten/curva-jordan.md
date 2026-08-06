@@ -1,5 +1,20 @@
 ---
 title: 'Curva jordan'
+filename: 'curva-jordan'
+created: '2025-04-30 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.078223636+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.158656307+00:00'
+labels:
+  - defn:curva-jordan
+  - note
+references:
+  - curva-cerrada
+  - curva-simple
+  - curva-topologica
+backlinks:
+  - teo-curva-jordan
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

@@ -1,5 +1,21 @@
 ---
 title: 'Prop-fn-continua-cociente-iff-composicion-continua'
+filename: 'prop-fn-continua-cociente-iff-composicion-continua'
+created: '2025-03-01 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.167966279+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.658438872+00:00'
+labels:
+  - note
+  - prop:fn-continua-cociente-iff-composicion-continua
+references:
+  - continuidad
+  - relacion-equivalencia
+  - topologia
+  - topologia-cociente
+backlinks:
+  - esp-proyectivo-real
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,19 @@
 ---
 title: 'Equivalencia homotópica'
+filename: 'equivalencia-homotopica'
+created: '2025-06-22 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.092546513+00:00'
+last_build_date_pdf: '2026-07-04T22:02:11.114190144+00:00'
+labels:
+  - defn:equivalencia-homotopica
+  - note
+references:
+  - apl-homotopas
+  - continuidad
+backlinks:
+  - esp-topologicos-homotopicamente-equivalentes
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema6
 ---

@@ -1,5 +1,21 @@
 ---
 title: 'La preimagen de una subvariedad por un morfismo es una subvariedad'
+filename: 'prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines'
+created: '2026-01-05 16:43:31.392056'
+last_edit_date: '2026-03-31T17:47:48.173979315+00:00'
+last_build_date_pdf: '2026-07-04T22:02:09.827068523+00:00'
+labels:
+  - note
+  - prop:preimagen-subvariedad-morfismo-variedades-algebraicas-afines
+references:
+  - con-ceros-polinomios-esp-afin
+  - ideal
+  - ideal-anulacion
+  - morfismo-inducido-variedades-algebraicas-afines
+  - morfismo-variedades-algebraicas-afines
+  - variedad-algebraica-afin
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema5
 ---

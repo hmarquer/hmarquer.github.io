@@ -1,5 +1,27 @@
 ---
 title: 'Lem sigma algebra parada esperanza condicionada'
+filename: 'lem-sigma-algebra-parada-esperanza-condicionada'
+created: '2025-06-15 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.134950869+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.826446339+00:00'
+labels:
+  - lem:sigma-algebra-parada-esperanza-condicionada
+  - lem:sigma-algebra-parada-esperanza-condicionada:1
+  - lem:sigma-algebra-parada-esperanza-condicionada:2
+  - lem:sigma-algebra-parada-esperanza-condicionada:3
+  - note
+references:
+  - esp-probabilidad
+  - esperanza-condicionada-sigma-algebra
+  - filtracion
+  - fn-integrable
+  - fn-medible
+  - lem-esperanza-condicionada
+  - proceso-estocastico-adaptado
+  - sigma-algebra-tiempo-parada
+  - tiempo-parada
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema4
 ---

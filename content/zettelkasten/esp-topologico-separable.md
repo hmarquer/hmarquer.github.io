@@ -1,5 +1,21 @@
 ---
 title: 'Espacio topológico separable'
+filename: 'esp-topologico-separable'
+created: '2025-05-29 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.098818609+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.148782801+00:00'
+labels:
+  - defn:esp-topologico-separable
+  - note
+references:
+  - con-denso
+  - esp-topologico
+backlinks:
+  - esp-polaco
+  - prop-esp-metrizable-imp-separable-iff-segundo-numerable
+  - prop-segundo-numerable-imp-separable
+projects:
+  - 4-teoria-descriptiva-de-conjuntos
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

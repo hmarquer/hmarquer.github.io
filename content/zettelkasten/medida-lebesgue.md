@@ -1,5 +1,22 @@
 ---
 title: 'Medida de Lebesgue'
+filename: 'medida-lebesgue'
+created: '2025-06-10 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.141941951+00:00'
+last_build_date_pdf: '2026-07-04T22:02:08.626119813+00:00'
+labels:
+  - note
+  - prop:medida-lebesgue
+references:
+  - medida-completa
+  - medida-exterior-lebesgue
+  - sigma-algebra-lebesgue
+backlinks:
+  - fn-densidad
+  - lem-aprox-indicatriz-continua-norma-lp
+  - lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte
+  - teo-l2-unico-esp-hilbert
+  - var-aleatoria-absolutamente-continua
 ---
 
 [[medida-lebesgue.pdf]]

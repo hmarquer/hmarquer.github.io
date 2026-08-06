@@ -1,5 +1,23 @@
 ---
 title: 'Curva diferenciable'
+filename: 'curva-diferenciable'
+created: '2025-02-25 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.078049147+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.796302725+00:00'
+labels:
+  - defn:curva-diferenciable
+  - note
+references:
+  - apl-diferenciable
+  - curva-diferenciable
+  - curva-topologica
+  - variedad-diferenciable
+backlinks:
+  - curva-diferenciable
+  - teo-levantamiento-curvas
+  - velocidad-curva-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
 ---

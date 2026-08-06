@@ -1,5 +1,23 @@
 ---
 title: 'Supermartingala'
+filename: 'supermartingala'
+created: '2025-06-14 00:00:00'
+last_edit_date: '2026-03-31T17:47:48.190520368+00:00'
+last_build_date_pdf: '2026-07-04T22:02:10.042431414+00:00'
+labels:
+  - defn:supermartingala
+  - note
+references:
+  - esperanza-condicionada-sigma-algebra
+  - filtracion
+  - proceso-estocastico
+  - proceso-estocastico-adaptado
+  - submartingala
+backlinks:
+  - martingala
+  - teo-parada-opcional
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema4
 ---
