@@ -1,5 +1,7 @@
 ---
 title: '$\Z$ es un dominio de ideales principales'
+tags:
+  - teoria-de-galois/tema1
 ---
 
 [[prop-anillo-z-dominio-ideales-principales.pdf]]

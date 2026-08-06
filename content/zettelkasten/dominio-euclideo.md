@@ -1,5 +1,7 @@
 ---
 title: 'Dominio euclídeo'
+tags:
+  - teoria-de-galois/tema1
 ---
 
 [[dominio-euclideo.pdf]]

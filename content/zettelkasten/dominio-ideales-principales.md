@@ -2,6 +2,7 @@
 title: 'Dominio de ideales principales'
 tags:
   - algebra-conmutativa/tema1
+  - teoria-de-galois/tema1
 ---
 
 [[dominio-ideales-principales.pdf]]

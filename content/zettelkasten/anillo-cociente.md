@@ -2,6 +2,7 @@
 title: 'Anillo cociente'
 tags:
   - algebra-conmutativa/tema1
+  - teoria-de-galois/tema1
 ---
 
 [[anillo-cociente.pdf]]

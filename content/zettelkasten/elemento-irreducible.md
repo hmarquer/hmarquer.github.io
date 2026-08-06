@@ -1,5 +1,7 @@
 ---
 title: 'Elemento irreducible'
+tags:
+  - teoria-de-galois/tema1
 ---
 
 [[elemento-irreducible.pdf]]
