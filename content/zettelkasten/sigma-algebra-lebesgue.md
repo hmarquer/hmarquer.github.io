@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra de Lebesgue'
 filename: 'sigma-algebra-lebesgue'
 created: '2025-06-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.184389669+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.041216122+00:00'
+last_build_date_pdf: '2026-08-07T09:19:32.568850663+00:00'
 labels:
   - defn:sigma-algebra-lebesgue
   - note

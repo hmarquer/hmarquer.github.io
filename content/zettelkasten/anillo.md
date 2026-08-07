@@ -3,7 +3,7 @@ title: 'Anillo'
 filename: 'anillo'
 created: '2025-01-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.051158264+00:00'
-last_build_date_pdf: '2026-08-04T23:35:37.025522361+00:00'
+last_build_date_pdf: '2026-08-06T23:22:36.180246105+00:00'
 last_build_date_html: '2026-05-07T00:51:10.597131329+00:00'
 labels:
   - defn:anillo
