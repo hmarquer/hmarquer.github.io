@@ -17,6 +17,7 @@ backlinks:
   - prop-base-alguna-topologia
   - prop-base-topologia
   - prop-base-topologia-inicial
+  - prop-comparacion-topologias-bases
   - topologia-metrica
   - topologia-producto
 projects:

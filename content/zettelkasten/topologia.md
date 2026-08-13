@@ -19,6 +19,7 @@ backlinks:
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-relacion-equivalencia-abierta-segundo-numerable
   - prop-base-alguna-topologia
+  - prop-comparacion-topologias-bases
   - prop-fn-continua-cociente-iff-composicion-continua
   - prop-topologia-generada
   - prop-topologia-inducida-fn-sobre

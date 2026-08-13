@@ -10,6 +10,7 @@ labels:
 references:
   - topologia
 backlinks:
+  - prop-comparacion-topologias-bases
   - prop-topologia-interseccion
 projects:
   - 3.1-topologia
