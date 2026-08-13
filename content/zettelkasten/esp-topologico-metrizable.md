@@ -3,7 +3,7 @@ title: 'Espacio topológico metrizable'
 filename: 'esp-topologico-metrizable'
 created: '2026-07-18T04:33:54.169969066+00:00'
 last_edit_date: '2026-07-18T04:34:05.264206918+00:00'
-last_build_date_pdf: '2026-07-18T05:31:32.069643614+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.903799070+00:00'
 labels:
   - defn:esp-topologico-metrizable
   - note

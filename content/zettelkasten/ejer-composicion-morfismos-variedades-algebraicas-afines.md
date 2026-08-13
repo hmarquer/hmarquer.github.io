@@ -3,7 +3,7 @@ title: 'Ejer Composicion Morfismos Variedades Algebraicas Afines'
 filename: 'ejer-composicion-morfismos-variedades-algebraicas-afines'
 created: '2026-06-24T18:36:32.884182514+00:00'
 last_edit_date: '2026-06-25T09:20:45.072609244+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.163612447+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.798623952+00:00'
 labels:
   - ejer:composicion-morfismos-variedades-algebraicas-afines
   - note

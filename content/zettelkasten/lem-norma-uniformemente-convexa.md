@@ -3,7 +3,7 @@ title: 'Lem norma uniformemente convexa'
 filename: 'lem-norma-uniformemente-convexa'
 created: '2026-01-07 16:13:48.488941'
 last_edit_date: '2026-03-31T17:47:48.131726064+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.623859890+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.230659341+00:00'
 labels:
   - lem:norma-uniformemente-convexa
   - note

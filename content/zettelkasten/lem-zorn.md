@@ -3,7 +3,7 @@ title: 'Lema de Zorn'
 filename: 'lem-zorn'
 created: '2025-09-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.139264890+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.512324674+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.123304138+00:00'
 labels:
   - lem:zorn
   - note

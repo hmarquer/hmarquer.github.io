@@ -3,7 +3,7 @@ title: 'Lem diferenciacion lebesgue l1 imp loc l1'
 filename: 'lem-diferenciacion-lebesgue-l1-imp-loc-l1'
 created: '2026-01-12 10:25:27.908390'
 last_edit_date: '2026-03-31T17:47:48.125529782+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.447482163+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.066891300+00:00'
 labels:
   - lem:diferenciacion-lebesgue-l1-imp-loc-l1
   - note

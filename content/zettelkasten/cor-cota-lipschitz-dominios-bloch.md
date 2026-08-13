@@ -3,7 +3,7 @@ title: 'Cor Cota Lipschitz Dominios Bloch'
 filename: 'cor-cota-lipschitz-dominios-bloch'
 created: '2026-06-16T12:29:12.861533736+00:00'
 last_edit_date: '2026-06-16T12:29:14.153031902+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.475850118+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.093294894+00:00'
 labels:
   - cor:cota-lipschitz-dominios-bloch
   - note

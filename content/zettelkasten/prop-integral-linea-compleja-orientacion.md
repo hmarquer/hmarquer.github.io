@@ -3,7 +3,7 @@ title: 'Prop integral linea compleja orientacion'
 filename: 'prop-integral-linea-compleja-orientacion'
 created: '2025-05-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.171618581+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.432853185+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.023001577+00:00'
 labels:
   - note
   - prop:integral-linea-compleja-orientacion

@@ -3,7 +3,7 @@ title: 'Sección local de una aplicación diferenciable'
 filename: 'seccion-local-apl-diferenciable'
 created: '2025-03-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.182150885+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.376938505+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.990579795+00:00'
 labels:
   - defn:seccion-local-apl-diferenciable
   - note

@@ -3,7 +3,7 @@ title: 'Topología inicial'
 filename: 'topologia-inicial'
 created: '2025-12-27 18:12:49.148904'
 last_edit_date: '2026-03-31T17:47:48.219807492+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.909932532+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.501849886+00:00'
 labels:
   - defn:topologia-inicial
   - note

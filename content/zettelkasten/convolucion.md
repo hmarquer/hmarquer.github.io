@@ -3,7 +3,7 @@ title: 'Convolución de dos funciones'
 filename: 'convolucion'
 created: '2025-10-09 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.069633587+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.424441818+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.045102087+00:00'
 labels:
   - defn:convolucion
   - note

@@ -3,7 +3,7 @@ title: 'Continuidad de la transformada de Fourier en $\mathcal{L}^1(\R)$'
 filename: 'lem-transformada-fourier-continua'
 created: '2026-01-13 10:33:01.025592'
 last_edit_date: '2026-03-31T17:47:48.137417193+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.203448034+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.817807872+00:00'
 labels:
   - lem:transformada-fourier-continua
   - note

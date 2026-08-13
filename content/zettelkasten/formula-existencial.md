@@ -3,7 +3,7 @@ title: 'Fórmula existencial'
 filename: 'formula-existencial'
 created: '2026-03-05 11:27:44.726625'
 last_edit_date: '2026-03-31T17:47:48.108159414+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.682157125+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.306555486+00:00'
 labels:
   - defn:formula-existencial
   - note

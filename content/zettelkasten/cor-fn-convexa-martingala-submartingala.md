@@ -3,7 +3,7 @@ title: 'Cor fn convexa martingala submartingala'
 filename: 'cor-fn-convexa-martingala-submartingala'
 created: '2025-06-14 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.071892529+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.013057522+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.603155581+00:00'
 labels:
   - cor:fn-convexa-martingala-submartingala
   - note

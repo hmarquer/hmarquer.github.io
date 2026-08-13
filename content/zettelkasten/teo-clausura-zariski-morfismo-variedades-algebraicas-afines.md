@@ -3,7 +3,7 @@ title: 'Fórmula para la clausura de Zariski de un morfismo de variedades algebr
 filename: 'teo-clausura-zariski-morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 12:19:45.572630'
 last_edit_date: '2026-03-31T17:47:48.197557647+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.333618424+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.937681439+00:00'
 labels:
   - note
   - teo:clausura-zariski-morfismo-variedades-algebraicas-afines

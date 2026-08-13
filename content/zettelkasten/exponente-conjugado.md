@@ -3,7 +3,7 @@ title: 'Exponente conjugado'
 filename: 'exponente-conjugado'
 created: '2025-02-20 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.100294363+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.544083245+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.154702893+00:00'
 labels:
   - defn:exponente-conjugado
   - note

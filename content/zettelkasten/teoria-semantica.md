@@ -3,7 +3,7 @@ title: 'Teoría semántica'
 filename: 'teoria-semantica'
 created: '2026-03-05 10:54:43.698456'
 last_edit_date: '2026-04-10T19:04:25.238588617+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.140900271+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.755878930+00:00'
 labels:
   - defn:teoria-semantica
   - note

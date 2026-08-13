@@ -3,7 +3,7 @@ title: 'Teo Recursion'
 filename: 'teo-recursion'
 created: '2026-04-26T12:02:52.329226802+00:00'
 last_edit_date: '2026-04-26T12:02:54.067725604+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.756540395+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.348000940+00:00'
 labels:
   - note
   - teo:recursion

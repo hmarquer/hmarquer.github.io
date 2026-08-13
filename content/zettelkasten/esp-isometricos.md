@@ -3,7 +3,7 @@ title: 'Espacios isométricos'
 filename: 'esp-isometricos'
 created: '2025-09-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.095463868+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.515031200+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.125892740+00:00'
 labels:
   - defn:esp-isometricos
   - note

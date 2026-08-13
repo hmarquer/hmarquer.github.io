@@ -3,7 +3,7 @@ title: 'Función semicontinua inferior'
 filename: 'fn-semicontinua-inferior'
 created: '2025-12-27 19:21:54.076773'
 last_edit_date: '2026-03-31T17:47:48.106325854+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.680892880+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.272350259+00:00'
 labels:
   - defn:fn-semicontinua-inferior
   - note

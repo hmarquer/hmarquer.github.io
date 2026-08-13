@@ -3,7 +3,7 @@ title: 'Teo comparacion weierstrass'
 filename: 'teo-comparacion-weierstrass'
 created: '2025-04-23 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.197908319+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.767523925+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.373243302+00:00'
 labels:
   - note
   - teo:comparacion-weierstrass

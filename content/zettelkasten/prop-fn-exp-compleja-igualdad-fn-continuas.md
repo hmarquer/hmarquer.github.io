@@ -3,7 +3,7 @@ title: 'Prop fn exp compleja igualdad fn continuas'
 filename: 'prop-fn-exp-compleja-igualdad-fn-continuas'
 created: '2026-03-18 16:04:59.612443'
 last_edit_date: '2026-03-31T17:47:48.168597811+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.469200653+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.061743562+00:00'
 labels:
   - note
   - prop:fn-exp-compleja-igualdad-fn-continuas

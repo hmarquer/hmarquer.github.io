@@ -3,7 +3,7 @@ title: 'Dominio integridad'
 filename: 'dominio-integridad'
 created: '2025-09-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.083727091+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.824481352+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.432644608+00:00'
 labels:
   - defn:dominio-integridad
   - ejems:dominio-integridad

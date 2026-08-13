@@ -3,7 +3,7 @@ title: 'Enunciado'
 filename: 'enunciado'
 created: '2026-02-09 11:04:15.971819'
 last_edit_date: '2026-03-31T17:47:48.091544963+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.002301411+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.634234188+00:00'
 labels:
   - defn:enunciado
   - note

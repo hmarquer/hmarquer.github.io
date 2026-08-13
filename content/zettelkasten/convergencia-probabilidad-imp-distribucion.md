@@ -3,7 +3,7 @@ title: 'Convergencia en probabilidad implica en distribución'
 filename: 'convergencia-probabilidad-imp-distribucion'
 created: '2025-03-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.068406+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.372713395+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.997053762+00:00'
 labels:
   - dem:convergencia-probabilidad-imp-distribucion-1
   - dem:convergencia-probabilidad-imp-distribucion-2

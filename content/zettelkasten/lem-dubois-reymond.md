@@ -3,7 +3,7 @@ title: 'Lema de DuBois Reymond'
 filename: 'lem-dubois-reymond'
 created: '2025-05-23 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.126148309+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.995685411+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.608481661+00:00'
 labels:
   - lem:dubois-reymond
   - note

@@ -3,7 +3,7 @@ title: 'Ejem continuidad derivadas laterales imp dini'
 filename: 'ejem-continuidad-derivadas-laterales-imp-dini'
 created: '2026-01-13 09:59:15.691916'
 last_edit_date: '2026-03-31T17:47:48.085798289+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.597898485+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.204413373+00:00'
 labels:
   - ejem:continuidad-derivadas-laterales-imp-dini
   - note

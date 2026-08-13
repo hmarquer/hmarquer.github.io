@@ -3,7 +3,7 @@ title: 'Teo central limite'
 filename: 'teo-central-limite'
 created: '2025-06-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.196929402+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.287149182+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.888147372+00:00'
 labels:
   - note
   - teo:central-limite

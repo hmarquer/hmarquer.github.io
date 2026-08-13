@@ -3,7 +3,7 @@ title: 'Teoría semántica generada por una estructura con parámetros'
 filename: 'prop-teoria-semantica-generada-estructura-parametros'
 created: '2026-03-27 10:25:59.948026'
 last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.193116965+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.807487790+00:00'
 labels:
   - note
   - prop:teoria-semantica-generada-estructura-parametros

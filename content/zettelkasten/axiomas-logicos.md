@@ -3,7 +3,7 @@ title: 'Axiomas lógicos'
 filename: 'axiomas-logicos'
 created: '2026-04-13T10:14:11.753856164+00:00'
 last_edit_date: '2026-04-14T18:33:38.464340750+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.653049946+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.259495544+00:00'
 labels:
   - defn:axiomas-logicos
   - defn:axiomas-logicos:1

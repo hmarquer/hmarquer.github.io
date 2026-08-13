@@ -3,7 +3,7 @@ title: 'Un espacio es reflexivo si y solo si la bola unidad cerrada es débilmen
 filename: 'teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta'
 created: '2026-01-07 21:19:39.485929'
 last_edit_date: '2026-03-31T17:47:48.204175816+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.550320712+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.171338760+00:00'
 labels:
   - note
   - teo:esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta

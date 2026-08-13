@@ -3,7 +3,7 @@ title: 'Teorema de la convergencia dominada'
 filename: 'teo-convergencia-dominada'
 created: '2025-03-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.198894270+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.002575939+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.592556873+00:00'
 labels:
   - note
   - teo:convergencia-dominada

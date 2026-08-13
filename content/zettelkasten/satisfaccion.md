@@ -3,7 +3,7 @@ title: 'Satisfacción'
 filename: 'satisfaccion'
 created: '2026-02-17 19:30:48.578668'
 last_edit_date: '2026-03-31T17:47:48.181549230+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.435464121+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.025675851+00:00'
 labels:
   - defn:satisfaccion
   - note

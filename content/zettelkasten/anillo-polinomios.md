@@ -3,7 +3,7 @@ title: 'Anillo polinomios'
 filename: 'anillo-polinomios'
 created: '2025-09-19 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.050780902+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.083651504+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.681998552+00:00'
 labels:
   - defn:anillo-polinomios
   - note

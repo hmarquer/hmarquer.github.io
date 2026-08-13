@@ -3,7 +3,7 @@ title: 'Topología débil'
 filename: 'topologia-debil'
 created: '2025-12-27 18:15:22.068752'
 last_edit_date: '2026-03-31T17:47:48.219647991+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.483543300+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.094615364+00:00'
 labels:
   - defn:topologia-debil
   - note

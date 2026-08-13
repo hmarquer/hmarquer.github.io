@@ -3,7 +3,7 @@ title: 'Convergencia casi segura'
 filename: 'convergencia-casi-segura'
 created: '2025-03-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.067343736+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.857443254+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.486156718+00:00'
 labels:
   - defn:convergencia-casi-segura
   - note

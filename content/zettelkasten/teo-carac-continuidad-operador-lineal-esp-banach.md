@@ -3,7 +3,7 @@ title: 'Caracterización de la continuidad de un operador lineal entre espacios 
 filename: 'teo-carac-continuidad-operador-lineal-esp-banach'
 created: '2025-12-13 16:32:52.810372'
 last_edit_date: '2026-03-31T17:47:48.194324456+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.056757921+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.688878663+00:00'
 labels:
   - note
   - teo:carac-continuidad-operador-lineal-esp-banach

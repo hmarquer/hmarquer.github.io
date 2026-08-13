@@ -3,7 +3,7 @@ title: 'Espacio c0'
 filename: 'esp-c0'
 created: '2025-10-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.094310782+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.276747641+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.908153705+00:00'
 labels:
   - defn:esp-c0
   - note

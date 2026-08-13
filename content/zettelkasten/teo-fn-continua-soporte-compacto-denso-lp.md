@@ -3,7 +3,7 @@ title: 'Teo fn continua soporte compacto denso lp'
 filename: 'teo-fn-continua-soporte-compacto-denso-lp'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.206442413+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.399097978+00:00'
+last_build_date_pdf: '2026-08-13T20:02:20.989281273+00:00'
 labels:
   - note
   - teo:fn-continua-soporte-compacto-denso-lp

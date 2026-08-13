@@ -3,7 +3,7 @@ title: 'Lem sigma algebras indep imp var aleatorias indep'
 filename: 'lem-sigma-algebras-indep-imp-var-aleatorias-indep'
 created: '2025-06-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.135114368+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.446769468+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.065034260+00:00'
 labels:
   - lem:sigma-algebras-indep-imp-var-aleatorias-indep
   - note

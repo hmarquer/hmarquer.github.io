@@ -3,7 +3,7 @@ title: 'Función potencia compleja'
 filename: 'fn-potencia-compleja'
 created: '2025-03-04 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.106168137+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.109742102+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.708194255+00:00'
 labels:
   - defn:potencia-compleja
   - note

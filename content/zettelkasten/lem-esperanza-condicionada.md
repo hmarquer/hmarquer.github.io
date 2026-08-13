@@ -3,7 +3,7 @@ title: 'Propiedades de la esperanza condicionada'
 filename: 'lem-esperanza-condicionada'
 created: '2025-06-13 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.126783999+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.709805362+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.301075482+00:00'
 labels:
   - dem:esperanzacondicionada:6:i
   - dem:esperanzacondicionada:6:ii

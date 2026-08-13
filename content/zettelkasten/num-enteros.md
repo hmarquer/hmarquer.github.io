@@ -3,7 +3,7 @@ title: 'Números enteros'
 filename: 'num-enteros'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.147972621+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.302498618+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.906371532+00:00'
 labels:
   - defn:num-enteros
   - note

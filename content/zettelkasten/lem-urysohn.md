@@ -3,7 +3,7 @@ title: 'Lema de Urysohn'
 filename: 'lem-urysohn'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.138664868+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.805724418+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.397220725+00:00'
 labels:
   - lem:urysohn
   - note

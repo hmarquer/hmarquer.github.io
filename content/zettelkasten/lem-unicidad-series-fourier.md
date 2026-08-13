@@ -3,7 +3,7 @@ title: 'Lem unicidad series fourier'
 filename: 'lem-unicidad-series-fourier'
 created: '2026-01-12 19:26:16.124838'
 last_edit_date: '2026-03-31T17:47:48.138358820+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.481010502+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.098098543+00:00'
 labels:
   - lem:unicidad-series-fourier
   - note

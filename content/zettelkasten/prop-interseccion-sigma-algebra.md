@@ -3,7 +3,7 @@ title: 'Intersección $\sigma$-álgebra'
 filename: 'prop-interseccion-sigma-algebra'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.171939987+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.514076760+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.134839165+00:00'
 labels:
   - note
   - prop:interseccion-sigma-algebra

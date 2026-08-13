@@ -3,7 +3,7 @@ title: 'Lema de composición de morfismos'
 filename: 'lem-composicion-morfismos'
 created: '2026-02-10 17:48:25.705349'
 last_edit_date: '2026-07-17T19:11:04.558271535+00:00'
-last_build_date_pdf: '2026-07-18T05:31:32.074350899+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.000895329+00:00'
 labels:
   - lem:composicion-morfismos
   - note

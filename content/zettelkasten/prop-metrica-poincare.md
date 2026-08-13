@@ -3,7 +3,7 @@ title: 'Prop metrica poincare'
 filename: 'prop-metrica-poincare'
 created: '2026-02-23 10:48:28.570032'
 last_edit_date: '2026-06-12T11:36:22.533774264+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.480371426+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.098701853+00:00'
 labels:
   - note
   - prop:metrica-poincare

@@ -3,7 +3,7 @@ title: 'Cubrimiento de Landau débil'
 filename: 'cor-cubrimiento-landau-debil'
 created: '2026-06-15T11:23:01.200553504+00:00'
 last_edit_date: '2026-06-15T15:45:21.214119009+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.462239381+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.080623329+00:00'
 labels:
   - cor:cubrimiento-landau-debil
   - note

@@ -3,7 +3,7 @@ title: 'Espacio segundo numerable'
 filename: 'esp-segundo-numerable'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-07-18T05:07:01.325533934+00:00'
-last_build_date_pdf: '2026-07-18T05:31:32.067293659+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.033398675+00:00'
 labels:
   - defn:esp-segundo-numerable
   - note

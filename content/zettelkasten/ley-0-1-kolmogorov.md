@@ -3,7 +3,7 @@ title: 'Ley 0-1 de Kolmogorov'
 filename: 'ley-0-1-kolmogorov'
 created: '2025-03-11 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.139678400+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.748768534+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.340254521+00:00'
 labels:
   - dem:ley-0-1-kolmogorov:1
   - dem:ley-0-1-kolmogorov:1:a

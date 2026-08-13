@@ -3,7 +3,7 @@ title: 'Arco'
 filename: 'arco'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.053994977+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.062927078+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.655277348+00:00'
 labels:
   - defn:arco
   - note

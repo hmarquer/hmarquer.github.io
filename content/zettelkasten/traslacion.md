@@ -3,7 +3,7 @@ title: 'Traslación'
 filename: 'traslacion'
 created: '2026-01-13 10:51:58.463256'
 last_edit_date: '2026-03-31T17:47:48.221395910+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.552891061+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.173935858+00:00'
 labels:
   - defn:traslacion
   - note

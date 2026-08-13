@@ -3,7 +3,7 @@ title: 'Función integrable localmente'
 filename: 'fn-integrable-localmente'
 created: '2026-01-12 09:30:28.735325'
 last_edit_date: '2026-03-31T17:47:48.104990314+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.297387155+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.898597340+00:00'
 labels:
   - defn:fn-integrable-localmente
   - note

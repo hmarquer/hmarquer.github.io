@@ -3,7 +3,7 @@ title: 'Propiedad universal de las inmersiones'
 filename: 'teo-inmersion-transferencia-diferenciabilidad'
 created: '2025-04-08 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.210889464+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.886694194+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.499813994+00:00'
 labels:
   - note
   - teo:inmersion-transferencia-diferenciabilidad

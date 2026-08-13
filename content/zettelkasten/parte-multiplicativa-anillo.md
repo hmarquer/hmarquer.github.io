@@ -3,7 +3,7 @@ title: 'Parte multiplicativa de un anillo'
 filename: 'parte-multiplicativa-anillo'
 created: '2025-11-26 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.153351822+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.581379994+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.202662934+00:00'
 labels:
   - defn:parte-multiplicativa-anillo
   - note

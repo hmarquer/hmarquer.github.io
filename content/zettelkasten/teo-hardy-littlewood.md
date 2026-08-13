@@ -3,7 +3,7 @@ title: 'Teorema de Hardy-Littlewood'
 filename: 'teo-hardy-littlewood'
 created: '2026-01-12 10:26:08.762242'
 last_edit_date: '2026-03-31T17:47:48.210068435+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.895935187+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.525146148+00:00'
 labels:
   - dem:teo-hardy-littlewood:eq1
   - note

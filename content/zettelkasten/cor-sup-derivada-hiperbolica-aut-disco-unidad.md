@@ -3,7 +3,7 @@ title: 'Cor Sup Derivada Hiperbolica Aut Disco Unidad'
 filename: 'cor-sup-derivada-hiperbolica-aut-disco-unidad'
 created: '2026-06-12T14:46:05.683822628+00:00'
 last_edit_date: '2026-06-12T14:46:05.687567802+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.554468517+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.165073662+00:00'
 labels:
   - cor:sup-derivada-hiperbolica-aut-disco-unidad
   - note

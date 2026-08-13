@@ -3,7 +3,7 @@ title: 'Independencia de $\sigma$-álgebras'
 filename: 'independencia-sigma-algebras'
 created: '2025-02-11 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.114953014+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.045014978+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.657850867+00:00'
 labels:
   - defn:independencia-sigma-algebras
   - note

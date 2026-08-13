@@ -3,7 +3,7 @@ title: 'Toda función de la clase de Schur es una contracción para la métrica 
 filename: 'obs-schur-contraccion-metrica-pseudohiperbolica'
 created: '2026-02-26 18:54:18.920842'
 last_edit_date: '2026-06-25T09:20:45.073683015+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.692524192+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.316912318+00:00'
 labels:
   - note
   - obs:schur-contraccion-metrica-pseudohiperbolica

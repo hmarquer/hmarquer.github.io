@@ -3,7 +3,7 @@ title: 'Conjunto dirigido'
 filename: 'con-dirigido'
 created: '2026-03-26 17:44:57.181940'
 last_edit_date: '2026-03-31T17:47:48.063684701+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.186896491+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.824033172+00:00'
 labels:
   - defn:con:dirigido
   - note

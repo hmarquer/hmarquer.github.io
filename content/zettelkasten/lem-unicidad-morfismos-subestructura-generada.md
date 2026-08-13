@@ -3,7 +3,7 @@ title: 'Lem unicidad morfismos subestructura generada'
 filename: 'lem-unicidad-morfismos-subestructura-generada'
 created: '2026-03-26 13:34:14.451475'
 last_edit_date: '2026-03-31T17:47:48.138206292+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.150557108+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.785633554+00:00'
 labels:
   - lem:unicidad-morfismos-subestructura-generada
   - note

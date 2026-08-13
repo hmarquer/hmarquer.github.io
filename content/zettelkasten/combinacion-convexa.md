@@ -3,7 +3,7 @@ title: 'Combinación convexa'
 filename: 'combinacion-convexa'
 created: '2026-02-04 17:06:30.903830'
 last_edit_date: '2026-03-31T17:47:48.061246190+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.409506763+00:00'
+last_build_date_pdf: '2026-08-13T20:02:20.999679494+00:00'
 labels:
   - defn:combinacion-convexa
   - note

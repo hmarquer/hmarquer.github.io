@@ -3,7 +3,7 @@ title: 'Lem isomorfismo estructuras satisfaccion formulas'
 filename: 'lem-isomorfismo-estructuras-satisfaccion-formulas'
 created: '2026-03-26 10:51:45.452441'
 last_edit_date: '2026-03-31T17:47:48.130348024+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.281011874+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.895195890+00:00'
 labels:
   - lem:isomorfismo-estructuras-satisfaccion-formulas
   - note

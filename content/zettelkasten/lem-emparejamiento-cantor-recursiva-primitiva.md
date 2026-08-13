@@ -3,7 +3,7 @@ title: 'La función de emparejamiento de Cantor es recursiva primitiva'
 filename: 'lem-emparejamiento-cantor-recursiva-primitiva'
 created: '2026-05-03T14:54:16.634227641+00:00'
 last_edit_date: '2026-05-03T14:54:32.472887316+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.036024919+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.668088504+00:00'
 labels:
   - lem:emparejamiento-cantor-recursiva-primitiva
   - note

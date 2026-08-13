@@ -3,7 +3,7 @@ title: 'Prop metrica pseudohiperbolica disco unidad'
 filename: 'prop-metrica-pseudohiperbolica-disco-unidad'
 created: '2025-10-03 00:00:00'
 last_edit_date: '2026-04-02T00:27:40.580957571+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.728524965+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.334473756+00:00'
 labels:
   - note
   - prop:metrica-pseudohiperbolica-disco-unidad

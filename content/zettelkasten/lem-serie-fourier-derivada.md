@@ -3,7 +3,7 @@ title: 'Lem serie fourier derivada'
 filename: 'lem-serie-fourier-derivada'
 created: '2026-01-12 19:31:46.702068'
 last_edit_date: '2026-03-31T17:47:48.134802660+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.746762089+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.352574061+00:00'
 labels:
   - lem:serie-fourier-derivada
   - note

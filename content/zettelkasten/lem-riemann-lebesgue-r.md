@@ -3,7 +3,7 @@ title: 'Lema de Riemann-Lebesgue en $\mathcal{L}^1(\R)$'
 filename: 'lem-riemann-lebesgue-r'
 created: '2026-01-13 10:29:20.109298'
 last_edit_date: '2026-03-31T17:47:48.134047525+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.156112378+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.755022870+00:00'
 labels:
   - lem:riemann-lebesgue-r
   - note

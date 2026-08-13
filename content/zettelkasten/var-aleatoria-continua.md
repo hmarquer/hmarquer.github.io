@@ -3,7 +3,7 @@ title: 'Variable aleatoria continua'
 filename: 'var-aleatoria-continua'
 created: '2025-02-05 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.222844082+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.628006713+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.249427548+00:00'
 labels:
   - defn:var-aleatoria-continua
   - note

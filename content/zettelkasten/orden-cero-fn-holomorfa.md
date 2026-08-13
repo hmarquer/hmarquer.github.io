@@ -3,7 +3,7 @@ title: 'Orden de un cero de una función holomorfa'
 filename: 'orden-cero-fn-holomorfa'
 created: '2025-12-15 11:55:09.994073'
 last_edit_date: '2026-03-31T17:47:48.152821110+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.168768554+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.803833877+00:00'
 labels:
   - defn:orden-cero-fn-holomorfa
   - note

@@ -3,7 +3,7 @@ title: 'Codimensión de una subvariedad diferenciable'
 filename: 'codimension-subvariedad-diferenciable'
 created: '2025-06-16 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.061100866+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.560329002+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.153094893+00:00'
 labels:
   - defn:codimension-subvariedad-diferenciable
   - note

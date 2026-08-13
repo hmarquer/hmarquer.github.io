@@ -3,7 +3,7 @@ title: 'Inmersión de estructuras'
 filename: 'inmersion-estructuras'
 created: '2026-02-10 13:45:29.517055'
 last_edit_date: '2026-05-15T16:40:23.501156851+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.946311178+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.537721418+00:00'
 labels:
   - defn:inmersion-estructuras
   - note

@@ -3,7 +3,7 @@ title: 'Post evolucion temporal sistema cuantico'
 filename: 'post-evolucion-temporal-sistema-cuantico'
 created: '2026-03-11 21:50:48.017442'
 last_edit_date: '2026-03-31T17:47:48.154636476+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.359653959+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.985043773+00:00'
 labels:
   - note
   - post:evolucion-temporal-sistema-cuantico

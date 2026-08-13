@@ -3,7 +3,7 @@ title: 'Isomorfismo estructuras'
 filename: 'isomorfismo-estructuras'
 created: '2026-02-10 13:45:39.630479'
 last_edit_date: '2026-03-31T17:47:48.117395583+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.258955356+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.891315179+00:00'
 labels:
   - defn:isomorfismo-estructuras
   - note

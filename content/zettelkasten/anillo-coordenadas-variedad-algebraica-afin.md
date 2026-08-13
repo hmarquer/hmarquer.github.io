@@ -3,7 +3,7 @@ title: 'Anillo de coordenadas de variedad algebraica afín'
 filename: 'anillo-coordenadas-variedad-algebraica-afin'
 created: '2026-01-05 09:43:40.754186'
 last_edit_date: '2026-03-31T17:47:48.050201889+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.256395447+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.888920143+00:00'
 labels:
   - defn:anillo-coordenadas-variedad-algebraica-afin
   - note

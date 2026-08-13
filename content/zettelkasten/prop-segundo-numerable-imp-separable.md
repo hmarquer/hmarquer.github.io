@@ -3,7 +3,7 @@ title: 'Segundo numerable implica separable'
 filename: 'prop-segundo-numerable-imp-separable'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-07-18T05:07:01.352534212+00:00'
-last_build_date_pdf: '2026-07-18T05:31:32.103028914+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.057095044+00:00'
 labels:
   - note
   - prop:segundo-numerable-imp-separable

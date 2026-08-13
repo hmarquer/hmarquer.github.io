@@ -3,7 +3,7 @@ title: 'Lem Inversas Aritmeticas Recursivas Primitivas'
 filename: 'lem-inversas-aritmeticas-recursivas-primitivas'
 created: '2026-05-03T14:35:43.645698612+00:00'
 last_edit_date: '2026-05-03T14:35:44.914769785+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.195701370+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.810080860+00:00'
 labels:
   - lem:inversas-aritmeticas-recursivas-primitivas
   - note

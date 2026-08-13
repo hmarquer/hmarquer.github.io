@@ -3,7 +3,7 @@ title: 'Teo morfismo inducido variedades algebraicas afines sobreyectivo imp iso
 filename: 'teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo'
 created: '2026-01-05 13:27:12.933223'
 last_edit_date: '2026-03-31T17:47:48.213798714+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.431194116+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.049711191+00:00'
 labels:
   - note
   - teo:morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo

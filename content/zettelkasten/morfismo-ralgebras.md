@@ -3,7 +3,7 @@ title: 'Morfismo de $R$-álgebras'
 filename: 'morfismo-ralgebras'
 created: '2026-01-05 07:02:22.960522'
 last_edit_date: '2026-03-31T17:47:48.144958383+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.413422791+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.024273766+00:00'
 labels:
   - defn:morfismo-ralgebras
   - note

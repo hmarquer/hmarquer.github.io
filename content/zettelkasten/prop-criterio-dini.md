@@ -3,7 +3,7 @@ title: 'Criterio de Dini'
 filename: 'prop-criterio-dini'
 created: '2026-01-12 19:37:24.313724'
 last_edit_date: '2026-03-31T17:47:48.163442903+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.210160948+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.845661310+00:00'
 labels:
   - note
   - prop:criterio-dini

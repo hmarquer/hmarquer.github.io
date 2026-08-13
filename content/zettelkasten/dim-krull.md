@@ -3,7 +3,7 @@ title: 'Dimensión de Krull'
 filename: 'dim-krull'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.082833264+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.101973127+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.700220127+00:00'
 labels:
   - defn:dim-krull
   - note

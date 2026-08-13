@@ -3,7 +3,7 @@ title: 'Ecuación en derivadas parciales casi-lineal'
 filename: 'edp-casi-lineal'
 created: '2025-03-12 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.085342619+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.024240087+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.637232423+00:00'
 labels:
   - defn:edp-casi-lineal
   - note

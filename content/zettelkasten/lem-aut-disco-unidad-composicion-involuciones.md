@@ -3,7 +3,7 @@ title: 'Lem Aut Disco Unidad Composicion Involuciones'
 filename: 'lem-aut-disco-unidad-composicion-involuciones'
 created: '2026-06-13T17:21:40.107805583+00:00'
 last_edit_date: '2026-06-13T17:21:41.344518939+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.813499906+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.405185666+00:00'
 labels:
   - lem:aut-disco-unidad-composicion-involuciones
   - note

@@ -3,7 +3,7 @@ title: 'Identidad de Plancherel'
 filename: 'teo-identidad-plancherel'
 created: '2026-01-09 10:47:00.636644'
 last_edit_date: '2026-03-31T17:47:48.210722680+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.464823997+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.083208945+00:00'
 labels:
   - note
   - teo:identidad-plancherel

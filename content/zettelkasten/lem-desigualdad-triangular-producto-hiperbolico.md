@@ -3,7 +3,7 @@ title: 'Lem Desigualdad Triangular Producto Hiperbolico'
 filename: 'lem-desigualdad-triangular-producto-hiperbolico'
 created: '2026-06-12T11:26:21.724848065+00:00'
 last_edit_date: '2026-06-12T11:26:23.138772331+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.168873331+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.767970519+00:00'
 labels:
   - lem:desigualdad-triangular-producto-hiperbolico
   - note

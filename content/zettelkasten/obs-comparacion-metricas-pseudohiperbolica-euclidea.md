@@ -3,7 +3,7 @@ title: 'Obs comparacion metricas pseudohiperbolica euclidea'
 filename: 'obs-comparacion-metricas-pseudohiperbolica-euclidea'
 created: '2026-02-26 18:52:18.108274'
 last_edit_date: '2026-03-31T17:47:48.149208854+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.720770166+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.326705596+00:00'
 labels:
   - note
   - obs:comparacion-metricas-pseudohiperbolica-euclidea

@@ -3,7 +3,7 @@ title: 'Clausura universal'
 filename: 'clausura-universal'
 created: '2026-04-09T14:08:25.887102955+00:00'
 last_edit_date: '2026-04-10T19:04:25.238588617+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.717582272+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.308842170+00:00'
 labels:
   - defn:clausura-universal
   - note

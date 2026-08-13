@@ -3,7 +3,7 @@ title: 'Rotación como automorfismo del disco unidad'
 filename: 'ejem-rotacion-disco-unidad'
 created: '2025-12-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.086401537+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.578785289+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.200051379+00:00'
 labels:
   - ejem:rotacion-disco-unidad
   - note

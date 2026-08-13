@@ -3,7 +3,7 @@ title: 'Ecuación en derivadas parciales'
 filename: 'ecu-derivadas-parciales'
 created: '2025-03-12 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.084597624+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.023068978+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.655095150+00:00'
 labels:
   - defn:ecu-derivadas-parciales
   - ecu:edp

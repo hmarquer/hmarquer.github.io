@@ -3,7 +3,7 @@ title: 'Función simple'
 filename: 'fn-simple'
 created: '2025-10-19 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.106497739+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.842208244+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.470573008+00:00'
 labels:
   - defn:fn-simple
   - note

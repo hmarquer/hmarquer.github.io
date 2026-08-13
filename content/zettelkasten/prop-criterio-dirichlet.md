@@ -3,7 +3,7 @@ title: 'Criterio de Dirichlet'
 filename: 'prop-criterio-dirichlet'
 created: '2026-01-12 19:48:02.045213'
 last_edit_date: '2026-03-31T17:47:48.163628454+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.487314534+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.079784215+00:00'
 labels:
   - note
   - prop:criterio-dirichlet

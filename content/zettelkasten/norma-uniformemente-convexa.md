@@ -3,7 +3,7 @@ title: 'Norma uniformemente convexa'
 filename: 'norma-uniformemente-convexa'
 created: '2026-01-07 16:13:38.190797'
 last_edit_date: '2026-03-31T17:47:48.146374115+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.653846348+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.275396854+00:00'
 labels:
   - defn:norma-uniformemente-convexa
   - note

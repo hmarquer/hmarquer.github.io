@@ -3,7 +3,7 @@ title: 'Teorema de la singularidad evitable de Riemann'
 filename: 'teo-singularidad-evitable-riemann'
 created: '2026-02-11 10:46:45.667198'
 last_edit_date: '2026-03-31T17:47:48.217079976+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.068120746+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.663067400+00:00'
 labels:
   - note
   - teo:singularidad-evitable-riemann

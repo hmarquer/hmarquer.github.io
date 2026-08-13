@@ -3,7 +3,7 @@ title: 'Toda extensión que sea un módulo finitamente generado, es entera'
 filename: 'teo-extension-modulo-finitamente-generado-imp-entera'
 created: '2025-12-31 06:06:23.518267'
 last_edit_date: '2026-03-31T17:47:48.205996321+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.915190310+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.528216258+00:00'
 labels:
   - note
   - teo:extension-modulo-finitamente-generado-imp-entera

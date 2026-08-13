@@ -3,7 +3,7 @@ title: 'Lema de independencia de variables ficticias'
 filename: 'lem-independencia-variables-ficticias'
 created: '2026-02-17 19:25:53.452984'
 last_edit_date: '2026-03-31T17:47:48.129430533+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.666300853+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.272398888+00:00'
 labels:
   - lem:independencia-variables-ficticias
   - note

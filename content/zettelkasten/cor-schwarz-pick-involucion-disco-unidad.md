@@ -3,7 +3,7 @@ title: 'Cor schwarz pick involucion disco unidad'
 filename: 'cor-schwarz-pick-involucion-disco-unidad'
 created: '2026-01-22 13:59:29.317734'
 last_edit_date: '2026-06-12T09:49:35.078218628+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.224125521+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.838445153+00:00'
 labels:
   - cor:schwarz-pick-involucion-disco-unidad
   - note

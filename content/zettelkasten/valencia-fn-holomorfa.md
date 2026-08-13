@@ -3,7 +3,7 @@ title: 'Valencia de una función holomorfa'
 filename: 'valencia-fn-holomorfa'
 created: '2025-12-15 11:57:16.993292'
 last_edit_date: '2026-04-06T18:54:52.786033533+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.078725521+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.691347880+00:00'
 labels:
   - defn:valencia-fn-holomorfa
   - note

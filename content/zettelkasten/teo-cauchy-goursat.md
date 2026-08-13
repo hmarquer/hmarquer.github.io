@@ -3,7 +3,7 @@ title: 'Teorema de Cauchy-Goursat'
 filename: 'teo-cauchy-goursat'
 created: '2025-04-22 00:00:00'
 last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.782315879+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.374036631+00:00'
 labels:
   - note
   - teo:cauchy-goursat

@@ -3,7 +3,7 @@ title: 'Fn continua soporte compacto'
 filename: 'fn-continua-soporte-compacto'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.102885713+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.395041887+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.011237023+00:00'
 labels:
   - defn:fn-continua-soporte-compacto
   - note

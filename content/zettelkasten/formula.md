@@ -3,7 +3,7 @@ title: 'Fórmula'
 filename: 'formula'
 created: '2026-02-02 17:29:35.484578'
 last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.120181396+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.735222533+00:00'
 labels:
   - defn:formula
   - note

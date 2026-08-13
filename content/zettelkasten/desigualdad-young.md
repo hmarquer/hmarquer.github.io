@@ -3,7 +3,7 @@ title: 'Desigualdad de Young'
 filename: 'desigualdad-young'
 created: '2025-03-27 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.081628040+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.413091626+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.029284388+00:00'
 labels:
   - note
   - teo:desigualdad-young

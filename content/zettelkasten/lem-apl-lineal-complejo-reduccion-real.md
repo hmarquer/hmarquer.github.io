@@ -3,7 +3,7 @@ title: 'Lema de reducción a la parte real para aplicaciones lineales complejas'
 filename: 'lem-apl-lineal-complejo-reduccion-real'
 created: '2025-12-19 17:06:48.234993'
 last_edit_date: '2026-03-31T17:47:48.119760135+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.225428088+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.825424081+00:00'
 labels:
   - lem:apl-lineal-complejo-reduccion-real
   - note

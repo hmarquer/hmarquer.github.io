@@ -3,7 +3,7 @@ title: 'Lem var aleatoria fn distribucion c1'
 filename: 'lem-var-aleatoria-fn-distribucion-c1'
 created: '2025-06-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.138815602+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.765263441+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.389870430+00:00'
 labels:
   - lem:var-aleatoria-fn-distribucion-c1
   - note

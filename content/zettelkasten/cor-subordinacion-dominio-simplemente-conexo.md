@@ -3,7 +3,7 @@ title: 'Cor Subordinacion Dominio Simplemente Conexo'
 filename: 'cor-subordinacion-dominio-simplemente-conexo'
 created: '2026-06-13T19:44:13.400489537+00:00'
 last_edit_date: '2026-06-13T19:44:14.643902268+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.555163928+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.147802942+00:00'
 labels:
   - cor:subordinacion-dominio-simplemente-conexo
   - cor:subordinacion-dominio-simplemente-conexo:1

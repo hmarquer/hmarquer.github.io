@@ -3,7 +3,7 @@ title: 'Propiedades del índice de una curva cerrada'
 filename: 'prop-curva-cerrada-indice'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.163952225+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.033427189+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.665495524+00:00'
 labels:
   - note
   - prop:curva-cerrada-indice

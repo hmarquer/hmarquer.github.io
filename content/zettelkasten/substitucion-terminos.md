@@ -3,7 +3,7 @@ title: 'Substitución en términos'
 filename: 'substitucion-terminos'
 created: '2026-02-09 11:35:46.893063'
 last_edit_date: '2026-03-31T17:47:48.189250412+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.048988675+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.681087750+00:00'
 labels:
   - defn:substitucion-terminos
   - note

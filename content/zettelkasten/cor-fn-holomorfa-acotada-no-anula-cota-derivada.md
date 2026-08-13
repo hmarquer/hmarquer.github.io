@@ -3,7 +3,7 @@ title: 'Cor Fn Holomorfa Acotada No Anula Cota Derivada'
 filename: 'cor-fn-holomorfa-acotada-no-anula-cota-derivada'
 created: '2026-06-14T17:46:15.085497776+00:00'
 last_edit_date: '2026-06-25T09:20:45.072357727+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.296629386+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.910656316+00:00'
 labels:
   - cor:fn-holomorfa-acotada-no-anula-cota-derivada
   - note

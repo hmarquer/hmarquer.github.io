@@ -3,7 +3,7 @@ title: 'Lema de Abel'
 filename: 'lem-abel'
 created: '2025-02-24 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.118533400+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.590121514+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.196650924+00:00'
 labels:
   - lem:abel
   - note

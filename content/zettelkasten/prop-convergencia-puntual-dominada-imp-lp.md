@@ -3,7 +3,7 @@ title: 'Convergencia puntual dominada implica convergencia en $\mathcal{L}^p$'
 filename: 'prop-convergencia-puntual-dominada-imp-lp'
 created: '2025-11-04 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.162387181+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.317671061+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.946623075+00:00'
 labels:
   - note
   - prop-convergencia-puntual-dominada-imp-lp

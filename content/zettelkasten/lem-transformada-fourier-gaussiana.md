@@ -3,7 +3,7 @@ title: 'Lem transformada fourier gaussiana'
 filename: 'lem-transformada-fourier-gaussiana'
 created: '2026-01-13 11:52:51.011665'
 last_edit_date: '2026-03-31T17:47:48.137915153+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.328092370+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.956216156+00:00'
 labels:
   - lem:transformada-fourier-gaussiana
   - note

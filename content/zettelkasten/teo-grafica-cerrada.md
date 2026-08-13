@@ -3,7 +3,7 @@ title: 'Teorema de la gráfica cerrada'
 filename: 'teo-grafica-cerrada'
 created: '2025-12-13 13:47:49.593156'
 last_edit_date: '2026-03-31T17:47:48.209238900+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.712401229+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.303663834+00:00'
 labels:
   - note
   - teo:grafica-cerrada

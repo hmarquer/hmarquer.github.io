@@ -3,7 +3,7 @@ title: 'Aplicación lineal'
 filename: 'apl-lineal'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.053059852+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.070961956+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.683610838+00:00'
 labels:
   - defn:apl-lineal
   - note

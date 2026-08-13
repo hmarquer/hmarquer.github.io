@@ -3,7 +3,7 @@ title: 'Cor extension entera dim krull igualdad'
 filename: 'cor-extension-entera-dim-krull-igualdad'
 created: '2026-01-11 15:23:10.713930'
 last_edit_date: '2026-03-31T17:47:48.071734591+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.112325075+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.710788328+00:00'
 labels:
   - cor:extension-entera-dim-krull-igualdad
   - note

@@ -3,7 +3,7 @@ title: 'Ley débil de los grandes números'
 filename: 'ley-debil-grandes-numeros'
 created: '2025-06-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.139819416+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.111588516+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.743944282+00:00'
 labels:
   - dem:ley-debil-grandes-numeros:1
   - dem:ley-debil-grandes-numeros:2

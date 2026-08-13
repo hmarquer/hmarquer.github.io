@@ -3,7 +3,7 @@ title: 'Corolario de satisfacción de la substitución múltiple'
 filename: 'cor-substitucion-multiple-satisfaccion'
 created: '2026-03-26 10:23:47.650101'
 last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-07-04T22:02:09.941115247+00:00'
+last_build_date_pdf: '2026-08-13T20:02:22.554224196+00:00'
 labels:
   - cor:substitucion-multiple-satisfaccion
   - note

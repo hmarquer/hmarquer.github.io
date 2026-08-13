@@ -3,7 +3,7 @@ title: 'Lem Carac Fn Holomorfa Disco Unidad Continua Borde Unimodular'
 filename: 'lem-carac-fn-holomorfa-disco-unidad-continua-borde-unimodular'
 created: '2026-06-12T09:45:44.837893178+00:00'
 last_edit_date: '2026-06-11T14:28:29.294493416+00:00'
-last_build_date_pdf: '2026-07-04T22:02:08.938551510+00:00'
+last_build_date_pdf: '2026-08-13T20:02:21.529950893+00:00'
 labels:
   - lem:carac-fn-holomorfa-disco-unidad-continua-borde-unimodular
   - note

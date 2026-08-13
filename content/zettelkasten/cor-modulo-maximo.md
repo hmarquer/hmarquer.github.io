@@ -3,7 +3,7 @@ title: 'Corolario del principio del módulo máximo'
 filename: 'cor-modulo-maximo'
 created: '2026-02-04 11:04:37.878679'
 last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-07-04T22:02:10.534784634+00:00'
+last_build_date_pdf: '2026-08-13T20:02:23.155755451+00:00'
 labels:
   - cor:modulo-maximo
   - note

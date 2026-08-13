@@ -3,7 +3,7 @@ title: 'Lema de satisfacción de la substitución'
 filename: 'lem-substitucion-satisfaccion'
 created: '2026-03-26 10:14:28.893353'
 last_edit_date: '2026-05-15T11:52:21.202346639+00:00'
-last_build_date_pdf: '2026-07-04T22:02:11.519704647+00:00'
+last_build_date_pdf: '2026-08-13T20:02:24.134166985+00:00'
 labels:
   - lem:substitucion-satisfaccion
   - note
