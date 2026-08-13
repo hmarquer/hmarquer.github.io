@@ -3,7 +3,7 @@ title: 'Fn-trigonometricas-complejas'
 filename: 'fn-trigonometricas-complejas'
 created: '2025-12-11 19:31:56.700060'
 last_edit_date: '2026-03-31T17:47:48.107104464+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.709648994+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.642822679+00:00'
 labels:
   - defn:fn-trigonometricas-complejas
   - note

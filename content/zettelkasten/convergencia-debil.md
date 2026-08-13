@@ -3,7 +3,7 @@ title: 'Convergencia débil'
 filename: 'convergencia-debil'
 created: '2025-12-20 23:23:29.614001'
 last_edit_date: '2026-03-31T17:47:48.067491414+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.881699405+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.816390164+00:00'
 labels:
   - defn:convergencia-debil
   - note

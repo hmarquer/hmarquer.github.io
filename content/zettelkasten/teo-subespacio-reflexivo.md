@@ -3,7 +3,7 @@ title: 'Todo subespacio de un espacio reflexivo es reflexivo'
 filename: 'teo-subespacio-reflexivo'
 created: '2025-12-20 20:44:12.376855'
 last_edit_date: '2026-03-31T17:47:48.217226662+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.676827220+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.611456158+00:00'
 labels:
   - note
   - teo:subespacio-reflexivo

@@ -3,7 +3,7 @@ title: 'Proceso estocástico adaptado'
 filename: 'proceso-estocastico-adaptado'
 created: '2025-04-07 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.155812886+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.577075843+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.512107325+00:00'
 labels:
   - defn:proceso-estocastico-adaptado
   - note

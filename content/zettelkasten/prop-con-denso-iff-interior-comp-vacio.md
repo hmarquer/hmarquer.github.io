@@ -3,7 +3,7 @@ title: 'Equivalencia entre densidad y complemento con interior vacío'
 filename: 'prop-con-denso-iff-interior-comp-vacio'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.161018869+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.783631103+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.718752262+00:00'
 labels:
   - note
   - prop:con-denso-iff-interior-comp-vacio

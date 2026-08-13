@@ -3,7 +3,7 @@ title: 'Prop Biholomorfismo Disco Semiplano Derecho'
 filename: 'prop-biholomorfismo-disco-semiplano-derecho'
 created: '2026-06-14T09:42:24.942132245+00:00'
 last_edit_date: '2026-06-14T09:53:33.444665773+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.063245894+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.991504664+00:00'
 labels:
   - note
   - prop:biholomorfismo-disco-semiplano-derecho

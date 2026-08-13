@@ -3,7 +3,7 @@ title: 'Fn suave soporte compacto'
 filename: 'fn-suave-soporte-compacto'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.106652541+00:00'
-last_build_date_pdf: '2026-08-13T20:02:24.138977838+00:00'
+last_build_date_pdf: '2026-08-13T23:45:56.097666975+00:00'
 labels:
   - defn:fn-suave-soporte-compacto
   - note

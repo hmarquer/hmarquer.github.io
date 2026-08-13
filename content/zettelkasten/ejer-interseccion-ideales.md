@@ -3,7 +3,7 @@ title: 'La intersección de ideales es un ideal'
 filename: 'ejer-interseccion-ideales'
 created: '2025-10-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.089029607+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.510132263+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.443429034+00:00'
 labels:
   - ejer:interseccion-ideales
   - note

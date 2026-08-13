@@ -3,7 +3,7 @@ title: 'Cor:convergencia serie cualquier n0'
 filename: 'cor-convergencia-serie-cualquier-n0'
 created: '2025-04-23 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.070503037+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.189549404+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.126634147+00:00'
 labels:
   - cor:convergencia-serie-cualquier-n0
   - note

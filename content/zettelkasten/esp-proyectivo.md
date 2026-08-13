@@ -3,7 +3,7 @@ title: 'Espacio proyectivo'
 filename: 'esp-proyectivo'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.097593507+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.282848928+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.215199188+00:00'
 labels:
   - defn:esp-proyectivo
   - note

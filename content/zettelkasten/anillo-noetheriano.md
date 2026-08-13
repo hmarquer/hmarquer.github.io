@@ -3,7 +3,7 @@ title: 'Anillo noetheriano'
 filename: 'anillo-noetheriano'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.050578039+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.210000142+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.141960499+00:00'
 labels:
   - defn:anillo-noetheriano
   - note

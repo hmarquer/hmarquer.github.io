@@ -3,7 +3,7 @@ title: 'Obs submersion iff pnt val regular'
 filename: 'obs-submersion-iff-pnt-val-regular'
 created: '2025-06-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.151095554+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.509549154+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.445114943+00:00'
 labels:
   - note
   - obs:submersion-iff-pnt-val-regular

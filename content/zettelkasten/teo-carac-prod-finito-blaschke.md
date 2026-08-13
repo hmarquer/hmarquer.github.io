@@ -3,7 +3,7 @@ title: 'Teo carac prod finito blaschke'
 filename: 'teo-carac-prod-finito-blaschke'
 created: '2026-02-11 10:50:35.149126'
 last_edit_date: '2026-06-25T09:20:45.074797313+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.555950977+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.491824123+00:00'
 labels:
   - note
   - teo:carac-prod-finito-blaschke

@@ -3,7 +3,7 @@ title: 'Clase de modelos'
 filename: 'clase-modelos'
 created: '2026-05-15T13:08:54.429381682+00:00'
 last_edit_date: '2026-05-15T13:09:53.238352453+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.773943087+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.705715400+00:00'
 labels:
   - defn:clase-modelos
   - note

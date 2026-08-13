@@ -3,7 +3,7 @@ title: 'Ejer schwarz pick extremales'
 filename: 'ejer-schwarz-pick-extremales'
 created: '2026-01-22 14:12:39.607129'
 last_edit_date: '2026-03-31T17:47:48.089764874+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.111597714+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.049623841+00:00'
 labels:
   - ejer:schwarz-pick-extremales
   - note

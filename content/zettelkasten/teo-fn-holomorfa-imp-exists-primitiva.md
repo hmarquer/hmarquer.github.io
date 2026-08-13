@@ -3,7 +3,7 @@ title: 'Toda función holomorfa tiene primitiva holomorfa'
 filename: 'teo-fn-holomorfa-imp-exists-primitiva'
 created: '2025-05-02 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.206769179+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.340317939+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.276413762+00:00'
 labels:
   - note
   - teo:fn-holomorfa-imp-exists-primitiva

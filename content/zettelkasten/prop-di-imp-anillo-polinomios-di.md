@@ -3,7 +3,7 @@ title: 'Prop di imp anillo polinomios di'
 filename: 'prop-di-imp-anillo-polinomios-di'
 created: '2025-09-19 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.164422312+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.973036178+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.916147673+00:00'
 labels:
   - note
   - prop:di-imp-anillo-polinomios-di

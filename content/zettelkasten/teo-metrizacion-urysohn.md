@@ -3,7 +3,7 @@ title: 'Teorema de metrización de Urysohn'
 filename: 'teo-metrizacion-urysohn'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-07-18T05:07:01.345534140+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.742955227+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.675138392+00:00'
 labels:
   - note
   - teo:metrizacion-urysohn

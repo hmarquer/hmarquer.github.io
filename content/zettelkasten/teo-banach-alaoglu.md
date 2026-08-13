@@ -3,7 +3,7 @@ title: 'Teorema de Banach-Alaoglu'
 filename: 'teo-banach-alaoglu'
 created: '2026-01-07 13:25:17.980763'
 last_edit_date: '2026-03-31T17:47:48.192868088+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.835912552+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.770826718+00:00'
 labels:
   - note
   - teo:banach-alaoglu

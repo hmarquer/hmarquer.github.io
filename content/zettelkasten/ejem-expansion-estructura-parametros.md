@@ -3,7 +3,7 @@ title: 'Ejemplo de expansión de una estructura por parámetros'
 filename: 'ejem-expansion-estructura-parametros'
 created: '2026-02-15 19:18:56.769554'
 last_edit_date: '2026-07-17T19:10:04.340808901+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.566696398+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.501836142+00:00'
 labels:
   - ejem:expansion-estructura-parametros
   - note

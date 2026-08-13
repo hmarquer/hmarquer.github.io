@@ -3,7 +3,7 @@ title: 'Función analítica'
 filename: 'fn-analitica'
 created: '2025-03-31 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.101757784+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.188401396+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.116067227+00:00'
 labels:
   - defn:fn-analitica
   - note

@@ -3,7 +3,7 @@ title: 'Estructura'
 filename: 'estructura'
 created: '2026-02-09 18:55:55.697474'
 last_edit_date: '2026-03-31T17:47:48.099795702+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.783025294+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.714766431+00:00'
 labels:
   - defn:estructura
   - note

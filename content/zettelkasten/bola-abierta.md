@@ -3,7 +3,7 @@ title: 'Bola abierta'
 filename: 'bola-abierta'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.057163696+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.150508916+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.080798161+00:00'
 labels:
   - defn:bola-abierta
   - note

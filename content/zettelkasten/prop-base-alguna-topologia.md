@@ -3,7 +3,7 @@ title: 'Condiciones necesarias y suficientes para ser base de alguna topología'
 filename: 'prop-base-alguna-topologia'
 created: '2025-02-24 00:00:00'
 last_edit_date: '2026-07-18T05:03:07.173177836+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.002258488+00:00'
+last_build_date_pdf: '2026-08-13T23:45:52.931427124+00:00'
 labels:
   - note
   - prop:base-alguna-topologia

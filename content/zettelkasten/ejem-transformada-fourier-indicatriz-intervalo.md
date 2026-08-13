@@ -3,7 +3,7 @@ title: 'Ejem transformada fourier indicatriz intervalo'
 filename: 'ejem-transformada-fourier-indicatriz-intervalo'
 created: '2026-01-13 10:39:17.181966'
 last_edit_date: '2026-03-31T17:47:48.086867126+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.652503873+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.586702632+00:00'
 labels:
   - ejem:transformada-fourier-indicatriz-intervalo
   - note

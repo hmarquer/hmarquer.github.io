@@ -3,7 +3,7 @@ title: 'Teorema de levantamiento de curvas'
 filename: 'teo-levantamiento-curvas'
 created: '2025-06-22 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.211909409+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.673302618+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.605314195+00:00'
 labels:
   - note
   - teo:levantamiento-curvas

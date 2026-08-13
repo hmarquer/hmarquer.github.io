@@ -3,7 +3,7 @@ title: 'Prop clase ck velocidad convergencia uniforme fourier'
 filename: 'prop-clase-ck-velocidad-convergencia-uniforme-fourier'
 created: '2026-01-12 19:42:11.351583'
 last_edit_date: '2026-03-31T17:47:48.160282690+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.523033343+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.456190814+00:00'
 labels:
   - dem:clase-ck-velocidad-convergencia-uniforme-fourier:ecu1
   - note

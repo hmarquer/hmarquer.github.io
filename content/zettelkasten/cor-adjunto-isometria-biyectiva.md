@@ -3,7 +3,7 @@ title: 'Operador adjunto de una isometría biyectiva'
 filename: 'cor-adjunto-isometria-biyectiva'
 created: '2025-12-25 22:34:35.278604'
 last_edit_date: '2026-03-31T17:47:48.069780143+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.838509870+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.773366717+00:00'
 labels:
   - cor:adjunto-isometria-biyectiva
   - note

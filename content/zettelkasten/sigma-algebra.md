@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra'
 filename: 'sigma-algebra'
 created: '2025-01-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.184535895+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.506939873+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.442428453+00:00'
 labels:
   - defn:sigma-algebra
   - defn:sigma-algebra:i

@@ -3,7 +3,7 @@ title: 'Cuerpo algebraicamente cerrado'
 filename: 'alg-cerrado'
 created: '2025-05-18 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.049419443+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.481723286+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.414472894+00:00'
 labels:
   - defn:alg-cerrado
   - note

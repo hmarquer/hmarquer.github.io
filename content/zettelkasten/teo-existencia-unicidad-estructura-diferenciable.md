@@ -3,7 +3,7 @@ title: 'Teorema de existencia y unicidad de una estructura diferenciable'
 filename: 'teo-existencia-unicidad-estructura-diferenciable'
 created: '2025-05-31 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.205018345+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.632063314+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.564029578+00:00'
 labels:
   - note
   - teo:existencia-unicidad-estructura-diferenciable

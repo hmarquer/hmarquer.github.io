@@ -3,7 +3,7 @@ title: 'Operador unitario'
 filename: 'operador-unitario'
 created: '2026-03-11 21:34:15.456391'
 last_edit_date: '2026-05-02T10:43:59.699807686+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.954505031+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.887527256+00:00'
 labels:
   - defn:operador-unitario
   - note

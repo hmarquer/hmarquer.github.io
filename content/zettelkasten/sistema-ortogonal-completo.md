@@ -3,7 +3,7 @@ title: 'Sistema ortogonal completo'
 filename: 'sistema-ortogonal-completo'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.185617126+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.047692351+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.975862336+00:00'
 labels:
   - defn:sistema-ortogonal-completo
   - note

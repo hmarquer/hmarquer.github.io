@@ -3,7 +3,7 @@ title: 'Corolario sobre la regularidad de la convolución'
 filename: 'cor-convolucion-regularidad'
 created: '2025-12-30 16:37:49.727174'
 last_edit_date: '2026-03-31T17:47:48.070687716+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.595560142+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.528099937+00:00'
 labels:
   - cor:convolucion-regularidad
   - note

@@ -3,7 +3,7 @@ title: 'Teorema entre Liouville y Picard'
 filename: 'teo-entre-liouville-picard'
 created: '2026-06-16T12:45:19.694597278+00:00'
 last_edit_date: '2026-06-16T12:45:32.182038693+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.396479644+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.328996461+00:00'
 labels:
   - note
   - teo:entre-liouville-picard

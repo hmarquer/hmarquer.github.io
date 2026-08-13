@@ -3,7 +3,7 @@ title: 'Lem normas kn equivalentes'
 filename: 'lem-normas-kn-equivalentes'
 created: '2025-11-02 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.131574448+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.252019386+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.188881430+00:00'
 labels:
   - lem:normas-kn-equivalentes
   - note

@@ -3,7 +3,7 @@ title: 'Toda función homogénea es subaditiva si y solo si es convexa'
 filename: 'ejer-homogeneidad-imp-subaditividad-iff-convexidad'
 created: '2025-12-24 13:04:28.672244'
 last_edit_date: '2026-03-31T17:47:48.088672593+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.370659218+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.303006629+00:00'
 labels:
   - ejer:homogeneidad-imp-subaditividad-iff-convexidad
   - note

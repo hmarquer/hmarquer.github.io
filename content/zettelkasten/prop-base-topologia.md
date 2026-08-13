@@ -3,7 +3,7 @@ title: 'Condición necesaria y suficiente para ser base de una topología concre
 filename: 'prop-base-topologia'
 created: '2025-02-24 00:00:00'
 last_edit_date: '2026-08-07T12:07:58.115126502+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.072041823+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.002392703+00:00'
 labels:
   - note
   - prop:base-topologia

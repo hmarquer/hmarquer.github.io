@@ -3,7 +3,7 @@ title: 'Dominio de ideales principales'
 filename: 'dominio-ideales-principales'
 created: '2025-09-22 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.083576457+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.137389896+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.075757661+00:00'
 labels:
   - defn:dominio-ideales-principales
   - note

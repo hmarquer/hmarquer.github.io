@@ -3,7 +3,7 @@ title: 'Axiomatización de una teoría'
 filename: 'axiomatizacion-teoria-semantica'
 created: '2026-03-05 11:18:35.164598'
 last_edit_date: '2026-04-10T19:04:25.238588617+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.948044904+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.882430721+00:00'
 labels:
   - defn:axiomatizacion-teoria-semantica
   - note

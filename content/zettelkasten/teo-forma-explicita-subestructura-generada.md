@@ -3,7 +3,7 @@ title: 'Forma explícita de la subestructura generada'
 filename: 'teo-forma-explicita-subestructura-generada'
 created: '2026-03-26 13:36:42.835281'
 last_edit_date: '2026-05-15T15:30:18.185704842+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.452253051+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.387032192+00:00'
 labels:
   - note
   - teo:forma-explicita-subestructura-generada

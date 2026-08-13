@@ -3,7 +3,7 @@ title: 'Prop Subordinacion Parte Real Positiva'
 filename: 'prop-subordinacion-parte-real-positiva'
 created: '2026-06-14T11:22:02.733701315+00:00'
 last_edit_date: '2026-06-14T11:22:04.008291266+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.015272471+00:00'
+last_build_date_pdf: '2026-08-13T23:45:52.944576148+00:00'
 labels:
   - note
   - prop:subordinacion-parte-real-positiva

@@ -3,7 +3,7 @@ title: 'Conjunto de segunda categoría'
 filename: 'con-segunda-categoria'
 created: '2025-10-23 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.066142038+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.470507678+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.405332647+00:00'
 labels:
   - defn:con-segunda-categoria
   - note

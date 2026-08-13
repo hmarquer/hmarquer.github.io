@@ -3,7 +3,7 @@ title: 'Consecuencias de las ecuaciones de Cauchy-Riemann'
 filename: 'prop-consecuencias-cauchy-riemann'
 created: '2025-03-15 00:00:00'
 last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.468834268+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.401524199+00:00'
 labels:
   - note
   - prop:consecuencias-cauchy-riemann

@@ -3,7 +3,7 @@ title: 'Toda función real aditiva y no homogénea tiene gráfica densa en el pl
 filename: 'lem-aditiva-no-homogenea-imp-grafica-densa'
 created: '2025-10-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.118827625+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.202268981+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.134182159+00:00'
 labels:
   - lem:aditiva-no-homogenea-imp-grafica-densa
   - note

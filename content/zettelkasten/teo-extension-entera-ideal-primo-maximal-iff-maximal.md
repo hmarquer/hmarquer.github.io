@@ -3,7 +3,7 @@ title: 'Teo extension entera ideal primo maximal iff maximal'
 filename: 'teo-extension-entera-ideal-primo-maximal-iff-maximal'
 created: '2026-01-11 12:47:00.472024'
 last_edit_date: '2026-03-31T17:47:48.205697076+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.522298120+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.457874929+00:00'
 labels:
   - note
   - teo:extension-entera-ideal-primo-maximal-iff-maximal

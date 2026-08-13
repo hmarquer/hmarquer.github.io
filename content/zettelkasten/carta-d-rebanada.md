@@ -3,7 +3,7 @@ title: 'Carta $d$-rebanada'
 filename: 'carta-d-rebanada'
 created: '2025-06-16 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.059464979+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.629251075+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.564847925+00:00'
 labels:
   - defn:carta-d-rebanada
   - note

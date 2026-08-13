@@ -3,7 +3,7 @@ title: 'Prop fn holomorfa derivada no nula imp conforme'
 filename: 'prop-fn-holomorfa-derivada-no-nula-imp-conforme'
 created: '2026-03-18 16:19:08.514595'
 last_edit_date: '2026-03-31T17:47:48.168762351+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.590397977+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.523039796+00:00'
 labels:
   - note
   - prop:fn-holomorfa-derivada-no-nula-imp-conforme

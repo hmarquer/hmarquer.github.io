@@ -3,7 +3,7 @@ title: 'Teo extension entera ideal primo imp exists ideal primo contrae'
 filename: 'teo-extension-entera-ideal-primo-imp-exists-ideal-primo-contrae'
 created: '2026-01-11 12:46:48.748732'
 last_edit_date: '2026-06-24T17:38:17.304516176+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.254240655+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.186531884+00:00'
 labels:
   - note
   - teo:extension-entera-ideal-primo-imp-exists-ideal-primo-contrae

@@ -3,7 +3,7 @@ title: 'Martingala'
 filename: 'martingala'
 created: '2025-06-14 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.141132113+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.851452599+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.786279355+00:00'
 labels:
   - defn:martingala
   - note

@@ -3,7 +3,7 @@ title: 'Lem transformada fourier conmutativa integral'
 filename: 'lem-transformada-fourier-conmutativa-integral'
 created: '2026-01-13 10:44:18.825217'
 last_edit_date: '2026-03-31T17:47:48.137276157+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.696507129+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.629071236+00:00'
 labels:
   - lem:transformada-fourier-conmutativa-integral
   - note

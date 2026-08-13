@@ -3,7 +3,7 @@ title: 'Prop teoria generada estructura'
 filename: 'teoria-semantica-generada-estructura'
 created: '2026-03-26 12:30:19.574700'
 last_edit_date: '2026-04-10T19:04:25.238588617+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.816820830+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.747916081+00:00'
 labels:
   - note
   - prop:teoria-semantica-generada-estructura

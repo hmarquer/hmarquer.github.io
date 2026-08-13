@@ -3,7 +3,7 @@ title: 'Consecuencia semántica'
 filename: 'consecuencia-semantica'
 created: '2026-03-05 10:52:24.684199'
 last_edit_date: '2026-03-31T17:47:48.065990633+00:00'
-last_build_date_pdf: '2026-08-13T20:02:20.984147752+00:00'
+last_build_date_pdf: '2026-08-13T23:45:52.913008712+00:00'
 labels:
   - defn:consecuencia-semantica
   - note

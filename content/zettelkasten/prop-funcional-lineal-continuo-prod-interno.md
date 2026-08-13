@@ -3,7 +3,7 @@ title: 'El funcional definido por el producto interno es lineal y continuo'
 filename: 'prop-funcional-lineal-continuo-prod-interno'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.169372182+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.905751846+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.842298716+00:00'
 labels:
   - note
   - prop:funcional-lineal-continuo-prod-interno

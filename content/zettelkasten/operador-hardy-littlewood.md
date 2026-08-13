@@ -3,7 +3,7 @@ title: 'Operador maximal de Hardy-Littlewood'
 filename: 'operador-hardy-littlewood'
 created: '2025-12-30 16:54:04.313802'
 last_edit_date: '2026-03-31T17:47:48.152386710+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.953830888+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.895515051+00:00'
 labels:
   - defn:operador-hardy-littlewood
   - note

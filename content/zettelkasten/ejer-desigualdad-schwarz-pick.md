@@ -3,7 +3,7 @@ title: 'Ejer desigualdad schwarz pick'
 filename: 'ejer-desigualdad-schwarz-pick'
 created: '2026-01-22 14:22:44.378300'
 last_edit_date: '2026-06-12T09:49:35.078329106+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.729004061+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.663960840+00:00'
 labels:
   - ejer:desigualdad-schwarz-pick
   - note

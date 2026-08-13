@@ -3,7 +3,7 @@ title: 'Obs holomorfa conjugada antiholomorfa'
 filename: 'obs-holomorfa-conjugada-antiholomorfa'
 created: '2026-01-22 18:06:15.582130'
 last_edit_date: '2026-03-31T17:47:48.150242044+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.293068088+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.219912924+00:00'
 labels:
   - note
   - obs:holomorfa-conjugada-antiholomorfa

@@ -3,7 +3,7 @@ title: 'Cor isomorfismo variedades algebraicas afines iff isomorfismo ralgebras'
 filename: 'cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras'
 created: '2026-01-05 11:54:24.607751'
 last_edit_date: '2026-03-31T17:47:48.073762648+00:00'
-last_build_date_pdf: '2026-08-13T20:02:24.004252228+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.949304105+00:00'
 labels:
   - cor:isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
   - note

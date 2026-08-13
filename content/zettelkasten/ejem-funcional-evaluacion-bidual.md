@@ -3,7 +3,7 @@ title: 'El funcional de evaluación como elemento del bidual'
 filename: 'ejem-funcional-evaluacion-bidual'
 created: '2025-12-20 19:27:46.595431'
 last_edit_date: '2026-03-31T17:47:48.086100880+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.841024246+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.773829773+00:00'
 labels:
   - ejem:funcional-evaluacion-bidual
   - note

@@ -3,7 +3,7 @@ title: 'Inclusión de espacios $L^p$ en espacios de medida finita'
 filename: 'prop-inclusion-lp-esp-finito'
 created: '2025-10-19 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.170951362+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.898547098+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.834481534+00:00'
 labels:
   - dem-holder:inclusion-lp-esp-finito:i
   - dem-holder:inclusion-lp-esp-finito:ii

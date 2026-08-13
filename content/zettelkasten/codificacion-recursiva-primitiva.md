@@ -3,7 +3,7 @@ title: 'Codificacion Recursiva Primitiva'
 filename: 'codificacion-recursiva-primitiva'
 created: '2026-05-03T15:21:57.375619733+00:00'
 last_edit_date: '2026-05-03T15:21:59.387945711+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.110333727+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.038674268+00:00'
 labels:
   - defn:codificacion-recursiva-primitiva
   - note

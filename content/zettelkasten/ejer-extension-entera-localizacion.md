@@ -3,7 +3,7 @@ title: 'Ejer extension entera localizacion'
 filename: 'ejer-extension-entera-localizacion'
 created: '2026-01-11 12:47:22.180326'
 last_edit_date: '2026-03-31T17:47:48.088415869+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.044633135+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.978547876+00:00'
 labels:
   - ejer:extension-entera-localizacion
   - note

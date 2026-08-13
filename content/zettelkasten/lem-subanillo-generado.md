@@ -3,7 +3,7 @@ title: 'Lem subanillo generado'
 filename: 'lem-subanillo-generado'
 created: '2025-09-12 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.135398684+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.436733342+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.371694077+00:00'
 labels:
   - lem:subanillo-generado
   - note

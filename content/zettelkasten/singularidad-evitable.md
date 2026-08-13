@@ -3,7 +3,7 @@ title: 'Singularidad evitable'
 filename: 'singularidad-evitable'
 created: '2025-05-08 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.185322710+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.963421214+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.905838210+00:00'
 labels:
   - defn:singularidad-evitable
   - note

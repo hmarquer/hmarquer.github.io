@@ -3,7 +3,7 @@ title: 'Equivalencia elemental estructuras'
 filename: 'equivalencia-elemental-estructuras'
 created: '2026-03-12 10:40:34.913342'
 last_edit_date: '2026-04-10T19:04:25.238588617+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.050282746+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.978432741+00:00'
 labels:
   - defn:equivalencia-elemental-estructuras
   - note

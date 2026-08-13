@@ -3,7 +3,7 @@ title: 'Toda extensión sobre un entero es un módulo finitamente generado'
 filename: 'teo-extension-entero-modulo-finitamente-generado'
 created: '2025-12-31 06:04:37.345214'
 last_edit_date: '2026-03-31T17:47:48.205847951+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.168740530+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.106289107+00:00'
 labels:
   - note
   - teo:extension-entero-modulo-finitamente-generado

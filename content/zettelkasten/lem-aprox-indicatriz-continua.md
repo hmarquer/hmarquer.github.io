@@ -3,7 +3,7 @@ title: 'Lem aprox indicatriz continua'
 filename: 'lem-aprox-indicatriz-continua'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.120936735+00:00'
-last_build_date_pdf: '2026-08-13T20:02:24.021073031+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.967245088+00:00'
 labels:
   - lem:aprox-indicatriz-continua
   - note

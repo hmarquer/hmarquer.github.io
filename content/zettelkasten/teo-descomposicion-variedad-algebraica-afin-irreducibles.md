@@ -3,7 +3,7 @@ title: 'Teorema de descomposición de una variedad algebraica afín en irreducib
 filename: 'teo-descomposicion-variedad-algebraica-afin-irreducibles'
 created: '2025-12-16 19:57:32.522335'
 last_edit_date: '2026-03-31T17:47:48.201086987+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.026706577+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.960391877+00:00'
 labels:
   - note
   - teo:descomposicion-variedad-algebraica-afin-irreducibles

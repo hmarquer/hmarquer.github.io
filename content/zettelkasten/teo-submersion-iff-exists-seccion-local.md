@@ -3,7 +3,7 @@ title: 'Teo submersion iff exists sección local'
 filename: 'teo-submersion-iff-exists-seccion-local'
 created: '2025-04-09 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.217374161+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.662997173+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.594981670+00:00'
 labels:
   - note
   - teo:submersion-iff-exists-seccion-local

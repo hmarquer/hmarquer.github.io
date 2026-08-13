@@ -3,7 +3,7 @@ title: 'Conjuntos y relaciones decidibles primitivos'
 filename: 'lem-conjuntos-relaciones-decidibles-primitivos'
 created: '2026-05-19T16:22:25.935282758+00:00'
 last_edit_date: '2026-05-19T16:22:38.255618125+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.342235634+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.274628760+00:00'
 labels:
   - lem:conjuntos-relaciones-decidibles-primitivos
   - note

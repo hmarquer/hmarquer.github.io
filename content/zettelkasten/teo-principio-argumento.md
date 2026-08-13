@@ -3,7 +3,7 @@ title: 'Principio del argumento'
 filename: 'teo-principio-argumento'
 created: '2026-04-26T22:15:55.069774500+00:00'
 last_edit_date: '2026-06-25T09:20:45.075150518+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.132314713+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.062492967+00:00'
 labels:
   - note
   - teo:principio-argumento

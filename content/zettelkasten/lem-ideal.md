@@ -3,7 +3,7 @@ title: 'Caracterización de ideal'
 filename: 'lem-ideal'
 created: '2025-09-22 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.129154712+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.699079852+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.631708596+00:00'
 labels:
   - lem:ideal
   - lem:ideal:i

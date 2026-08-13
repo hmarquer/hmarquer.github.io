@@ -3,7 +3,7 @@ title: 'Cor ideal primo localizacion extendido'
 filename: 'cor-ideal-primo-localizacion-extendido'
 created: '2026-01-10 12:06:46.906489'
 last_edit_date: '2026-06-24T17:40:19.359941890+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.994962527+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.928957284+00:00'
 labels:
   - cor:ideal-primo-localizacion-extendido
   - note

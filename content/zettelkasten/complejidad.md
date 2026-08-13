@@ -3,7 +3,7 @@ title: 'Complejidad'
 filename: 'complejidad'
 created: '2026-02-02 18:04:56.074309'
 last_edit_date: '2026-03-31T17:48:21.090313337+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.923556154+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.856449131+00:00'
 labels:
   - defn:complejidad
   - note

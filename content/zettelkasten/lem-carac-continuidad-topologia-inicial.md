@@ -3,7 +3,7 @@ title: 'Caracterización de continuidad para la topología inicial'
 filename: 'lem-carac-continuidad-topologia-inicial'
 created: '2025-12-28 11:23:02.430449'
 last_edit_date: '2026-03-31T17:47:48.122019638+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.457504863+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.392979618+00:00'
 labels:
   - lem:carac-continuidad-topologia-inicial
   - note

@@ -3,7 +3,7 @@ title: 'Fórmula integral de Cauchy para discos'
 filename: 'teo-formula-integral-cauchy-disco'
 created: '2025-05-02 00:00:00'
 last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.564545872+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.497293084+00:00'
 labels:
   - note
   - teo:formula-integral-cauchy-disco

@@ -3,7 +3,7 @@ title: 'Lem-relacion-equivalencia-abierta-segundo-numerable'
 filename: 'lem-relacion-equivalencia-abierta-segundo-numerable'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-07-18T05:07:01.331533996+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.618681441+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.554370492+00:00'
 labels:
   - lem:relacion-equivalencia-abierta-segundo-numerable
   - note

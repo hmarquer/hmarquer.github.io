@@ -3,7 +3,7 @@ title: 'Anillo reducido'
 filename: 'anillo-reducido'
 created: '2025-09-12 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.050970139+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.950639427+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.885034939+00:00'
 labels:
   - defn:anillo-reducido
   - note

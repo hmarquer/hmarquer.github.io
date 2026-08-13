@@ -3,7 +3,7 @@ title: 'Carta'
 filename: 'carta'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-06-25T14:27:44.586141919+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.502385072+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.435817783+00:00'
 labels:
   - defn:carta
   - note

@@ -3,7 +3,7 @@ title: 'Lem nucleo fejer nucleo sumabilidad'
 filename: 'lem-nucleo-fejer-nucleo-sumabilidad'
 created: '2026-01-12 19:09:11.326218'
 last_edit_date: '2026-03-31T17:47:48.132014338+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.796705941+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.731919972+00:00'
 labels:
   - lem:nucleo-fejer-nucleo-sumabilidad
   - note

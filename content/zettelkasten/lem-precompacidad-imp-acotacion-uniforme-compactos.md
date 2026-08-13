@@ -3,7 +3,7 @@ title: 'Lem Precompacidad Imp Acotacion Uniforme Compactos'
 filename: 'lem-precompacidad-imp-acotacion-uniforme-compactos'
 created: '2026-06-17T14:38:38.516621234+00:00'
 last_edit_date: '2026-06-17T14:38:39.735882306+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.087684564+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.017891706+00:00'
 labels:
   - lem:precompacidad-imp-acotacion-uniforme-compactos
   - note

@@ -3,7 +3,7 @@ title: 'Teo di finito imp cuerpo'
 filename: 'teo-di-finito-imp-cuerpo'
 created: '2026-01-10 19:34:59.316947'
 last_edit_date: '2026-03-31T17:47:48.202134904+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.504959307+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.438373321+00:00'
 labels:
   - note
   - teo:di-finito-imp-cuerpo

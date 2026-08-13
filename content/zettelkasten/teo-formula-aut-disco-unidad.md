@@ -3,7 +3,7 @@ title: 'Fórmula general de los automorfismos del disco unidad'
 filename: 'teo-formula-aut-disco-unidad'
 created: '2025-08-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.207888271+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.927388981+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.865950073+00:00'
 labels:
   - note
   - teo:formula-aut-disco-unidad

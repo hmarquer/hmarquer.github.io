@@ -3,7 +3,7 @@ title: 'Índice de una curva cerrada'
 filename: 'curva-cerrada-indice'
 created: '2025-04-30 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.077751605+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.283189881+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.219822553+00:00'
 labels:
   - defn:curva-cerrada-indice
   - note

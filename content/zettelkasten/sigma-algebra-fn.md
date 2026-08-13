@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra generada por una función'
 filename: 'sigma-algebra-fn'
 created: '2025-02-21 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.184091196+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.872093749+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.806189752+00:00'
 labels:
   - defn:sigma-algebra-fn
   - note

@@ -3,7 +3,7 @@ title: 'Parámetros de un automorfismo del disco unidad'
 filename: 'teo-aut-disco-unidad-parametros'
 created: '2025-09-24 00:00:00'
 last_edit_date: '2026-06-13T17:17:12.528257559+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.532544614+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.468131673+00:00'
 labels:
   - note
   - teo:aut-disco-unidad-parametros

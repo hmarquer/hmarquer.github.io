@@ -3,7 +3,7 @@ title: 'Sucesión de Cauchy'
 filename: 'sucesion-cauchy'
 created: '2025-02-05 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.189899426+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.368943546+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.303381181+00:00'
 labels:
   - defn:sucesion-cauchy
   - note

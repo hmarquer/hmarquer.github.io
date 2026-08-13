@@ -3,7 +3,7 @@ title: 'Teo base ortonormal exp l2'
 filename: 'teo-base-ortonormal-exp-l2'
 created: '2026-01-12 19:13:36.895652'
 last_edit_date: '2026-03-31T17:47:48.193509929+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.426271302+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.360800475+00:00'
 labels:
   - note
   - teo:base-ortonormal-exp-l2

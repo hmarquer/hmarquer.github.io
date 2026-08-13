@@ -3,7 +3,7 @@ title: 'Interpretación de términos'
 filename: 'interpretacion-terminos'
 created: '2026-02-10 19:25:36.761435'
 last_edit_date: '2026-03-31T17:47:48.116531783+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.929766042+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.864256279+00:00'
 labels:
   - defn:interpretacion-terminos
   - note

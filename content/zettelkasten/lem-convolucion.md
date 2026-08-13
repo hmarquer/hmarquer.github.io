@@ -3,7 +3,7 @@ title: 'Propiedades de la convolución'
 filename: 'lem-convolucion'
 created: '2025-11-04 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.124033969+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.042091992+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.975973824+00:00'
 labels:
   - lem:convolucion
   - note

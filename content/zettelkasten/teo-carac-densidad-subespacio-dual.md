@@ -3,7 +3,7 @@ title: 'Caracterización de la densidad de un subespacio cerrado según el espac
 filename: 'teo-carac-densidad-subespacio-dual'
 created: '2025-12-25 19:05:22.208396'
 last_edit_date: '2026-03-31T17:47:48.194486823+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.758453715+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.690377154+00:00'
 labels:
   - note
   - teo:carac-densidad-subespacio-dual

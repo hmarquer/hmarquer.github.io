@@ -3,7 +3,7 @@ title: 'Cambio de variables'
 filename: 'obs-cambio-variables'
 created: '2026-02-15 18:38:25.599774'
 last_edit_date: '2026-03-31T17:47:48.148821273+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.454898277+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.390323224+00:00'
 labels:
   - ejem:cambio-variables-simultaneo
   - note

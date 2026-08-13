@@ -3,7 +3,7 @@ title: 'Propiedades de la $\C$-derivabilidad'
 filename: 'prop-fn-compleja-derivable'
 created: '2026-04-07T14:41:55.801221812+00:00'
 last_edit_date: '2026-06-25T09:20:45.073858705+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.192250277+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.129180057+00:00'
 labels:
   - note
   - prop:fn-compleja-derivable

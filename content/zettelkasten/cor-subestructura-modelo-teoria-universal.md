@@ -3,7 +3,7 @@ title: 'La subestructura de un modelo de una teoría universal es un modelo de l
 filename: 'cor-subestructura-modelo-teoria-universal'
 created: '2026-03-26 17:01:04.599784'
 last_edit_date: '2026-04-26T09:40:28.477065230+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.345500543+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.281454818+00:00'
 labels:
   - cor:subestructura-modelo-teoria-universal
   - note

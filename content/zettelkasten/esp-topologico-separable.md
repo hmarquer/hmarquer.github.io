@@ -3,7 +3,7 @@ title: 'Espacio topológico separable'
 filename: 'esp-topologico-separable'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.098818609+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.763620349+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.695482960+00:00'
 labels:
   - defn:esp-topologico-separable
   - note

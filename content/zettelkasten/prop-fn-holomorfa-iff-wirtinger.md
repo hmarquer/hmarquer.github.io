@@ -3,7 +3,7 @@ title: '(Anti)holomorfía en términos de las derivadas de Wirtinger'
 filename: 'prop-fn-holomorfa-iff-wirtinger'
 created: '2025-11-11 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.168912364+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.293560880+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.230124573+00:00'
 labels:
   - note
   - prop:fn-holomorfa-iff-wirtinger

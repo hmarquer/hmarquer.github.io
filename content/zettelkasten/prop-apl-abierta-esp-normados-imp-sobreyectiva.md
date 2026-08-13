@@ -3,7 +3,7 @@ title: 'Toda aplicación abierta entre espacios normados es sobreyectiva'
 filename: 'prop-apl-abierta-esp-normados-imp-sobreyectiva'
 created: '2025-12-13 12:45:27.896848'
 last_edit_date: '2026-03-31T17:47:48.157382107+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.741983759+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.676813066+00:00'
 labels:
   - note
   - prop:apl-abierta-esp-normados-imp-sobreyectiva

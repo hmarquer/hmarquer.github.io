@@ -3,7 +3,7 @@ title: 'Teo Camino Minimo Poincare'
 filename: 'teo-camino-minimo-poincare'
 created: '2026-06-13T17:24:43.157794323+00:00'
 last_edit_date: '2026-06-25T09:20:45.074541287+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.668147616+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.600149010+00:00'
 labels:
   - note
   - teo:camino-minimo-poincare

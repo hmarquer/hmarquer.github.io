@@ -3,7 +3,7 @@ title: 'Atlas'
 filename: 'atlas'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.054356359+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.793422112+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.725105459+00:00'
 labels:
   - defn:atlas
   - note

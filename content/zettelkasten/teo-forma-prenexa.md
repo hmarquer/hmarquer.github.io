@@ -3,7 +3,7 @@ title: 'Teorema de la forma prenexa'
 filename: 'teo-forma-prenexa'
 created: '2026-03-26 11:55:32.843930'
 last_edit_date: '2026-03-31T17:47:48.207723240+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.201825994+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.129174987+00:00'
 labels:
   - note
   - teo:forma-prenexa

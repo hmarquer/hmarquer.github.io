@@ -3,7 +3,7 @@ title: 'Función holomorfa cuya parte real es una armónica dada'
 filename: 'prop-fn-armonica-simplemente-conexo-imp-holomorfa'
 created: '2026-06-10T09:23:43.646700639+00:00'
 last_edit_date: '2026-06-12T09:49:35.078523833+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.618643466+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.553250112+00:00'
 labels:
   - note
   - prop:fn-armonica-simplemente-conexo-imp-holomorfa

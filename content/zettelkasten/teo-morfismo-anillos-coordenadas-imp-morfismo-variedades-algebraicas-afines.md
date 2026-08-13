@@ -3,7 +3,7 @@ title: 'Teo morfismo anillos coordenadas imp morfismo variedades algebraicas afi
 filename: 'teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 09:59:58.272437'
 last_edit_date: '2026-03-31T17:47:48.213625306+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.522549371+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.458057057+00:00'
 labels:
   - note
   - teo:morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines

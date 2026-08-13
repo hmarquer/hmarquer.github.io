@@ -3,7 +3,7 @@ title: 'Atlas diferenciable'
 filename: 'atlas-diferenciable'
 created: '2025-12-11 19:31:55.926164'
 last_edit_date: '2026-03-31T17:47:48.054177001+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.105720318+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.036075826+00:00'
 labels:
   - defn:atlas-diferenciable
   - note

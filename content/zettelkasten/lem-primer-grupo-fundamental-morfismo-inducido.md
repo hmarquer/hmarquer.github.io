@@ -3,7 +3,7 @@ title: 'Lem primer grupo fundamental morfismo inducido'
 filename: 'lem-primer-grupo-fundamental-morfismo-inducido'
 created: '2025-06-22 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.132602057+00:00'
-last_build_date_pdf: '2026-08-13T20:02:24.105309713+00:00'
+last_build_date_pdf: '2026-08-13T23:45:56.059091605+00:00'
 labels:
   - lem:primer-grupo-fundamental-morfismo-inducido
   - note

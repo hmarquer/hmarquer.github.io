@@ -3,7 +3,7 @@ title: 'Todo espacio $L^2$ es un espacio de Hilbert'
 filename: 'teo-esp-l2-hilbert'
 created: '2025-04-03 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.203253766+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.020428565+00:00'
+last_build_date_pdf: '2026-08-13T23:45:52.949753957+00:00'
 labels:
   - note
   - teo:esp-l2-hilbert

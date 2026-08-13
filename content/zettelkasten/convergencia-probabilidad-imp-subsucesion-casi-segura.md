@@ -3,7 +3,7 @@ title: 'Convergencia en probabilidad implica la existencia de una subsucesión q
 filename: 'convergencia-probabilidad-imp-subsucesion-casi-segura'
 created: '2025-03-17 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.068557606+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.862000983+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.796687469+00:00'
 labels:
   - note
   - prop:convergencia-probabilidad-imp-subsucesion-casi-segura

@@ -3,7 +3,7 @@ title: '$R$-álgebra'
 filename: 'ralgebra'
 created: '2025-10-21 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.179917300+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.880371638+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.814891115+00:00'
 labels:
   - defn:ralgebra
   - note

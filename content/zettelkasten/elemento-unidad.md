@@ -3,7 +3,7 @@ title: 'Elemento unidad'
 filename: 'elemento-unidad'
 created: '2026-01-10 18:26:51.057154'
 last_edit_date: '2026-03-31T17:47:48.091191807+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.332323283+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.266433699+00:00'
 labels:
   - defn:elemento-unidad
   - note

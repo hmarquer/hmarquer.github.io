@@ -3,7 +3,7 @@ title: 'Métrica'
 filename: 'metrica'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.142605353+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.892617296+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.825726673+00:00'
 labels:
   - defn:metrica
   - defn:metrica:desigualdad-triangular

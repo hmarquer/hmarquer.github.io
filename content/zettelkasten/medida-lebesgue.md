@@ -3,7 +3,7 @@ title: 'Medida de Lebesgue'
 filename: 'medida-lebesgue'
 created: '2025-06-10 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.141941951+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.217898016+00:00'
+last_build_date_pdf: '2026-08-13T23:45:53.149665903+00:00'
 labels:
   - note
   - prop:medida-lebesgue

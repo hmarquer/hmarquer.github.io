@@ -3,7 +3,7 @@ title: 'Fórmula universal'
 filename: 'formula-universal'
 created: '2026-03-05 11:27:52.274936'
 last_edit_date: '2026-03-31T17:47:48.109415474+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.295660888+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.222596910+00:00'
 labels:
   - defn:formula-universal
   - note

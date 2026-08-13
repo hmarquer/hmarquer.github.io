@@ -3,7 +3,7 @@ title: 'Evaluación'
 filename: 'evaluacion'
 created: '2026-02-10 18:20:17.141306'
 last_edit_date: '2026-03-31T17:47:48.099965463+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.600474701+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.535406240+00:00'
 labels:
   - defn:evaluacion
   - ejems:evaluaciones

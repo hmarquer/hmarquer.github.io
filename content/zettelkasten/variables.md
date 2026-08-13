@@ -3,7 +3,7 @@ title: 'Variables'
 filename: 'variables'
 created: '2026-02-02 17:01:40.609068'
 last_edit_date: '2026-03-31T17:47:48.223647879+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.822966210+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.755844951+00:00'
 labels:
   - defn:variables
   - note

@@ -3,7 +3,7 @@ title: 'Función armónica'
 filename: 'fn-armonica'
 created: '2025-03-15 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.102070334+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.262415242+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.199253068+00:00'
 labels:
   - defn:fn-armonica
   - note

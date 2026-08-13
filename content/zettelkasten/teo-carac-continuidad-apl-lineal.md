@@ -3,7 +3,7 @@ title: 'Caracterización de la continuidad de una aplicación lineal'
 filename: 'teo-carac-continuidad-apl-lineal'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.194154856+00:00'
-last_build_date_pdf: '2026-08-13T20:02:21.064320+00:00'
+last_build_date_pdf: '2026-08-13T23:45:52.994696286+00:00'
 labels:
   - note
   - teo:carac-continuidad-apl-lineal

@@ -3,7 +3,7 @@ title: 'Lema de automorfismos de la expansión por parámetros'
 filename: 'lem-automorfismos-expansion-parametros'
 created: '2026-02-10 17:57:04.665525'
 last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.649905242+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.584145581+00:00'
 labels:
   - lem:automorfismos-expansion-parametros
   - note

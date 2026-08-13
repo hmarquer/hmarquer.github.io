@@ -3,7 +3,7 @@ title: 'Convergencia medida'
 filename: 'convergencia-medida'
 created: '2025-10-07 00:00:00'
 last_edit_date: '2026-03-31T17:47:48.068248273+00:00'
-last_build_date_pdf: '2026-08-13T20:02:22.915829372+00:00'
+last_build_date_pdf: '2026-08-13T23:45:54.848727035+00:00'
 labels:
   - defn:convergencia-medida
   - note

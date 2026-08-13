@@ -3,7 +3,7 @@ title: 'Tautología como equivalencia semántica a $\top$'
 filename: 'obs-tautologia-equivalencia-semantica'
 created: '2026-03-26 11:37:04.186107'
 last_edit_date: '2026-03-31T17:47:48.151738748+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.415938613+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.351100198+00:00'
 labels:
   - note
   - obs:tautologia-equivalencia-semantica

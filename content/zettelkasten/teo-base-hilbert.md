@@ -3,7 +3,7 @@ title: 'Teorema de la base de Hilbert'
 filename: 'teo-base-hilbert'
 created: '2025-12-16 18:38:46.220415'
 last_edit_date: '2026-03-31T17:47:48.193353945+00:00'
-last_build_date_pdf: '2026-08-13T20:02:23.879302104+00:00'
+last_build_date_pdf: '2026-08-13T23:45:55.813849613+00:00'
 labels:
   - note
   - teo:base-hilbert
