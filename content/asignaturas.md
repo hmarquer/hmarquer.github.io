@@ -4,11 +4,20 @@ title: "Asignaturas"
 
 1. Primer curso
     1.1 Primer cuatrimestre
+    <!-- - [[1.1-algebra-lineal|Álgebra lineal]] -->
+    <!-- - [[1.1-calculo-i|Cálculo I]] -->
+    <!-- - [[1.1-conjuntos-y-numeros|Conjuntos y números]] -->
 
     1.2 Segundo cuatrimestre
+    <!-- - [[1.2-|]] -->
+    <!-- - [[1.2-|]] -->
+    <!-- - [[1.2-|]] -->
 
 2. Segundo curso
     2.1 Primer cuatrimestre
+    <!-- - [[2.1-|]] -->
+    <!-- - [[2.1-|]] -->
+    <!-- - [[2.1-|]] -->
 
     2.2 Segundo cuatrimestre
     <!-- - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]] -->
@@ -17,7 +26,7 @@ title: "Asignaturas"
     
 3. Tercer curso
     3.1 Primer cuatrimestre
-    <!-- - [[3.1-topologia|Topología]] -->
+    - [[3.1-topologia|Topología]]
     <!-- - [[3.1-estadistica-i|Estadística I]] -->
     - [[3.1-teoria-de-galois|Teoría de Galois]]
     - [[3.1-teoria-de-la-integral-y-la-medida|Teoría de la integral y la medida]]
