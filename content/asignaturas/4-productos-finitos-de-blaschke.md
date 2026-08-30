@@ -2,8 +2,8 @@
 title: 'Productos finitos de Blaschke'
 name: '4-productos-finitos-de-blaschke'
 created: '2025-12-11 19:31:56.810045'
-last_edit_date: '2026-06-25T10:37:05.848511025+00:00'
-last_build_date_pdf: '2026-06-25T14:36:53.255946072+00:00'
+last_edit_date: '2026-08-29T21:58:34.817296777+00:00'
+last_build_date_pdf: '2026-08-30T01:08:10.289052354+00:00'
 inclusions:
   - algebra-disco-unidad
   - apl-conforme
