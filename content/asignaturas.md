@@ -1,33 +1,33 @@
 ---
 title: "Asignaturas"
 ---
-# Asignaturas
 
 ## Grado en Matemáticas
 
 1. Primer curso
-    1.1 Primer cuatrimestre
+    <!-- 1.1 Primer cuatrimestre -->
     <!-- - [[1.1-algebra-lineal|Álgebra lineal]] -->
     <!-- - [[1.1-calculo-i|Cálculo I]] -->
     <!-- - [[1.1-conjuntos-y-numeros|Conjuntos y números]] -->
 
-    1.2 Segundo cuatrimestre
+    <!-- 1.2 Segundo cuatrimestre -->
     <!-- - [[1.2-|]] -->
     <!-- - [[1.2-|]] -->
     <!-- - [[1.2-|]] -->
 
 2. Segundo curso
-    2.1 Primer cuatrimestre
+    <!-- 2.1 Primer cuatrimestre -->
     <!-- - [[2.1-|]] -->
     <!-- - [[2.1-|]] -->
     <!-- - [[2.1-|]] -->
 
-    2.2 Segundo cuatrimestre
+    <!-- 2.2 Segundo cuatrimestre -->
     <!-- - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]] -->
     <!-- - [[2.2-geometria-de-curvas-y-superficies|Geometría de curvas y superficies]] -->
     <!-- - [[2.2-probabilidad-i|Probabilidad I]] -->
     
 3. Tercer curso
+
     3.1 Primer cuatrimestre
     - [[3.1-topologia|Topología]]
     <!-- - [[3.1-estadistica-i|Estadística I]] -->
