@@ -2,8 +2,8 @@
 title: 'Topología'
 filename: 'topologia'
 created: '2025-01-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.220514727+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.473517180+00:00'
+last_edit_date: '2026-08-31T11:45:49.233396631+00:00'
+last_build_date_pdf: '2026-08-31T11:45:56.421086312+00:00'
 labels:
   - defn:topologia
   - note
