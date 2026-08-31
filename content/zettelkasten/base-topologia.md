@@ -2,8 +2,8 @@
 title: 'Base de una topología'
 filename: 'base-topologia'
 created: '2025-12-11 19:31:55.927164'
-last_edit_date: '2026-07-18T04:53:06.653341526+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.264214823+00:00'
+last_edit_date: '2026-08-31T09:57:51.668272413+00:00'
+last_build_date_pdf: '2026-08-31T10:44:31.753907734+00:00'
 labels:
   - defn:base-topologia
   - note

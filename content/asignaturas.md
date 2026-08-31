@@ -1,6 +1,9 @@
 ---
 title: "Asignaturas"
 ---
+# Asignaturas
+
+## Grado en Matemáticas
 
 1. Primer curso
     1.1 Primer cuatrimestre
@@ -52,3 +55,12 @@ title: "Asignaturas"
     - [[4.2-variable-compleja-ii|Variable compleja II]]
     - [[4.2-aprendizaje-automatico|Aprendizaje automático]]
     - [[4.2-fisica-cuantica|Física cuántica]]
+
+## Máster en Matemáticas y Aplicaciones
+
+1. Primer cuatrimestre
+    - [[m.1-procesos-estocasticos|Procesos estocásticos]]
+    - [[m.1-fundamentos-de-analisis-matematico|Fundamentos de análisis matemático]]
+    - [[m.1-curvas-algebraicas|Curvas algebraicas]]
+<!-- 2. Segundo cuatrimestre -->
+

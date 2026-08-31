@@ -2,8 +2,8 @@
 title: 'Teoría descriptiva de conjuntos'
 name: '4-teoria-descriptiva-de-conjuntos'
 created: '2025-12-11 19:31:56.814044'
-last_edit_date: '2026-08-29T21:58:50.649805001+00:00'
-last_build_date_pdf: '2026-08-30T01:08:10.291486469+00:00'
+last_edit_date: '2026-08-31T09:48:24.874548011+00:00'
+last_build_date_pdf: '2026-08-31T10:45:37.838555027+00:00'
 inclusions:
   - apl-abierta
   - apl-cerrada
