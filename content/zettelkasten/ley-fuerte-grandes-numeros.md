@@ -51,4 +51,3 @@ tags:
 #EJERCICIO se hace estimando la serie por la integral
 #EJERCICIO hacerlo
 #EJERCICIO hacerlo de forma rigurosa
-#EJERCICIO hacerlo

@@ -37,6 +37,4 @@ tags:
 #REVISAR no entiendo nada
 #ORDENAR : referenciar
 #ORDENAR : referciar
-#ORDENAR : referenciar
-#ORDENAR : referciar
 #REVISAR 

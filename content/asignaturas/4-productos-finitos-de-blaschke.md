@@ -166,3 +166,63 @@ tags:
 - [prop-convergencia-uniforme-continuidad-uniforme](./prop-convergencia-uniforme-continuidad-uniforme.md)
 - [prop-envolvente-convexa-combinacion-convexa](./prop-envolvente-convexa-combinacion-convexa.md)
 
+## Etiquetas
+#REVISAR 
+#DEMOSTRACIÓN 
+#COMPLETAR : añadir definición de residuo de $f$ en $z_0$
+#COMPLETAR 
+#ORDENAR : referenciar
+#REVISAR : comprobar
+#REVISAR : explicar mejor porque no lo entiendo.
+#REVISAR : yo creo que el libro está mal.
+#ORDENAR : me ha dicho Dragan que es muy prescindible
+#REVISAR : ¿$P$ es de grado n?
+#REVISAR : explicar mejor la igualdad
+#ORDENAR : reescribir esta sección usando la definición de valencia
+#DEMOSTRACIÓN págs 48-49
+#REVISAR : no entiendo
+#REVISAR : estos corolarios son de cosecha propia.
+#REVISAR : de cosecha propia.
+#ORDENAR : meterlo al anexo
+#DEMOSTRACIÓN terminarla
+#COMPLETAR : mirar el teorema de Cantor
+#REVISAR con la foto del dia 11/12/2025
+#COMPLETAR : falta un corolario
+#REVISAR : este teorema es de cosecha propia, hecho por la chati
+#REVISAR esta DEMOSTRACIÓN
+#REVISAR : lo ha escrito la chati
+#COMPLETAR para ver que $K \in H^\infty$ hay que separar el dominio $\mathbb{D}$ en dos partes, una cerca de $0$ y otra lejos de $0$
+#COMPLETAR usar desigualdad triangular inversa
+#REVISAR : esto está mal, tomar sucesión maximizante
+#ORDENAR enviar al anexo
+#TODO hace falta estimar hasta el borde para que el resultado quede demostrado, luego hay que tomar una cota más pequeña y tomar el límite
+#REVISAR noe entiendo lo que el libro quiere decir
+#ORDENAR : referenciar mirar los apuntes de Dragan: https://verso.mat.uam.es/~dragan.vukotic/grado/mat-doc/FAM-notes-metr-approx.pdf
+#ORDENAR referenciar
+#REVISAR demostración a partir de aquí, consultar fuentes.
+#REVISAR esto está mal mirar la foto del 03/03/2026
+#ORDENAR : a lo mejor esto no hace falta explicarlo
+#REVISAR : esta parte es prescindible
+#REVISAR realmente no entiendo esta condición
+#COMPLETAR : esta parte no me queda nada clara, ¿Cómo demostramos que Aut(D) es un subgrupo de PGL(2,C)? ¿Y que es isomorfo a PSU(1,1)?
+#COMPLETAR DEMOSTRACIÓN
+#REVISAR : comprobar si luego se usa y referenciar donde se haga
+#ORDENAR referenciar bien
+#REVISAR : muy prescindible porque es obvio
+#REVISAR : ¿Por qué esta definición? ¿No tendría más sentido definir la longitud como el supremo de las sumas de distancias respecto a la métrica de Poincaré y luego demostrar que es igual a esta integral?
+#REVISAR : ¿Inyectivo por qué?
+#ORDENAR referenciar todo bien
+#ORDENAR : referenciar bien (es un ejercicio)
+#COMPLETAR con figura y observación de que las rectas hiperbólicas son arcos de circunferencia ortogonales a la frontera del disco unidad.
+#COMPLETAR ¿nada de paralelas? REVISAR: mirar ejercicios
+#REVISAR : mirar ejercicios
+#ORDENAR : referenciar observación donde se ve esto
+#REVISAR no entiendo bien esto
+#ORDENAR : escribir en lema y demostrarlo y citarlo
+#REVISAR esta última afirmación esto es porque la parte real/imaginaria de una función holomorfa es armónica %ORDENAR: escribir en lema y demostrarlo y citarlo
+#COMPLETAR : mirarse \cite{krantzComplexAnalysisGeometric2004} capítulo 2 y \cite{pressleyElementaryDifferentialGeometry2012}
+#REVISAR COMPLETAR: mirarse \cite{krantzComplexAnalysisGeometric2004} capítulo 2 y \cite{pressleyElementaryDifferentialGeometry2012}
+#ORDENAR : referenciar bien
+#EJERCICIO 
+#COMPLETAR mirar Geometry: Euclid and Beyond.
+#COMPLETAR : Añadir teorema de Roche
