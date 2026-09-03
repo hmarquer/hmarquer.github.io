@@ -2,11 +2,10 @@
 title: 'Fibra'
 filename: 'fibra'
 created: '2025-02-26 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.101429735+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.923541597+00:00'
+last_edit_date: '2026-09-03T09:44:22.593398604+00:00'
+last_build_date_pdf: '2026-09-03T17:18:29.253726696+00:00'
 labels:
   - defn:fibra
-  - note
 backlinks:
   - lem-apl-recubridora-diferenciable-seccion-local
   - prop-esp-tangente-fibra-kernel-diferencial

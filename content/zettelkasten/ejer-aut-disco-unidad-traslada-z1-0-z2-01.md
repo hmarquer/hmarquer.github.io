@@ -2,11 +2,10 @@
 title: 'Ejer aut disco unidad traslada z1 0 z2 01'
 filename: 'ejer-aut-disco-unidad-traslada-z1-0-z2-01'
 created: '2026-01-22 14:17:05.290030'
-last_edit_date: '2026-03-31T17:47:48.087326313+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.964659744+00:00'
+last_edit_date: '2026-09-03T09:44:22.577482623+00:00'
+last_build_date_pdf: '2026-09-03T17:20:29.491760506+00:00'
 labels:
   - ejer:aut-disco-unidad-traslada-z1-0-z2-01
-  - note
 references:
   - automorfismo-disco-unidad
   - ejem-rotacion-disco-unidad

@@ -2,11 +2,10 @@
 title: 'Cambio de variables'
 filename: 'obs-cambio-variables'
 created: '2026-02-15 18:38:25.599774'
-last_edit_date: '2026-03-31T17:47:48.148821273+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.390323224+00:00'
+last_edit_date: '2026-09-03T09:44:22.668355211+00:00'
+last_build_date_pdf: '2026-09-03T17:09:40.734505558+00:00'
 labels:
   - ejem:cambio-variables-simultaneo
-  - note
   - obs:cambio-variables
 references:
   - aparicion

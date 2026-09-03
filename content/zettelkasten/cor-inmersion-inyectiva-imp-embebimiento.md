@@ -2,15 +2,14 @@
 title: 'Cor inmersion inyectiva imp embebimiento'
 filename: 'cor-inmersion-inyectiva-imp-embebimiento'
 created: '2025-06-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.073448405+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.723967220+00:00'
+last_edit_date: '2026-09-03T09:44:22.559210853+00:00'
+last_build_date_pdf: '2026-09-03T17:23:03.357775887+00:00'
 labels:
   - cor:inmersion-inyectiva-imp-embebimiento
   - cor:inmersion-inyectiva-imp-embebimiento:I
   - cor:inmersion-inyectiva-imp-embebimiento:II
   - cor:inmersion-inyectiva-imp-embebimiento:III
   - cor:inmersion-inyectiva-imp-embebimiento:IV
-  - note
 references:
   - apl-abierta
   - apl-cerrada

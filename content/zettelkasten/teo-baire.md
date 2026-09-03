@@ -2,10 +2,9 @@
 title: 'Teorema de Baire'
 filename: 'teo-baire'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.192685143+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.877244477+00:00'
+last_edit_date: '2026-09-03T09:44:22.731791843+00:00'
+last_build_date_pdf: '2026-09-03T17:01:31.834015252+00:00'
 labels:
-  - note
   - teo:baire
 references:
   - completitud-metrica

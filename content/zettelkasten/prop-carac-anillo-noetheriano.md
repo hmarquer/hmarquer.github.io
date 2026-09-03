@@ -2,10 +2,9 @@
 title: 'Caracterización de un anillo noetheriano'
 filename: 'prop-carac-anillo-noetheriano'
 created: '2025-12-16 16:23:03.956501'
-last_edit_date: '2026-03-31T17:47:48.159340923+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.453627982+00:00'
+last_edit_date: '2026-09-03T09:44:22.684161073+00:00'
+last_build_date_pdf: '2026-09-03T17:07:33.753338450+00:00'
 labels:
-  - note
   - prop:carac-anillo-noetheriano
 references:
   - anillo

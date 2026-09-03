@@ -2,11 +2,10 @@
 title: 'Subvariedad'
 filename: 'subvariedad-diferenciable'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.189538144+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.910896853+00:00'
+last_edit_date: '2026-09-03T09:44:22.728461067+00:00'
+last_build_date_pdf: '2026-09-03T17:01:58.934057925+00:00'
 labels:
   - defn:subvariedad-diferenciable
-  - note
 references:
   - embebimiento
   - variedad-diferenciable

@@ -2,10 +2,9 @@
 title: 'Una variedad algebraica afín es irreducible si y solo si su ideal de anulación es primo'
 filename: 'prop-variedad-algebraica-afin-irreducible-iff-ideal-primo'
 created: '2025-12-16 19:22:14.876879'
-last_edit_date: '2026-03-31T17:47:48.178925228+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.939199531+00:00'
+last_edit_date: '2026-09-03T09:44:22.712627824+00:00'
+last_build_date_pdf: '2026-09-03T17:04:04.001762629+00:00'
 labels:
-  - note
   - prop:variedad-algebraica-afin-irreducible-iff-ideal-primo
 references:
   - esp-afin

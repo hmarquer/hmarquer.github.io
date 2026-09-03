@@ -2,11 +2,10 @@
 title: 'Ejemplo de subestructura elementalmente equivalente que no es subestructura elemental'
 filename: 'ejem-subestructura-elementalmente-equivalente-no-subestructura-elemental'
 created: '2026-03-26 20:10:00.596474'
-last_edit_date: '2026-03-31T17:47:48.086714548+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.366411184+00:00'
+last_edit_date: '2026-09-03T09:44:22.576431450+00:00'
+last_build_date_pdf: '2026-09-03T17:20:41.672723363+00:00'
 labels:
   - ejem:subestructura-elementalmente-equivalente-no-subestructura-elemental
-  - note
 references:
   - equivalencia-elemental-estructuras
   - estructura

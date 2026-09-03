@@ -2,11 +2,10 @@
 title: 'Extensión de anillos'
 filename: 'extension-anillos'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.100781432+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.740357707+00:00'
+last_edit_date: '2026-09-03T09:44:22.591738902+00:00'
+last_build_date_pdf: '2026-09-03T17:18:35.147917087+00:00'
 labels:
   - defn:extension-anillos
-  - note
 references:
   - anillo
   - morfismo-anillos

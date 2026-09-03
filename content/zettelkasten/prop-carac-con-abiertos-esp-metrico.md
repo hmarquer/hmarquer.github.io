@@ -2,10 +2,9 @@
 title: 'Caracterización de conjuntos abiertos en un espacio métrico'
 filename: 'prop-carac-con-abiertos-esp-metrico'
 created: '2026-07-17T20:07:20.190206672+00:00'
-last_edit_date: '2026-07-17T20:07:31.345205476+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.649620313+00:00'
+last_edit_date: '2026-09-03T09:44:22.684400839+00:00'
+last_build_date_pdf: '2026-09-03T17:07:33.813119018+00:00'
 labels:
-  - note
   - prop:carac-con-abiertos-esp-metrico
 references:
   - bola-abierta

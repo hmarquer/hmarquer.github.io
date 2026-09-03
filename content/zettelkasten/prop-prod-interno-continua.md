@@ -2,10 +2,9 @@
 title: 'Continuidad del producto interno'
 filename: 'prop-prod-interno-continua'
 created: '2026-01-09 10:43:49.908581'
-last_edit_date: '2026-03-31T17:47:48.174426890+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.424255982+00:00'
+last_edit_date: '2026-09-03T09:44:22.705900868+00:00'
+last_build_date_pdf: '2026-09-03T17:04:49.185587903+00:00'
 labels:
-  - note
   - prop:prod-interno-continua
 references:
   - continuidad

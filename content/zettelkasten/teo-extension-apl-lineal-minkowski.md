@@ -2,11 +2,10 @@
 title: 'Teorema de extensión de una aplicación lineal según un funcional de Minkowski'
 filename: 'teo-extension-apl-lineal-minkowski'
 created: '2025-12-13 17:41:23.253778'
-last_edit_date: '2026-03-31T17:47:48.205186653+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.860630311+00:00'
+last_edit_date: '2026-09-03T09:44:22.748949038+00:00'
+last_build_date_pdf: '2026-09-03T16:59:11.316093125+00:00'
 labels:
   - dem:extension-apl-lineal-minkowski:1
-  - note
   - teo:extension-apl-lineal-minkowski
 references:
   - apl-lineal

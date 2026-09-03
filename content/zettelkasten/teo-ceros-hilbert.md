@@ -2,10 +2,9 @@
 title: 'Teorema de los ceros de Hilbert'
 filename: 'teo-ceros-hilbert'
 created: '2026-01-04 07:40:35.988108'
-last_edit_date: '2026-03-31T17:47:48.197255307+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.334079525+00:00'
+last_edit_date: '2026-09-03T09:44:22.737315706+00:00'
+last_build_date_pdf: '2026-09-03T17:00:41.153257941+00:00'
 labels:
-  - note
   - teo:ceros-hilbert
 references:
   - alg-cerrado

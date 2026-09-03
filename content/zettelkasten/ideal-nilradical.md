@@ -2,11 +2,10 @@
 title: 'Ideal nilradical'
 filename: 'ideal-nilradical'
 created: '2025-09-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.113017632+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.070354941+00:00'
+last_edit_date: '2026-09-03T09:44:22.611223732+00:00'
+last_build_date_pdf: '2026-09-03T17:16:15.244564307+00:00'
 labels:
   - lem:ideal-nilradical
-  - note
 references:
   - anillo
   - ideal

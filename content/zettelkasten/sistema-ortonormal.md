@@ -2,11 +2,10 @@
 title: 'Sistema ortonormal'
 filename: 'sistema-ortonormal'
 created: '2025-05-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.185908866+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.261689161+00:00'
+last_edit_date: '2026-09-03T09:44:22.723863819+00:00'
+last_build_date_pdf: '2026-09-03T17:02:39.226358107+00:00'
 labels:
   - defn:sistema-ortonormal
-  - note
 references:
   - esp-prehilbert
   - norma-inducida

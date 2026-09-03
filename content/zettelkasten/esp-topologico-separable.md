@@ -2,11 +2,10 @@
 title: 'Espacio topológico separable'
 filename: 'esp-topologico-separable'
 created: '2025-05-29 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.098818609+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.695482960+00:00'
+last_edit_date: '2026-09-03T09:44:22.589196058+00:00'
+last_build_date_pdf: '2026-09-03T17:18:55.194676342+00:00'
 labels:
   - defn:esp-topologico-separable
-  - note
 references:
   - con-denso
   - esp-topologico

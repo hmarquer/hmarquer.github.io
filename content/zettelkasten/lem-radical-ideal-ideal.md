@@ -2,11 +2,10 @@
 title: 'El radical de un ideal es un ideal'
 filename: 'lem-radical-ideal-ideal'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.133319882+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.520410962+00:00'
+last_edit_date: '2026-09-03T09:44:22.643710301+00:00'
+last_build_date_pdf: '2026-09-03T17:12:25.116625481+00:00'
 labels:
   - lem:radical-ideal-ideal
-  - note
 references:
   - ideal
   - radical-ideal

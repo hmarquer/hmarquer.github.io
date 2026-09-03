@@ -2,12 +2,11 @@
 title: 'Tautología'
 filename: 'tautologia'
 created: '2026-02-17 19:39:45.138868'
-last_edit_date: '2026-03-31T17:47:48.190891178+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.022022872+00:00'
+last_edit_date: '2026-09-03T09:44:22.729902804+00:00'
+last_build_date_pdf: '2026-09-03T17:01:45.570119699+00:00'
 labels:
   - defn:tautologia
   - ejems:tautologias
-  - note
 references:
   - enunciado
   - estructura

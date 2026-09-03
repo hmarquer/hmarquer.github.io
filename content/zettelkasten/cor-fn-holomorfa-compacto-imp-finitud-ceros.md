@@ -2,11 +2,10 @@
 title: 'Toda función holomorfa no identicamente nula tiene un número finito de ceros en un compacto'
 filename: 'cor-fn-holomorfa-compacto-imp-finitud-ceros'
 created: '2025-12-15 10:58:26.654361'
-last_edit_date: '2026-03-31T17:47:48.072039627+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.553667888+00:00'
+last_edit_date: '2026-09-03T09:44:22.557607158+00:00'
+last_build_date_pdf: '2026-09-03T17:23:17.897655669+00:00'
 labels:
   - cor:fn-holomorfa-compacto-imp-finitud-ceros
-  - note
 references:
   - compacidad
   - dominio

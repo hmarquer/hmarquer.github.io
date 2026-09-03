@@ -2,11 +2,10 @@
 title: 'Espacio bidual'
 filename: 'esp-bidual'
 created: '2025-12-20 19:41:55.441977'
-last_edit_date: '2026-03-31T17:47:48.094117117+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.374861959+00:00'
+last_edit_date: '2026-09-03T09:44:22.583496990+00:00'
+last_build_date_pdf: '2026-09-03T17:19:40.538043904+00:00'
 labels:
   - defn:esp-bidual
-  - note
 references:
   - dual-topologico
   - esp-vectorial

@@ -2,12 +2,11 @@
 title: 'Ley 0-1 de Kolmogorov'
 filename: 'ley-0-1-kolmogorov'
 created: '2025-03-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.139678400+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.274241203+00:00'
+last_edit_date: '2026-09-03T09:44:22.653875677+00:00'
+last_build_date_pdf: '2026-09-03T17:11:23.094209734+00:00'
 labels:
   - dem:ley-0-1-kolmogorov:1
   - dem:ley-0-1-kolmogorov:1:a
-  - note
   - teo:ley-0-1-kolmogorov
 references:
   - independencia-pi-sistemas

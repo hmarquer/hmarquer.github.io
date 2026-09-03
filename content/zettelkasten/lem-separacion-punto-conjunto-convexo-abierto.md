@@ -2,11 +2,10 @@
 title: 'Lema de separación de un punto y un conjunto convexo abierto'
 filename: 'lem-separacion-punto-conjunto-convexo-abierto'
 created: '2025-12-20 18:34:59.298745'
-last_edit_date: '2026-03-31T17:47:48.134654981+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.372918057+00:00'
+last_edit_date: '2026-09-03T09:44:22.646880611+00:00'
+last_build_date_pdf: '2026-09-03T17:12:11.261229739+00:00'
 labels:
   - lem:separacion-punto-conjunto-convexo-abierto
-  - note
 references:
   - clausura
   - con-convexo

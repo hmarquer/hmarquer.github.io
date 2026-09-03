@@ -2,11 +2,10 @@
 title: 'Espacio prehilbert'
 filename: 'esp-prehilbert'
 created: '2025-10-01 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.097066272+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.255953449+00:00'
+last_edit_date: '2026-09-03T09:44:22.586537643+00:00'
+last_build_date_pdf: '2026-09-03T17:19:16.884813138+00:00'
 labels:
   - defn:esp-prehilbert
-  - note
 references:
   - esp-vectorial
   - prod-interno

@@ -2,13 +2,12 @@
 title: 'Cuerpo'
 filename: 'cuerpo'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-05-07T00:32:06.997541277+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.716889212+00:00'
+last_edit_date: '2026-09-03T09:44:22.565155950+00:00'
+last_build_date_pdf: '2026-09-03T17:22:16.033141880+00:00'
 last_build_date_html: '2026-05-07T00:30:22.820719792+00:00'
 labels:
   - defn:cuerpo
   - ejems:cuerpos
-  - note
 references:
   - anillo
   - cuerpo

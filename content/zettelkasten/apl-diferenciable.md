@@ -2,11 +2,10 @@
 title: 'Aplicación diferenciable'
 filename: 'apl-diferenciable'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.052497401+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.417018053+00:00'
+last_edit_date: '2026-09-03T09:44:22.533542032+00:00'
+last_build_date_pdf: '2026-09-03T17:26:46.332502437+00:00'
 labels:
   - defn:apl-diferenciable
-  - note
 references:
   - carta
   - continuidad

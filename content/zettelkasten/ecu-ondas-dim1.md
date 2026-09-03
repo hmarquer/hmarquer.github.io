@@ -2,11 +2,10 @@
 title: 'Ecuación de ondas en dimensión $1$'
 filename: 'ecu-ondas-dim1'
 created: '2025-05-06 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.084748759+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.034074764+00:00'
+last_edit_date: '2026-09-03T09:44:22.573421305+00:00'
+last_build_date_pdf: '2026-09-03T17:21:05.149344346+00:00'
 labels:
   - defn:ecu-ondas-dim1
-  - note
 references:
   - ecu-derivadas-parciales
   - edp-lineal

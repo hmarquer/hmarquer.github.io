@@ -2,11 +2,10 @@
 title: 'Propiedades de la convolución'
 filename: 'lem-convolucion'
 created: '2025-11-04 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.124033969+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.975973824+00:00'
+last_edit_date: '2026-09-03T09:44:22.627074629+00:00'
+last_build_date_pdf: '2026-09-03T17:14:11.807182117+00:00'
 labels:
   - lem:convolucion
-  - note
 references:
   - convolucion
   - fn-medible

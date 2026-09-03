@@ -2,11 +2,10 @@
 title: 'Pnt regular apl diferenciable'
 filename: 'pnt-regular-apl-diferenciable'
 created: '2025-06-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.154192648+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.526282871+00:00'
+last_edit_date: '2026-09-03T09:44:22.676523262+00:00'
+last_build_date_pdf: '2026-09-03T17:08:32.522389117+00:00'
 labels:
   - defn:pnt-regular-apl-diferenciable
-  - note
 references:
   - apl-diferenciable
   - diferencial-apl-diferenciable

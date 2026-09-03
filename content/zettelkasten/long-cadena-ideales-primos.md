@@ -2,11 +2,10 @@
 title: 'Longitud de una cadena de ideales primos'
 filename: 'long-cadena-ideales-primos'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.140844100+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.510181828+00:00'
+last_edit_date: '2026-09-03T09:44:22.655731843+00:00'
+last_build_date_pdf: '2026-09-03T17:11:11.230243749+00:00'
 labels:
   - defn:long-cadena-ideales-primos
-  - note
 references:
   - anillo
   - cadena

@@ -2,11 +2,10 @@
 title: 'Fórmula del núcleo de Fejér'
 filename: 'lem-formula-nucleo-fejer'
 created: '2026-01-12 18:27:46.619903'
-last_edit_date: '2026-03-31T17:47:48.128426598+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.540555145+00:00'
+last_edit_date: '2026-09-03T09:44:22.635034714+00:00'
+last_build_date_pdf: '2026-09-03T17:13:23.026136451+00:00'
 labels:
   - lem:formula-nucleo-fejer
-  - note
 references:
   - lem-formula-nucleo-dirichlet
   - nucleo-fejer

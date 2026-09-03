@@ -2,11 +2,10 @@
 title: 'Lem involucion disco unidad rho'
 filename: 'lem-involucion-disco-unidad-rho'
 created: '2026-01-22 13:33:42.163657'
-last_edit_date: '2026-06-13T17:19:08.121890008+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.228830632+00:00'
+last_edit_date: '2026-09-03T09:44:22.638086587+00:00'
+last_build_date_pdf: '2026-09-03T17:13:00.709213294+00:00'
 labels:
   - lem:involucion-disco-unidad-rho
-  - note
 references:
   - automorfismo-disco-unidad
   - ejem-rotacion-disco-unidad

@@ -2,11 +2,10 @@
 title: 'Convergencia-serie'
 filename: 'convergencia-serie'
 created: '2025-03-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.069190060+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.090283667+00:00'
+last_edit_date: '2026-09-03T09:44:22.552732341+00:00'
+last_build_date_pdf: '2026-09-03T17:23:59.193790442+00:00'
 labels:
   - defn:convergencia-serie
-  - note
 references:
   - convergencia
   - esp-vectorial

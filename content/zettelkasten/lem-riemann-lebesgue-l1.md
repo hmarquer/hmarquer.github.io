@@ -2,11 +2,10 @@
 title: 'Lem riemann lebesgue l1'
 filename: 'lem-riemann-lebesgue-l1'
 created: '2026-01-12 19:23:04.835266'
-last_edit_date: '2026-03-31T17:47:48.133902100+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.337593913+00:00'
+last_edit_date: '2026-09-03T09:44:22.645488669+00:00'
+last_build_date_pdf: '2026-09-03T17:12:17.264707686+00:00'
 labels:
   - lem:riemann-lebesgue-l1
-  - note
 references:
   - convergencia
   - esp-lp

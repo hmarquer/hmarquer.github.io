@@ -2,11 +2,10 @@
 title: 'Lem isomorfismo iff inmersion sobreyectiva'
 filename: 'lem-isomorfismo-iff-inmersion-sobreyectiva'
 created: '2026-02-10 17:51:14.521444'
-last_edit_date: '2026-03-31T17:47:48.130503978+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.530288111+00:00'
+last_edit_date: '2026-09-03T09:44:22.638737688+00:00'
+last_build_date_pdf: '2026-09-03T17:12:58.857798614+00:00'
 labels:
   - lem:isomorfismo-iff-inmersion-sobreyectiva
-  - note
 references:
   - inmersion-estructuras
   - isomorfismo-estructuras

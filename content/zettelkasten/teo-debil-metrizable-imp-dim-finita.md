@@ -2,10 +2,9 @@
 title: 'Si la topología débil es metrizable, entonces el espacio es de dimensión finita'
 filename: 'teo-debil-metrizable-imp-dim-finita'
 created: '2025-12-27 18:55:53.241033'
-last_edit_date: '2026-03-31T17:47:48.200445326+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.235285902+00:00'
+last_edit_date: '2026-09-03T09:44:22.742948507+00:00'
+last_build_date_pdf: '2026-09-03T17:00:03.472956709+00:00'
 labels:
-  - note
   - teo:debil-metrizable-imp-dim-finita
 references:
   - base-hamel

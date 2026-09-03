@@ -2,10 +2,9 @@
 title: 'Teorema de separación de un punto y el origen en un espacio normado'
 filename: 'teo-esp-normado-separacion-punto-cero'
 created: '2025-12-20 13:29:52.199215'
-last_edit_date: '2026-03-31T17:47:48.203850933+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.962791606+00:00'
+last_edit_date: '2026-09-03T09:44:22.747357997+00:00'
+last_build_date_pdf: '2026-09-03T16:59:24.085221675+00:00'
 labels:
-  - note
   - teo:esp-normado-separacion-punto-cero
 references:
   - apl-lineal

@@ -2,10 +2,9 @@
 title: 'Fórmula de la varianza'
 filename: 'prop-formula-varianza'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.169215647+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.560825377+00:00'
+last_edit_date: '2026-09-03T09:44:22.698656297+00:00'
+last_build_date_pdf: '2026-09-03T17:05:41.613101883+00:00'
 labels:
-  - note
   - prop:formula-varianza
 references:
   - esperanza

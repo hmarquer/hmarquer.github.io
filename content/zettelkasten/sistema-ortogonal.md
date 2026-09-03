@@ -2,11 +2,10 @@
 title: 'Sistema ortogonal'
 filename: 'sistema-ortogonal'
 created: '2025-05-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.185767259+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.295000387+00:00'
+last_edit_date: '2026-09-03T09:44:22.723666123+00:00'
+last_build_date_pdf: '2026-09-03T17:02:44.959770415+00:00'
 labels:
   - defn:sistema-ortogonal
-  - note
 references:
   - esp-prehilbert
   - ortogonalidad

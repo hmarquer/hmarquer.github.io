@@ -2,12 +2,11 @@
 title: 'Ideal principal'
 filename: 'ideal-principal'
 created: '2025-09-12 00:00:00'
-last_edit_date: '2026-05-07T21:46:58.070489509+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.094144869+00:00'
+last_edit_date: '2026-09-03T09:44:22.611601862+00:00'
+last_build_date_pdf: '2026-09-03T17:16:10.501981785+00:00'
 last_build_date_html: '2026-05-25T10:05:41.541118310+00:00'
 labels:
   - defn:ideal-principal
-  - note
 references:
   - anillo
   - ideal

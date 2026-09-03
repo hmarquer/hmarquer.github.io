@@ -2,10 +2,9 @@
 title: 'Teo Recursion'
 filename: 'teo-recursion'
 created: '2026-04-26T12:02:52.329226802+00:00'
-last_edit_date: '2026-04-26T12:02:54.067725604+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.282014985+00:00'
+last_edit_date: '2026-09-03T09:44:22.763481484+00:00'
+last_build_date_pdf: '2026-09-03T16:57:23.802104910+00:00'
 labels:
-  - note
   - teo:recursion
 backlinks:
   - cor-recursion-vectorial

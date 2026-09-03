@@ -2,11 +2,10 @@
 title: 'La unión de ideales encajados es un ideal'
 filename: 'ejer-union-ideales-encajados'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.089942519+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.976381155+00:00'
+last_edit_date: '2026-09-03T09:44:22.580454374+00:00'
+last_build_date_pdf: '2026-09-03T17:20:05.670660283+00:00'
 labels:
   - ejer:union-ideales-encajados
-  - note
 references:
   - anillo
   - ideal

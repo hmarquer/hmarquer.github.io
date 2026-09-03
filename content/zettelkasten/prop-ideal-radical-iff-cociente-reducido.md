@@ -2,10 +2,9 @@
 title: 'Prop ideal radical iff cociente reducido'
 filename: 'prop-ideal-radical-iff-cociente-reducido'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.170451819+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.852813410+00:00'
+last_edit_date: '2026-09-03T09:44:22.700877529+00:00'
+last_build_date_pdf: '2026-09-03T17:05:28.382602286+00:00'
 labels:
-  - note
   - prop:ideal-radical-iff-cociente-reducido
 references:
   - anillo-cociente

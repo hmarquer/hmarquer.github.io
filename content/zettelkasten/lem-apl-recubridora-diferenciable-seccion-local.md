@@ -2,11 +2,10 @@
 title: 'Lem apl recubridora diferenciable seccion local'
 filename: 'lem-apl-recubridora-diferenciable-seccion-local'
 created: '2025-06-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.120305193+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.160467051+00:00'
+last_edit_date: '2026-09-03T09:44:22.620712669+00:00'
+last_build_date_pdf: '2026-09-03T17:15:04.251858454+00:00'
 labels:
   - lem:apl-recubridora-diferenciable-seccion-local
-  - note
 references:
   - apl-recubridora-diferenciable
   - componente-conexa

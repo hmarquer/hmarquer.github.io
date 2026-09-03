@@ -2,11 +2,10 @@
 title: 'Curva cerrada'
 filename: 'curva-cerrada'
 created: '2025-04-01 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.077894355+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.973157713+00:00'
+last_edit_date: '2026-09-03T09:44:22.565536825+00:00'
+last_build_date_pdf: '2026-09-03T17:22:15.601380336+00:00'
 labels:
   - defn:curva-cerrada
-  - note
 references:
   - curva-topologica
 backlinks:

@@ -2,8 +2,8 @@
 title: 'Ley fuerte de los grandes números'
 filename: 'ley-fuerte-grandes-numeros'
 created: '2025-06-17 00:00:00'
-last_edit_date: '2026-06-25T09:14:57.462490838+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.155025881+00:00'
+last_edit_date: '2026-09-03T09:44:22.654405316+00:00'
+last_build_date_pdf: '2026-09-03T17:11:18.075182209+00:00'
 labels:
   - dem:ley-fuerte-grandes-numeros:2
   - dem:ley-fuerte-grandes-numeros:3
@@ -11,7 +11,6 @@ labels:
   - dem:ley-fuerte-grandes-numeros:5
   - dem:ley-fuerte-grandes-numeros:6
   - dem:ley-fuerte-grandes-numeros:eq:1
-  - note
   - teo:ley-fuerte-grandes-numeros
 references:
   - convergencia-casi-segura

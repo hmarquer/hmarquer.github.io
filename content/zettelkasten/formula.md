@@ -2,11 +2,10 @@
 title: 'Fórmula'
 filename: 'formula'
 created: '2026-02-02 17:29:35.484578'
-last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.667485854+00:00'
+last_edit_date: '2026-09-03T09:44:22.605479098+00:00'
+last_build_date_pdf: '2026-09-03T17:17:08.561006336+00:00'
 labels:
   - defn:formula
-  - note
 references:
   - lenguaje-primer-orden
   - palabra

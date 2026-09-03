@@ -2,11 +2,10 @@
 title: 'Valencia de una función holomorfa'
 filename: 'valencia-fn-holomorfa'
 created: '2025-12-15 11:57:16.993292'
-last_edit_date: '2026-04-06T18:54:52.786033533+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.623424059+00:00'
+last_edit_date: '2026-09-03T09:44:22.773255654+00:00'
+last_build_date_pdf: '2026-09-03T16:56:11.981538253+00:00'
 labels:
   - defn:valencia-fn-holomorfa
-  - note
 references:
   - fn-holomorfa
   - orden-cero-fn-holomorfa

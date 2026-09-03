@@ -2,10 +2,9 @@
 title: 'Teorema de la base de Hilbert'
 filename: 'teo-base-hilbert'
 created: '2025-12-16 18:38:46.220415'
-last_edit_date: '2026-03-31T17:47:48.193353945+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.813849613+00:00'
+last_edit_date: '2026-09-03T09:44:22.732563182+00:00'
+last_build_date_pdf: '2026-09-03T17:01:25.034119172+00:00'
 labels:
-  - note
   - teo:base-hilbert
 references:
   - anillo-noetheriano

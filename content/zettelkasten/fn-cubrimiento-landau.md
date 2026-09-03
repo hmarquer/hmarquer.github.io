@@ -2,14 +2,13 @@
 title: 'Función del cubrimiento de Landau'
 filename: 'fn-cubrimiento-landau'
 created: '2026-06-15T08:49:47.343141442+00:00'
-last_edit_date: '2026-06-15T15:45:21.214227743+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.572614863+00:00'
+last_edit_date: '2026-09-03T09:44:22.595863680+00:00'
+last_build_date_pdf: '2026-09-03T17:18:08.085183468+00:00'
 labels:
   - defn:fn-cubrimiento-landau
   - eq:fn-cubrimiento-landau-mu
   - fig:grafica-eta
   - fig:grafica-mu
-  - note
 references:
   - continuidad
   - homeomorfismo

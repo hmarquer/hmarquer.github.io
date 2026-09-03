@@ -2,10 +2,9 @@
 title: '$F$ es un difeomorfismo local si y solo si tiene rango máximo'
 filename: 'teo-difeomorfismo-local-iff-rango-es-dim'
 created: '2025-04-07 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.201530674+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.603919105+00:00'
+last_edit_date: '2026-09-03T09:44:22.744348604+00:00'
+last_build_date_pdf: '2026-09-03T16:59:50.362685547+00:00'
 labels:
-  - note
   - teo:difeomorfismo-local-iff-rango-es-dim
 references:
   - apl-diferenciable

@@ -2,11 +2,10 @@
 title: 'Anillo polinomios'
 filename: 'anillo-polinomios'
 created: '2025-09-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.050780902+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.616605985+00:00'
+last_edit_date: '2026-09-03T09:44:22.531970649+00:00'
+last_build_date_pdf: '2026-09-03T17:26:58.152435764+00:00'
 labels:
   - defn:anillo-polinomios
-  - note
 references:
   - anillo
 backlinks:

@@ -2,11 +2,10 @@
 title: 'Ideal finitamente generado'
 filename: 'ideal-finitamente-generado'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.112572512+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.518110162+00:00'
+last_edit_date: '2026-09-03T09:44:22.610632856+00:00'
+last_build_date_pdf: '2026-09-03T11:39:09.421724589+00:00'
 labels:
   - defn:ideal-finitamente-generado
-  - note
 references:
   - anillo
   - ideal

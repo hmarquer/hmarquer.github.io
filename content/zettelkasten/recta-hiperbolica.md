@@ -2,12 +2,11 @@
 title: 'Recta Hiperbolica'
 filename: 'recta-hiperbolica'
 created: '2026-06-13T17:26:19.196099532+00:00'
-last_edit_date: '2026-06-13T17:26:21.760306309+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.180930833+00:00'
+last_edit_date: '2026-09-03T09:44:22.716432372+00:00'
+last_build_date_pdf: '2026-09-03T17:03:37.681429985+00:00'
 labels:
   - defn:recta-hiperbolica
   - fig:recta-hiperbolica-disco
-  - note
 references:
   - involucion-disco-unidad
   - transformacion-mobius-circunferencias-generalizadas

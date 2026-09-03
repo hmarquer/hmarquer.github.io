@@ -2,11 +2,10 @@
 title: 'Subespacio vectorial generado'
 filename: 'subesp-vectorial-generado'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.187399449+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.957793480+00:00'
+last_edit_date: '2026-09-03T09:44:22.725856946+00:00'
+last_build_date_pdf: '2026-09-03T17:02:19.595119314+00:00'
 labels:
   - defn:subesp-vectorial-generado
-  - note
 references:
   - esp-prehilbert
   - subesp-vectorial

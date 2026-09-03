@@ -2,11 +2,10 @@
 title: 'Lem subvariedad estructura diferenciable unica'
 filename: 'lem-subvariedad-estructura-diferenciable-unica'
 created: '2025-06-16 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.136943820+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.661314805+00:00'
+last_edit_date: '2026-09-03T09:44:22.649977280+00:00'
+last_build_date_pdf: '2026-09-03T17:11:49.621729928+00:00'
 labels:
   - lem:subvariedad-estructura-diferenciable-unica
-  - note
 references:
   - difeomorfismo
   - embebimiento

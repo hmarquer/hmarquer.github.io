@@ -2,11 +2,10 @@
 title: 'Isomorfismo de variedades algebraicas afines'
 filename: 'isomorfismo-variedades-algebraicas-afines'
 created: '2026-01-05 11:37:07.221276'
-last_edit_date: '2026-03-31T17:47:48.117830884+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.051840971+00:00'
+last_edit_date: '2026-09-03T09:44:22.617488326+00:00'
+last_build_date_pdf: '2026-09-03T17:15:27.959823346+00:00'
 labels:
   - defn:isomorfismo-variedades-algebraicas-afines
-  - note
 references:
   - morfismo-variedades-algebraicas-afines
 backlinks:

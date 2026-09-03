@@ -2,10 +2,9 @@
 title: 'Teorema de la singularidad evitable de Riemann'
 filename: 'teo-singularidad-evitable-riemann'
 created: '2026-02-11 10:46:45.667198'
-last_edit_date: '2026-03-31T17:47:48.217079976+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.598401358+00:00'
+last_edit_date: '2026-09-03T09:44:22.766906338+00:00'
+last_build_date_pdf: '2026-09-03T16:57:10.947966415+00:00'
 labels:
-  - note
   - teo:singularidad-evitable-riemann
 references:
   - dominio

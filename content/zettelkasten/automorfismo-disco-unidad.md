@@ -2,11 +2,10 @@
 title: 'Automorfismo disco unidad'
 filename: 'automorfismo-disco-unidad'
 created: '2025-08-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.054549283+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.378065600+00:00'
+last_edit_date: '2026-09-03T09:44:22.535237974+00:00'
+last_build_date_pdf: '2026-09-03T17:26:29.160138393+00:00'
 labels:
   - defn:automorfismo-disco-unidad
-  - note
 references:
   - fn-holomorfa
 backlinks:

@@ -2,10 +2,9 @@
 title: 'Teorema de Riesz-Fischer'
 filename: 'teo-riesz-fischer'
 created: '2025-12-30 17:31:57.078928'
-last_edit_date: '2026-03-31T17:47:48.216286508+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.579460766+00:00'
+last_edit_date: '2026-09-03T09:44:22.765607674+00:00'
+last_build_date_pdf: '2026-09-03T16:57:17.644277797+00:00'
 labels:
-  - note
   - teo:riesz-fischer
 references:
   - esp-hilbert

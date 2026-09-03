@@ -2,11 +2,10 @@
 title: 'Producto finito de Blaschke'
 filename: 'producto-finito-blaschke'
 created: '2025-12-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.156800319+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.830908019+00:00'
+last_edit_date: '2026-09-03T09:44:22.680072333+00:00'
+last_build_date_pdf: '2026-09-03T17:08:06.597086994+00:00'
 labels:
   - defn:producto-finito-blaschke
-  - note
   - obs:producto-finito-blaschke-automorfismos-disco-unidad
 references:
   - automorfismo-disco-unidad

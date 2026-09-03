@@ -2,10 +2,9 @@
 title: 'Teorema de separación estricta de convexos con uno cerrado y otro compacto'
 filename: 'teo-separacion-estricta-convexos-cerrado-compacto'
 created: '2025-12-25 22:29:32.806511'
-last_edit_date: '2026-03-31T17:47:48.216781863+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.237650769+00:00'
+last_edit_date: '2026-09-03T09:44:22.766500856+00:00'
+last_build_date_pdf: '2026-09-03T16:57:11.402095133+00:00'
 labels:
-  - note
   - teo:separacion-estricta-convexos-cerrado-compacto
 references:
   - compacidad

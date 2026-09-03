@@ -2,10 +2,9 @@
 title: 'Teorema de Euler-Lagrange'
 filename: 'teo-euler-lagrange'
 created: '2025-05-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.204868242+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.204079241+00:00'
+last_edit_date: '2026-09-03T09:44:22.748506756+00:00'
+last_build_date_pdf: '2026-09-03T16:59:17.491437270+00:00'
 labels:
-  - note
   - teo:euler-lagrange
 references:
   - lem-dubois-reymond

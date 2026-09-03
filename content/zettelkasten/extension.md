@@ -2,11 +2,10 @@
 title: 'Extensión de cuerpos'
 filename: 'extension'
 created: '2025-02-01 00:00:00'
-last_edit_date: '2026-07-27T08:29:51.697354614+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.222380075+00:00'
+last_edit_date: '2026-09-03T09:44:22.592553343+00:00'
+last_build_date_pdf: '2026-09-03T17:18:36.894101398+00:00'
 labels:
   - defn:extension
-  - note
 references:
   - cuerpo
   - lem-morfismo-anillos-cuerpo-anillo-imp-inyectivo

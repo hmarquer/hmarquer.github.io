@@ -2,11 +2,10 @@
 title: 'Homeomorfismo'
 filename: 'homeomorfismo'
 created: '2025-12-11 19:31:56.702060'
-last_edit_date: '2026-03-31T17:47:48.111847834+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.507641756+00:00'
+last_edit_date: '2026-09-03T09:44:22.609672917+00:00'
+last_build_date_pdf: '2026-09-03T17:16:27.000537382+00:00'
 labels:
   - defn:homeomorfismo
-  - note
 references:
   - continuidad
   - esp-topologico

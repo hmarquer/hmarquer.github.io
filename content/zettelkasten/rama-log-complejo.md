@@ -2,11 +2,10 @@
 title: 'Rama del logaritmo complejo'
 filename: 'rama-log-complejo'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.180059458+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.279427648+00:00'
+last_edit_date: '2026-09-03T09:44:22.715526366+00:00'
+last_build_date_pdf: '2026-09-03T17:03:43.973861632+00:00'
 labels:
   - defn:rama-log-complejo
-  - note
 references:
   - continuidad
   - log-complejo

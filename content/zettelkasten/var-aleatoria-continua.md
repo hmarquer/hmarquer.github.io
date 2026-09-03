@@ -2,11 +2,10 @@
 title: 'Variable aleatoria continua'
 filename: 'var-aleatoria-continua'
 created: '2025-02-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.222844082+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.186302889+00:00'
+last_edit_date: '2026-09-03T09:44:22.774147493+00:00'
+last_build_date_pdf: '2026-09-03T16:56:11.931489383+00:00'
 labels:
   - defn:var-aleatoria-continua
-  - note
 references:
   - continuidad
   - fn-distribucion

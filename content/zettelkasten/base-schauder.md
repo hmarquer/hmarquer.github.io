@@ -2,11 +2,10 @@
 title: 'Base de Schauder'
 filename: 'base-schauder'
 created: '2025-09-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.056612436+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.890069609+00:00'
+last_edit_date: '2026-09-03T09:44:22.537209569+00:00'
+last_build_date_pdf: '2026-09-03T17:26:11.435509793+00:00'
 labels:
   - defn:base-schauder
-  - note
 references:
   - convergencia-serie
   - esp-banach

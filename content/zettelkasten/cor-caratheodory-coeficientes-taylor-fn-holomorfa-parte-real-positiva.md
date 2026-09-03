@@ -2,11 +2,10 @@
 title: 'Cor Caratheodory Coeficientes Taylor Fn Holomorfa Parte Real Positiva'
 filename: 'cor-caratheodory-coeficientes-taylor-fn-holomorfa-parte-real-positiva'
 created: '2026-06-14T12:21:36.329021937+00:00'
-last_edit_date: '2026-06-14T12:26:02.293676742+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.395695133+00:00'
+last_edit_date: '2026-09-03T09:44:22.554987007+00:00'
+last_build_date_pdf: '2026-09-03T17:23:38.937983587+00:00'
 labels:
   - cor:caratheodory-coeficientes-taylor-fn-holomorfa-parte-real-positiva
-  - note
 references:
   - cor-caratheodory-coeficientes-taylor-fn-holomorfa-parte-real-positiva
   - fn-holomorfa

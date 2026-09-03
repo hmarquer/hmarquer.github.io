@@ -2,11 +2,10 @@
 title: 'Modulo finitamente generado'
 filename: 'modulo-finitamente-generado'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.143674220+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.504409453+00:00'
+last_edit_date: '2026-09-03T09:44:22.660311367+00:00'
+last_build_date_pdf: '2026-09-03T17:10:36.011872101+00:00'
 labels:
   - defn:modulo-finitamente-generado
-  - note
 references:
   - modulo
 backlinks:

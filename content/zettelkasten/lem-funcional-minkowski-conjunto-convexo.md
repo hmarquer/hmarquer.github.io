@@ -2,11 +2,10 @@
 title: 'Funcional de Minkowski asociado a un conjunto convexo'
 filename: 'lem-funcional-minkowski-conjunto-convexo'
 created: '2025-12-20 18:12:28.293512'
-last_edit_date: '2026-03-31T17:47:48.128575589+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.686507540+00:00'
+last_edit_date: '2026-09-03T09:44:22.635266946+00:00'
+last_build_date_pdf: '2026-09-03T17:13:22.949168577+00:00'
 labels:
   - lem:funcional-minkowski-conjunto-convexo
-  - note
 references:
   - con-convexo
   - esp-vectorial

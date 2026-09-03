@@ -2,10 +2,9 @@
 title: 'Teo Completitud Metrica Pseudohiperbolica'
 filename: 'teo-completitud-metrica-pseudohiperbolica'
 created: '2026-06-12T11:21:58.750231491+00:00'
-last_edit_date: '2026-06-12T11:22:00.352684133+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.768744696+00:00'
+last_edit_date: '2026-09-03T09:44:22.739083303+00:00'
+last_build_date_pdf: '2026-09-03T17:00:34.708910323+00:00'
 labels:
-  - note
   - teo:completitud-metrica-pseudohiperbolica
 references:
   - completitud-metrica

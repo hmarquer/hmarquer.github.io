@@ -2,11 +2,10 @@
 title: 'Interpretación de términos'
 filename: 'interpretacion-terminos'
 created: '2026-02-10 19:25:36.761435'
-last_edit_date: '2026-03-31T17:47:48.116531783+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.864256279+00:00'
+last_edit_date: '2026-09-03T09:44:22.615756467+00:00'
+last_build_date_pdf: '2026-09-03T17:15:40.915482255+00:00'
 labels:
   - defn:interpretacion-terminos
-  - note
 references:
   - complejidad
   - constante

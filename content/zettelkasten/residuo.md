@@ -2,11 +2,10 @@
 title: 'Residuo'
 filename: 'residuo'
 created: '2026-04-26T21:51:30.684487742+00:00'
-last_edit_date: '2026-04-26T22:01:39.482209870+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.499261459+00:00'
+last_edit_date: '2026-09-03T09:44:22.717924845+00:00'
+last_build_date_pdf: '2026-09-03T17:03:25.793652154+00:00'
 labels:
   - defn:residuo
-  - note
 references:
   - serie-laurent
   - singularidad-aislada

@@ -2,8 +2,8 @@
 title: 'Cor Subordinacion Dominio Simplemente Conexo'
 filename: 'cor-subordinacion-dominio-simplemente-conexo'
 created: '2026-06-13T19:44:13.400489537+00:00'
-last_edit_date: '2026-06-13T19:44:14.643902268+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.078109186+00:00'
+last_edit_date: '2026-09-03T09:44:22.562863742+00:00'
+last_build_date_pdf: '2026-09-03T17:22:33.701305692+00:00'
 labels:
   - cor:subordinacion-dominio-simplemente-conexo
   - cor:subordinacion-dominio-simplemente-conexo:1
@@ -12,7 +12,6 @@ labels:
   - cor:subordinacion-dominio-simplemente-conexo:2
   - cor:subordinacion-dominio-simplemente-conexo:2a
   - cor:subordinacion-dominio-simplemente-conexo:2b
-  - note
 references:
   - bola-abierta
   - cor-principio-subordinacion-invariante

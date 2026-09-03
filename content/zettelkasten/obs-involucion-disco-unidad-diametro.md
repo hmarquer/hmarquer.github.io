@@ -2,10 +2,9 @@
 title: 'Obs Involucion Disco Unidad Diametro'
 filename: 'obs-involucion-disco-unidad-diametro'
 created: '2026-06-12T11:17:17.429983946+00:00'
-last_edit_date: '2026-06-12T11:17:18.691608910+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.309386745+00:00'
+last_edit_date: '2026-09-03T09:44:22.670630245+00:00'
+last_build_date_pdf: '2026-09-03T17:09:21.001513697+00:00'
 labels:
-  - note
   - obs:involucion-disco-unidad-diametro
 references:
   - involucion-disco-unidad

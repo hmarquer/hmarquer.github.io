@@ -2,10 +2,9 @@
 title: 'Todo ideal propio está contenido en un ideal maximal'
 filename: 'teo-ideal-imp-exists-ideal-maximal-contiene'
 created: '2025-09-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.210390583+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.627748210+00:00'
+last_edit_date: '2026-09-03T09:44:22.756383532+00:00'
+last_build_date_pdf: '2026-09-03T16:58:19.863315538+00:00'
 labels:
-  - note
   - teo:ideal-imp-exists-ideal-maximal-contiene
 references:
   - anillo

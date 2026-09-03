@@ -2,10 +2,9 @@
 title: 'Teorema de la convergencia de Laurent'
 filename: 'teo-convergencia-laurent'
 created: '2025-05-08 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.199042309+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.261179367+00:00'
+last_edit_date: '2026-09-03T09:44:22.740569725+00:00'
+last_build_date_pdf: '2026-09-03T17:00:22.593019369+00:00'
 labels:
-  - note
   - teo:convergencia-laurent
 references:
   - convergencia-serie-laurent

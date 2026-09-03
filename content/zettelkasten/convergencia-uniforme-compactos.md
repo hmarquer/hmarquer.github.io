@@ -2,11 +2,10 @@
 title: 'Convergencia Uniforme Compactos'
 filename: 'convergencia-uniforme-compactos'
 created: '2026-04-23T14:16:21.042270453+00:00'
-last_edit_date: '2026-04-26T09:40:28.477065230+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.827831775+00:00'
+last_edit_date: '2026-09-03T09:44:22.553064013+00:00'
+last_build_date_pdf: '2026-09-03T17:23:55.643314346+00:00'
 labels:
   - defn:convergencia-uniforme-compactos
-  - note
 references:
   - convergencia-uniforme
   - esp-metrico

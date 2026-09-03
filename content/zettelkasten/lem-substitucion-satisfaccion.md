@@ -2,11 +2,10 @@
 title: 'Lema de satisfacción de la substitución'
 filename: 'lem-substitucion-satisfaccion'
 created: '2026-03-26 10:14:28.893353'
-last_edit_date: '2026-05-15T11:52:21.202346639+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.091571157+00:00'
+last_edit_date: '2026-09-03T09:44:22.649106611+00:00'
+last_build_date_pdf: '2026-09-03T17:11:55.529799484+00:00'
 labels:
   - lem:substitucion-satisfaccion
-  - note
 references:
   - aparicion
   - complejidad

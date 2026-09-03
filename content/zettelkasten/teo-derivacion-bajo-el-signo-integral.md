@@ -2,10 +2,9 @@
 title: 'Teorema de derivación bajo el signo integral'
 filename: 'teo-derivacion-bajo-el-signo-integral'
 created: '2025-12-30 16:35:38.961359'
-last_edit_date: '2026-03-31T17:47:48.200766773+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.478557334+00:00'
+last_edit_date: '2026-09-03T09:44:22.743362876+00:00'
+last_build_date_pdf: '2026-09-03T17:00:03.081716276+00:00'
 labels:
-  - note
   - teo:derivacion-bajo-el-signo-integral
 references:
   - esp-lp

@@ -2,11 +2,10 @@
 title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 filename: 'esp-lp'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.095792568+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.763039510+00:00'
+last_edit_date: '2026-09-03T09:44:22.585176370+00:00'
+last_build_date_pdf: '2026-09-03T17:19:30.111569464+00:00'
 labels:
   - defn:esp-lp
-  - note
 references:
   - esp-medida
   - fn-medible

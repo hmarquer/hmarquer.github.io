@@ -2,11 +2,10 @@
 title: 'Ideal de anulación'
 filename: 'ideal-anulacion'
 created: '2025-12-14 22:06:47.356167'
-last_edit_date: '2026-03-31T17:47:48.112429762+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.313960462+00:00'
+last_edit_date: '2026-09-03T09:44:22.610436943+00:00'
+last_build_date_pdf: '2026-09-03T17:16:19.570419222+00:00'
 labels:
   - defn:ideal-anulacion
-  - note
 references:
   - anillo-polinomios
   - esp-afin

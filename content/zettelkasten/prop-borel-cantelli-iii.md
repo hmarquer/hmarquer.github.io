@@ -2,11 +2,10 @@
 title: 'Prop borel cantelli iii'
 filename: 'prop-borel-cantelli-iii'
 created: '2025-06-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.159178286+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.839694258+00:00'
+last_edit_date: '2026-09-03T09:44:22.683991600+00:00'
+last_build_date_pdf: '2026-09-03T17:07:35.784895852+00:00'
 labels:
   - dem:borel-cantelli-iii-1
-  - note
   - prop:borel-cantelli-iii
 references:
   - convergencia-casi-segura

@@ -2,11 +2,10 @@
 title: 'Lema de minimización acotada'
 filename: 'lem-minimizacion-acotada-recursiva-primitiva'
 created: '2026-05-03T14:25:32.201771085+00:00'
-last_edit_date: '2026-05-19T15:24:53.000220782+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.851257136+00:00'
+last_edit_date: '2026-09-03T09:44:22.639632232+00:00'
+last_build_date_pdf: '2026-09-03T17:12:52.952384701+00:00'
 labels:
   - lem:minimizacion-acotada-recursiva-primitiva
-  - note
 references:
   - fn-recursiva-primitiva
   - lem-operaciones-aritmeticas-recursivas-primitivas

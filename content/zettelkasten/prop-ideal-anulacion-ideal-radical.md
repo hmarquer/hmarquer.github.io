@@ -2,10 +2,9 @@
 title: 'El ideal de anulación es un ideal radical'
 filename: 'prop-ideal-anulacion-ideal-radical'
 created: '2025-12-14 22:15:27.271927'
-last_edit_date: '2026-03-31T17:47:48.169841848+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.429736462+00:00'
+last_edit_date: '2026-09-03T09:44:22.699536374+00:00'
+last_build_date_pdf: '2026-09-03T17:05:35.016436165+00:00'
 labels:
-  - note
   - prop:ideal-anulacion-ideal-radical
 references:
   - dominio-integridad

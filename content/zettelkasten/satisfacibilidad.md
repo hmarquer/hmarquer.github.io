@@ -2,11 +2,10 @@
 title: 'Satisfacibilidad'
 filename: 'satisfacibilidad'
 created: '2026-03-05 10:51:41.200935'
-last_edit_date: '2026-03-31T17:47:48.181816304+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.934157773+00:00'
+last_edit_date: '2026-09-03T09:44:22.718390092+00:00'
+last_build_date_pdf: '2026-09-03T17:03:24.362850692+00:00'
 labels:
   - defn:satisfacibilidad
-  - note
 references:
   - enunciado
   - estructura

@@ -2,11 +2,10 @@
 title: 'Aplicación conforme'
 filename: 'apl-conforme'
 created: '2025-09-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.052304206+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.381995334+00:00'
+last_edit_date: '2026-09-03T09:44:22.533373131+00:00'
+last_build_date_pdf: '2026-09-03T17:26:46.718208441+00:00'
 labels:
   - defn:apl-conforme
-  - note
 references:
   - fn-diferenciable
   - matriz-ortogonal

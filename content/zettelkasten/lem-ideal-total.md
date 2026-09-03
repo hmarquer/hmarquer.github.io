@@ -2,13 +2,12 @@
 title: 'Lem ideal total'
 filename: 'lem-ideal-total'
 created: '2025-09-22 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.129293153+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.037345131+00:00'
+last_edit_date: '2026-09-03T09:44:22.636351883+00:00'
+last_build_date_pdf: '2026-09-03T17:13:15.832020911+00:00'
 labels:
   - dem:ideal-total:1
   - dem:ideal-total:2
   - lem:ideal-total
-  - note
 references:
   - anillo
   - ideal

@@ -2,11 +2,10 @@
 title: 'Lema de Abel'
 filename: 'lem-abel'
 created: '2025-02-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.118533400+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.123882966+00:00'
+last_edit_date: '2026-09-03T09:44:22.618509792+00:00'
+last_build_date_pdf: '2026-09-03T17:15:21.895211097+00:00'
 labels:
   - lem:abel
-  - note
 references:
   - serie-formal-potencias
 projects:

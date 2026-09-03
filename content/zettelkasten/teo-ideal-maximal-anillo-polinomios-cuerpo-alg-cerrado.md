@@ -2,10 +2,9 @@
 title: 'Teo ideal maximal anillo polinomios cuerpo alg cerrado'
 filename: 'teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado'
 created: '2026-01-04 07:42:54.211804'
-last_edit_date: '2026-03-31T17:47:48.210544754+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.178211555+00:00'
+last_edit_date: '2026-09-03T09:44:22.756582270+00:00'
+last_build_date_pdf: '2026-09-03T16:58:19.307850150+00:00'
 labels:
-  - note
   - teo:ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 references:
   - alg-cerrado

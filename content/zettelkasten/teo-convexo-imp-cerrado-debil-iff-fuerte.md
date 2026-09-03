@@ -2,10 +2,9 @@
 title: 'Teo convexo imp cerrado debil iff fuerte'
 filename: 'teo-convexo-imp-cerrado-debil-iff-fuerte'
 created: '2026-01-06 20:21:20.495355'
-last_edit_date: '2026-03-31T17:47:48.199681365+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.429406010+00:00'
+last_edit_date: '2026-09-03T09:44:22.741429193+00:00'
+last_build_date_pdf: '2026-09-03T17:00:16.250505833+00:00'
 labels:
-  - note
   - teo:convexo-imp-cerrado-debil-iff-fuerte
 references:
   - con-convexo

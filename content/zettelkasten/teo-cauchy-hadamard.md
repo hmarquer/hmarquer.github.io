@@ -2,10 +2,9 @@
 title: 'Teorema de Cauchy-Hadamard'
 filename: 'teo-cauchy-hadamard'
 created: '2025-03-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.196561678+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.791448828+00:00'
+last_edit_date: '2026-09-03T09:44:22.736528256+00:00'
+last_build_date_pdf: '2026-09-03T17:00:47.265338704+00:00'
 labels:
-  - note
   - teo:cauchy-hadamard
 references:
   - convergencia-absoluta-serie

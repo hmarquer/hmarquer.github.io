@@ -2,11 +2,10 @@
 title: 'Subtérmino'
 filename: 'subtermino'
 created: '2026-02-07 20:37:46.820451'
-last_edit_date: '2026-03-31T17:47:48.189393712+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.300430022+00:00'
+last_edit_date: '2026-09-03T09:44:22.728250626+00:00'
+last_build_date_pdf: '2026-09-03T17:01:58.996632779+00:00'
 labels:
   - defn:subtermino
-  - note
 references:
   - aparicion
   - termino

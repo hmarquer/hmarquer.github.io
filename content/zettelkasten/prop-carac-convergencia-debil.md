@@ -2,10 +2,9 @@
 title: 'Caracterización de la convergencia débil'
 filename: 'prop-carac-convergencia-debil'
 created: '2025-12-27 18:16:28.141981'
-last_edit_date: '2026-03-31T17:47:48.159489844+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.183369969+00:00'
+last_edit_date: '2026-09-03T09:44:22.684588777+00:00'
+last_build_date_pdf: '2026-09-03T17:07:32.484602534+00:00'
 labels:
-  - note
   - prop:carac-convergencia-debil
 references:
   - continuidad

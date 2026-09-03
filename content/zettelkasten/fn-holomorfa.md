@@ -2,11 +2,10 @@
 title: 'Función holomorfa'
 filename: 'fn-holomorfa'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.104839610+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.076114770+00:00'
+last_edit_date: '2026-09-03T09:44:22.598887150+00:00'
+last_build_date_pdf: '2026-09-03T17:17:47.674719563+00:00'
 labels:
   - defn:fn-holomorfa
-  - note
 references:
   - fn-compleja-derivable-pnt
   - num-complejos

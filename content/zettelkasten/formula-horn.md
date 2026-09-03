@@ -2,11 +2,10 @@
 title: 'Fórmula de Horn'
 filename: 'formula-horn'
 created: '2026-03-26 19:13:10.530456'
-last_edit_date: '2026-03-31T17:47:48.108465742+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.577689020+00:00'
+last_edit_date: '2026-09-03T09:44:22.604442774+00:00'
+last_build_date_pdf: '2026-09-03T17:17:02.651904373+00:00'
 labels:
   - defn:formula-horn
-  - note
 references:
   - formula
   - formula-horn-basica

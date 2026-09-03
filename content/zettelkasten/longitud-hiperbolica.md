@@ -2,11 +2,10 @@
 title: 'Longitud hiperbólica de un camino'
 filename: 'longitud-hiperbolica'
 created: '2026-06-13T17:07:02.550542715+00:00'
-last_edit_date: '2026-06-13T17:07:13.219995635+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.831890400+00:00'
+last_edit_date: '2026-09-03T09:44:22.656153156+00:00'
+last_build_date_pdf: '2026-09-03T17:11:06.016825969+00:00'
 labels:
   - defn:longitud-hiperbolica
-  - note
 references:
   - camino
 backlinks:

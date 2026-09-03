@@ -2,10 +2,9 @@
 title: 'Prop Subordinacion Parte Real Positiva'
 filename: 'prop-subordinacion-parte-real-positiva'
 created: '2026-06-14T11:22:02.733701315+00:00'
-last_edit_date: '2026-06-14T11:22:04.008291266+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.944576148+00:00'
+last_edit_date: '2026-09-03T09:44:22.708360905+00:00'
+last_build_date_pdf: '2026-09-03T17:04:29.953576378+00:00'
 labels:
-  - note
   - prop:subordinacion-parte-real-positiva
 references:
   - cor-subordinacion-dominio-simplemente-conexo

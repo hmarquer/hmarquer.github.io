@@ -2,10 +2,9 @@
 title: 'Norma inducida por producto interno'
 filename: 'norma-inducida'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.145673603+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.201541697+00:00'
+last_edit_date: '2026-09-03T09:44:22.662877195+00:00'
+last_build_date_pdf: '2026-09-03T17:10:17.623626144+00:00'
 labels:
-  - note
   - prop:norma-inducida
 references:
   - desigualdad-cauchy-schwarz

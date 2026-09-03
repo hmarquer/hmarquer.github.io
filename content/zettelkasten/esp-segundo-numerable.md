@@ -2,11 +2,10 @@
 title: 'Espacio segundo numerable'
 filename: 'esp-segundo-numerable'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-07-18T05:07:01.325533934+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.962968543+00:00'
+last_edit_date: '2026-09-03T09:44:22.587559059+00:00'
+last_build_date_pdf: '2026-09-03T17:19:07.263639981+00:00'
 labels:
   - defn:esp-segundo-numerable
-  - note
 references:
   - base-topologia
   - esp-topologico

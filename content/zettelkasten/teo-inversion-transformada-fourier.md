@@ -2,11 +2,10 @@
 title: 'Teorema de inversión de la transformada de Fourier'
 filename: 'teo-inversion-transformada-fourier'
 created: '2026-01-13 11:56:49.826422'
-last_edit_date: '2026-03-31T17:47:48.211049296+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.136949480+00:00'
+last_edit_date: '2026-09-03T09:44:22.757146605+00:00'
+last_build_date_pdf: '2026-09-03T16:58:13.753228082+00:00'
 labels:
   - dem:inversion-transformada-fourier:ecu1
-  - note
   - teo:inversion-transformada-fourier
 references:
   - continuidad

@@ -2,11 +2,10 @@
 title: 'Submartingala'
 filename: 'submartingala'
 created: '2025-06-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.188623419+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.380641876+00:00'
+last_edit_date: '2026-09-03T09:44:22.727339430+00:00'
+last_build_date_pdf: '2026-09-03T17:02:12.013802487+00:00'
 labels:
   - defn:submartingala
-  - note
 references:
   - esperanza-condicionada-sigma-algebra
   - filtracion

@@ -2,11 +2,10 @@
 title: 'Cor morfismo variedades algebraicas afines dominante iff morfismo inducido inyectivo'
 filename: 'cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo'
 created: '2026-01-05 13:08:43.876759'
-last_edit_date: '2026-03-31T17:47:48.074374062+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.846173581+00:00'
+last_edit_date: '2026-09-03T09:44:22.560498256+00:00'
+last_build_date_pdf: '2026-09-03T17:22:51.464118010+00:00'
 labels:
   - cor:morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo
-  - note
 references:
   - morfismo-inducido-variedades-algebraicas-afines
   - morfismo-variedades-algebraicas-afines

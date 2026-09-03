@@ -2,11 +2,10 @@
 title: 'Parte multiplicativa de un anillo'
 filename: 'parte-multiplicativa-anillo'
 created: '2025-11-26 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.153351822+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.139538090+00:00'
+last_edit_date: '2026-09-03T09:44:22.675262310+00:00'
+last_build_date_pdf: '2026-09-03T17:08:44.141451469+00:00'
 labels:
   - defn:parte-multiplicativa-anillo
-  - note
 references:
   - anillo
 backlinks:

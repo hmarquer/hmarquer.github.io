@@ -2,10 +2,9 @@
 title: 'Convergencia casi segura implica en probabilidad'
 filename: 'convergencia-casi-segura-imp-probabilidad'
 created: '2025-03-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.067194675+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.168105065+00:00'
+last_edit_date: '2026-09-03T09:44:22.550462597+00:00'
+last_build_date_pdf: '2026-09-03T17:24:14.360223982+00:00'
 labels:
-  - note
   - prop:convergencia-casi-segura-imp-probabilidad
 references:
   - convergencia-casi-segura

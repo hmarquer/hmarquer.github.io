@@ -2,10 +2,9 @@
 title: 'Teo espacio banach uniformemente convexo convergencia debil norma imp convergencia fuerte'
 filename: 'teo-esp-banach-uniformemente-convexo-convergencia-debil-norma-imp-convergencia-fuerte'
 created: '2026-01-07 16:57:43.415055'
-last_edit_date: '2026-03-31T17:47:48.202946236+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.341706565+00:00'
+last_edit_date: '2026-09-03T09:44:22.746400063+00:00'
+last_build_date_pdf: '2026-09-03T16:59:36.808077018+00:00'
 labels:
-  - note
   - teo:esp-banach-uniformemente-convexo-convergencia-debil-norma-imp-convergencia-fuerte
 references:
   - convergencia

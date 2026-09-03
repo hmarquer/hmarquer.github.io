@@ -2,12 +2,11 @@
 title: 'Teorema de Hahn-Banach I'
 filename: 'teo-hahn-banach-i'
 created: '2025-12-19 17:20:42.149332'
-last_edit_date: '2026-03-31T17:47:48.209893585+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.541653436+00:00'
+last_edit_date: '2026-09-03T09:44:22.755501622+00:00'
+last_build_date_pdf: '2026-09-03T16:58:26.171892380+00:00'
 labels:
   - dem:hahn-banach-i:complejo
   - dem:hahn-banach-i:real
-  - note
   - teo:hahn-banach-i
 references:
   - apl-lineal

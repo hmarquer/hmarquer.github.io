@@ -2,11 +2,10 @@
 title: 'Conjunto dirigido'
 filename: 'con-dirigido'
 created: '2026-03-26 17:44:57.181940'
-last_edit_date: '2026-03-31T17:47:48.063684701+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.755504710+00:00'
+last_edit_date: '2026-09-03T09:44:22.546335335+00:00'
+last_build_date_pdf: '2026-09-03T17:24:54.394247962+00:00'
 labels:
   - defn:con:dirigido
-  - note
 references:
   - relacion-orden
 backlinks:

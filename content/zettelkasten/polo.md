@@ -2,11 +2,10 @@
 title: 'Polo'
 filename: 'polo'
 created: '2025-05-08 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.154479770+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.931623855+00:00'
+last_edit_date: '2026-09-03T09:44:22.676904258+00:00'
+last_build_date_pdf: '2026-09-03T17:08:31.989349752+00:00'
 labels:
   - defn:polo
-  - note
 references:
   - singularidad-aislada
 backlinks:

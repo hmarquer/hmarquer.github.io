@@ -2,10 +2,9 @@
 title: 'Teo comparacion weierstrass'
 filename: 'teo-comparacion-weierstrass'
 created: '2025-04-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.197908319+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.305601851+00:00'
+last_edit_date: '2026-09-03T09:44:22.738080253+00:00'
+last_build_date_pdf: '2026-09-03T17:00:35.095096993+00:00'
 labels:
-  - note
   - teo:comparacion-weierstrass
 references:
   - convergencia-absoluta-serie

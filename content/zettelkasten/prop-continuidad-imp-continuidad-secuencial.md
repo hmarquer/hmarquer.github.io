@@ -2,10 +2,9 @@
 title: 'Prop continuidad imp continuidad secuencial'
 filename: 'prop-continuidad-imp-continuidad-secuencial'
 created: '2026-01-09 10:31:33.131224'
-last_edit_date: '2026-03-31T17:47:48.161608762+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.239170243+00:00'
+last_edit_date: '2026-09-03T09:44:22.687766722+00:00'
+last_build_date_pdf: '2026-09-03T17:07:05.808018602+00:00'
 labels:
-  - note
   - prop:continuidad-imp-continuidad-secuencial
 references:
   - continuidad

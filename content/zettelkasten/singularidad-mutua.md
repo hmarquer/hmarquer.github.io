@@ -2,11 +2,10 @@
 title: 'Singularidad mutua'
 filename: 'singularidad-mutua'
 created: '2025-05-04 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.185466071+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.289018081+00:00'
+last_edit_date: '2026-09-03T09:44:22.723256232+00:00'
+last_build_date_pdf: '2026-09-03T17:02:45.626680875+00:00'
 labels:
   - defn:singularidad-mutua
-  - note
 references:
   - con-nulo
   - esp-medible

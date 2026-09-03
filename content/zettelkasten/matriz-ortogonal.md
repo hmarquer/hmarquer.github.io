@@ -2,11 +2,10 @@
 title: 'Matriz ortogonal'
 filename: 'matriz-ortogonal'
 created: '2025-09-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.141270284+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.012627187+00:00'
+last_edit_date: '2026-09-03T09:44:22.656797283+00:00'
+last_build_date_pdf: '2026-09-03T17:11:02.272233377+00:00'
 labels:
   - defn:matriz-ortogonal
-  - note
 backlinks:
   - apl-conforme
 ---

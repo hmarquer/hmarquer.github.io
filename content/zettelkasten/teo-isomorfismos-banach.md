@@ -2,10 +2,9 @@
 title: 'Teorema de Isomorfismos de Banach'
 filename: 'teo-isomorfismos-banach'
 created: '2025-12-13 12:54:29.225306'
-last_edit_date: '2026-03-31T17:47:48.211381903+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.298246141+00:00'
+last_edit_date: '2026-09-03T09:44:22.757684200+00:00'
+last_build_date_pdf: '2026-09-03T16:58:07.465456237+00:00'
 labels:
-  - note
   - teo:isomorfismos-banach
 references:
   - continuidad

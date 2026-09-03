@@ -2,13 +2,12 @@
 title: 'Medida'
 filename: 'medida'
 created: '2025-01-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.142202744+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.053743751+00:00'
+last_edit_date: '2026-09-03T09:44:22.658516598+00:00'
+last_build_date_pdf: '2026-09-03T17:10:59.733305890+00:00'
 labels:
   - defn:medida
   - defn:medida:i
   - defn:medida:ii
-  - note
 references:
   - sigma-algebra
 backlinks:

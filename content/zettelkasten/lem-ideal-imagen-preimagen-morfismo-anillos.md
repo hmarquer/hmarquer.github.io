@@ -2,13 +2,12 @@
 title: 'Lem ideal imagen preimagen morfismo anillos'
 filename: 'lem-ideal-imagen-preimagen-morfismo-anillos'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.129010009+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.815379431+00:00'
+last_edit_date: '2026-09-03T09:44:22.635913317+00:00'
+last_build_date_pdf: '2026-09-03T17:13:17.081291831+00:00'
 labels:
   - lem:ideal-imagen-preimagen-morfismo-anillos
   - lem:ideal-imagen-preimagen-morfismo-anillos:1
   - lem:ideal-imagen-preimagen-morfismo-anillos:2
-  - note
 references:
   - ideal
   - morfismo-anillos

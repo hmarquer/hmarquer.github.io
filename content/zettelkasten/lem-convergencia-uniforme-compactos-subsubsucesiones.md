@@ -2,11 +2,10 @@
 title: 'Lem Convergencia Uniforme Compactos Subsubsucesiones'
 filename: 'lem-convergencia-uniforme-compactos-subsubsucesiones'
 created: '2026-04-28T15:37:26.417468838+00:00'
-last_edit_date: '2026-05-01T16:14:30.177540651+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.843453705+00:00'
+last_edit_date: '2026-09-03T09:44:22.626539620+00:00'
+last_build_date_pdf: '2026-09-03T17:14:16.656569600+00:00'
 labels:
   - lem:convergencia-uniforme-compactos-subsubsucesiones
-  - note
 references:
   - continuidad
   - convergencia-uniforme-compactos

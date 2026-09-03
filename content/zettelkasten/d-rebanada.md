@@ -2,11 +2,10 @@
 title: '$d$-rebanada de una variedad diferenciable'
 filename: 'd-rebanada'
 created: '2025-06-16 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.084015615+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.310810998+00:00'
+last_edit_date: '2026-09-03T09:44:22.572612685+00:00'
+last_build_date_pdf: '2026-09-03T17:22:04.403664608+00:00'
 labels:
   - defn:d-rebanada
-  - note
 references:
   - carta
   - variedad-diferenciable

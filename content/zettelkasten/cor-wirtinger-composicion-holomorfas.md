@@ -2,11 +2,10 @@
 title: 'Derivada de Wirtinger para la composición de funciones'
 filename: 'cor-wirtinger-composicion-holomorfas'
 created: '2025-11-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.077144229+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.983635266+00:00'
+last_edit_date: '2026-09-03T09:44:22.564562569+00:00'
+last_build_date_pdf: '2026-09-03T17:22:21.560090377+00:00'
 labels:
   - cor:wirtinger-composicion-holomorfas
-  - note
 references:
   - fn-clase-ck
   - fn-holomorfa

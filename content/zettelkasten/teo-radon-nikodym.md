@@ -2,10 +2,9 @@
 title: 'Teorema de Radon-Nikodym'
 filename: 'teo-radon-nikodym'
 created: '2025-05-04 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.215214035+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.245619420+00:00'
+last_edit_date: '2026-09-03T09:44:22.763264811+00:00'
+last_build_date_pdf: '2026-09-03T16:57:24.089381131+00:00'
 labels:
-  - note
   - teo:radon-nikodym
 references:
   - continuidad-absoluta

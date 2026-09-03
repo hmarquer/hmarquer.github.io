@@ -2,10 +2,9 @@
 title: 'Principio de los ceros aislados'
 filename: 'teo-ceros-aislados'
 created: '2025-05-06 00:00:00'
-last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.335022386+00:00'
+last_edit_date: '2026-09-03T09:44:22.737136555+00:00'
+last_build_date_pdf: '2026-09-03T17:00:47.051451685+00:00'
 labels:
-  - note
   - teo:ceros-aislados
   - teo:ceros-aislados-i
   - teo:ceros-aislados-ii

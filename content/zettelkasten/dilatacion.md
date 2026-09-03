@@ -2,11 +2,10 @@
 title: 'Dilatación'
 filename: 'dilatacion'
 created: '2026-01-13 10:44:53.035230'
-last_edit_date: '2026-03-31T17:47:48.082695084+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.939445477+00:00'
+last_edit_date: '2026-09-03T09:44:22.571208710+00:00'
+last_build_date_pdf: '2026-09-03T17:21:23.217007890+00:00'
 labels:
   - defn:dilatacion
-  - note
 backlinks:
   - prop-transformada-fourier-traslacion-modulacion-dilatacion
 projects:

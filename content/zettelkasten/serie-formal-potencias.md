@@ -2,11 +2,10 @@
 title: 'Serie formal de potencias'
 filename: 'serie-formal-potencias'
 created: '2025-02-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.183073686+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.103177290+00:00'
+last_edit_date: '2026-09-03T09:44:22.719879619+00:00'
+last_build_date_pdf: '2026-09-03T17:03:12.467756280+00:00'
 labels:
   - defn:serie-formal-potencias
-  - note
 references:
   - anillo
   - esp-secuencial

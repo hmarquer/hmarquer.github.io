@@ -2,11 +2,10 @@
 title: 'Grado polinomio'
 filename: 'grado-polinomio'
 created: '2025-09-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.110323698+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.007548431+00:00'
+last_edit_date: '2026-09-03T09:44:22.607147135+00:00'
+last_build_date_pdf: '2026-09-03T17:16:44.831898772+00:00'
 labels:
   - defn:grado-polinomio
-  - note
 references:
   - anillo-polinomios
 backlinks:

@@ -2,11 +2,10 @@
 title: 'Aplicación cerrada'
 filename: 'apl-cerrada'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.051924159+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.549286156+00:00'
+last_edit_date: '2026-09-03T09:44:22.533022873+00:00'
+last_build_date_pdf: '2026-09-03T17:26:48.998545733+00:00'
 labels:
   - defn:apl-cerrada
-  - note
 references:
   - esp-topologico
 backlinks:

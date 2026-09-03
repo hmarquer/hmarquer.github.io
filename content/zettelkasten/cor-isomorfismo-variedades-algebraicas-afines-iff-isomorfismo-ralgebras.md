@@ -2,11 +2,10 @@
 title: 'Cor isomorfismo variedades algebraicas afines iff isomorfismo ralgebras'
 filename: 'cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras'
 created: '2026-01-05 11:54:24.607751'
-last_edit_date: '2026-03-31T17:47:48.073762648+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.949304105+00:00'
+last_edit_date: '2026-09-03T09:44:22.559531695+00:00'
+last_build_date_pdf: '2026-09-03T17:23:02.813751021+00:00'
 labels:
   - cor:isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
-  - note
 references:
   - ejer-composicion-morfismos-variedades-algebraicas-afines
   - ejer-morfismo-inducido-identidad-variedad-algebraica-afin

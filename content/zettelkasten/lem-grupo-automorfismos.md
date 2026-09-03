@@ -2,11 +2,10 @@
 title: 'Lem grupo automorfismos'
 filename: 'lem-grupo-automorfismos'
 created: '2026-02-10 17:53:58.546463'
-last_edit_date: '2026-03-31T17:47:48.128726754+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.719480295+00:00'
+last_edit_date: '2026-09-03T09:44:22.635489800+00:00'
+last_build_date_pdf: '2026-09-03T17:13:21.716118783+00:00'
 labels:
   - lem:grupo-automorfismos
-  - note
 references:
   - automorfismo-estructuras
   - estructura

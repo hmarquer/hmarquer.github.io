@@ -2,11 +2,10 @@
 title: 'Norma de una variable aleatoria'
 filename: 'norma-var-aleatoria'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.146509420+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.147121837+00:00'
+last_edit_date: '2026-09-03T09:44:22.664184516+00:00'
+last_build_date_pdf: '2026-09-03T17:10:11.664604442+00:00'
 labels:
   - defn:norma-var-aleatoria
-  - note
 references:
   - momento-p
   - var-aleatoria

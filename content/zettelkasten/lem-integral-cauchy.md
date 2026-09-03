@@ -2,11 +2,10 @@
 title: 'Lema integral de Cauchy'
 filename: 'lem-integral-cauchy'
 created: '2026-03-18 17:45:43.017181'
-last_edit_date: '2026-03-31T17:47:48.129733594+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.601219832+00:00'
+last_edit_date: '2026-09-03T09:44:22.637003985+00:00'
+last_build_date_pdf: '2026-09-03T17:13:11.072626808+00:00'
 labels:
   - lem:integral-cauchy
-  - note
 references:
   - camino
   - continuidad

@@ -2,10 +2,9 @@
 title: 'Prop apl diferenciable diferencial inyectivo'
 filename: 'prop-apl-diferenciable-diferencial-inyectivo'
 created: '2025-06-06 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.157682463+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.089020027+00:00'
+last_edit_date: '2026-09-03T09:44:22.681589824+00:00'
+last_build_date_pdf: '2026-09-03T17:07:55.448004826+00:00'
 labels:
-  - note
   - prop:apl-diferenciable-diferencial-inyectivo
 references:
   - apl-diferenciable

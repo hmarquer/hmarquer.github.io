@@ -2,13 +2,12 @@
 title: 'Propiedades de una derivación'
 filename: 'lem-derivacion'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.124473228+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.019479096+00:00'
+last_edit_date: '2026-09-03T09:44:22.627887768+00:00'
+last_build_date_pdf: '2026-09-03T17:14:05.851042873+00:00'
 labels:
   - lem:derivacion
   - lem:derivacion:1
   - lem:derivacion:2
-  - note
 references:
   - esp-tangente-variedad
   - fn-diferenciable-variedad

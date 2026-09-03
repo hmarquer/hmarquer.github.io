@@ -2,11 +2,10 @@
 title: 'Caracterización de una subvariedad diferenciable por un cubrimiento por abiertos'
 filename: 'cor-subvariedad-diferenciable-cubrimiento'
 created: '2025-06-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.076382472+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.853824030+00:00'
+last_edit_date: '2026-09-03T09:44:22.563432336+00:00'
+last_build_date_pdf: '2026-09-03T17:22:27.808823187+00:00'
 labels:
   - cor:subvariedad-diferenciable-cubrimiento
-  - note
 references:
   - cubrimiento
   - subvariedad-diferenciable

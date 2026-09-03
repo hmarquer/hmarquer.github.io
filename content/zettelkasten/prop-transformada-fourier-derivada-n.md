@@ -2,10 +2,9 @@
 title: 'Prop transformada fourier derivada n'
 filename: 'prop-transformada-fourier-derivada-n'
 created: '2026-01-13 12:07:34.860816'
-last_edit_date: '2026-03-31T17:47:48.178119348+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.977532771+00:00'
+last_edit_date: '2026-09-03T09:44:22.711118488+00:00'
+last_build_date_pdf: '2026-09-03T17:04:10.463019502+00:00'
 labels:
-  - note
   - prop:transformada-fourier-derivada-n
 references:
   - esp-lp

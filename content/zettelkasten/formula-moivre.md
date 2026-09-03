@@ -2,10 +2,8 @@
 title: 'Formula de Moivre'
 filename: 'formula-moivre'
 created: '2025-03-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.108767431+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.252785381+00:00'
-labels:
-  - note
+last_edit_date: '2026-09-03T09:44:22.604848136+00:00'
+last_build_date_pdf: '2026-09-03T17:16:57.500274899+00:00'
 projects:
   - 3.2-variable-compleja-i
 tags:

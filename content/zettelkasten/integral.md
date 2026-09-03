@@ -2,12 +2,11 @@
 title: 'Integral'
 filename: 'integral'
 created: '2025-12-11 19:31:56.705059'
-last_edit_date: '2026-03-31T17:47:48.116257115+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.729870628+00:00'
+last_edit_date: '2026-09-03T09:44:22.615369750+00:00'
+last_build_date_pdf: '2026-09-03T17:15:46.874098976+00:00'
 labels:
   - defn:int-fn-simple
   - defn:integral
-  - note
 references:
   - esp-medida
   - fn-medible

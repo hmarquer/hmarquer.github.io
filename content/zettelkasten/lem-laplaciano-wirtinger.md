@@ -2,11 +2,10 @@
 title: 'Fórmula para el laplaciano en función de las derivadas de Wirtinger'
 filename: 'lem-laplaciano-wirtinger'
 created: '2025-11-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.130812250+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.348489318+00:00'
+last_edit_date: '2026-09-03T09:44:22.639144353+00:00'
+last_build_date_pdf: '2026-09-03T17:12:54.773716790+00:00'
 labels:
   - lem:laplaciano-wirtinger
-  - note
 references:
   - fn-clase-ck
   - laplaciano

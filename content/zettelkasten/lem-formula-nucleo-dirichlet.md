@@ -2,11 +2,10 @@
 title: 'Fórmula del núcleo de Dirichlet'
 filename: 'lem-formula-nucleo-dirichlet'
 created: '2026-01-12 17:42:25.011685'
-last_edit_date: '2026-03-31T17:47:48.128284600+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.998131240+00:00'
+last_edit_date: '2026-09-03T09:44:22.634484766+00:00'
+last_build_date_pdf: '2026-09-03T17:13:24.410300705+00:00'
 labels:
   - lem:formula-nucleo-dirichlet
-  - note
 references:
   - nucleo-dirichlet
 backlinks:

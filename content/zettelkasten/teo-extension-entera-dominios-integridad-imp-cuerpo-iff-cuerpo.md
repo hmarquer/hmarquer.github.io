@@ -2,10 +2,9 @@
 title: 'Para una extensión entera de dominios de integridad, $A$ es cuerpo si y solo si $B$ es cuerpo'
 filename: 'teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo'
 created: '2025-12-31 06:09:15.392275'
-last_edit_date: '2026-03-31T17:47:48.205358467+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.630253766+00:00'
+last_edit_date: '2026-09-03T09:44:22.749144691+00:00'
+last_build_date_pdf: '2026-09-03T16:59:10.910515985+00:00'
 labels:
-  - note
   - teo:extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo
 references:
   - cuerpo

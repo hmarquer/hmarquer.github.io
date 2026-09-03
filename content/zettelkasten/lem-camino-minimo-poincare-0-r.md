@@ -2,11 +2,10 @@
 title: 'Lem Camino Minimo Poincare 0 R'
 filename: 'lem-camino-minimo-poincare-0-r'
 created: '2026-06-13T17:08:09.608827538+00:00'
-last_edit_date: '2026-06-13T17:08:11.023811329+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.999870247+00:00'
+last_edit_date: '2026-09-03T09:44:22.622545030+00:00'
+last_build_date_pdf: '2026-09-03T17:14:47.471177028+00:00'
 labels:
   - lem:camino-minimo-poincare-0-r
-  - note
 references:
   - camino
   - longitud-hiperbolica

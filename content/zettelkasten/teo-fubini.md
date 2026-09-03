@@ -2,10 +2,9 @@
 title: 'Teorema de Fubini'
 filename: 'teo-fubini'
 created: '2025-12-11 19:31:56.754052'
-last_edit_date: '2026-03-31T17:47:48.208748264+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.445979162+00:00'
+last_edit_date: '2026-09-03T09:44:22.753714988+00:00'
+last_build_date_pdf: '2026-09-03T16:58:32.563784460+00:00'
 labels:
-  - note
   - teo:fubini
 references:
   - esp-medida

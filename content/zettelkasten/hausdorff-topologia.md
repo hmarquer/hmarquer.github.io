@@ -2,11 +2,10 @@
 title: 'Topología de Hausdorff'
 filename: 'hausdorff-topologia'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.111538190+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.608931127+00:00'
+last_edit_date: '2026-09-03T09:44:22.609300829+00:00'
+last_build_date_pdf: '2026-09-03T17:16:28.112501264+00:00'
 labels:
   - defn:hausdorff-topologia
-  - note
 references:
   - esp-topologico
 backlinks:

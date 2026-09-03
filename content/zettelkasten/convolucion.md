@@ -2,11 +2,10 @@
 title: 'Convolución de dos funciones'
 filename: 'convolucion'
 created: '2025-10-09 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.069633587+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.993005026+00:00'
+last_edit_date: '2026-09-03T09:44:22.553440380+00:00'
+last_build_date_pdf: '2026-09-03T17:23:53.297686947+00:00'
 labels:
   - defn:convolucion
-  - note
   - obs:convolucion-bien-defn
 references:
   - esp-lp

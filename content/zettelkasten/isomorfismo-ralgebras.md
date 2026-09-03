@@ -2,11 +2,10 @@
 title: 'Isomorfismo de $R$-álgebras'
 filename: 'isomorfismo-ralgebras'
 created: '2026-01-05 11:30:12.481649'
-last_edit_date: '2026-03-31T17:47:48.117692052+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.070498982+00:00'
+last_edit_date: '2026-09-03T09:44:22.617289137+00:00'
+last_build_date_pdf: '2026-09-03T17:15:29.048972156+00:00'
 labels:
   - defn:isomorfismo-ralgebras
-  - note
 references:
   - morfismo-ralgebras
   - ralgebra

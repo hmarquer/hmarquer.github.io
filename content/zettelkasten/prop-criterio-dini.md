@@ -2,10 +2,9 @@
 title: 'Criterio de Dini'
 filename: 'prop-criterio-dini'
 created: '2026-01-12 19:37:24.313724'
-last_edit_date: '2026-03-31T17:47:48.163442903+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.778182957+00:00'
+last_edit_date: '2026-09-03T09:44:22.689766371+00:00'
+last_build_date_pdf: '2026-09-03T17:06:47.690000567+00:00'
 labels:
-  - note
   - prop:criterio-dini
 references:
   - convergencia-puntual

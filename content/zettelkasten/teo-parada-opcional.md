@@ -2,10 +2,9 @@
 title: 'Teorema de parada opcional'
 filename: 'teo-parada-opcional'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.213947084+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.621935805+00:00'
+last_edit_date: '2026-09-03T09:44:22.761017560+00:00'
+last_build_date_pdf: '2026-09-03T16:57:41.894792881+00:00'
 labels:
-  - note
   - teo:parada-opcional
   - teo:parada-opcional:martingala
   - teo:parada-opcional:submartingala

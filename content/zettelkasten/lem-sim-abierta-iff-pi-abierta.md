@@ -2,11 +2,10 @@
 title: 'Lema de equivalencia abierta'
 filename: 'lem-sim-abierta-iff-pi-abierta'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.135255574+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.074847449+00:00'
+last_edit_date: '2026-09-03T09:44:22.647754796+00:00'
+last_build_date_pdf: '2026-09-03T17:12:05.401493098+00:00'
 labels:
   - lem:sim-abierta-iff-pi-abierta
-  - note
 references:
   - apl-abierta
   - esp-topologico

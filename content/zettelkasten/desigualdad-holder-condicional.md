@@ -2,10 +2,9 @@
 title: 'Desigualdad holder condicionada'
 filename: 'desigualdad-holder-condicional'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.079957468+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.011837228+00:00'
+last_edit_date: '2026-09-03T09:44:22.568162016+00:00'
+last_build_date_pdf: '2026-09-03T17:21:49.028077806+00:00'
 labels:
-  - note
   - prop:desigualdad-holder-condicional
 references:
   - esp-lp

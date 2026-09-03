@@ -2,11 +2,10 @@
 title: 'Función convexa'
 filename: 'fn-convexa'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.103028733+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.923823326+00:00'
+last_edit_date: '2026-09-03T09:44:22.595641236+00:00'
+last_build_date_pdf: '2026-09-03T17:18:08.202562614+00:00'
 labels:
   - defn:fn-convexa
-  - note
 backlinks:
   - cor-fn-convexa-martingala-submartingala
   - cor-orden-normas-lp

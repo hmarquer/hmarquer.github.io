@@ -2,11 +2,10 @@
 title: 'Lema de Schwarz desnormalizado'
 filename: 'cor-lem-schwarz-desnormalizado'
 created: '2026-03-19 19:55:08.703336'
-last_edit_date: '2026-06-12T09:49:35.078030253+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.398968240+00:00'
+last_edit_date: '2026-09-03T09:44:22.559689505+00:00'
+last_build_date_pdf: '2026-09-03T17:23:00.029512127+00:00'
 labels:
   - cor:lem-schwarz-desnormalizado
-  - note
 references:
   - dominio
   - fn-holomorfa

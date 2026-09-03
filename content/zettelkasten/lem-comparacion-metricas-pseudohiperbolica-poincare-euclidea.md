@@ -2,11 +2,10 @@
 title: 'Lem comparacion metricas pseudohiperbolica poincare euclidea'
 filename: 'lem-comparacion-metricas-pseudohiperbolica-poincare-euclidea'
 created: '2026-03-20 18:04:00.567577'
-last_edit_date: '2026-06-12T11:43:38.189428242+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.439135582+00:00'
+last_edit_date: '2026-09-03T09:44:22.624768015+00:00'
+last_build_date_pdf: '2026-09-03T17:14:29.665865277+00:00'
 labels:
   - lem:comparacion-metricas-pseudohiperbolica-poincare-euclidea
-  - note
 references:
   - prop-metrica-poincare
   - prop-metrica-pseudohiperbolica-disco-unidad

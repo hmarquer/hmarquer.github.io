@@ -2,11 +2,10 @@
 title: 'Relación de equivalencia abierta'
 filename: 'relacion-equivalencia-abierta'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.180979615+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.329872198+00:00'
+last_edit_date: '2026-09-03T09:44:22.717244800+00:00'
+last_build_date_pdf: '2026-09-03T17:03:30.763988528+00:00'
 labels:
   - defn:relacion-equivalencia-abierta
-  - note
 references:
   - esp-topologico
   - relacion-equivalencia

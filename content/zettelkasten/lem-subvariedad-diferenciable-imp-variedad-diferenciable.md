@@ -2,11 +2,10 @@
 title: 'Toda subvariedad diferenciable es una variedad diferenciable'
 filename: 'lem-subvariedad-diferenciable-imp-variedad-diferenciable'
 created: '2025-06-06 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.136549897+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.640301354+00:00'
+last_edit_date: '2026-09-03T09:44:22.649561067+00:00'
+last_build_date_pdf: '2026-09-03T17:11:52.817466903+00:00'
 labels:
   - lem:subvariedad-diferenciable-imp-variedad-diferenciable
-  - note
 references:
   - embebimiento
   - estructura-diferenciable

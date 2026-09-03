@@ -2,10 +2,9 @@
 title: 'Todo subespacio de un espacio reflexivo es reflexivo'
 filename: 'teo-subespacio-reflexivo'
 created: '2025-12-20 20:44:12.376855'
-last_edit_date: '2026-03-31T17:47:48.217226662+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.611456158+00:00'
+last_edit_date: '2026-09-03T09:44:22.767114655+00:00'
+last_build_date_pdf: '2026-09-03T16:57:05.607602879+00:00'
 labels:
-  - note
   - teo:subespacio-reflexivo
 references:
   - dual-topologico

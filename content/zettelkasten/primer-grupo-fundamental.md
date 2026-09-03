@@ -2,10 +2,9 @@
 title: 'Primer grupo fundamental'
 filename: 'primer-grupo-fundamental'
 created: '2025-05-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.155126150+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.388668446+00:00'
+last_edit_date: '2026-09-03T09:44:22.677867803+00:00'
+last_build_date_pdf: '2026-09-03T17:08:21.995106843+00:00'
 labels:
-  - note
   - teo:primer-grupo-fundamental
 references:
   - concatenacion-arcos

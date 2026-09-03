@@ -2,11 +2,10 @@
 title: 'Lem Distorsion Hiperbolica Euclidea Global'
 filename: 'lem-distorsion-hiperbolica-euclidea-global'
 created: '2026-06-13T17:31:30.237548088+00:00'
-last_edit_date: '2026-06-13T17:31:31.466287162+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.116432483+00:00'
+last_edit_date: '2026-09-03T09:44:22.630427536+00:00'
+last_build_date_pdf: '2026-09-03T17:13:48.179467500+00:00'
 labels:
   - lem:distorsion-hiperbolica-euclidea-global
-  - note
 references:
   - derivada-hiperbolica
   - fn-holomorfa

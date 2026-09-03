@@ -2,11 +2,10 @@
 title: 'Subestructura generada'
 filename: 'subestructura-generada'
 created: '2026-03-26 13:28:15.464892'
-last_edit_date: '2026-03-31T17:47:48.187841293+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.820553002+00:00'
+last_edit_date: '2026-09-03T09:44:22.726429367+00:00'
+last_build_date_pdf: '2026-09-03T17:02:18.626098214+00:00'
 labels:
   - defn:subestructura-generada
-  - note
 references:
   - estructura
   - lem-subestructura-interseccion

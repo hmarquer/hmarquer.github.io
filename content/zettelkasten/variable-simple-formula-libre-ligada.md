@@ -2,11 +2,10 @@
 title: 'Variable simple formula libre ligada'
 filename: 'variable-simple-formula-libre-ligada'
 created: '2026-02-07 20:52:38.668857'
-last_edit_date: '2026-03-31T17:47:48.223314730+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.722048617+00:00'
+last_edit_date: '2026-09-03T09:44:22.774722298+00:00'
+last_build_date_pdf: '2026-09-03T16:56:02.888418912+00:00'
 labels:
   - defn:variable-simple-formula-libre-ligada
-  - note
 references:
   - aparicion
   - aparicion-variable-simple-formula-libre-ligada

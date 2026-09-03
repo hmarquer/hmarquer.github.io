@@ -2,11 +2,10 @@
 title: 'Aplicación abierta'
 filename: 'apl-abierta'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.051733560+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.386096968+00:00'
+last_edit_date: '2026-09-03T09:44:22.532844674+00:00'
+last_build_date_pdf: '2026-09-03T17:26:52.192694386+00:00'
 labels:
   - defn:apl-abierta
-  - note
 references:
   - esp-topologico
 backlinks:

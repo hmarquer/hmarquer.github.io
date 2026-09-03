@@ -2,11 +2,10 @@
 title: 'Caracterización de funciones semicontinuas inferiores en la topología débil'
 filename: 'lem-carac-fn-semicontinua-inferior-topologia-debil'
 created: '2026-01-07 09:46:24.920154'
-last_edit_date: '2026-03-31T17:47:48.122156517+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.790875299+00:00'
+last_edit_date: '2026-09-03T09:44:22.623474480+00:00'
+last_build_date_pdf: '2026-09-03T17:14:40.521940229+00:00'
 labels:
   - lem:carac-fn-semicontinua-inferior-topologia-debil
-  - note
 references:
   - fn-semicontinua-inferior
   - norma

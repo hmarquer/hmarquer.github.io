@@ -2,11 +2,10 @@
 title: 'Espacio topológico secuencial'
 filename: 'esp-topologico-secuencial'
 created: '2026-01-09 10:03:48.037267'
-last_edit_date: '2026-03-31T17:47:48.098680087+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.062709711+00:00'
+last_edit_date: '2026-09-03T09:44:22.588985156+00:00'
+last_build_date_pdf: '2026-09-03T17:18:55.400183260+00:00'
 labels:
   - defn:espacio-topologico-secuencial
-  - note
 references:
   - con-cerrado
   - con-secuencialmente-cerrado

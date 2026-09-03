@@ -2,10 +2,9 @@
 title: 'Prop operador unitario iff isometria sobreyectiva'
 filename: 'prop-operador-unitario-iff-isometria-sobreyectiva'
 created: '2026-03-11 21:45:39.068585'
-last_edit_date: '2026-03-31T17:47:48.173392789+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.981610819+00:00'
+last_edit_date: '2026-09-03T09:44:22.704484370+00:00'
+last_build_date_pdf: '2026-09-03T17:04:59.467754338+00:00'
 labels:
-  - note
   - prop:operador-unitario-iff-isometria-sobreyectiva
 references:
   - esp-apl-lineales-continuas

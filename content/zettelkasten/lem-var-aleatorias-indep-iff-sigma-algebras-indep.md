@@ -2,11 +2,10 @@
 title: 'Lem var aleatorias indep iff sigma algebras indep'
 filename: 'lem-var-aleatorias-indep-iff-sigma-algebras-indep'
 created: '2025-06-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.138963982+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.684670763+00:00'
+last_edit_date: '2026-09-03T09:44:22.653012101+00:00'
+last_build_date_pdf: '2026-09-03T17:11:29.628806058+00:00'
 labels:
   - lem:var-aleatorias-indep-iff-sigma-algebras-indep
-  - note
 references:
   - esp-probabilidad
   - independencia-sigma-algebras

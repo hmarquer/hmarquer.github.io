@@ -2,11 +2,10 @@
 title: 'Operador maximal de Hardy-Littlewood'
 filename: 'operador-hardy-littlewood'
 created: '2025-12-30 16:54:04.313802'
-last_edit_date: '2026-03-31T17:47:48.152386710+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.895515051+00:00'
+last_edit_date: '2026-09-03T09:44:22.673756982+00:00'
+last_build_date_pdf: '2026-09-03T17:08:56.522920984+00:00'
 labels:
   - defn:operador-hardy-littlewood
-  - note
 references:
   - fn-integrable-localmente
 backlinks:

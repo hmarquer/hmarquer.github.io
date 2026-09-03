@@ -2,11 +2,10 @@
 title: 'Ideal primo'
 filename: 'ideal-primo'
 created: '2025-09-16 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.113190658+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.677686175+00:00'
+last_edit_date: '2026-09-03T09:44:22.611410658+00:00'
+last_build_date_pdf: '2026-09-03T17:16:13.612888331+00:00'
 labels:
   - defn:ideal-primo
-  - note
 references:
   - anillo
   - ideal

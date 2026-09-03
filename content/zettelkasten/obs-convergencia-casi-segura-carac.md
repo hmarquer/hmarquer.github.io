@@ -2,10 +2,9 @@
 title: 'Caracterizaciones de la convergencia casi segura'
 filename: 'obs-convergencia-casi-segura-carac'
 created: '2025-06-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.149828583+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.545688042+00:00'
+last_edit_date: '2026-09-03T09:44:22.669512706+00:00'
+last_build_date_pdf: '2026-09-03T17:09:28.359438716+00:00'
 labels:
-  - note
   - obs:convergencia-casi-segura-carac
 references:
   - convergencia-casi-segura

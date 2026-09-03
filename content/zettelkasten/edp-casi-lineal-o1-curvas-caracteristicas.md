@@ -2,11 +2,10 @@
 title: 'Curvas características de una EDP casi lineal de primer orden'
 filename: 'edp-casi-lineal-o1-curvas-caracteristicas'
 created: '2025-03-30 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.085051129+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.593365211+00:00'
+last_edit_date: '2026-09-03T09:44:22.573735744+00:00'
+last_build_date_pdf: '2026-09-03T17:20:59.713562685+00:00'
 labels:
   - defn:edp-casi-lineal-o1-curvas-caracteristicas
-  - note
 references:
   - edp-casi-lineal
   - edp-casi-lineal-o1-sistema-caracteristico

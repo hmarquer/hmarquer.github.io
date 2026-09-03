@@ -2,11 +2,10 @@
 title: 'Integral linea compleja longitud'
 filename: 'integral-linea-compleja-longitud'
 created: '2025-05-01 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.115972287+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.879856148+00:00'
+last_edit_date: '2026-09-03T09:44:22.614956493+00:00'
+last_build_date_pdf: '2026-09-03T17:15:45.686260172+00:00'
 labels:
   - defn:integral-linea-compleja-longitud
-  - note
 references:
   - camino
   - continuidad

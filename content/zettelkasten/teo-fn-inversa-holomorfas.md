@@ -2,10 +2,9 @@
 title: 'Teorema de la función inversa para funciones holomorfas'
 filename: 'teo-fn-inversa-holomorfas'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.545976299+00:00'
+last_edit_date: '2026-09-03T09:44:22.751569992+00:00'
+last_build_date_pdf: '2026-09-03T16:58:51.237049173+00:00'
 labels:
-  - note
   - teo:fn-inversa-holomorfas
 references:
   - fn-clase-ck

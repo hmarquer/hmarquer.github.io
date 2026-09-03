@@ -2,10 +2,9 @@
 title: 'Toda función holomorfa en un dominio simplemente conexo que no se anula es una exponencial y una potencia'
 filename: 'teo-fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia'
 created: '2026-06-10T10:26:48.297723636+00:00'
-last_edit_date: '2026-06-16T17:15:20.906286539+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.061838227+00:00'
+last_edit_date: '2026-09-03T09:44:22.750990888+00:00'
+last_build_date_pdf: '2026-09-03T16:58:57.882440596+00:00'
 labels:
-  - note
   - teo:fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia
   - teo:fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia:1
   - teo:fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia:2

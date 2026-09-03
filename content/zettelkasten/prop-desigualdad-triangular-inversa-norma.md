@@ -2,10 +2,9 @@
 title: 'Desigualdad triangular inversa para normas'
 filename: 'prop-desigualdad-triangular-inversa-norma'
 created: '2025-12-19 15:51:55.928206'
-last_edit_date: '2026-03-31T17:47:48.164271146+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.009754676+00:00'
+last_edit_date: '2026-09-03T09:44:22.690673750+00:00'
+last_build_date_pdf: '2026-09-03T17:06:39.609349587+00:00'
 labels:
-  - note
   - prop:desigualdad-triangular-inversa-norma
 references:
   - desigualdad-triangular-inversa

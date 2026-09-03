@@ -2,11 +2,10 @@
 title: 'Corolario de la propiedad universal de las submersiones sobreyectivas'
 filename: 'cor-universal-submersion-sobreyectiva'
 created: '2025-06-09 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.076690674+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.892622502+00:00'
+last_edit_date: '2026-09-03T09:44:22.563973527+00:00'
+last_build_date_pdf: '2026-09-03T17:22:24.592588783+00:00'
 labels:
   - cor:universal-submersion-sobreyectiva
-  - note
 references:
   - apl-cociente
   - apl-diferenciable

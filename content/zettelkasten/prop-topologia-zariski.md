@@ -2,10 +2,9 @@
 title: 'Topología de Zariski'
 filename: 'prop-topologia-zariski'
 created: '2025-12-14 17:39:57.598689'
-last_edit_date: '2026-03-31T17:47:48.177787632+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.722482326+00:00'
+last_edit_date: '2026-09-03T09:44:22.710664493+00:00'
+last_build_date_pdf: '2026-09-03T17:04:16.366911079+00:00'
 labels:
-  - note
   - prop:topologia-zariski
 references:
   - esp-afin

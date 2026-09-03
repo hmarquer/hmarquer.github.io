@@ -2,10 +2,9 @@
 title: 'Principio del módulo máximo'
 filename: 'teo-modulo-maximo'
 created: '2025-09-26 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.213281458+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.041251987+00:00'
+last_edit_date: '2026-09-03T09:44:22.760249166+00:00'
+last_build_date_pdf: '2026-09-03T16:57:48.720474951+00:00'
 labels:
-  - note
   - teo:modulo-maximo
 references:
   - cor-continuacion-analitica

@@ -2,11 +2,10 @@
 title: 'Función holomorfa en un punto'
 filename: 'fn-holomorfa-pnt'
 created: '2025-03-07 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.104690499+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.551820645+00:00'
+last_edit_date: '2026-09-03T09:44:22.598700865+00:00'
+last_build_date_pdf: '2026-09-03T17:17:43.907368452+00:00'
 labels:
   - defn:fn-holomorfa-pnt
-  - note
 references:
   - fn-holomorfa
 backlinks:

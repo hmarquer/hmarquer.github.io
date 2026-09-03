@@ -2,11 +2,10 @@
 title: 'Lema de substitución en fórmulas'
 filename: 'lem-substitucion-formulas'
 created: '2026-02-09 17:12:27.172364'
-last_edit_date: '2026-03-31T17:47:48.135859764+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.653490851+00:00'
+last_edit_date: '2026-09-03T09:44:22.648632618+00:00'
+last_build_date_pdf: '2026-09-03T17:11:59.392244105+00:00'
 labels:
   - lem:substitucion-formulas
-  - note
 references:
   - aparicion
   - aparicion-variable-simple-formula-libre-ligada

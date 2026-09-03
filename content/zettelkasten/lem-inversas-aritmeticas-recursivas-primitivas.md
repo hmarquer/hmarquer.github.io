@@ -2,11 +2,10 @@
 title: 'Lem Inversas Aritmeticas Recursivas Primitivas'
 filename: 'lem-inversas-aritmeticas-recursivas-primitivas'
 created: '2026-05-03T14:35:43.645698612+00:00'
-last_edit_date: '2026-05-03T14:35:44.914769785+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.742901876+00:00'
+last_edit_date: '2026-09-03T09:44:22.637674883+00:00'
+last_build_date_pdf: '2026-09-03T17:13:05.276360138+00:00'
 labels:
   - lem:inversas-aritmeticas-recursivas-primitivas
-  - note
 references:
   - fn-recursiva-primitiva
   - lem-minimizacion-acotada-recursiva-primitiva

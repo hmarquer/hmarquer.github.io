@@ -2,11 +2,10 @@
 title: 'Transformación de Möbius con tres puntos fijos'
 filename: 'cor-transformacion-mobius-3-pnt-fijos'
 created: '2025-03-26 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.076532715+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.160193672+00:00'
+last_edit_date: '2026-09-03T09:44:22.563805958+00:00'
+last_build_date_pdf: '2026-09-03T17:22:27.446559025+00:00'
 labels:
   - cor:transformacion-mobius-3-pnt-fijos
-  - note
 references:
   - pnt-fijo
   - teo-transformacion-mobius-pnt-fijos

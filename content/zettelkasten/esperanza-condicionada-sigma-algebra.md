@@ -2,10 +2,9 @@
 title: 'Esperanza condicionada a una $\sigma$-álgebra'
 filename: 'esperanza-condicionada-sigma-algebra'
 created: '2025-03-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.094667796+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.357122335+00:00'
+last_edit_date: '2026-09-03T09:44:22.583991432+00:00'
+last_build_date_pdf: '2026-09-03T17:18:48.810181606+00:00'
 labels:
-  - note
   - prop:esperanza-condicionada-sigma-algebra
 references:
   - continuidad-absoluta

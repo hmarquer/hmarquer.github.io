@@ -2,11 +2,10 @@
 title: 'Variedad diferenciable'
 filename: 'variedad-diferenciable'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-07-18T05:07:01.333534016+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.835680415+00:00'
+last_edit_date: '2026-09-03T09:44:22.776535573+00:00'
+last_build_date_pdf: '2026-09-03T16:55:51.273815232+00:00'
 labels:
   - defn:variedad-diferenciable
-  - note
 references:
   - esp-segundo-numerable
   - esp-topologico

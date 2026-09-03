@@ -2,11 +2,10 @@
 title: 'Espacio topológico completamente metrizable'
 filename: 'esp-topologico-completamente-metrizable'
 created: '2025-05-30 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.098231501+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.653057194+00:00'
+last_edit_date: '2026-09-03T09:44:22.588194600+00:00'
+last_build_date_pdf: '2026-09-03T17:19:01.256294194+00:00'
 labels:
   - defn:esp-topologico-completamente-metrizable
-  - note
 references:
   - completitud-metrica
   - esp-metrizable

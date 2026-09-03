@@ -2,11 +2,10 @@
 title: 'Subordinación'
 filename: 'subordinacion'
 created: '2026-02-25 19:43:41.584376'
-last_edit_date: '2026-03-31T17:47:48.188945917+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.716156440+00:00'
+last_edit_date: '2026-09-03T09:44:22.727693044+00:00'
+last_build_date_pdf: '2026-09-03T17:02:05.890299970+00:00'
 labels:
   - defn:subordinacion
-  - note
 references:
   - fn-holomorfa
 backlinks:

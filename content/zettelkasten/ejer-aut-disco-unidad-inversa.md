@@ -2,11 +2,10 @@
 title: 'Ejer aut disco unidad inversa'
 filename: 'ejer-aut-disco-unidad-inversa'
 created: '2026-01-22 14:19:34.359334'
-last_edit_date: '2026-03-31T17:47:48.087171210+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.157811237+00:00'
+last_edit_date: '2026-09-03T09:44:22.577286309+00:00'
+last_build_date_pdf: '2026-09-03T17:20:29.959399548+00:00'
 labels:
   - ejer:aut-disco-unidad-inversa
-  - note
 references:
   - ejem-rotacion-disco-unidad
   - involucion-disco-unidad

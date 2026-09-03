@@ -2,11 +2,10 @@
 title: 'Lema de DuBois Reymond'
 filename: 'lem-dubois-reymond'
 created: '2025-05-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.126148309+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.540783973+00:00'
+last_edit_date: '2026-09-03T09:44:22.630640152+00:00'
+last_build_date_pdf: '2026-09-03T17:13:46.942219700+00:00'
 labels:
   - lem:dubois-reymond
-  - note
 references:
   - continuidad
   - fn-clase-ck

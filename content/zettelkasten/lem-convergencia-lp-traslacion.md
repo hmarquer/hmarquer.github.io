@@ -2,11 +2,10 @@
 title: 'La traslación converge en $L^p$ a la función original'
 filename: 'lem-convergencia-lp-traslacion'
 created: '2025-11-04 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.123620619+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.936895679+00:00'
+last_edit_date: '2026-09-03T09:44:22.625956409+00:00'
+last_build_date_pdf: '2026-09-03T17:14:22.524042622+00:00'
 labels:
   - lem:convergencia-lp-traslacion
-  - note
 references:
   - convergencia-lp
   - desigualdad-minkowski

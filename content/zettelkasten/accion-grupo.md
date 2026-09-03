@@ -2,11 +2,10 @@
 title: 'Acción de grupo'
 filename: 'accion-grupo'
 created: '2025-06-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.048653207+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.916056137+00:00'
+last_edit_date: '2026-09-03T09:44:22.529804051+00:00'
+last_build_date_pdf: '2026-09-03T17:27:16.157421196+00:00'
 labels:
   - defn:accion-grupo
-  - note
 references:
   - grupo
 backlinks:

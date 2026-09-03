@@ -2,10 +2,9 @@
 title: 'Convergencia en probabilidad implica la existencia de una subsucesión que converge casi seguro'
 filename: 'convergencia-probabilidad-imp-subsucesion-casi-segura'
 created: '2025-03-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.068557606+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.796687469+00:00'
+last_edit_date: '2026-09-03T09:44:22.552037658+00:00'
+last_build_date_pdf: '2026-09-03T17:24:02.037641259+00:00'
 labels:
-  - note
   - prop:convergencia-probabilidad-imp-subsucesion-casi-segura
 references:
   - convergencia-casi-segura

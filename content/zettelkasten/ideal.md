@@ -2,13 +2,12 @@
 title: 'Ideal'
 filename: 'ideal'
 created: '2025-09-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.113697525+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.543138876+00:00'
+last_edit_date: '2026-09-03T09:44:22.611977638+00:00'
+last_build_date_pdf: '2026-09-03T17:16:21.142308845+00:00'
 labels:
   - defn:ideal
   - defn:ideal:absorcion
   - defn:ideal:estabilidad
-  - note
 references:
   - anillo
   - grupo

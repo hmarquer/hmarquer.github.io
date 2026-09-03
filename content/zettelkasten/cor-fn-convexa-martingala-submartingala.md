@@ -2,11 +2,10 @@
 title: 'Cor fn convexa martingala submartingala'
 filename: 'cor-fn-convexa-martingala-submartingala'
 created: '2025-06-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.071892529+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.539120680+00:00'
+last_edit_date: '2026-09-03T09:44:22.557256079+00:00'
+last_build_date_pdf: '2026-09-03T17:23:20.695430923+00:00'
 labels:
   - cor:fn-convexa-martingala-submartingala
-  - note
 references:
   - desigualdad-jensen-condicional
   - fn-convexa

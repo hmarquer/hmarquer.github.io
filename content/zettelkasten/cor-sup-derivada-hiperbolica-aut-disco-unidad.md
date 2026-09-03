@@ -2,11 +2,10 @@
 title: 'Cor Sup Derivada Hiperbolica Aut Disco Unidad'
 filename: 'cor-sup-derivada-hiperbolica-aut-disco-unidad'
 created: '2026-06-12T14:46:05.683822628+00:00'
-last_edit_date: '2026-06-12T14:46:05.687567802+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.092864301+00:00'
+last_edit_date: '2026-09-03T09:44:22.563637897+00:00'
+last_build_date_pdf: '2026-09-03T17:22:27.739320671+00:00'
 labels:
   - cor:sup-derivada-hiperbolica-aut-disco-unidad
-  - note
 references:
   - automorfismo-disco-unidad
   - derivada-hiperbolica

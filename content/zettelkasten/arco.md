@@ -2,11 +2,10 @@
 title: 'Arco'
 filename: 'arco'
 created: '2025-05-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.053994977+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.590868201+00:00'
+last_edit_date: '2026-09-03T09:44:22.534776154+00:00'
+last_build_date_pdf: '2026-09-03T17:26:35.007495409+00:00'
 labels:
   - defn:arco
-  - note
 references:
   - curva-topologica
   - esp-topologico

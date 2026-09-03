@@ -2,15 +2,14 @@
 title: 'Ejer limsup liminf con'
 filename: 'ejer-limsup-liminf-con'
 created: '2025-06-19 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.089215618+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.768127183+00:00'
+last_edit_date: '2026-09-03T09:44:22.579567785+00:00'
+last_build_date_pdf: '2026-09-03T17:20:12.035595744+00:00'
 labels:
   - ejer:limsup-liminf-con
   - ejer:limsup-liminf-con:a
   - ejer:limsup-liminf-con:b
   - ejer:limsup-liminf-con:c
   - ejer:limsup-liminf-con:d
-  - note
 references:
   - liminf-con
   - limsup-con

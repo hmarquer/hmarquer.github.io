@@ -2,11 +2,10 @@
 title: 'Función característica de una variable aleatoria'
 filename: 'fn-caracteristica-var-aleatoria'
 created: '2025-06-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.102392582+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.900736436+00:00'
+last_edit_date: '2026-09-03T09:44:22.594889674+00:00'
+last_build_date_pdf: '2026-09-03T17:18:14.058428087+00:00'
 labels:
   - defn:fn-caracteristica-var-aleatoria
-  - note
 references:
   - esperanza
   - var-aleatoria

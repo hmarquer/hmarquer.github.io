@@ -2,11 +2,10 @@
 title: 'Aplicaciones lineales equivalentes'
 filename: 'apl-lineales-equivalentes'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.052878560+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.483578314+00:00'
+last_edit_date: '2026-09-03T09:44:22.533850159+00:00'
+last_build_date_pdf: '2026-09-03T17:26:40.863098116+00:00'
 labels:
   - defn:apl-lineales-equivalentes
-  - note
 references:
   - apl-lineal
   - isomorfismo-esp-vec

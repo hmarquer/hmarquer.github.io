@@ -2,11 +2,10 @@
 title: 'Lema de universos de subestructuras'
 filename: 'lem-universos-subestructuras'
 created: '2026-03-26 13:20:37.597434'
-last_edit_date: '2026-07-17T19:15:06.289560645+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.446919241+00:00'
+last_edit_date: '2026-09-03T09:44:22.652377052+00:00'
+last_build_date_pdf: '2026-09-03T17:11:35.011632944+00:00'
 labels:
   - lem:universos-subestructuras
-  - note
 references:
   - estructura
   - interpretacion-terminos

@@ -2,10 +2,9 @@
 title: 'Toda extensión que sea un módulo finitamente generado, es entera'
 filename: 'teo-extension-modulo-finitamente-generado-imp-entera'
 created: '2025-12-31 06:06:23.518267'
-last_edit_date: '2026-03-31T17:47:48.205996321+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.461508672+00:00'
+last_edit_date: '2026-09-03T09:44:22.749891815+00:00'
+last_build_date_pdf: '2026-09-03T16:59:04.201830579+00:00'
 labels:
-  - note
   - teo:extension-modulo-finitamente-generado-imp-entera
 references:
   - extension-anillos

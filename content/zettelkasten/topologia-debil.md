@@ -2,11 +2,10 @@
 title: 'Topología débil'
 filename: 'topologia-debil'
 created: '2025-12-27 18:15:22.068752'
-last_edit_date: '2026-09-03T08:30:12.151576684+00:00'
-last_build_date_pdf: '2026-09-03T08:31:09.176570370+00:00'
+last_edit_date: '2026-09-03T09:44:22.770439970+00:00'
+last_build_date_pdf: '2026-09-03T16:56:35.710946241+00:00'
 labels:
   - defn:topologia-debil
-  - note
 references:
   - continuidad
   - dual-topologico

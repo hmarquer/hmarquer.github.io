@@ -2,11 +2,10 @@
 title: 'Pnt critico apl diferenciable'
 filename: 'pnt-critico-apl-diferenciable'
 created: '2025-06-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.153929532+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.825235733+00:00'
+last_edit_date: '2026-09-03T09:44:22.676060521+00:00'
+last_build_date_pdf: '2026-09-03T17:08:38.047250205+00:00'
 labels:
   - defn:pnt-critico-apl-diferenciable
-  - note
 references:
   - apl-diferenciable
   - pnt-regular-apl-diferenciable

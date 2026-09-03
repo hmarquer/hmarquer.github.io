@@ -2,11 +2,10 @@
 title: 'Base de Hilbert'
 filename: 'base-hilbert'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.056232499+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.277207050+00:00'
+last_edit_date: '2026-09-03T09:44:22.536872056+00:00'
+last_build_date_pdf: '2026-09-03T17:26:13.720080592+00:00'
 labels:
   - defn:base-hilbert
-  - note
 references:
   - esp-prehilbert
   - sistema-ortogonal-completo

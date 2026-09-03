@@ -2,10 +2,9 @@
 title: 'Toda aplicación lineal débilmente continua es del dual'
 filename: 'teo-lineal-debilmente-continua-imp-dual'
 created: '2025-12-27 18:41:34.194812'
-last_edit_date: '2026-03-31T17:47:48.212057799+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.080880970+00:00'
+last_edit_date: '2026-09-03T09:44:22.758606356+00:00'
+last_build_date_pdf: '2026-09-03T16:58:01.139057036+00:00'
 labels:
-  - note
   - teo:lineal-debilmente-continua-imp-dual
 references:
   - apl-lineal

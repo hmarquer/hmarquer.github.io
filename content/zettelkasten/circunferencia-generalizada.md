@@ -2,11 +2,10 @@
 title: 'Circunferencia generalizada'
 filename: 'circunferencia-generalizada'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-06-14T16:38:50.208716609+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.591826291+00:00'
+last_edit_date: '2026-09-03T09:44:22.540725447+00:00'
+last_build_date_pdf: '2026-09-03T17:25:36.741244731+00:00'
 labels:
   - defn:circunferencia-generalizada
-  - note
 references:
   - num-complejos
 backlinks:

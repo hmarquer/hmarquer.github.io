@@ -2,11 +2,10 @@
 title: 'Transformada de Fourier en $\mathcal{L}^1$'
 filename: 'transformada-fourier-l1'
 created: '2026-01-13 10:26:13.971639'
-last_edit_date: '2026-03-31T17:47:48.221055958+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.468340362+00:00'
+last_edit_date: '2026-09-03T09:44:22.772349347+00:00'
+last_build_date_pdf: '2026-09-03T16:56:24.046401792+00:00'
 labels:
   - defn:transformada-fourier-l1
-  - note
 references:
   - esp-lp
 backlinks:

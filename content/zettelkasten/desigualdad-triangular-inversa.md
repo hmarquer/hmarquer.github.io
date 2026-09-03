@@ -2,10 +2,9 @@
 title: 'Desigualdad triangular inversa'
 filename: 'desigualdad-triangular-inversa'
 created: '2025-02-08 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.081303388+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.331543854+00:00'
+last_edit_date: '2026-09-03T09:44:22.569684517+00:00'
+last_build_date_pdf: '2026-09-03T17:21:40.395678688+00:00'
 labels:
-  - note
   - teo:desigualdad-triangular-inversa
 references:
   - metrica

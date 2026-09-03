@@ -2,11 +2,10 @@
 title: 'Sección de una aplicación diferenciable'
 filename: 'seccion-apl-diferenciable'
 created: '2025-03-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.182006753+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.105758896+00:00'
+last_edit_date: '2026-09-03T09:44:22.718606253+00:00'
+last_build_date_pdf: '2026-09-03T17:03:20.013560091+00:00'
 labels:
   - defn:seccion-apl-diferenciable
-  - note
 references:
   - apl-diferenciable
 backlinks:

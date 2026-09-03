@@ -2,10 +2,9 @@
 title: 'Obs aut disco unidad fija origen imp rotacion'
 filename: 'obs-aut-disco-unidad-fija-origen-imp-rotacion'
 created: '2025-09-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.148660910+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.683831409+00:00'
+last_edit_date: '2026-09-03T09:44:22.668138759+00:00'
+last_build_date_pdf: '2026-09-03T17:09:41.316487827+00:00'
 labels:
-  - note
   - obs:aut-disco-unidad-fija-origen-imp-rotacion
 references:
   - automorfismo-disco-unidad

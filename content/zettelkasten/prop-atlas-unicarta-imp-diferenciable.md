@@ -2,10 +2,9 @@
 title: 'Un atlas con una sola carta es diferenciable'
 filename: 'prop-atlas-unicarta-imp-diferenciable'
 created: '2025-02-24 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.158325817+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.821611664+00:00'
+last_edit_date: '2026-09-03T09:44:22.682369880+00:00'
+last_build_date_pdf: '2026-09-03T17:07:48.882098671+00:00'
 labels:
-  - note
   - prop:atlas-unicarta-imp-diferenciable
 references:
   - atlas

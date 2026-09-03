@@ -2,11 +2,10 @@
 title: 'Inmersión de estructuras'
 filename: 'inmersion-estructuras'
 created: '2026-02-10 13:45:29.517055'
-last_edit_date: '2026-05-15T16:40:23.501156851+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.473487161+00:00'
+last_edit_date: '2026-09-03T09:44:22.614560759+00:00'
+last_build_date_pdf: '2026-09-03T17:15:49.802576468+00:00'
 labels:
   - defn:inmersion-estructuras
-  - note
 references:
   - estructura
   - inclusion-estructuras

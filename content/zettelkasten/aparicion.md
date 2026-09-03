@@ -2,11 +2,10 @@
 title: 'Aparición'
 filename: 'aparicion'
 created: '2026-02-07 20:37:13.618422'
-last_edit_date: '2026-03-31T17:47:48.051345508+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.204388569+00:00'
+last_edit_date: '2026-09-03T09:44:22.532496541+00:00'
+last_build_date_pdf: '2026-09-03T17:26:53.226604939+00:00'
 labels:
   - defn:aparicion
-  - note
 references:
   - palabra
 backlinks:

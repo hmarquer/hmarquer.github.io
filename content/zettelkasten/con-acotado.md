@@ -2,11 +2,10 @@
 title: 'Conjunto acotado'
 filename: 'con-acotado'
 created: '2025-02-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.062349021+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.023111212+00:00'
+last_edit_date: '2026-09-03T09:44:22.544304536+00:00'
+last_build_date_pdf: '2026-09-03T17:25:07.058625047+00:00'
 labels:
   - defn:con-acotado
-  - note
 references:
   - bola-abierta
   - metrica

@@ -2,10 +2,9 @@
 title: 'Teorema de separación de convexos con uno abierto'
 filename: 'teo-separacion-convexos-abierto'
 created: '2025-12-25 22:28:49.901549'
-last_edit_date: '2026-03-31T17:47:48.216615749+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.033140370+00:00'
+last_edit_date: '2026-09-03T09:44:22.766288381+00:00'
+last_build_date_pdf: '2026-09-03T16:57:12.234970136+00:00'
 labels:
-  - note
   - teo:separacion-convexos-abierto
 references:
   - con-convexo

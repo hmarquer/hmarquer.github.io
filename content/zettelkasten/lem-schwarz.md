@@ -2,13 +2,12 @@
 title: 'Lema de Schwarz'
 filename: 'lem-schwarz'
 created: '2025-08-14 00:00:00'
-last_edit_date: '2026-06-13T19:01:48.108231485+00:00'
-last_build_date_pdf: '2026-08-13T23:45:56.014356538+00:00'
+last_edit_date: '2026-09-03T09:44:22.646674588+00:00'
+last_build_date_pdf: '2026-09-03T17:12:11.358845255+00:00'
 labels:
   - lem:schwarz
   - lem:schwarz:1
   - lem:schwarz:2
-  - note
 references:
   - fn-holomorfa
   - teo-modulo-maximo

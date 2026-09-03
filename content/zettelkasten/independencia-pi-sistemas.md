@@ -2,11 +2,10 @@
 title: 'Independencia de $\pi$-sistemas'
 filename: 'independencia-pi-sistemas'
 created: '2025-02-21 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.114813480+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.046680965+00:00'
+last_edit_date: '2026-09-03T09:44:22.613363308+00:00'
+last_build_date_pdf: '2026-09-03T17:15:57.689181775+00:00'
 labels:
   - defn:independencia-pi-sistemas
-  - note
 references:
   - esp-probabilidad
   - independencia-sucesos

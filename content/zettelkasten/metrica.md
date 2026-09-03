@@ -2,14 +2,13 @@
 title: 'Métrica'
 filename: 'metrica'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.142605353+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.825726673+00:00'
+last_edit_date: '2026-09-03T09:44:22.659071385+00:00'
+last_build_date_pdf: '2026-09-03T17:10:48.146229444+00:00'
 labels:
   - defn:metrica
   - defn:metrica:desigualdad-triangular
   - defn:metrica:positividad
   - defn:metrica:simetria
-  - note
 backlinks:
   - completitud-metrica
   - con-acotado

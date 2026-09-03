@@ -2,11 +2,10 @@
 title: 'Números complejos'
 filename: 'num-complejos'
 created: '2025-01-29 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.147814082+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.342651470+00:00'
+last_edit_date: '2026-09-03T09:44:22.666687324+00:00'
+last_build_date_pdf: '2026-09-03T17:09:53.816324343+00:00'
 labels:
   - defn:num-complejos
-  - note
 references:
   - anillo
   - cuerpo

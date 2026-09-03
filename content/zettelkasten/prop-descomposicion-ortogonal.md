@@ -2,10 +2,9 @@
 title: 'Prop descomposicion ortogonal'
 filename: 'prop-descomposicion-ortogonal'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.164120883+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.830442856+00:00'
+last_edit_date: '2026-09-03T09:44:22.690500379+00:00'
+last_build_date_pdf: '2026-09-03T17:06:40.923347019+00:00'
 labels:
-  - note
   - prop:descomposicion-ortogonal
 references:
   - complemento-ortogonal

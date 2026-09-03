@@ -2,11 +2,10 @@
 title: 'Espacio proyectivo real'
 filename: 'esp-proyectivo-real'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-07-18T05:07:01.346534150+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.903101349+00:00'
+last_edit_date: '2026-09-03T09:44:22.586962272+00:00'
+last_build_date_pdf: '2026-09-03T17:19:12.386928380+00:00'
 labels:
   - defn:esp-proyectivo-real
-  - note
 references:
   - apl-abierta
   - atlas

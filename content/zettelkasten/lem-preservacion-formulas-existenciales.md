@@ -2,11 +2,10 @@
 title: 'Preservación de fórmulas existenciales por inmersiones'
 filename: 'lem-preservacion-formulas-existenciales'
 created: '2026-03-26 10:49:47.587268'
-last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.794460450+00:00'
+last_edit_date: '2026-09-03T09:44:22.642113659+00:00'
+last_build_date_pdf: '2026-09-03T17:12:36.901161546+00:00'
 labels:
   - lem:preservacion-formulas-existenciales
-  - note
 references:
   - complejidad
   - estructura

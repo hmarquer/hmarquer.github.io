@@ -2,11 +2,10 @@
 title: 'Supremo esencial'
 filename: 'supremo-esencial'
 created: '2025-03-14 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.190714023+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.571318591+00:00'
+last_edit_date: '2026-09-03T09:44:22.729723543+00:00'
+last_build_date_pdf: '2026-09-03T17:01:45.730058085+00:00'
 labels:
   - defn:supremo-esencial
-  - note
 references:
   - esp-medida
   - fn-medible

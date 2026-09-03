@@ -2,11 +2,10 @@
 title: 'Lema de substitución en interpretaciones de términos'
 filename: 'lem-substitucion-interpretacion'
 created: '2026-02-17 19:27:01.057672'
-last_edit_date: '2026-03-31T17:47:48.136052438+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.025687828+00:00'
+last_edit_date: '2026-09-03T09:44:22.648858218+00:00'
+last_build_date_pdf: '2026-09-03T17:11:58.774001359+00:00'
 labels:
   - lem:substitucion-interpretacion
-  - note
 references:
   - complejidad
   - estructura

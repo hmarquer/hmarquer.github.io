@@ -2,11 +2,10 @@
 title: 'Dual topológico'
 filename: 'dual-topologico'
 created: '2025-10-29 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.084302146+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.942181478+00:00'
+last_edit_date: '2026-09-03T09:44:22.572927214+00:00'
+last_build_date_pdf: '2026-09-03T17:21:10.798710865+00:00'
 labels:
   - defn:dual-topologico
-  - note
 references:
   - apl-lineal
   - continuidad

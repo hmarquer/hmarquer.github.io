@@ -2,11 +2,10 @@
 title: 'Lem estructuras diferenciables iguales'
 filename: 'lem-estructuras-diferenciables-iguales'
 created: '2025-06-16 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.127397997+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.345185397+00:00'
+last_edit_date: '2026-09-03T09:44:22.632521125+00:00'
+last_build_date_pdf: '2026-09-03T17:13:34.977339694+00:00'
 labels:
   - lem:estructuras-diferenciables-iguales
-  - note
 references:
   - apl-diferenciable
   - c-infty-compatibilidad

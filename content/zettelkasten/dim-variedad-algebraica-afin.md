@@ -2,11 +2,10 @@
 title: 'Dimensión de una variedad algebraica afín'
 filename: 'dim-variedad-algebraica-afin'
 created: '2026-01-10 13:25:33.748667'
-last_edit_date: '2026-03-31T17:47:48.082977827+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.913492262+00:00'
+last_edit_date: '2026-09-03T09:44:22.571520364+00:00'
+last_build_date_pdf: '2026-09-03T17:21:22.622704347+00:00'
 labels:
   - defn:dim-variedad-algebraica-afin
-  - note
 references:
   - anillo-coordenadas-variedad-algebraica-afin
   - dim-krull

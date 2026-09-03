@@ -2,11 +2,10 @@
 title: 'Ecuación del calor en dimensión $1$'
 filename: 'ecu-calor-dim1'
 created: '2025-05-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.084450155+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.126547175+00:00'
+last_edit_date: '2026-09-03T09:44:22.573087580+00:00'
+last_build_date_pdf: '2026-09-03T17:21:10.766933052+00:00'
 labels:
   - defn:ecu-ondas-dim1
-  - note
 references:
   - ecu-derivadas-parciales
   - edp-lineal

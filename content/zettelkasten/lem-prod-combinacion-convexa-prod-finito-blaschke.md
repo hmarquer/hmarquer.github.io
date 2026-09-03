@@ -2,11 +2,10 @@
 title: 'Lem prod combinacion convexa prod finito blaschke'
 filename: 'lem-prod-combinacion-convexa-prod-finito-blaschke'
 created: '2026-02-04 17:29:51.951454'
-last_edit_date: '2026-03-31T17:47:48.132747171+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.353716228+00:00'
+last_edit_date: '2026-09-03T09:44:22.642889147+00:00'
+last_build_date_pdf: '2026-09-03T17:12:30.960466291+00:00'
 labels:
   - lem:prod-combinacion-convexa-prod-finito-blaschke
-  - note
 references:
   - combinacion-convexa
   - producto-finito-blaschke

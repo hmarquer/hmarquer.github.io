@@ -2,10 +2,9 @@
 title: 'Toda función de la clase de Schur es una contracción para la métrica pseudohiperbólica'
 filename: 'obs-schur-contraccion-metrica-pseudohiperbolica'
 created: '2026-02-26 18:54:18.920842'
-last_edit_date: '2026-06-25T09:20:45.073683015+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.253373916+00:00'
+last_edit_date: '2026-09-03T09:44:22.671911917+00:00'
+last_build_date_pdf: '2026-09-03T17:09:09.141484133+00:00'
 labels:
-  - note
   - obs:schur-contraccion-metrica-pseudohiperbolica
 references:
   - automorfismo-disco-unidad

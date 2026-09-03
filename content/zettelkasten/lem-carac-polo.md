@@ -2,11 +2,10 @@
 title: 'Lem carac polo'
 filename: 'lem-carac-polo'
 created: '2026-03-18 19:11:32.235173'
-last_edit_date: '2026-03-31T17:47:48.122292724+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.351978528+00:00'
+last_edit_date: '2026-09-03T09:44:22.623660474+00:00'
+last_build_date_pdf: '2026-09-03T17:14:40.336103514+00:00'
 labels:
   - lem:carac-polo
-  - note
 references:
   - fn-holomorfa
   - orden-cero-fn-holomorfa

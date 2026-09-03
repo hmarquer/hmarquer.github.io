@@ -2,11 +2,10 @@
 title: 'Convergencia puntual de funciones'
 filename: 'convergencia-puntual'
 created: '2025-03-03 00:00:00'
-last_edit_date: '2026-05-01T16:14:30.176936212+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.072926589+00:00'
+last_edit_date: '2026-09-03T09:44:22.552386523+00:00'
+last_build_date_pdf: '2026-09-03T17:24:01.601311635+00:00'
 labels:
   - defn:convergencia-puntual
-  - note
 references:
   - convergencia
   - esp-metrico

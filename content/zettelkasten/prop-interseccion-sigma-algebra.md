@@ -2,10 +2,9 @@
 title: 'Intersección $\sigma$-álgebra'
 filename: 'prop-interseccion-sigma-algebra'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.171939987+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.073153183+00:00'
+last_edit_date: '2026-09-03T09:44:22.702660084+00:00'
+last_build_date_pdf: '2026-09-03T17:05:14.132808594+00:00'
 labels:
-  - note
   - prop:interseccion-sigma-algebra
 references:
   - sigma-algebra

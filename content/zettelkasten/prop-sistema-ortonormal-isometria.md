@@ -2,10 +2,9 @@
 title: 'Isometría de un sistema ortonormal finito a $\mathbb{K}^n$'
 filename: 'prop-sistema-ortonormal-isometria'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.175638276+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.469309834+00:00'
+last_edit_date: '2026-09-03T09:44:22.707645502+00:00'
+last_build_date_pdf: '2026-09-03T17:04:36.176364201+00:00'
 labels:
-  - note
   - prop:sistema-ortonormal-isometria
 references:
   - esp-prehilbert

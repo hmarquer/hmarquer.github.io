@@ -2,10 +2,9 @@
 title: 'Teorema de Representación de Riesz'
 filename: 'teo-representacion-riesz'
 created: '2025-11-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.215517227+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.965402456+00:00'
+last_edit_date: '2026-09-03T09:44:22.763896334+00:00'
+last_build_date_pdf: '2026-09-03T16:57:18.391540219+00:00'
 labels:
-  - note
   - teo:representacion-riesz
 references:
   - dual-topologico

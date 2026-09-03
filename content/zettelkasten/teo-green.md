@@ -2,10 +2,9 @@
 title: 'Teorema de Green'
 filename: 'teo-green'
 created: '2026-03-18 18:17:08.641624'
-last_edit_date: '2026-03-31T17:47:48.209545658+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.338058590+00:00'
+last_edit_date: '2026-09-03T09:44:22.755094025+00:00'
+last_build_date_pdf: '2026-09-03T16:58:26.287563205+00:00'
 labels:
-  - note
   - teo:green
 references:
   - curva-cerrada

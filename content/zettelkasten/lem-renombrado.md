@@ -2,11 +2,10 @@
 title: 'Lema del renombrado'
 filename: 'lem-renombrado'
 created: '2026-03-26 17:40:52.178316'
-last_edit_date: '2026-03-31T17:47:48.133757047+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.356258772+00:00'
+last_edit_date: '2026-09-03T09:44:22.645339435+00:00'
+last_build_date_pdf: '2026-09-03T17:12:19.109951401+00:00'
 labels:
   - lem:renombrado
-  - note
 references:
   - estructura
   - inmersion-estructuras

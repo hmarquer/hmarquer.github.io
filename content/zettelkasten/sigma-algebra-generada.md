@@ -2,11 +2,10 @@
 title: '$\sigma$ álgebra generada por una familia'
 filename: 'sigma-algebra-generada'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.184244095+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.479488826+00:00'
+last_edit_date: '2026-09-03T09:44:22.721577534+00:00'
+last_build_date_pdf: '2026-09-03T17:02:58.161902082+00:00'
 labels:
   - defn:sigma-algebra-generada
-  - note
 references:
   - sigma-algebra
 backlinks:

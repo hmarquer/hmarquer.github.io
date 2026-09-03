@@ -2,11 +2,10 @@
 title: 'Espacio topológico regular'
 filename: 'esp-topologico-regular'
 created: '2025-05-29 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.098524684+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.732458836+00:00'
+last_edit_date: '2026-09-03T09:44:22.588781668+00:00'
+last_build_date_pdf: '2026-09-03T17:18:59.154349781+00:00'
 labels:
   - defn:esp-topologico-regular
-  - note
 references:
   - clausura
   - esp-topologico

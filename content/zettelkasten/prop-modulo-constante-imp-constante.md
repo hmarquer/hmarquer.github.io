@@ -2,10 +2,9 @@
 title: 'Prop modulo constante imp constante'
 filename: 'prop-modulo-constante-imp-constante'
 created: '2026-02-25 18:04:47.778247'
-last_edit_date: '2026-03-31T17:47:48.172951566+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.131579925+00:00'
+last_edit_date: '2026-09-03T09:44:22.703851615+00:00'
+last_build_date_pdf: '2026-09-03T17:05:02.318946942+00:00'
 labels:
-  - note
   - prop:modulo-constante-imp-constante
 references:
   - dominio

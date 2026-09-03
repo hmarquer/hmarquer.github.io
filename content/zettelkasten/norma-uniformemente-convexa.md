@@ -2,11 +2,10 @@
 title: 'Norma uniformemente convexa'
 filename: 'norma-uniformemente-convexa'
 created: '2026-01-07 16:13:38.190797'
-last_edit_date: '2026-03-31T17:47:48.146374115+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.212028504+00:00'
+last_edit_date: '2026-09-03T09:44:22.663963445+00:00'
+last_build_date_pdf: '2026-09-03T17:10:12.088143754+00:00'
 labels:
   - defn:norma-uniformemente-convexa
-  - note
 references:
   - esp-vectorial
   - norma

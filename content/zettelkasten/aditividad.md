@@ -2,11 +2,10 @@
 title: 'Aditividad'
 filename: 'aditividad'
 created: '2025-09-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.049232450+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.392456688+00:00'
+last_edit_date: '2026-09-03T09:44:22.530552758+00:00'
+last_build_date_pdf: '2026-09-03T17:27:10.018818704+00:00'
 labels:
   - defn:aditividad
-  - note
 references:
   - esp-vectorial
 backlinks:

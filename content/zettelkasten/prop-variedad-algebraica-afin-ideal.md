@@ -2,10 +2,9 @@
 title: 'Prop variedad algebraica afin ideal'
 filename: 'prop-variedad-algebraica-afin-ideal'
 created: '2025-12-14 16:48:41.533352'
-last_edit_date: '2026-03-31T17:47:48.178773442+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.010943490+00:00'
+last_edit_date: '2026-09-03T09:44:22.712380212+00:00'
+last_build_date_pdf: '2026-09-03T17:04:06.361244106+00:00'
 labels:
-  - note
   - prop:variedad-algebraica-afin-ideal
 references:
   - anillo-polinomios

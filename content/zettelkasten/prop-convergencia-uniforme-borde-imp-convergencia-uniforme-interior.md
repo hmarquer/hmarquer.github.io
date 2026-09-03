@@ -2,10 +2,9 @@
 title: 'Prop convergencia uniforme borde imp convergencia uniforme interior'
 filename: 'prop-convergencia-uniforme-borde-imp-convergencia-uniforme-interior'
 created: '2026-03-18 19:51:21.398053'
-last_edit_date: '2026-06-11T14:28:29.294642892+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.382520478+00:00'
+last_edit_date: '2026-09-03T09:44:22.688866968+00:00'
+last_build_date_pdf: '2026-09-03T17:06:55.896764356+00:00'
 labels:
-  - note
   - prop:convergencia-uniforme-borde-imp-convergencia-uniforme-interior
 references:
   - con-acotado

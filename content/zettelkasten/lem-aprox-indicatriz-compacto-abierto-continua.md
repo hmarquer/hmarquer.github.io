@@ -2,11 +2,10 @@
 title: 'Lem aprox indicatriz compacto abierto continua'
 filename: 'lem-aprox-indicatriz-compacto-abierto-continua'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.120655915+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.178553041+00:00'
+last_edit_date: '2026-09-03T09:44:22.621073627+00:00'
+last_build_date_pdf: '2026-09-03T17:14:59.322297687+00:00'
 labels:
   - lem:aprox-indicatriz-compacto-abierto-continua
-  - note
 references:
   - compacidad
   - fn-continua-soporte-compacto

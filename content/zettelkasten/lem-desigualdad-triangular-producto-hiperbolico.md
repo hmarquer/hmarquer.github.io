@@ -2,11 +2,10 @@
 title: 'Lem Desigualdad Triangular Producto Hiperbolico'
 filename: 'lem-desigualdad-triangular-producto-hiperbolico'
 created: '2026-06-12T11:26:21.724848065+00:00'
-last_edit_date: '2026-06-12T11:26:23.138772331+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.703007946+00:00'
+last_edit_date: '2026-09-03T09:44:22.628909484+00:00'
+last_build_date_pdf: '2026-09-03T17:13:58.844999895+00:00'
 labels:
   - lem:desigualdad-triangular-producto-hiperbolico
-  - note
 backlinks:
   - prop-metrica-poincare
 projects:

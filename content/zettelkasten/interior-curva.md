@@ -2,11 +2,10 @@
 title: 'Interior de una curva'
 filename: 'interior-curva'
 created: '2026-03-18 18:12:08.756692'
-last_edit_date: '2026-04-26T22:06:39.895645135+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.041337059+00:00'
+last_edit_date: '2026-09-03T09:44:22.615558710+00:00'
+last_build_date_pdf: '2026-09-03T17:15:43.909676833+00:00'
 labels:
   - defn:interior-curva
-  - note
 references:
   - componente-conexa
   - con-acotado

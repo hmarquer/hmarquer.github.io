@@ -2,10 +2,9 @@
 title: 'Teo milman pettis'
 filename: 'teo-milman-pettis'
 created: '2026-01-07 16:57:58.077769'
-last_edit_date: '2026-03-31T17:47:48.212976132+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.640385006+00:00'
+last_edit_date: '2026-09-03T09:44:22.759845136+00:00'
+last_build_date_pdf: '2026-09-03T16:57:49.004087934+00:00'
 labels:
-  - note
   - teo:milman-pettis
 references:
   - esp-banach

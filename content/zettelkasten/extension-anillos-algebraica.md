@@ -2,11 +2,10 @@
 title: 'Extensión de anillos algebraica'
 filename: 'extension-anillos-algebraica'
 created: '2025-12-31 06:15:29.293230'
-last_edit_date: '2026-03-31T17:47:48.100453724+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.739695997+00:00'
+last_edit_date: '2026-09-03T09:44:22.591354169+00:00'
+last_build_date_pdf: '2026-09-03T17:18:31.737844232+00:00'
 labels:
   - defn:extension-anillos-algebraica
-  - note
 references:
   - elemento-algebraico-sobre-anillo
   - extension-anillos

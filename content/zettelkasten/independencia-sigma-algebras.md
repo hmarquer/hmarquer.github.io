@@ -2,11 +2,10 @@
 title: 'Independencia de $\sigma$-álgebras'
 filename: 'independencia-sigma-algebras'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.114953014+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.589825421+00:00'
+last_edit_date: '2026-09-03T09:44:22.613560694+00:00'
+last_build_date_pdf: '2026-09-03T17:15:57.484453+00:00'
 labels:
   - defn:independencia-sigma-algebras
-  - note
 references:
   - esp-probabilidad
   - independencia-sucesos

@@ -2,10 +2,9 @@
 title: 'Propiedades del direfencial de una aplicación diferenciable'
 filename: 'prop-direfencial-apl-diferenciable'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.165076907+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.899899211+00:00'
+last_edit_date: '2026-09-03T09:44:22.691806878+00:00'
+last_build_date_pdf: '2026-09-03T17:06:33.044448795+00:00'
 labels:
-  - note
   - prop:direfencial-apl-diferenciable
   - prop:direfencial-apl-diferenciable:comp
   - prop:direfencial-apl-diferenciable:difeo

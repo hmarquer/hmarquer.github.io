@@ -2,10 +2,9 @@
 title: 'Ampliación del teorema de Liouville'
 filename: 'prop-liouville-ampliacion'
 created: '2026-03-19 20:13:26.288322'
-last_edit_date: '2026-06-12T09:57:15.572463866+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.536480817+00:00'
+last_edit_date: '2026-09-03T09:44:22.702853944+00:00'
+last_build_date_pdf: '2026-09-03T17:05:13.030348506+00:00'
 labels:
-  - note
   - prop:liouville-ampliacion
 references:
   - fn-entera

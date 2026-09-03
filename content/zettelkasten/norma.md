@@ -2,14 +2,13 @@
 title: 'Norma'
 filename: 'norma'
 created: '2025-01-23 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.146232237+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.535676274+00:00'
+last_edit_date: '2026-09-03T09:44:22.663760338+00:00'
+last_build_date_pdf: '2026-09-03T17:10:18.050152513+00:00'
 labels:
   - defn:norma
   - defn:norma:i
   - defn:norma:ii
   - defn:norma:iii
-  - note
 references:
   - esp-vectorial
 backlinks:

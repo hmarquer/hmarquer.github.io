@@ -2,11 +2,10 @@
 title: 'Longitud de un camino'
 filename: 'longitud-camino'
 created: '2025-05-01 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.140992380+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.897875270+00:00'
+last_edit_date: '2026-09-03T09:44:22.655936573+00:00'
+last_build_date_pdf: '2026-09-03T17:11:08.179882480+00:00'
 labels:
   - defn:longitud-camino
-  - note
 references:
   - camino
   - integral

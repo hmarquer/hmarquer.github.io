@@ -2,10 +2,9 @@
 title: 'Prop Ideal Primo Localizacion Extendido Contraido'
 filename: 'prop-ideal-primo-localizacion-extendido-contraido'
 created: '2026-06-24T17:37:52.224008393+00:00'
-last_edit_date: '2026-06-25T09:20:45.074007213+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.864251455+00:00'
+last_edit_date: '2026-09-03T09:44:22.700688258+00:00'
+last_build_date_pdf: '2026-09-03T17:05:32.429318064+00:00'
 labels:
-  - note
   - prop:ideal-primo-localizacion-extendido-contraido
 references:
   - ideal-primo

@@ -2,11 +2,10 @@
 title: 'Lem Aut Disco Unidad Composicion Involuciones'
 filename: 'lem-aut-disco-unidad-composicion-involuciones'
 created: '2026-06-13T17:21:40.107805583+00:00'
-last_edit_date: '2026-06-13T17:21:41.344518939+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.340168847+00:00'
+last_edit_date: '2026-09-03T09:44:22.621629986+00:00'
+last_build_date_pdf: '2026-09-03T17:14:56.668477420+00:00'
 labels:
   - lem:aut-disco-unidad-composicion-involuciones
-  - note
 references:
   - ejem-rotacion-disco-unidad
   - involucion-disco-unidad

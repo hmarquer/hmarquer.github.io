@@ -2,8 +2,8 @@
 title: 'Propiedades de la esperanza condicionada'
 filename: 'lem-esperanza-condicionada'
 created: '2025-06-13 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.126783999+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.233966857+00:00'
+last_edit_date: '2026-09-03T09:44:22.631831761+00:00'
+last_build_date_pdf: '2026-09-03T17:13:39.488388038+00:00'
 labels:
   - dem:esperanzacondicionada:6:i
   - dem:esperanzacondicionada:6:ii
@@ -14,7 +14,6 @@ labels:
   - lem:esperanza-condicionada:3
   - lem:esperanza-condicionada:5
   - lem:esperanza-condicionada:6
-  - note
 references:
   - esp-lp
   - esp-probabilidad

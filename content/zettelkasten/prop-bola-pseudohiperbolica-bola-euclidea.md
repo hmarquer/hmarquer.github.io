@@ -2,13 +2,12 @@
 title: 'Prop bola pseudohiperbolica bola euclidea'
 filename: 'prop-bola-pseudohiperbolica-bola-euclidea'
 created: '2026-02-26 19:46:02.972481'
-last_edit_date: '2026-06-12T11:17:53.445803321+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.193793182+00:00'
+last_edit_date: '2026-09-03T09:44:22.683766792+00:00'
+last_build_date_pdf: '2026-09-03T17:07:39.351748803+00:00'
 labels:
   - fig:bolas-pseudohiperbolicas
   - fig:caso1
   - fig:caso2
-  - note
   - prop:bola-pseudohiperbolica-bola-euclidea
 references:
   - involucion-disco-unidad

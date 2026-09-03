@@ -2,11 +2,10 @@
 title: 'Corolario de satisfacción de la substitución múltiple'
 filename: 'cor-substitucion-multiple-satisfaccion'
 created: '2026-03-26 10:23:47.650101'
-last_edit_date: '2026-04-26T09:40:28.478065265+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.487110416+00:00'
+last_edit_date: '2026-09-03T09:44:22.563251+00:00'
+last_build_date_pdf: '2026-09-03T17:22:30.448798452+00:00'
 labels:
   - cor:substitucion-multiple-satisfaccion
-  - note
 references:
   - estructura
   - evaluacion

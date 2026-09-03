@@ -2,14 +2,13 @@
 title: 'Lem sigma algebra parada esperanza condicionada'
 filename: 'lem-sigma-algebra-parada-esperanza-condicionada'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.134950869+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.353124885+00:00'
+last_edit_date: '2026-09-03T09:44:22.647322192+00:00'
+last_build_date_pdf: '2026-09-03T17:12:07.395179770+00:00'
 labels:
   - lem:sigma-algebra-parada-esperanza-condicionada
   - lem:sigma-algebra-parada-esperanza-condicionada:1
   - lem:sigma-algebra-parada-esperanza-condicionada:2
   - lem:sigma-algebra-parada-esperanza-condicionada:3
-  - note
 references:
   - esp-probabilidad
   - esperanza-condicionada-sigma-algebra

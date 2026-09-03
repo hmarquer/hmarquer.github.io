@@ -2,11 +2,10 @@
 title: 'El adjunto de la identidad es la identidad'
 filename: 'ejer-adjunto-identidad'
 created: '2025-12-25 22:31:30.097964'
-last_edit_date: '2026-03-31T17:47:48.087018371+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.155222388+00:00'
+last_edit_date: '2026-09-03T09:44:22.577095946+00:00'
+last_build_date_pdf: '2026-09-03T17:20:29.963762942+00:00'
 labels:
   - ejer:adjunto-identidad
-  - note
 references:
   - dual-topologico
   - norma

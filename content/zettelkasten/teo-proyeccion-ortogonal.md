@@ -2,10 +2,9 @@
 title: 'Teorema de la proyección ortogonal'
 filename: 'teo-proyeccion-ortogonal'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.215073660+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.562113085+00:00'
+last_edit_date: '2026-09-03T09:44:22.763029152+00:00'
+last_build_date_pdf: '2026-09-03T16:57:29.527514206+00:00'
 labels:
-  - note
   - teo:proyeccion-ortogonal
 references:
   - apl-lineal

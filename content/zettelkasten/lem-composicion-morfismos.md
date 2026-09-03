@@ -2,11 +2,10 @@
 title: 'Lema de composición de morfismos'
 filename: 'lem-composicion-morfismos'
 created: '2026-02-10 17:48:25.705349'
-last_edit_date: '2026-07-17T19:11:04.558271535+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.934228885+00:00'
+last_edit_date: '2026-09-03T09:44:22.625181452+00:00'
+last_build_date_pdf: '2026-09-03T17:14:28.479611156+00:00'
 labels:
   - lem:composicion-morfismos
-  - note
 references:
   - estructura
   - inclusion-estructuras

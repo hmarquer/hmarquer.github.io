@@ -2,11 +2,10 @@
 title: 'Completitud métrica'
 filename: 'completitud-metrica'
 created: '2025-02-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.062063973+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.358266888+00:00'
+last_edit_date: '2026-09-03T09:44:22.543779115+00:00'
+last_build_date_pdf: '2026-09-03T17:25:12.503310431+00:00'
 labels:
   - defn:completitud-metrica
-  - note
 references:
   - convergencia
   - metrica

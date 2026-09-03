@@ -2,10 +2,9 @@
 title: 'Teorema de la gráfica cerrada'
 filename: 'teo-grafica-cerrada'
 created: '2025-12-13 13:47:49.593156'
-last_edit_date: '2026-03-31T17:47:48.209238900+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.236565725+00:00'
+last_edit_date: '2026-09-03T09:44:22.754688222+00:00'
+last_build_date_pdf: '2026-09-03T16:58:31.408424703+00:00'
 labels:
-  - note
   - teo:grafica-cerrada
 references:
   - apl-lineal

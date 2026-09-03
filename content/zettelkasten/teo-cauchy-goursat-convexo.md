@@ -2,10 +2,9 @@
 title: 'Teo cauchy goursat convexo'
 filename: 'teo-cauchy-goursat-convexo'
 created: '2025-05-02 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.195780474+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.941959127+00:00'
+last_edit_date: '2026-09-03T09:44:22.735559109+00:00'
+last_build_date_pdf: '2026-09-03T17:00:53.379177626+00:00'
 labels:
-  - note
   - obs:cauchy-goursat-convexo
   - teo:cauchy-goursat-convexo
 references:

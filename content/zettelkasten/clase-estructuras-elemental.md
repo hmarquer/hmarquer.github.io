@@ -2,11 +2,10 @@
 title: 'Clase de estructuras elemental'
 filename: 'clase-estructuras-elemental'
 created: '2026-05-15T13:09:11.989380858+00:00'
-last_edit_date: '2026-05-15T13:09:38.019737047+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.727692225+00:00'
+last_edit_date: '2026-09-03T09:44:22.541065195+00:00'
+last_build_date_pdf: '2026-09-03T17:25:35.430628586+00:00'
 labels:
   - defn:clase-estructuras-elemental
-  - note
 references:
   - clase-modelos
   - estructura

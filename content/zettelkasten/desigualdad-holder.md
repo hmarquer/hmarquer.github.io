@@ -2,10 +2,9 @@
 title: 'Desigualdad de Hölder'
 filename: 'desigualdad-holder'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.080321875+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.712180587+00:00'
+last_edit_date: '2026-09-03T09:44:22.568566787+00:00'
+last_build_date_pdf: '2026-09-03T17:21:52.260240832+00:00'
 labels:
-  - note
   - teo:desigualdad-holder
 references:
   - desigualdad-young

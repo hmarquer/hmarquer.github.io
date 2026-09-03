@@ -2,10 +2,9 @@
 title: 'Desigualdad maximal de Kolmogorov'
 filename: 'desigualdad-maximal-kolmogorov'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.080992792+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.059549067+00:00'
+last_edit_date: '2026-09-03T09:44:22.569339690+00:00'
+last_build_date_pdf: '2026-09-03T17:21:40.931377920+00:00'
 labels:
-  - note
   - teo:desigualdad-maximal-kolmogorov
 references:
   - esp-lp

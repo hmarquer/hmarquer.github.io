@@ -2,11 +2,10 @@
 title: 'Embebimiento'
 filename: 'embebimiento'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.091368169+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.409354315+00:00'
+last_edit_date: '2026-09-03T09:44:22.581804786+00:00'
+last_build_date_pdf: '2026-09-03T17:19:53.768967300+00:00'
 labels:
   - defn:embebimiento
-  - note
 references:
   - apl-diferenciable
   - homeomorfismo

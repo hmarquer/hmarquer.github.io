@@ -2,10 +2,9 @@
 title: 'Prop Aut Disco Unidad Traslada Z1 0 Z2 01'
 filename: 'prop-aut-disco-unidad-traslada-z1-0-z2-01'
 created: '2026-06-13T17:11:15.267239298+00:00'
-last_edit_date: '2026-06-13T17:12:20.728925935+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.509530818+00:00'
+last_edit_date: '2026-09-03T09:44:22.682708054+00:00'
+last_build_date_pdf: '2026-09-03T17:07:46.999475393+00:00'
 labels:
-  - note
   - prop:aut-disco-unidad-traslada-z1-0-z2-01
 references:
   - automorfismo-disco-unidad

@@ -2,11 +2,10 @@
 title: 'Lem involucion disco unidad derivada'
 filename: 'lem-involucion-disco-unidad-derivada'
 created: '2026-01-22 13:53:11.017265'
-last_edit_date: '2026-03-31T17:47:48.129874520+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.014945920+00:00'
+last_edit_date: '2026-09-03T09:44:22.637884332+00:00'
+last_build_date_pdf: '2026-09-03T17:13:03.928544495+00:00'
 labels:
   - lem:involucion-disco-unidad-derivada
-  - note
 references:
   - fn-compleja-derivable-pnt
   - involucion-disco-unidad

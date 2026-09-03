@@ -2,10 +2,9 @@
 title: 'La consecuencia semántica es una relación de orden parcial'
 filename: 'obs-consecuencia-semantica-orden-parcial'
 created: '2026-03-05 10:52:50.796016'
-last_edit_date: '2026-03-31T17:47:48.149676466+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.406812012+00:00'
+last_edit_date: '2026-09-03T09:44:22.669337442+00:00'
+last_build_date_pdf: '2026-09-03T17:09:30.423095478+00:00'
 labels:
-  - note
   - obs:consecuencia-semantica-orden-parcial
 references:
   - consecuencia-semantica

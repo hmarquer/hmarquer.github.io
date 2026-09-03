@@ -2,11 +2,10 @@
 title: 'Corolario de independencia del dominio de evaluación'
 filename: 'cor-independencia-dominio-evaluacion'
 created: '2026-02-17 19:26:37.094436'
-last_edit_date: '2026-03-31T17:47:48.072663855+00:00'
-last_build_date_pdf: '2026-08-13T23:45:52.926220502+00:00'
+last_edit_date: '2026-09-03T09:44:22.558334263+00:00'
+last_build_date_pdf: '2026-09-03T17:23:08.930629578+00:00'
 labels:
   - cor:independencia-dominio-evaluacion
-  - note
 references:
   - cor-independencia-variables-ficticias-evaluaciones
   - estructura

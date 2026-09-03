@@ -2,11 +2,10 @@
 title: 'Ideal maximal'
 filename: 'ideal-maximal'
 created: '2025-09-16 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.112874752+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.093670013+00:00'
+last_edit_date: '2026-09-03T09:44:22.611016407+00:00'
+last_build_date_pdf: '2026-09-03T17:16:15.396871171+00:00'
 labels:
   - defn:ideal-maximal
-  - note
 references:
   - anillo
   - ideal

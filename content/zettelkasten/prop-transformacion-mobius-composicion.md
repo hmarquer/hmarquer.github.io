@@ -2,10 +2,9 @@
 title: 'Toda transformación de Möbius es composición de traslaciones, dilataciones, rotaciones e inversiones'
 filename: 'prop-transformacion-mobius-composicion'
 created: '2025-03-26 00:00:00'
-last_edit_date: '2026-04-07T21:09:57.345702868+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.023865316+00:00'
+last_edit_date: '2026-09-03T09:44:22.710903910+00:00'
+last_build_date_pdf: '2026-09-03T17:04:12.929315275+00:00'
 labels:
-  - note
   - prop:transformacion-mobius-composicion
 references:
   - transformacion-mobius

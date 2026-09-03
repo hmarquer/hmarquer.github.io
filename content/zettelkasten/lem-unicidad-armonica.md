@@ -2,11 +2,10 @@
 title: 'Lema de unicidad para funciones armónicas'
 filename: 'lem-unicidad-armonica'
 created: '2026-02-11 11:20:52.824950'
-last_edit_date: '2026-07-17T19:16:50.326783414+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.609760090+00:00'
+last_edit_date: '2026-09-03T09:44:22.651731342+00:00'
+last_build_date_pdf: '2026-09-03T17:11:37.757583676+00:00'
 labels:
   - lem:unicidad-armonica
-  - note
 references:
   - dominio
   - fn-armonica

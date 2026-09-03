@@ -2,11 +2,10 @@
 title: 'Transformación de Möbius'
 filename: 'transformacion-mobius'
 created: '2025-03-04 00:00:00'
-last_edit_date: '2026-05-01T16:14:30.177540651+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.833459199+00:00'
+last_edit_date: '2026-09-03T09:44:22.772101626+00:00'
+last_build_date_pdf: '2026-09-03T16:56:29.799008372+00:00'
 labels:
   - defn:transformacion-mobius
-  - note
 references:
   - plano-complejo-extendido
 backlinks:

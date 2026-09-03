@@ -2,11 +2,10 @@
 title: 'Cadena de Markov'
 filename: 'cadena-markov'
 created: '2025-03-11 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.058473057+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.419060480+00:00'
+last_edit_date: '2026-09-03T09:44:22.538770253+00:00'
+last_build_date_pdf: '2026-09-03T17:26:00.256910436+00:00'
 labels:
   - defn:cadena-markov
-  - note
 references:
   - var-aleatoria-discreta
 backlinks:

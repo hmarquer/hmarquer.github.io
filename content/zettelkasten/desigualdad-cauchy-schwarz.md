@@ -2,10 +2,9 @@
 title: 'Desigualdad cauchy schwarz'
 filename: 'desigualdad-cauchy-schwarz'
 created: '2025-09-17 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.079615643+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.344272823+00:00'
+last_edit_date: '2026-09-03T09:44:22.567783846+00:00'
+last_build_date_pdf: '2026-09-03T17:21:52.644970961+00:00'
 labels:
-  - note
   - prop:desigualdad-cauchy-schwarz
 references:
   - esp-vectorial

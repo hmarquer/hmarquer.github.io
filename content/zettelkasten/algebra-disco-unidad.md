@@ -2,11 +2,10 @@
 title: 'Algebra disco unidad'
 filename: 'algebra-disco-unidad'
 created: '2025-12-10 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.049620803+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.065361527+00:00'
+last_edit_date: '2026-09-03T09:44:22.530906953+00:00'
+last_build_date_pdf: '2026-09-03T17:27:04.340681304+00:00'
 labels:
   - defn:algebra-disco-unidad
-  - note
 references:
   - clausura
   - continuidad

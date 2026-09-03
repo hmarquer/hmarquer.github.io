@@ -2,11 +2,10 @@
 title: 'Variedad algebraica afín irreducible'
 filename: 'variedad-algebraica-afin-irreducible'
 created: '2025-12-16 19:03:48.226483'
-last_edit_date: '2026-03-31T17:47:48.223966290+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.762621468+00:00'
+last_edit_date: '2026-09-03T09:44:22.776167782+00:00'
+last_build_date_pdf: '2026-09-03T16:55:51.348385438+00:00'
 labels:
   - defn:variedad-algebraica-afin-irreducible
-  - note
 references:
   - esp-afin
   - variedad-algebraica-afin

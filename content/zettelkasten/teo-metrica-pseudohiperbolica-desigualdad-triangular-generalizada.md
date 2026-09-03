@@ -2,10 +2,9 @@
 title: 'Teo Metrica Pseudohiperbolica Desigualdad Triangular Generalizada'
 filename: 'teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada'
 created: '2026-06-12T11:20:47.163119477+00:00'
-last_edit_date: '2026-06-12T11:20:48.732758251+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.662386811+00:00'
+last_edit_date: '2026-09-03T09:44:22.759483287+00:00'
+last_build_date_pdf: '2026-09-03T16:57:54.412647146+00:00'
 labels:
-  - note
   - teo:metrica-pseudohiperbolica-desigualdad-triangular-generalizada
 references:
   - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares

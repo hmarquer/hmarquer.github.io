@@ -2,11 +2,10 @@
 title: 'Morfismo de variedades algebraicas afines'
 filename: 'morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 09:46:56.499735'
-last_edit_date: '2026-03-31T17:47:48.145382724+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.060059228+00:00'
+last_edit_date: '2026-09-03T09:44:22.662455943+00:00'
+last_build_date_pdf: '2026-09-03T17:10:24.047674447+00:00'
 labels:
   - defn:morfismo-variedades-algebraicas-afines
-  - note
 references:
   - funcion-regular-variedad-algebraica-afin
   - variedad-algebraica-afin

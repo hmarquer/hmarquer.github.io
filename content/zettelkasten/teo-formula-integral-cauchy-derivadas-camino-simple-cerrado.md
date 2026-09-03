@@ -2,10 +2,9 @@
 title: 'Fórmula integral de Cauchy para derivadas de orden arbitrario en un camino simple cerrado'
 filename: 'teo-formula-integral-cauchy-derivadas-camino-simple-cerrado'
 created: '2026-03-18 18:38:21.035122'
-last_edit_date: '2026-03-31T17:47:48.208195902+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.028953610+00:00'
+last_edit_date: '2026-09-03T09:44:22.752976401+00:00'
+last_build_date_pdf: '2026-09-03T16:58:38.309228214+00:00'
 labels:
-  - note
   - teo:formula-integral-cauchy-derivadas-camino-simple-cerrado
 references:
   - camino

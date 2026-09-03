@@ -2,11 +2,10 @@
 title: 'Accesibilidad en una cadena de Markov'
 filename: 'cadena-markov-accesibilidad'
 created: '2025-03-20 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.057549935+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.322379001+00:00'
+last_edit_date: '2026-09-03T09:44:22.537985297+00:00'
+last_build_date_pdf: '2026-09-03T17:25:59.685641591+00:00'
 labels:
   - defn:cadena-markov-accesibilidad
-  - note
 references:
   - cadena-markov
 backlinks:

@@ -2,11 +2,10 @@
 title: 'La dimensión del espacio tangente coincide con la de la variedad'
 filename: 'cor-dim-esp-tangente-variedad'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-03-31T17:47:48.070988644+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.301799387+00:00'
+last_edit_date: '2026-09-03T09:44:22.556145263+00:00'
+last_build_date_pdf: '2026-09-03T17:23:29.748054080+00:00'
 labels:
   - cor:dim-esp-tangente-variedad
-  - note
 references:
   - carta
   - esp-tangente-variedad

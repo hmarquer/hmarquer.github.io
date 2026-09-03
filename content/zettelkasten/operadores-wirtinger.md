@@ -2,11 +2,10 @@
 title: 'Operadores de Wirtinger'
 filename: 'operadores-wirtinger'
 created: '2025-03-15 00:00:00'
-last_edit_date: '2026-05-01T16:14:30.177540651+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.393881550+00:00'
+last_edit_date: '2026-09-03T09:44:22.673549517+00:00'
+last_build_date_pdf: '2026-09-03T17:08:51.095647700+00:00'
 labels:
   - defn:operadores-wirtinger
-  - note
 references:
   - dominio
 backlinks:

@@ -2,10 +2,9 @@
 title: 'Prop subordinacion relacion orden parcial'
 filename: 'prop-subordinacion-relacion-orden-parcial'
 created: '2026-03-20 13:40:40.006130'
-last_edit_date: '2026-06-13T18:24:01.527002397+00:00'
-last_build_date_pdf: '2026-08-13T23:45:53.637825060+00:00'
+last_edit_date: '2026-09-03T09:44:22.708635969+00:00'
+last_build_date_pdf: '2026-09-03T17:04:29.515818606+00:00'
 labels:
-  - note
   - prop:subordinacion-relacion-orden-parcial
 references:
   - ejem-rotacion-disco-unidad

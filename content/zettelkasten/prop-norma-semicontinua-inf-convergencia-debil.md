@@ -2,10 +2,9 @@
 title: 'La norma es semicontinua inferior para la convergencia débil'
 filename: 'prop-norma-semicontinua-inf-convergencia-debil'
 created: '2025-12-27 18:21:13.236327'
-last_edit_date: '2026-03-31T17:47:48.173247565+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.152453513+00:00'
+last_edit_date: '2026-09-03T09:44:22.704257999+00:00'
+last_build_date_pdf: '2026-09-03T17:05:00.986056994+00:00'
 labels:
-  - note
   - prop:norma-semicontinua-inf-convergencia-debil
 references:
   - convergencia-debil

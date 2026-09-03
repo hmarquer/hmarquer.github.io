@@ -2,11 +2,10 @@
 title: 'Lem Cota Modulo Bola Pseudohiperbolica'
 filename: 'lem-cota-modulo-bola-pseudohiperbolica'
 created: '2026-06-12T11:18:27.282289727+00:00'
-last_edit_date: '2026-06-12T11:20:03.936381135+00:00'
-last_build_date_pdf: '2026-08-13T23:45:55.525160494+00:00'
+last_edit_date: '2026-09-03T09:44:22.627283567+00:00'
+last_build_date_pdf: '2026-09-03T17:14:10.709609932+00:00'
 labels:
   - lem:cota-modulo-bola-pseudohiperbolica
-  - note
 references:
   - prop-bola-pseudohiperbolica-bola-euclidea
   - prop-metrica-pseudohiperbolica-disco-unidad
