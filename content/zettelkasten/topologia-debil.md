@@ -2,8 +2,8 @@
 title: 'Topología débil'
 filename: 'topologia-debil'
 created: '2025-12-27 18:15:22.068752'
-last_edit_date: '2026-03-31T17:47:48.219647991+00:00'
-last_build_date_pdf: '2026-08-13T23:45:54.022770045+00:00'
+last_edit_date: '2026-09-03T08:30:12.151576684+00:00'
+last_build_date_pdf: '2026-09-03T08:31:09.176570370+00:00'
 labels:
   - defn:topologia-debil
   - note
