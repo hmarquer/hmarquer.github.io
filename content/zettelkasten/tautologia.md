@@ -1,5 +1,22 @@
 ---
 title: 'Tautología'
+filename: 'tautologia'
+created: '2026-02-17 19:39:45.138868'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:09:04.719643802+00:00'
+labels:
+  - defn:tautologia
+  - ejems:tautologias
+references:
+  - enunciado
+  - estructura
+  - lenguaje-primer-orden
+  - satisfaccion
+backlinks:
+  - obs-consecuencia-semantica-conjuntos-finitos
+  - obs-tautologia-equivalencia-semantica
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

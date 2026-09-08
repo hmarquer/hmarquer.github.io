@@ -1,5 +1,22 @@
 ---
 title: 'Cor Principio Subordinacion Invariante'
+filename: 'cor-principio-subordinacion-invariante'
+created: '2026-06-13T18:37:52.949757908+00:00'
+last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_build_date_pdf: '2026-09-08T21:37:56.804381157+00:00'
+labels:
+  - cor:principio-subordinacion-invariante
+  - cor:principio-subordinacion-invariante:1
+  - cor:principio-subordinacion-invariante:2
+references:
+  - bola-abierta
+  - derivada-hiperbolica
+  - fn-holomorfa
+  - teo-schwarz-pick
+backlinks:
+  - cor-subordinacion-dominio-simplemente-conexo
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema4
 ---

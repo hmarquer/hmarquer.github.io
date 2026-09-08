@@ -1,5 +1,20 @@
 ---
 title: 'Toda submersión es una aplicación abierta'
+filename: 'cor-submersion-imp-abierta'
+created: '2025-06-08 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
+last_build_date_pdf: '2026-09-08T21:37:41.366630962+00:00'
+labels:
+  - cor:submersion-imp-abierta
+references:
+  - apl-abierta
+  - seccion-local-apl-diferenciable
+  - submersion
+  - teo-submersion-iff-exists-seccion-local
+backlinks:
+  - cor-submersion-sobreyectiva-imp-cociente
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema4
 ---

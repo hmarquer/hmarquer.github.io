@@ -1,5 +1,18 @@
 ---
 title: 'Ejer aut disco unidad inversa'
+filename: 'ejer-aut-disco-unidad-inversa'
+created: '2026-01-22 14:19:34.359334'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:34:35.593588779+00:00'
+labels:
+  - ejer:aut-disco-unidad-inversa
+references:
+  - ejem-rotacion-disco-unidad
+  - involucion-disco-unidad
+  - lem-involucion-disco-unidad
+  - lem-involucion-disco-unidad-rho
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

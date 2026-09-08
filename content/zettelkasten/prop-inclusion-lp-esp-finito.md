@@ -1,5 +1,22 @@
 ---
 title: 'Inclusión de espacios $L^p$ en espacios de medida finita'
+filename: 'prop-inclusion-lp-esp-finito'
+created: '2025-10-19 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:39.987871142+00:00'
+labels:
+  - dem-holder:inclusion-lp-esp-finito:i
+  - dem-holder:inclusion-lp-esp-finito:ii
+  - prop:inclusion-lp-esp-finito
+references:
+  - desigualdad-holder
+  - desigualdad-jensen
+  - esp-lp
+  - esp-medida-finito
+  - fn-convexa
+  - norma-lp
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/parcial
   - variable-real/tema1

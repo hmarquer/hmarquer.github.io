@@ -1,5 +1,18 @@
 ---
 title: 'Lem transformada fourier gaussiana'
+filename: 'lem-transformada-fourier-gaussiana'
+created: '2026-01-13 11:52:51.011665'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:13.030140284+00:00'
+labels:
+  - lem:transformada-fourier-gaussiana
+references:
+  - esp-lp
+  - transformada-fourier-l1
+backlinks:
+  - teo-inversion-transformada-fourier
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

@@ -1,5 +1,27 @@
 ---
 title: 'Laplaciano'
+filename: 'laplaciano'
+created: '2025-12-11 19:31:56.705059'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:20.014384601+00:00'
+labels:
+  - defn:laplaciano
+references:
+  - fn-clase-ck
+backlinks:
+  - ecu-ondas-dimn
+  - fn-armonica
+  - fn-subarmonica
+  - fn-superarmonica
+  - lem-laplaciano-cambio-variable
+  - lem-laplaciano-wirtinger
+  - prop-fn-armonica-imp-derivada-holomorfa
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 3.2-variable-compleja-i
+  - 4-productos-finitos-de-blaschke
+  - 4.2-fisica-cuantica
+  - 4.2-variable-compleja-ii
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5

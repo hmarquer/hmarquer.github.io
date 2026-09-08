@@ -1,5 +1,23 @@
 ---
 title: 'Teo espacio vectorial normado dim finita imp isomorfo kn'
+filename: 'teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn'
+created: '2025-11-02 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:59.385236525+00:00'
+labels:
+  - teo:esp-vectorial-normado-dim-finita-imp-isomorfo-kn
+references:
+  - apl-lineal
+  - esp-vectorial
+  - isometria
+  - isomorfismo-esp-vec
+  - lem-normas-kn-equivalentes
+  - norma
+backlinks:
+  - cor-esp-vectorial-normado-dim-finita-imp-banach
+  - teo-dim-finita-imp-normas-equivalentes
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---

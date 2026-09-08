@@ -1,5 +1,31 @@
 ---
 title: 'Ley fuerte de los grandes números'
+filename: 'ley-fuerte-grandes-numeros'
+created: '2025-06-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
+last_build_date_pdf: '2026-09-08T21:21:40.155930274+00:00'
+labels:
+  - dem:ley-fuerte-grandes-numeros:2
+  - dem:ley-fuerte-grandes-numeros:3
+  - dem:ley-fuerte-grandes-numeros:4
+  - dem:ley-fuerte-grandes-numeros:5
+  - dem:ley-fuerte-grandes-numeros:6
+  - dem:ley-fuerte-grandes-numeros:eq:1
+  - teo:ley-fuerte-grandes-numeros
+references:
+  - convergencia-casi-segura
+  - desigualdad-chebyshev
+  - esperanza
+  - fn-integrable
+  - igualdad-distribucion
+  - lem-borel-cantelli-i
+  - lem-borel-cantelli-ii
+  - limsup-con
+  - mindependencia-var-aleatorias
+  - prop-varianza-sum-var-aleatorias-indep
+  - teo-fubini
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema5
 ---
@@ -24,4 +50,3 @@ tags:
 #EJERCICIO se hace estimando la serie por la integral
 #EJERCICIO hacerlo
 #EJERCICIO hacerlo de forma rigurosa
-#EJERCICIO hacerlo

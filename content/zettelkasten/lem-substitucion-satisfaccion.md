@@ -1,5 +1,29 @@
 ---
 title: 'Lema de satisfacción de la substitución'
+filename: 'lem-substitucion-satisfaccion'
+created: '2026-03-26 10:14:28.893353'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:30.455252181+00:00'
+labels:
+  - lem:substitucion-satisfaccion
+references:
+  - aparicion
+  - complejidad
+  - estructura
+  - evaluacion
+  - formula
+  - interpretacion-terminos
+  - lem-independencia-variables-no-libres
+  - lem-substitucion-interpretacion
+  - lenguaje-primer-orden
+  - satisfaccion
+  - substitucion-formulas
+  - termino
+  - variable-simple-termino-real-ficticia
+backlinks:
+  - cor-substitucion-multiple-satisfaccion
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

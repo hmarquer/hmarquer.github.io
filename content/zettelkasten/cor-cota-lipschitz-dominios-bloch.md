@@ -1,5 +1,20 @@
 ---
 title: 'Cor Cota Lipschitz Dominios Bloch'
+filename: 'cor-cota-lipschitz-dominios-bloch'
+created: '2026-06-16T12:29:12.861533736+00:00'
+last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
+last_build_date_pdf: '2026-09-08T21:39:04.086658847+00:00'
+labels:
+  - cor:cota-lipschitz-dominios-bloch
+references:
+  - dominio
+  - fn-holomorfa
+  - lem-distorsion-hiperbolica-euclidea-global
+  - prop-metrica-poincare
+  - radio-interno
+  - teo-cubrimiento-bloch-invariante
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema5
 ---

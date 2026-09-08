@@ -1,5 +1,18 @@
 ---
 title: 'Prop convergencia uniforme continuidad uniforme'
+filename: 'prop-convergencia-uniforme-continuidad-uniforme'
+created: '2026-01-24 21:21:20.218365'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_build_date_pdf: '2026-09-08T21:15:36.089159444+00:00'
+labels:
+  - prop:convergencia-uniforme-continuidad-uniforme
+references:
+  - continuidad-uniforme
+  - convergencia-uniforme
+  - esp-metrico
+  - metrica
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/tema4
 ---

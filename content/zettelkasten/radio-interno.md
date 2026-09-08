@@ -1,5 +1,23 @@
 ---
 title: 'Radio Interno'
+filename: 'radio-interno'
+created: '2026-06-15T11:33:56.823069945+00:00'
+last_edit_date: '2026-09-06T15:26:21.238661905+00:00'
+last_build_date_pdf: '2026-09-08T21:11:18.663676291+00:00'
+labels:
+  - defn:radio-interno
+references:
+  - dominio
+backlinks:
+  - cor-cota-lipschitz-dominios-bloch
+  - obs-radio-interno-radio-cobertura
+  - obs-teo-bloch-imp-teo-bloch-invariante
+  - teo-cubrimiento-bloch
+  - teo-entre-liouville-picard
+  - teo-equivalencia-radio-interno-sup-derivada-hiperbolica
+  - teo-picard-fn-entera-omite-dos-puntos-imp-constante
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema5
 ---

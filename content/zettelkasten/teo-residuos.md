@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de los residuos'
+filename: 'teo-residuos'
+created: '2026-04-26T22:03:21.938192209+00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:31:55.687378471+00:00'
+labels:
+  - teo:residuos
+references:
+  - camino
+  - curva-cerrada
+  - curva-simple
+  - dominio
+  - fn-holomorfa
+  - integral-linea-compleja
+  - interior-curva
+  - polo
+  - residuo
 ---
 
 [[teo-residuos.pdf]]

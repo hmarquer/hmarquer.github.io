@@ -1,5 +1,25 @@
 ---
 title: 'Teo fn continua soporte compacto denso lp'
+filename: 'teo-fn-continua-soporte-compacto-denso-lp'
+created: '2025-11-01 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:18.551773012+00:00'
+labels:
+  - teo:fn-continua-soporte-compacto-denso-lp
+references:
+  - con-denso
+  - desigualdad-minkowski
+  - esp-lp
+  - fn-continua-soporte-compacto
+  - fn-simple
+  - lem-aprox-indicatriz-continua-norma-lp
+  - prop-fn-simples-denso-lp
+backlinks:
+  - lem-convergencia-lp-traslacion
+  - lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte
+  - teo-fn-suave-soporte-compacto-denso-lp
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema1
 ---

@@ -2,22 +2,34 @@
 title: "Asignaturas"
 ---
 
-1. Primer curso
-    1.1 Primer cuatrimestre
+## Grado en Matemáticas
 
-    1.2 Segundo cuatrimestre
+1. Primer curso
+    <!-- 1.1 Primer cuatrimestre -->
+    <!-- - [[1.1-algebra-lineal|Álgebra lineal]] -->
+    <!-- - [[1.1-calculo-i|Cálculo I]] -->
+    <!-- - [[1.1-conjuntos-y-numeros|Conjuntos y números]] -->
+
+    <!-- 1.2 Segundo cuatrimestre -->
+    <!-- - [[1.2-|]] -->
+    <!-- - [[1.2-|]] -->
+    <!-- - [[1.2-|]] -->
 
 2. Segundo curso
-    2.1 Primer cuatrimestre
+    <!-- 2.1 Primer cuatrimestre -->
+    <!-- - [[2.1-|]] -->
+    <!-- - [[2.1-|]] -->
+    <!-- - [[2.1-|]] -->
 
-    2.2 Segundo cuatrimestre
+    <!-- 2.2 Segundo cuatrimestre -->
     <!-- - [[2.2-ecuaciones-diferenciales|Ecuaciones diferenciales]] -->
     <!-- - [[2.2-geometria-de-curvas-y-superficies|Geometría de curvas y superficies]] -->
     <!-- - [[2.2-probabilidad-i|Probabilidad I]] -->
     
 3. Tercer curso
+
     3.1 Primer cuatrimestre
-    <!-- - [[3.1-topologia|Topología]] -->
+    - [[3.1-topologia|Topología]]
     <!-- - [[3.1-estadistica-i|Estadística I]] -->
     - [[3.1-teoria-de-galois|Teoría de Galois]]
     - [[3.1-teoria-de-la-integral-y-la-medida|Teoría de la integral y la medida]]
@@ -43,3 +55,12 @@ title: "Asignaturas"
     - [[4.2-variable-compleja-ii|Variable compleja II]]
     - [[4.2-aprendizaje-automatico|Aprendizaje automático]]
     - [[4.2-fisica-cuantica|Física cuántica]]
+
+## Máster en Matemáticas y Aplicaciones
+
+1. Primer cuatrimestre
+    - [[m.1-procesos-estocasticos|Procesos estocásticos]]
+    - [[m.1-fundamentos-de-analisis-matematico|Fundamentos de análisis matemático]]
+    - [[m.1-curvas-algebraicas|Curvas algebraicas]]
+<!-- 2. Segundo cuatrimestre -->
+

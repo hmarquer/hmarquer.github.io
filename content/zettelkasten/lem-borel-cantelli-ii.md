@@ -1,5 +1,19 @@
 ---
 title: 'Lema de Borel-Cantelli II'
+filename: 'lem-borel-cantelli-ii'
+created: '2025-03-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
+last_build_date_pdf: '2026-09-08T21:26:36.731799443+00:00'
+labels:
+  - lem:borel-cantelli-ii
+references:
+  - esp-probabilidad
+  - mindependencia-sucesos
+backlinks:
+  - ley-fuerte-grandes-numeros
+  - quijote-infinito
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema2
 ---

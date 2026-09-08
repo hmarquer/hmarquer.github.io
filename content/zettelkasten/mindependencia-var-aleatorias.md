@@ -1,5 +1,27 @@
 ---
 title: 'Independencia de más de dos variables aleatorias'
+filename: 'mindependencia-var-aleatorias'
+created: '2025-02-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
+last_build_date_pdf: '2026-09-08T21:20:53.722912313+00:00'
+labels:
+  - defn:mindependencia-var-aleatorias
+references:
+  - esp-probabilidad
+  - mindependencia-sigma-algebras
+  - var-aleatoria
+backlinks:
+  - cor-indep-var-aleatorias-fn-medibles
+  - cor-indep-var-aleatorias-iff-indep-fn-distribucion
+  - desigualdad-maximal-kolmogorov
+  - ley-0-1-kolmogorov
+  - ley-debil-grandes-numeros
+  - ley-fuerte-grandes-numeros
+  - prop-varianza-sum-var-aleatorias-indep
+  - quijote-infinito
+  - teo-central-limite
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema1
 ---

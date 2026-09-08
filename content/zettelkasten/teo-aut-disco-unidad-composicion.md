@@ -1,5 +1,20 @@
 ---
 title: 'Teo aut disco unidad composicion'
+filename: 'teo-aut-disco-unidad-composicion'
+created: '2026-01-22 13:38:10.055681'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:08:19.253436555+00:00'
+labels:
+  - teo:aut-disco-unidad-composicion
+references:
+  - automorfismo-disco-unidad
+  - ejem-rotacion-disco-unidad
+  - involucion-disco-unidad
+  - lem-aut-disco-unidad-composicion-involuciones
+  - lem-involucion-disco-unidad-rho
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

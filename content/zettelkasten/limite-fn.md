@@ -1,5 +1,20 @@
 ---
 title: 'Límite de una función'
+filename: 'limite-fn'
+created: '2025-02-12 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
+last_build_date_pdf: '2026-09-08T21:21:38.797703005+00:00'
+labels:
+  - defn:limite-metrico-fn
+references:
+  - metrica
+backlinks:
+  - fn-compleja-derivable-pnt
+  - fn-derivable
+  - singularidad-evitable
+  - teo-cauchy-goursat-rectangulo-singularidades
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema1
 ---

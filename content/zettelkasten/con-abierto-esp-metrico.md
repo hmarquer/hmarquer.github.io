@@ -1,0 +1,28 @@
+---
+title: 'Conjunto abierto en un espacio métrico'
+filename: 'con-abierto-esp-metrico'
+created: '2026-07-17T19:54:47.135024330+00:00'
+last_edit_date: '2026-09-06T15:26:21.212658208+00:00'
+last_build_date_pdf: '2026-09-08T21:41:24.887784620+00:00'
+labels:
+  - defn:con-abierto-esp-metrico
+references:
+  - bola-abierta
+  - esp-metrico
+backlinks:
+  - ejem-topologia-metrica
+  - prop-carac-con-abiertos-esp-metrico
+  - prop-con-abiertos-esp-metrico
+projects:
+  - 3.1-topologia
+tags:
+  - topologia/tema1-1
+---
+
+[[con-abierto-esp-metrico.pdf]]
+![[con-abierto-esp-metrico.pdf]]
+
+## Referencias
+- [bola-abierta](./bola-abierta.md)
+- [esp-metrico](./esp-metrico.md)
+

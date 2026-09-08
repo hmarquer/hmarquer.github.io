@@ -1,5 +1,21 @@
 ---
 title: 'El subespacio vectorial generado por un sistema ortonormal finito es cerrado'
+filename: 'prop-subesp-vectorial-generado-cerrado'
+created: '2025-10-28 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_build_date_pdf: '2026-09-08T21:12:16.421947133+00:00'
+labels:
+  - prop:subesp-vectorial-generado-cerrado
+references:
+  - continuidad
+  - esp-prehilbert
+  - prop-sistema-ortonormal-isometria
+  - sistema-ortonormal
+  - subesp-vectorial-generado
+backlinks:
+  - teo-proyeccion-ortogonal-sistema-ortonormal-formula
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---

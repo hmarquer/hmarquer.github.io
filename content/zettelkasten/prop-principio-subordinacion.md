@@ -1,5 +1,23 @@
 ---
 title: 'Principio de subordinación'
+filename: 'prop-principio-subordinacion'
+created: '2026-03-20 13:46:12.539100'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_build_date_pdf: '2026-09-08T21:13:06.295161243+00:00'
+labels:
+  - prop:principio-subordinacion
+  - prop:principio-subordinacion:1
+  - prop:principio-subordinacion:2
+references:
+  - ejem-rotacion-disco-unidad
+  - fn-compleja-derivable-pnt
+  - fn-holomorfa
+  - lem-schwarz
+  - subordinacion
+backlinks:
+  - cor-subordinacion-dominio-simplemente-conexo
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema4
 ---

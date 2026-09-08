@@ -1,5 +1,26 @@
 ---
 title: 'Lema de substitución en interpretaciones de términos'
+filename: 'lem-substitucion-interpretacion'
+created: '2026-02-17 19:27:01.057672'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:34.270235529+00:00'
+labels:
+  - lem:substitucion-interpretacion
+references:
+  - complejidad
+  - estructura
+  - evaluacion
+  - interpretacion-terminos
+  - lenguaje-primer-orden
+  - substitucion-terminos
+  - termino
+  - variable-simple-termino-real-ficticia
+  - variables
+backlinks:
+  - cor-substitucion-multiple-interpretacion
+  - lem-substitucion-satisfaccion
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

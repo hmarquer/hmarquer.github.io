@@ -1,5 +1,22 @@
 ---
 title: 'Clausura de Zariski'
+filename: 'clausura-zariski'
+created: '2025-12-16 18:48:31.161593'
+last_edit_date: '2026-09-06T15:26:21.211658066+00:00'
+last_build_date_pdf: '2026-09-08T21:41:49.428737326+00:00'
+labels:
+  - defn:clausura-zariski
+references:
+  - clausura
+  - esp-afin
+  - prop-topologia-zariski
+  - variedad-algebraica-afin
+backlinks:
+  - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - morfismo-variedades-algebraicas-afines-dominante
+  - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema3
 ---

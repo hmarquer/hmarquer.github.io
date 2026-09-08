@@ -8,7 +8,7 @@ El **objetivo** de esta página es doble:
  - Por un lado, me permite repasar y asentar los conocimientos adquiridos en clase de forma ordenada y coherente.
  - Por otro lado, espero que estos apuntes puedan ser de utilidad para otros estudiantes, ya sea como material de estudio o como fuente de inspiración para sus propios sistemas de apuntes.
 
-Puedes utilizar la barra de búsqueda (con 'Ctrl + K') para acceder a los distintos conceptos matemáticos. Para acceder a los apuntes completos de una asignatura en concreto, puedes hacer clic en el enlace correspondiente en la sección de [[asignaturas|Asignaturas]]. Para el primer cuatrimestre del cuarto curso también están disponibles los apuntes de Jacobo, un compañero de clase que ha sido tan amable de compartirlos conmigo para publicarlos aquí.
+Puedes utilizar la barra de búsqueda (con `Ctrl + K`) para acceder a los distintos conceptos matemáticos. Para acceder a los apuntes completos de una asignatura en concreto, puedes hacer clic en el enlace correspondiente en la sección de [[asignaturas|Asignaturas]]. Para el primer cuatrimestre del cuarto curso también están disponibles los apuntes de Jacobo, un compañero de clase que ha sido tan amable de compartirlos conmigo para publicarlos aquí.
 
 Si tienes curiosidad por saber más sobre mí y sobre cómo he creado esta página web, visita la sección [[sobre-mi|Sobre mí]].
 

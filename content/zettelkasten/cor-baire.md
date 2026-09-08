@@ -1,5 +1,23 @@
 ---
 title: 'Corolario del Teorema de Baire'
+filename: 'cor-baire'
+created: '2025-12-06 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:26.922137941+00:00'
+labels:
+  - cor:baire
+references:
+  - completitud-metrica
+  - con-primera-categoria
+  - esp-metrico
+  - prop-con-denso-iff-interior-comp-vacio
+  - prop-con-denso-ninguna-parte-carac
+  - teo-baire
+backlinks:
+  - ejer-esp-banach-union-cerrados-imp-interior-no-vacio
+  - teo-banach-steinhaus
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

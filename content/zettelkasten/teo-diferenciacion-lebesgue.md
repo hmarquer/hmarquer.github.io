@@ -1,5 +1,18 @@
 ---
 title: 'Teorema de diferenciación de Lebesgue'
+filename: 'teo-diferenciacion-lebesgue'
+created: '2026-01-12 12:30:37.616587'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:36:50.517849659+00:00'
+labels:
+  - teo:diferenciacion-lebesgue
+references:
+  - convergencia
+  - fn-integrable-localmente
+  - lem-diferenciacion-lebesgue-l1-imp-loc-l1
+  - teo-diferenciacion-lebesgue-l1
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

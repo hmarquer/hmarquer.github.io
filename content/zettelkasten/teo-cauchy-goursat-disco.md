@@ -1,5 +1,20 @@
 ---
 title: 'Teorema de Cauchy-Goursat para discos'
+filename: 'teo-cauchy-goursat-disco'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T21:07:37.298381493+00:00'
+labels:
+  - teo:cauchy-goursat-disco
+references:
+  - camino
+  - curva-cerrada
+  - fn-holomorfa
+  - integral-linea-compleja
+  - regla-barrow-compleja
+  - teo-fn-holomorfa-imp-exists-primitiva
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---
@@ -13,7 +28,6 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 - [regla-barrow-compleja](./regla-barrow-compleja.md)
-- [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
 - [teo-fn-holomorfa-imp-exists-primitiva](./teo-fn-holomorfa-imp-exists-primitiva.md)
 
 ## Etiquetas

@@ -1,5 +1,19 @@
 ---
 title: '$T_p \R^n$ es isomorfo a $\R^n$'
+filename: 'teo-esp-tangente-rn-isomorfo-rn'
+created: '2025-06-05 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:36:01.813767446+00:00'
+labels:
+  - teo:esp-tangente-rn-isomorfo-rn
+references:
+  - apl-lineal
+  - isomorfismo-esp-vec
+  - lem-derivacion
+backlinks:
+  - cor-dim-esp-tangente-variedad
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
 ---

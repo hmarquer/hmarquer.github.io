@@ -1,5 +1,23 @@
 ---
 title: 'Teorema de la singularidad evitable de Riemann'
+filename: 'teo-singularidad-evitable-riemann'
+created: '2026-02-11 10:46:45.667198'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:31:29.459344779+00:00'
+labels:
+  - teo:singularidad-evitable-riemann
+references:
+  - dominio
+  - fn-holomorfa
+  - singularidad-evitable
+backlinks:
+  - lem-carac-polo
+  - lem-schwarz
+  - teo-carac-prod-finito-blaschke
+  - teo-lem-schwarz-desnormalizado-derivadas
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/anexo
   - variable-compleja-ii/tema1

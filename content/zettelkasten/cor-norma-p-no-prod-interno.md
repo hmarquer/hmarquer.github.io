@@ -1,5 +1,19 @@
 ---
 title: 'Cor norma p no prod interno'
+filename: 'cor-norma-p-no-prod-interno'
+created: '2025-10-01 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_build_date_pdf: '2026-09-08T21:37:58.841883268+00:00'
+labels:
+  - cor:norma-p-no-prod-interno
+references:
+  - identidad-paralelogramo
+  - norma-inducida
+  - norma-p
+  - prod-interno
+  - teo-prod-interno-iff-identidad-paralelogramo
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema1
 ---

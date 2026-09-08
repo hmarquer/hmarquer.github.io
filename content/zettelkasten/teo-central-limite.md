@@ -1,5 +1,21 @@
 ---
 title: 'Teo central limite'
+filename: 'teo-central-limite'
+created: '2025-06-18 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T21:07:36.731060250+00:00'
+labels:
+  - teo:central-limite
+references:
+  - convergencia-distribucion
+  - esp-lp
+  - esperanza
+  - fn-distribucion
+  - igualdad-distribucion
+  - mindependencia-var-aleatorias
+  - varianza
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema5
 ---

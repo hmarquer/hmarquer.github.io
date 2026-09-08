@@ -1,5 +1,18 @@
 ---
 title: 'Prop transformada fourier derivada n'
+filename: 'prop-transformada-fourier-derivada-n'
+created: '2026-01-13 12:07:34.860816'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_build_date_pdf: '2026-09-08T21:11:48.709182095+00:00'
+labels:
+  - prop:transformada-fourier-derivada-n
+references:
+  - esp-lp
+  - fn-clase-ck
+  - lem-transformada-fourier-derivada
+  - transformada-fourier-l1
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

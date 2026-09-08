@@ -1,5 +1,25 @@
 ---
 title: 'Fórmula general de los automorfismos del disco unidad'
+filename: 'teo-formula-aut-disco-unidad'
+created: '2025-08-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
+last_build_date_pdf: '2026-09-08T16:34:40.976462377+00:00'
+labels:
+  - teo:formula-aut-disco-unidad
+references:
+  - automorfismo-disco-unidad
+  - ejem-rotacion-disco-unidad
+  - involucion-disco-unidad
+  - lem-involucion-disco-unidad
+  - lem-schwarz
+  - transformacion-mobius
+backlinks:
+  - lem-invariancia-conforme-longitud-hiperbolica
+  - obs-aut-disco-unidad-fija-origen-imp-rotacion
+  - producto-finito-blaschke
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema3

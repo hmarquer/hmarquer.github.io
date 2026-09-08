@@ -1,5 +1,27 @@
 ---
 title: 'Función armónica'
+filename: 'fn-armonica'
+created: '2025-03-15 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
+last_build_date_pdf: '2026-09-08T21:31:39.629622477+00:00'
+labels:
+  - defn:fn-armonica
+references:
+  - fn-clase-ck
+  - fn-subarmonica
+  - fn-superarmonica
+  - laplaciano
+backlinks:
+  - conjugada-armonica
+  - cor-min-fn-armonica
+  - lem-unicidad-armonica
+  - prop-fn-armonica-imp-derivada-holomorfa
+  - prop-fn-armonica-simplemente-conexo-imp-holomorfa
+  - teo-max-fn-armonica
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 3.2-variable-compleja-i
+  - 4.2-variable-compleja-ii
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - ecuaciones-en-derivadas-parciales/tema5

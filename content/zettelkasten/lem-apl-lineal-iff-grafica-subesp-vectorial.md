@@ -1,5 +1,19 @@
 ---
 title: 'Una aplicación entre espacios vectoriales es lineal si y solo si su gráfica es un subespacio vectorial'
+filename: 'lem-apl-lineal-iff-grafica-subesp-vectorial'
+created: '2025-12-13 13:09:02.796576'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:00.298182046+00:00'
+labels:
+  - lem:apl-lineal-iff-grafica-subesp-vectorial
+references:
+  - apl-lineal
+  - esp-vectorial
+  - subesp-vectorial
+backlinks:
+  - teo-grafica-cerrada
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

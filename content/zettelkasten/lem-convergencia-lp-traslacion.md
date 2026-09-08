@@ -1,5 +1,25 @@
 ---
 title: 'La traslación converge en $L^p$ a la función original'
+filename: 'lem-convergencia-lp-traslacion'
+created: '2025-11-04 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.226660199+00:00'
+last_build_date_pdf: '2026-09-08T21:25:59.632371831+00:00'
+labels:
+  - lem:convergencia-lp-traslacion
+references:
+  - convergencia-lp
+  - desigualdad-minkowski
+  - esp-lp
+  - teo-convergencia-dominada
+  - teo-fn-continua-soporte-compacto-denso-lp
+  - traslacion
+backlinks:
+  - lem-riemann-lebesgue-l1
+  - lem-riemann-lebesgue-r
+  - prop-convolucion-exp-conjugados
+  - teo-aproximacion-identidad-convolucion
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

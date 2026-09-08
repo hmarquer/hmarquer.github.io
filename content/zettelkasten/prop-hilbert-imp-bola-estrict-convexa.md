@@ -1,5 +1,18 @@
 ---
 title: 'En un espacio de Hilbert la bola unidad es estrictamente convexa'
+filename: 'prop-hilbert-imp-bola-estrict-convexa'
+created: '2025-10-26 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:55.075920544+00:00'
+labels:
+  - prop:hilbert-imp-bola-estrict-convexa
+references:
+  - bola-abierta
+  - con-convexo
+  - desigualdad-cauchy-schwarz
+  - esp-hilbert
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---

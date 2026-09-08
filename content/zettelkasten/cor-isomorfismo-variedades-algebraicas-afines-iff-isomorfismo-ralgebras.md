@@ -1,5 +1,24 @@
 ---
 title: 'Cor isomorfismo variedades algebraicas afines iff isomorfismo ralgebras'
+filename: 'cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras'
+created: '2026-01-05 11:54:24.607751'
+last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_build_date_pdf: '2026-09-08T21:38:16.141425021+00:00'
+labels:
+  - cor:isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+references:
+  - ejer-composicion-morfismos-variedades-algebraicas-afines
+  - ejer-morfismo-inducido-identidad-variedad-algebraica-afin
+  - isomorfismo-ralgebras
+  - isomorfismo-variedades-algebraicas-afines
+  - morfismo-inducido-variedades-algebraicas-afines
+  - morfismo-variedades-algebraicas-afines
+  - teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines
+  - variedad-algebraica-afin
+backlinks:
+  - teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema5
 ---

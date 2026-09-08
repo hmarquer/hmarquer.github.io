@@ -1,5 +1,20 @@
 ---
 title: 'Todo ideal maximal es un ideal primo'
+filename: 'cor-ideal-maximal-imp-primo'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
+last_build_date_pdf: '2026-09-08T21:38:35.801047849+00:00'
+labels:
+  - cor:ideal-maximal-imp-primo
+references:
+  - anillo
+  - ideal-maximal
+  - ideal-primo
+  - lem-cuerpo-imp-di
+  - prop-ideal-maximal-iff-cociente-cuerpo
+  - prop-ideal-primo-iff-cociente-di-integridad
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

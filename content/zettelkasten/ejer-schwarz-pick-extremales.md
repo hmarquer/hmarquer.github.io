@@ -1,5 +1,20 @@
 ---
 title: 'Ejer schwarz pick extremales'
+filename: 'ejer-schwarz-pick-extremales'
+created: '2026-01-22 14:12:39.607129'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
+last_build_date_pdf: '2026-09-08T21:34:01.820528974+00:00'
+labels:
+  - ejer:schwarz-pick-extremales
+references:
+  - ejem-rotacion-disco-unidad
+  - fn-holomorfa
+  - involucion-disco-unidad
+  - lem-involucion-disco-unidad-derivada
+  - obs-aut-disco-unidad-fija-origen-imp-rotacion
+  - teo-schwarz-pick
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/tema1
 ---

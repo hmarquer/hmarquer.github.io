@@ -1,5 +1,16 @@
 ---
 title: 'Variedad riemanniana'
+filename: 'variedad-riemanniana'
+created: '2025-08-18 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
+last_build_date_pdf: '2026-09-08T16:29:09.485333088+00:00'
+labels:
+  - defn:variedad-riemanniana
+references:
+  - esp-tangente-variedad
+  - fn-diferenciable-variedad
+  - prod-escalar
+  - variedad-diferenciable
 ---
 
 [[variedad-riemanniana.pdf]]

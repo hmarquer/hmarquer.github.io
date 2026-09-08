@@ -1,7 +1,31 @@
 ---
 title: 'Caracterización de un anillo noetheriano'
+filename: 'prop-carac-anillo-noetheriano'
+created: '2025-12-16 16:23:03.956501'
+last_edit_date: '2026-09-07T14:50:31.890300052+00:00'
+last_build_date_pdf: '2026-09-08T21:16:26.518890906+00:00'
+labels:
+  - prop:carac-anillo-noetheriano
+  - prop:carac-anillo-noetheriano:i
+  - prop:carac-anillo-noetheriano:ii
+  - prop:carac-anillo-noetheriano:iii
+references:
+  - anillo
+  - anillo-noetheriano
+  - cadena
+  - ejer-union-ideales-encajados
+  - ideal
+  - ideal-finitamente-generado
+  - relacion-orden
+backlinks:
+  - teo-base-hilbert
+  - teo-descomposicion-variedad-algebraica-afin-irreducibles
+projects:
+  - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema1
 ---
 
 [[prop-carac-anillo-noetheriano.pdf]]

@@ -1,5 +1,22 @@
 ---
 title: 'Teo cauchy goursat rectangulos'
+filename: 'teo-cauchy-goursat-rectangulo'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T21:07:37.034362557+00:00'
+labels:
+  - teo:cauchy-goursat-rectangulo
+references:
+  - dominio
+  - fn-holomorfa
+  - integral-linea-compleja
+  - prop-abs-integral-linea-compleja-leq-longitud
+  - regla-barrow-compleja
+backlinks:
+  - teo-cauchy-goursat-rectangulo-singularidades
+  - teo-fn-holomorfa-imp-exists-primitiva
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

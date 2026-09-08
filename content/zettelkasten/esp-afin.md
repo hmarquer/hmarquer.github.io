@@ -1,5 +1,28 @@
 ---
 title: 'Espacio afín'
+filename: 'esp-afin'
+created: '2025-02-19 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
+last_build_date_pdf: '2026-09-08T21:33:40.447587267+00:00'
+labels:
+  - defn:esp-afin
+  - ejem:esp-afin
+references:
+  - cuerpo
+  - esp-vectorial
+backlinks:
+  - clausura-zariski
+  - con-ceros-polinomios-esp-afin
+  - ideal-anulacion
+  - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - prop-ideal-anulacion-ideal-radical
+  - prop-topologia-zariski
+  - prop-variedad-algebraica-afin-ideal
+  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
+  - variedad-algebraica-afin
+  - variedad-algebraica-afin-irreducible
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema3
 ---

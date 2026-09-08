@@ -1,5 +1,24 @@
 ---
 title: 'Lema de substitución en fórmulas'
+filename: 'lem-substitucion-formulas'
+created: '2026-02-09 17:12:27.172364'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:37.855180909+00:00'
+labels:
+  - lem:substitucion-formulas
+references:
+  - aparicion
+  - aparicion-variable-simple-formula-libre-ligada
+  - complejidad
+  - formula
+  - lem-substitucion-terminos
+  - substitucion-formulas
+  - termino
+  - variable-simple-formula-libre-ligada
+  - variable-simple-termino-real-ficticia
+  - variables
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

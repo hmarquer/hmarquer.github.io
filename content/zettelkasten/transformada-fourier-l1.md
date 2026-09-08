@@ -1,5 +1,27 @@
 ---
 title: 'Transformada de Fourier en $\mathcal{L}^1$'
+filename: 'transformada-fourier-l1'
+created: '2026-01-13 10:26:13.971639'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:30:04.629528033+00:00'
+labels:
+  - defn:transformada-fourier-l1
+references:
+  - esp-lp
+backlinks:
+  - ejem-transformada-fourier-indicatriz-intervalo
+  - lem-riemann-lebesgue-r
+  - lem-transformada-fourier-conmutativa-integral
+  - lem-transformada-fourier-continua
+  - lem-transformada-fourier-convolucion
+  - lem-transformada-fourier-derivada
+  - lem-transformada-fourier-gaussiana
+  - obs-propiedades-transformada-fourier-l1
+  - prop-transformada-fourier-derivada-n
+  - prop-transformada-fourier-traslacion-modulacion-dilatacion
+  - teo-inversion-transformada-fourier
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

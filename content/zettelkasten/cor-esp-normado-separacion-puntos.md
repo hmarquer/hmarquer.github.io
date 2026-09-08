@@ -1,5 +1,19 @@
 ---
 title: 'Corolario de separación de puntos en un espacio normado'
+filename: 'cor-esp-normado-separacion-puntos'
+created: '2025-12-20 13:57:25.957203'
+last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
+last_build_date_pdf: '2026-09-08T21:38:57.038011541+00:00'
+labels:
+  - cor:esp-normado-separacion-puntos
+references:
+  - dual-topologico
+  - norma
+  - teo-esp-normado-separacion-punto-cero
+backlinks:
+  - obs-carac-continuidad-operador-lineal-esp-banach-dual
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

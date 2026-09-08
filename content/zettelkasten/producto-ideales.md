@@ -1,5 +1,20 @@
 ---
 title: 'Producto de ideales'
+filename: 'producto-ideales'
+created: '2025-09-12 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_build_date_pdf: '2026-09-08T21:17:04.893524701+00:00'
+labels:
+  - defn:producto-ideales
+references:
+  - anillo
+  - ideal
+  - ideal-generado
+backlinks:
+  - lem-producto-ideales
+  - prop-topologia-zariski
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

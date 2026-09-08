@@ -1,5 +1,19 @@
 ---
 title: 'Prop fn holomorfa derivada no nula imp conforme'
+filename: 'prop-fn-holomorfa-derivada-no-nula-imp-conforme'
+created: '2026-03-18 16:19:08.514595'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:14:10.567425653+00:00'
+labels:
+  - prop:fn-holomorfa-derivada-no-nula-imp-conforme
+references:
+  - apl-conforme
+  - dominio
+  - fn-compleja-derivable-pnt
+  - fn-holomorfa
+  - teo-cauchy-riemann
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema1
 ---

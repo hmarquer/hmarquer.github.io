@@ -1,5 +1,27 @@
 ---
 title: 'Isometría'
+filename: 'isometria'
+created: '2025-05-29 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:45.077898729+00:00'
+labels:
+  - defn:isometria
+references:
+  - esp-metrico
+backlinks:
+  - cor-adjunto-isometria-biyectiva
+  - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
+  - esp-isometricos
+  - prop-dual-l1-sucesiones-linfty-sucesiones
+  - prop-operador-unitario-iff-isometria-sobreyectiva
+  - prop-sistema-ortonormal-isometria
+  - teo-compleccion-esp-metrico
+  - teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn
+  - teo-isometria-biyectiva-reflexividad
+  - teo-representacion-riesz
+projects:
+  - 4-teoria-descriptiva-de-conjuntos
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

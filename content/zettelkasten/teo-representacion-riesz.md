@@ -1,5 +1,20 @@
 ---
 title: 'Teorema de Representación de Riesz'
+filename: 'teo-representacion-riesz'
+created: '2025-11-13 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:31:55.767782810+00:00'
+labels:
+  - teo:representacion-riesz
+references:
+  - dual-topologico
+  - esp-hilbert
+  - isometria
+  - prop-funcional-lineal-continuo-prod-interno
+  - teo-proyeccion-ortogonal
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

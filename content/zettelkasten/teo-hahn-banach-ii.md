@@ -1,5 +1,27 @@
 ---
 title: 'Teorema de Hahn-Banach II'
+filename: 'teo-hahn-banach-ii'
+created: '2025-12-19 18:22:12.836104'
+last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_build_date_pdf: '2026-09-08T16:34:03.649617269+00:00'
+labels:
+  - teo:hahn-banach-ii
+references:
+  - apl-lineal
+  - continuidad
+  - dual-topologico
+  - norma
+  - seminorma
+  - subesp-vectorial
+  - teo-carac-continuidad-apl-lineal
+  - teo-hahn-banach-i
+backlinks:
+  - lem-separacion-punto-conjunto-convexo-abierto
+  - teo-esp-normado-separacion-punto-cero
+  - teo-esp-normado-separacion-punto-subespacio-cerrado
+  - teo-subespacio-reflexivo
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

@@ -1,5 +1,17 @@
 ---
 title: 'Convergencia casi segura implica en probabilidad'
+filename: 'convergencia-casi-segura-imp-probabilidad'
+created: '2025-03-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:40:05.682325012+00:00'
+labels:
+  - prop:convergencia-casi-segura-imp-probabilidad
+references:
+  - convergencia-casi-segura
+  - convergencia-probabilidad
+  - lem-fatou-probabilidades
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema3
 ---

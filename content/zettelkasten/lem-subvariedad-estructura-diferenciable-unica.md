@@ -1,5 +1,22 @@
 ---
 title: 'Lem subvariedad estructura diferenciable unica'
+filename: 'lem-subvariedad-estructura-diferenciable-unica'
+created: '2025-06-16 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:27.562326386+00:00'
+labels:
+  - lem:subvariedad-estructura-diferenciable-unica
+references:
+  - difeomorfismo
+  - embebimiento
+  - estructura-diferenciable
+  - inmersion
+  - lem-estructuras-diferenciables-iguales
+  - lem-subvariedad-diferenciable
+  - subvariedad-diferenciable
+  - variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema5
 ---

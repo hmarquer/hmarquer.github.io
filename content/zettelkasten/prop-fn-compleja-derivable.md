@@ -1,5 +1,19 @@
 ---
-title: 'Prop-fn-compleja-derivable'
+title: 'Propiedades de la $\C$-derivabilidad'
+filename: 'prop-fn-compleja-derivable'
+created: '2026-04-07T14:41:55.801221812+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:14:25.732921159+00:00'
+labels:
+  - prop:fn-compleja-derivable
+references:
+  - continuidad
+  - fn-compleja-derivable-pnt
+backlinks:
+  - cor-subordinacion-dominio-simplemente-conexo
+  - prop-biholomorfismo-disco-semiplano-derecho
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema2
 ---
@@ -8,8 +22,8 @@ tags:
 ![[prop-fn-compleja-derivable.pdf]]
 
 ## Referencias
-- [Continuidad](./Continuidad.md)
-- [Fn-compleja-derivable-pnt](./Fn-compleja-derivable-pnt.md)
+- [continuidad](./continuidad.md)
+- [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
 
 ## Etiquetas
 #DEMOSTRACIÓN 

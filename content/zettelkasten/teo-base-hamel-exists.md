@@ -1,5 +1,20 @@
 ---
 title: 'Existencia de una base de Hamel'
+filename: 'teo-base-hamel-exists'
+created: '2025-10-01 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:08:20.131975601+00:00'
+labels:
+  - teo:base-hamel-exists
+references:
+  - base-hamel
+  - esp-vectorial
+  - indep-lineal
+  - lem-zorn
+backlinks:
+  - cor-base-hamel-r-q
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema1
 ---

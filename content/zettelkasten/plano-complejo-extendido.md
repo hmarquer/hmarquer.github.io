@@ -1,5 +1,22 @@
 ---
 title: 'Plano complejo extendido'
+filename: 'plano-complejo-extendido'
+created: '2025-02-08 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:18:00.046709252+00:00'
+labels:
+  - defn:plano-complejo-extendido
+references:
+  - num-complejos
+  - proyeccion-estereografica
+backlinks:
+  - metrica-cordal
+  - teo-transformacion-mobius-dados-3-pnt
+  - teo-transformacion-mobius-pnt-fijos
+  - transformacion-mobius
+projects:
+  - 3.2-variable-compleja-i
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-i/tema1

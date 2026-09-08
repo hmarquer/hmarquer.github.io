@@ -1,5 +1,16 @@
 ---
 title: 'Grupo proyectivo lineal'
+filename: 'grupo-proyectivo-lineal'
+created: '2026-04-29T16:20:41.755021440+00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_build_date_pdf: '2026-09-08T21:28:59.843198706+00:00'
+labels:
+  - defn:grupo-proyectivo-lineal
+references:
+  - centro-grupo
+  - esp-vectorial
+  - grupo-cociente
+  - grupo-lineal
 ---
 
 [[grupo-proyectivo-lineal.pdf]]

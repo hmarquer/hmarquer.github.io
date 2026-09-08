@@ -1,5 +1,21 @@
 ---
 title: 'Prop abs integral linea compleja leq longitud'
+filename: 'prop-abs-integral-linea-compleja-leq-longitud'
+created: '2025-05-02 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_build_date_pdf: '2026-09-08T21:17:02.545679926+00:00'
+labels:
+  - prop:abs-integral-linea-compleja-leq-longitud
+references:
+  - camino
+  - integral-linea-compleja
+  - integral-linea-compleja-longitud
+  - longitud-camino
+backlinks:
+  - teo-cauchy-goursat-rectangulo
+  - teo-cauchy-goursat-rectangulo-singularidades
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

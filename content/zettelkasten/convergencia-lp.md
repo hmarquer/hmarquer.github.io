@@ -1,5 +1,29 @@
 ---
 title: 'Convergencia en $\mathcal{L}^p$'
+filename: 'convergencia-lp'
+created: '2025-03-10 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:57.382350683+00:00'
+labels:
+  - defn:convergencia-lp
+references:
+  - esp-lp
+  - esp-medida
+  - fn-medible
+  - norma-lp
+backlinks:
+  - convergencia-lp-imp-probabilidad
+  - cor-serie-fourier-convergencia-l2
+  - lem-convergencia-lp-imp-medida
+  - lem-convergencia-lp-traslacion
+  - lem-convergencia-uniforme-esp-finito-imp-lp
+  - ley-debil-grandes-numeros
+  - prop-convergencia-lp-imp-subsucesion-ctp
+  - prop-convergencia-puntual-dominada-imp-lp
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 3.2-probabilidad-ii
+  - 4.1-variable-real
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - probabilidad-ii/tema3

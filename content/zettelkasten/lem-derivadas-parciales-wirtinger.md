@@ -1,5 +1,18 @@
 ---
 title: 'Derivadas parciales en función de las derivadas de Wirtinger'
+filename: 'lem-derivadas-parciales-wirtinger'
+created: '2025-11-12 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_build_date_pdf: '2026-09-08T21:25:27.842852771+00:00'
+labels:
+  - lem:derivadas-parciales-wirtinger
+references:
+  - fn-clase-ck
+  - operadores-wirtinger
+backlinks:
+  - prop-regla-cadena-wirtinger
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

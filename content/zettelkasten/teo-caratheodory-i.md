@@ -1,5 +1,18 @@
 ---
 title: 'Teorema de Caratheodory I'
+filename: 'teo-caratheodory-i'
+created: '2025-02-13 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T21:07:47.810539129+00:00'
+labels:
+  - teo:caratheodory-i
+references:
+  - conjunto-medible
+  - medida-completa
+  - medida-exterior
+  - sigma-algebra
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/hoja0
 ---

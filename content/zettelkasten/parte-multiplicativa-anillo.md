@@ -1,5 +1,23 @@
 ---
 title: 'Parte multiplicativa de un anillo'
+filename: 'parte-multiplicativa-anillo'
+created: '2025-11-26 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:18:06.462413128+00:00'
+labels:
+  - defn:parte-multiplicativa-anillo
+references:
+  - anillo
+backlinks:
+  - ejer-extension-entera-localizacion
+  - lem-di-localizacion-relacion-equivalencia
+  - prop-ideal-primo-localizacion-extendido-contraido
+  - prop-ideales-extendidos-contraidos-localizacion
+  - prop-inclusion-localizacion-morfismo-anillos
+  - prop-localizacion-anillo
+  - teo-universal-localizacion
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema2
 ---

@@ -1,5 +1,26 @@
 ---
 title: 'Preservación de fórmulas sin cuantificadores por una inmersión'
+filename: 'lem-preservacion-formulas-sin-cuantificadores-inmersion'
+created: '2026-03-05 11:30:15.257972'
+last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
+last_build_date_pdf: '2026-09-08T21:23:30.580650321+00:00'
+labels:
+  - lem:preservacion-formulas-sin-cuantificadores-inmersion
+references:
+  - complejidad
+  - estructura
+  - evaluacion
+  - formula
+  - formula-atomica
+  - formula-sin-cuantificadores
+  - inmersion-estructuras
+  - lem-morfismo-interpretacion-terminos
+  - lenguaje-primer-orden
+  - satisfaccion
+backlinks:
+  - lem-preservacion-formulas-existenciales
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

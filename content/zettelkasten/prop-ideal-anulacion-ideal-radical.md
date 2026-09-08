@@ -1,5 +1,20 @@
 ---
 title: 'El ideal de anulación es un ideal radical'
+filename: 'prop-ideal-anulacion-ideal-radical'
+created: '2025-12-14 22:15:27.271927'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:55.483236248+00:00'
+labels:
+  - prop:ideal-anulacion-ideal-radical
+references:
+  - dominio-integridad
+  - esp-afin
+  - ideal
+  - ideal-anulacion
+  - ideal-radical
+  - lem-ideal
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema3
 ---

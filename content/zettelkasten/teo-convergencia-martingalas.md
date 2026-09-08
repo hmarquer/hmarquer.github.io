@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de convergencia de martingalas'
+filename: 'teo-convergencia-martingalas'
+created: '2025-06-15 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:37:36.002167642+00:00'
+labels:
+  - teo:convergencia-martingalas
+references:
+  - convergencia-casi-segura
+  - desigualdad-chebyshev
+  - lem-borel-cantelli-i
+  - norma-lp
+  - submartingala
+  - sucesion-cauchy
+  - teo-esp-lp-banach
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema4
 ---

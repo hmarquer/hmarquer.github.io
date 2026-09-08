@@ -1,5 +1,18 @@
 ---
 title: 'Ejer extension entera localizacion'
+filename: 'ejer-extension-entera-localizacion'
+created: '2026-01-11 12:47:22.180326'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:34:18.225639059+00:00'
+labels:
+  - ejer:extension-entera-localizacion
+references:
+  - extension-anillos
+  - extension-anillos-entera
+  - parte-multiplicativa-anillo
+  - prop-localizacion-anillo
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema6
 ---

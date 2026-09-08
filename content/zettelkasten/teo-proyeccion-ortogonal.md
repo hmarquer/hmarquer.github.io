@@ -1,5 +1,24 @@
 ---
 title: 'Teorema de la proyección ortogonal'
+filename: 'teo-proyeccion-ortogonal'
+created: '2025-10-28 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:32:08.443789472+00:00'
+labels:
+  - teo:proyeccion-ortogonal
+references:
+  - apl-lineal
+  - complemento-ortogonal
+  - esp-hilbert
+  - norma
+  - prop-descomposicion-ortogonal
+  - subesp-vectorial
+backlinks:
+  - teo-proyeccion-ortogonal-sistema-ortonormal-formula
+  - teo-representacion-riesz
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

@@ -1,5 +1,20 @@
 ---
 title: 'Teo correspacioondencia ideales cociente'
+filename: 'teo-correspondencia-ideales-cociente'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:37:26.436074009+00:00'
+labels:
+  - teo:correspondencia-ideales-cociente
+references:
+  - anillo
+  - anillo-cociente
+  - ideal
+  - obs-anillo-cociente-morfismo-canonico
+backlinks:
+  - prop-ideal-maximal-iff-cociente-cuerpo
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

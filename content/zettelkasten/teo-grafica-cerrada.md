@@ -1,5 +1,24 @@
 ---
 title: 'Teorema de la gráfica cerrada'
+filename: 'teo-grafica-cerrada'
+created: '2025-12-13 13:47:49.593156'
+last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
+last_build_date_pdf: '2026-09-08T16:34:11.474841137+00:00'
+labels:
+  - teo:grafica-cerrada
+references:
+  - apl-lineal
+  - continuidad
+  - esp-banach
+  - hausdorff-topologia
+  - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
+  - lem-apl-lineal-iff-grafica-subesp-vectorial
+  - teo-isomorfismos-banach
+  - topologia-producto
+backlinks:
+  - teo-carac-continuidad-operador-lineal-esp-banach
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

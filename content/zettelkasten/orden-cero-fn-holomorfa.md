@@ -1,5 +1,21 @@
 ---
 title: 'Orden de un cero de una función holomorfa'
+filename: 'orden-cero-fn-holomorfa'
+created: '2025-12-15 11:55:09.994073'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:18:17.343750188+00:00'
+labels:
+  - defn:orden-cero-fn-holomorfa
+references:
+  - fn-compleja-derivable-pnt
+  - fn-holomorfa
+backlinks:
+  - lem-carac-polo
+  - numero-ceros-fn-holomorfa-camino
+  - valencia-fn-holomorfa
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema3
   - variable-compleja-ii/tema8

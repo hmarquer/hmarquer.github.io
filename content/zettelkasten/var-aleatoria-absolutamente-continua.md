@@ -1,5 +1,20 @@
 ---
 title: 'Var aleatoria absolutamente continua'
+filename: 'var-aleatoria-absolutamente-continua'
+created: '2025-06-10 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:29:42.967863391+00:00'
+labels:
+  - defn:var-aleatoria-absolutamente-continua
+references:
+  - continuidad-absoluta
+  - medida-inducida
+  - medida-lebesgue
+  - var-aleatoria
+backlinks:
+  - fn-densidad
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema1
 ---

@@ -1,5 +1,18 @@
 ---
 title: 'Cor modulo minimo'
+filename: 'cor-modulo-minimo'
+created: '2026-03-19 14:35:16.739773'
+last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_build_date_pdf: '2026-09-08T21:38:07.592366109+00:00'
+labels:
+  - cor:modulo-minimo
+references:
+  - cor-continuacion-analitica
+  - dominio
+  - fn-holomorfa
+  - teo-modulo-maximo
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema2
 ---

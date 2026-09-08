@@ -1,5 +1,21 @@
 ---
 title: 'Teo Completitud Metrica Pseudohiperbolica'
+filename: 'teo-completitud-metrica-pseudohiperbolica'
+created: '2026-06-12T11:21:58.750231491+00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T16:37:47.273452570+00:00'
+labels:
+  - teo:completitud-metrica-pseudohiperbolica
+references:
+  - completitud-metrica
+  - esp-metrico
+  - lem-cota-modulo-bola-pseudohiperbolica
+  - prop-metrica-pseudohiperbolica-disco-unidad
+  - teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada
+backlinks:
+  - teo-completitud-metrica-poincare
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

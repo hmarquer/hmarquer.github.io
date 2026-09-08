@@ -1,5 +1,21 @@
 ---
 title: '$R$-álgebra'
+filename: 'ralgebra'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.238661905+00:00'
+last_build_date_pdf: '2026-09-08T21:11:11.671138301+00:00'
+labels:
+  - defn:ralgebra
+references:
+  - anillo
+  - modulo
+backlinks:
+  - isomorfismo-ralgebras
+  - lem-normalizacion-noether
+  - morfismo-ralgebras
+  - ralgebra-finitamente-generada
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema2
 ---

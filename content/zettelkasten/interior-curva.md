@@ -1,5 +1,21 @@
 ---
 title: 'Interior de una curva'
+filename: 'interior-curva'
+created: '2026-03-18 18:12:08.756692'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:51.855559368+00:00'
+labels:
+  - defn:interior-curva
+references:
+  - componente-conexa
+  - con-acotado
+  - curva-cerrada
+  - curva-simple
+  - curva-topologica
+backlinks:
+  - teo-cauchy-goursat
+  - teo-formula-integral-cauchy-derivadas-camino-simple-cerrado
+  - teo-residuos
 ---
 
 [[interior-curva.pdf]]

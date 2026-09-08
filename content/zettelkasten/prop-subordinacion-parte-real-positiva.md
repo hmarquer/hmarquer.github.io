@@ -1,5 +1,21 @@
 ---
 title: 'Prop Subordinacion Parte Real Positiva'
+filename: 'prop-subordinacion-parte-real-positiva'
+created: '2026-06-14T11:22:02.733701315+00:00'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_build_date_pdf: '2026-09-08T21:12:12.667413728+00:00'
+labels:
+  - prop:subordinacion-parte-real-positiva
+references:
+  - cor-subordinacion-dominio-simplemente-conexo
+  - obs-derivada-hiperbolica-biholomorfismo-disco-semiplano-derecho
+  - prop-biholomorfismo-disco-semiplano-derecho
+  - transformacion-mobius-circunferencias-generalizadas
+backlinks:
+  - cor-caratheodory-coeficientes-taylor-fn-holomorfa-parte-real-positiva
+  - teo-fn-holomorfa-disco-unidad-no-anula-cota-derivada
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema4
 ---

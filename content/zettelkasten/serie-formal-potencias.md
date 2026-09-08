@@ -1,5 +1,26 @@
 ---
 title: 'Serie formal de potencias'
+filename: 'serie-formal-potencias'
+created: '2025-02-24 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
+last_build_date_pdf: '2026-09-08T21:10:31.543496608+00:00'
+labels:
+  - defn:serie-formal-potencias
+references:
+  - anillo
+  - esp-secuencial
+  - esp-vectorial
+  - serie
+backlinks:
+  - fn-generatriz-probabilidad
+  - lem-abel
+  - serie-formal-potencias-derivada
+  - serie-formal-potencias-radio-convergencia
+  - teo-abel
+  - teo-cauchy-hadamard
+projects:
+  - 3.2-modelizacion
+  - 3.2-variable-compleja-i
 tags:
   - modelizacion/tema2
   - variable-compleja-i/tema3

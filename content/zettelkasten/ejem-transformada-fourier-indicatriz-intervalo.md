@@ -1,5 +1,17 @@
 ---
 title: 'Ejem transformada fourier indicatriz intervalo'
+filename: 'ejem-transformada-fourier-indicatriz-intervalo'
+created: '2026-01-13 10:39:17.181966'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:34:51.333857713+00:00'
+labels:
+  - ejem:transformada-fourier-indicatriz-intervalo
+references:
+  - fn-continua-soporte-compacto
+  - soporte-cerrado
+  - transformada-fourier-l1
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

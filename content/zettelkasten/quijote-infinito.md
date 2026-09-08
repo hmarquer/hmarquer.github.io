@@ -1,5 +1,24 @@
 ---
 title: '\textit{Quijote} infinito'
+filename: 'quijote-infinito'
+created: '2025-03-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.238661905+00:00'
+last_build_date_pdf: '2026-09-08T21:11:39.151020432+00:00'
+labels:
+  - indep
+  - sec:conexion-lebesgue
+  - sec:quijote-finito
+  - sec:quijote-infinito
+  - subsec:quijote-infinito-indivisible
+  - tcm
+references:
+  - esp-probabilidad
+  - lem-borel-cantelli-ii
+  - mindependencia-var-aleatorias
+  - teo-convergencia-monotona
+  - var-aleatoria
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/3.2-probabilidad-ii
 ---
@@ -15,5 +34,4 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas
-#REVISAR 
 #REVISAR 

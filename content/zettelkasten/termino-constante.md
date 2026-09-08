@@ -1,5 +1,19 @@
 ---
 title: 'Término constante'
+filename: 'termino-constante'
+created: '2026-02-09 11:04:26.627555'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:30:37.100566854+00:00'
+labels:
+  - defn:termino-constante
+references:
+  - aparicion
+  - termino
+  - variables
+backlinks:
+  - cor-independencia-dominio-evaluacion
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

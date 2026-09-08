@@ -1,5 +1,18 @@
 ---
 title: 'Espacio topológico regular'
+filename: 'esp-topologico-regular'
+created: '2025-05-29 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
+last_build_date_pdf: '2026-09-08T21:32:32.250849830+00:00'
+labels:
+  - defn:esp-topologico-regular
+references:
+  - clausura
+  - esp-topologico
+backlinks:
+  - teo-metrizacion-urysohn
+projects:
+  - 4-teoria-descriptiva-de-conjuntos
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---

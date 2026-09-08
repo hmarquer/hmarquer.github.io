@@ -1,5 +1,21 @@
 ---
 title: '(Anti)holomorfía en términos de las derivadas de Wirtinger'
+filename: 'prop-fn-holomorfa-iff-wirtinger'
+created: '2025-11-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:14:10.017797165+00:00'
+labels:
+  - prop:fn-holomorfa-iff-wirtinger
+references:
+  - fn-antiholomorfa
+  - fn-clase-ck
+  - fn-holomorfa
+  - operadores-wirtinger
+  - teo-cauchy-riemann
+backlinks:
+  - lem-laplaciano-cambio-variable
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

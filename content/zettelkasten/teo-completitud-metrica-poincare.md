@@ -1,5 +1,17 @@
 ---
-title: 'Teo Completitud Metrica Poincare'
+title: 'Completitud de la métrica de Poincaré'
+filename: 'teo-completitud-metrica-poincare'
+created: '2026-06-12T11:34:18.032031033+00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T16:37:53.748581866+00:00'
+labels:
+  - teo:completitud-metrica-poincare
+references:
+  - completitud-metrica
+  - prop-metrica-poincare
+  - teo-completitud-metrica-pseudohiperbolica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---
@@ -9,6 +21,6 @@ tags:
 
 ## Referencias
 - [completitud-metrica](./completitud-metrica.md)
-- [metrica-poincare](./metrica-poincare.md)
+- [prop-metrica-poincare](./prop-metrica-poincare.md)
 - [teo-completitud-metrica-pseudohiperbolica](./teo-completitud-metrica-pseudohiperbolica.md)
 

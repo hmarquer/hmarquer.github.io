@@ -1,5 +1,26 @@
 ---
 title: 'Preservación de fórmulas existenciales por inmersiones'
+filename: 'lem-preservacion-formulas-existenciales'
+created: '2026-03-26 10:49:47.587268'
+last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
+last_build_date_pdf: '2026-09-08T21:23:32.323766112+00:00'
+labels:
+  - lem:preservacion-formulas-existenciales
+references:
+  - complejidad
+  - estructura
+  - evaluacion
+  - formula
+  - formula-existencial
+  - formula-literal
+  - inmersion-estructuras
+  - lem-preservacion-formulas-sin-cuantificadores-inmersion
+  - lenguaje-primer-orden
+  - satisfaccion
+backlinks:
+  - lem-preservacion-formulas-universales-subestructuras
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

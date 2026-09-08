@@ -1,5 +1,48 @@
 ---
 title: 'Teoría descriptiva de conjuntos'
+name: '4-teoria-descriptiva-de-conjuntos'
+created: '2025-12-11 19:31:56.814044'
+last_edit_date: '2026-09-06T15:26:21.256664465+00:00'
+last_build_date_pdf: '2026-09-08T21:44:59.843003841+00:00'
+inclusions:
+  - apl-abierta
+  - apl-cerrada
+  - base-entornos-topologia
+  - base-topologia
+  - bola-abierta
+  - bola-cerrada
+  - clausura
+  - completitud-metrica
+  - con-denso
+  - continuidad
+  - esp-metrico
+  - esp-metrizable
+  - esp-polaco
+  - esp-segundo-numerable
+  - esp-topologico
+  - esp-topologico-completamente-metrizable
+  - esp-topologico-regular
+  - esp-topologico-separable
+  - frechet-topologia
+  - homeomorfismo
+  - isometria
+  - lem-urysohn
+  - metrica
+  - prop-base-alguna-topologia
+  - prop-con-denso
+  - prop-esp-metrizable-imp-separable-iff-segundo-numerable
+  - prop-segundo-numerable-imp-separable
+  - prop-topologia-generada
+  - subbase-topologia
+  - sucesion
+  - sucesion-cauchy
+  - teo-compleccion-esp-metrico
+  - teo-extension-tietze
+  - teo-metrizacion-urysohn
+  - topologia
+  - topologia-metrica
+  - topologia-subespacio
+  - ultrametrica
 tags:
   - teoria-descriptiva-de-conjuntos
 ---
@@ -23,6 +66,7 @@ tags:
 - [esp-metrico](./esp-metrico.md)
 - [esp-metrizable](./esp-metrizable.md)
 - [esp-polaco](./esp-polaco.md)
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico-completamente-metrizable](./esp-topologico-completamente-metrizable.md)
 - [esp-topologico-regular](./esp-topologico-regular.md)
@@ -37,7 +81,6 @@ tags:
 - [prop-esp-metrizable-imp-separable-iff-segundo-numerable](./prop-esp-metrizable-imp-separable-iff-segundo-numerable.md)
 - [prop-segundo-numerable-imp-separable](./prop-segundo-numerable-imp-separable.md)
 - [prop-topologia-generada](./prop-topologia-generada.md)
-- [segundo-numerable](./segundo-numerable.md)
 - [subbase-topologia](./subbase-topologia.md)
 - [sucesion](./sucesion.md)
 - [sucesion-cauchy](./sucesion-cauchy.md)
@@ -49,3 +92,8 @@ tags:
 - [topologia-subespacio](./topologia-subespacio.md)
 - [ultrametrica](./ultrametrica.md)
 
+## Etiquetas
+#COMPLETAR con la suma de espacios topológicos
+#DEMOSTRACIÓN 
+#EJERCICIO 
+#COMPLETAR 

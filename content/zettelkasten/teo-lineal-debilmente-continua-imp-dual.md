@@ -1,5 +1,20 @@
 ---
 title: 'Toda aplicación lineal débilmente continua es del dual'
+filename: 'teo-lineal-debilmente-continua-imp-dual'
+created: '2025-12-27 18:41:34.194812'
+last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_build_date_pdf: '2026-09-08T16:33:24.892356289+00:00'
+labels:
+  - teo:lineal-debilmente-continua-imp-dual
+references:
+  - apl-lineal
+  - continuidad
+  - dual-topologico
+  - lem-esp-banach-funcionales-lineales-dependientes
+  - norma
+  - topologia-debil
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
 ---

@@ -1,5 +1,19 @@
 ---
 title: 'Lem Cota Modulo Bola Pseudohiperbolica'
+filename: 'lem-cota-modulo-bola-pseudohiperbolica'
+created: '2026-06-12T11:18:27.282289727+00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_build_date_pdf: '2026-09-08T21:25:44.418342382+00:00'
+labels:
+  - lem:cota-modulo-bola-pseudohiperbolica
+references:
+  - prop-bola-pseudohiperbolica-bola-euclidea
+  - prop-metrica-pseudohiperbolica-disco-unidad
+backlinks:
+  - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
+  - teo-completitud-metrica-pseudohiperbolica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

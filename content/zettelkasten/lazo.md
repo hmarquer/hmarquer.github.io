@@ -1,5 +1,19 @@
 ---
 title: 'Lazo'
+filename: 'lazo'
+created: '2025-06-22 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:23.614046882+00:00'
+labels:
+  - defn:lazo
+references:
+  - arco
+  - continuidad
+  - esp-topologico
+backlinks:
+  - primer-grupo-fundamental
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema6
 ---

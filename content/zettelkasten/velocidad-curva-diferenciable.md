@@ -1,5 +1,16 @@
 ---
 title: 'Velocidad de una curva diferenciable'
+filename: 'velocidad-curva-diferenciable'
+created: '2025-02-25 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
+last_build_date_pdf: '2026-09-08T16:29:00.026495506+00:00'
+labels:
+  - defn:velocidad-curva-diferenciable
+references:
+  - curva-diferenciable
+  - esp-tangente-variedad
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
 ---

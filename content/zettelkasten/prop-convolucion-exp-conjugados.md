@@ -1,5 +1,22 @@
 ---
 title: 'Propiedad de la convolución para exponentes conjugados'
+filename: 'prop-convolucion-exp-conjugados'
+created: '2025-11-04 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_build_date_pdf: '2026-09-08T21:15:31.938371622+00:00'
+labels:
+  - prop:convolucion-exp-conjugados
+references:
+  - continuidad-uniforme
+  - convolucion
+  - desigualdad-holder
+  - esp-lp
+  - exponente-conjugado
+  - lem-convergencia-lp-traslacion
+  - norma-lp
+  - traslacion
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

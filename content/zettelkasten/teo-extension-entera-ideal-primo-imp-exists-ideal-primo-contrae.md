@@ -1,5 +1,22 @@
 ---
 title: 'Teo extension entera ideal primo imp exists ideal primo contrae'
+filename: 'teo-extension-entera-ideal-primo-imp-exists-ideal-primo-contrae'
+created: '2026-01-11 12:46:48.748732'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:44.896859791+00:00'
+labels:
+  - teo:extension-entera-ideal-primo-imp-exists-ideal-primo-contrae
+references:
+  - cor-exists-ideal-maximal
+  - cor-ideal-primo-localizacion-extendido
+  - ejer-localizacion-ideal-primo-anillo-local
+  - extension-anillos-entera
+  - ideal-maximal
+  - ideal-primo
+  - prop-ideal-primo-localizacion-extendido-contraido
+  - teo-extension-entera-ideal-primo-maximal-iff-maximal
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema6
 ---

@@ -1,5 +1,19 @@
 ---
 title: 'Si el dual es separable, entonces el espacio es separable'
+filename: 'teo-dual-separable-imp-separable'
+created: '2025-12-25 22:40:19.718738'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:36:41.200383297+00:00'
+labels:
+  - teo:dual-separable-imp-separable
+references:
+  - dual-topologico
+  - esp-separable
+  - norma
+  - prop-con-denso
+  - teo-esp-normado-separacion-punto-subespacio-cerrado
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

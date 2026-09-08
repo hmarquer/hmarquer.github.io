@@ -1,5 +1,33 @@
 ---
 title: 'Propiedades de las involuciones del disco unidad'
+filename: 'lem-involucion-disco-unidad'
+created: '2025-12-10 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
+last_build_date_pdf: '2026-09-08T21:24:11.630583532+00:00'
+labels:
+  - lem:involucion-disco-unidad
+  - lem:involucion-disco-unidad:1
+  - lem:involucion-disco-unidad:2
+  - lem:involucion-disco-unidad:3
+  - lem:involucion-disco-unidad:4
+references:
+  - automorfismo-disco-unidad
+  - involucion-disco-unidad
+backlinks:
+  - cor-3-puntos-recta-hiperbolica
+  - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
+  - ejer-aut-disco-unidad-inversa
+  - lem-carac-fn-holomorfa-disco-unidad-continua-borde-unimodular
+  - lem-invariancia-conforme-longitud-hiperbolica
+  - obs-involucion-disco-unidad-diametro
+  - prop-aut-disco-unidad-inversa
+  - prop-bola-pseudohiperbolica-bola-euclidea
+  - teo-aut-disco-unidad-parametros
+  - teo-formula-aut-disco-unidad
+  - teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema1
   - variable-compleja-ii/tema2

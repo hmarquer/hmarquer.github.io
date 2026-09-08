@@ -1,5 +1,16 @@
 ---
 title: 'Desigualdad de Cauchy'
+filename: 'teo-desigualdad-cauchy'
+created: '2025-05-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:36:59.553215117+00:00'
+labels:
+  - teo:desigualdad-cauchy
+references:
+  - fn-holomorfa
+  - teo-formula-integral-cauchy-derivadas
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema4
 ---

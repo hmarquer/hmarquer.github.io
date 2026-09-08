@@ -1,5 +1,22 @@
 ---
 title: 'Corolario de substitución múltiple en interpretaciones'
+filename: 'cor-substitucion-multiple-interpretacion'
+created: '2026-02-17 19:28:52.506740'
+last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
+last_build_date_pdf: '2026-09-08T21:37:36.956688161+00:00'
+labels:
+  - cor:substitucion-multiple-interpretacion
+references:
+  - estructura
+  - evaluacion
+  - interpretacion-terminos
+  - lem-substitucion-interpretacion
+  - lenguaje-primer-orden
+  - substitucion-terminos
+  - termino
+  - variables
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

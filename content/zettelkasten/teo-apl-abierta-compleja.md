@@ -1,5 +1,23 @@
 ---
 title: 'Teorema de la aplicación abierta en variable compleja'
+filename: 'teo-apl-abierta-compleja'
+created: '2025-11-20 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:09:07.423295403+00:00'
+labels:
+  - teo:apl-abierta-compleja
+references:
+  - apl-abierta
+  - dominio
+  - fn-holomorfa
+  - teo-ceros-aislados
+backlinks:
+  - teo-carac-prod-finito-blaschke
+  - teo-cubrimiento-bloch
+  - teo-modulo-maximo-global
+projects:
+  - 3.2-variable-compleja-i
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema1

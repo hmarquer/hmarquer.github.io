@@ -1,5 +1,22 @@
 ---
 title: 'Teo Fn Holomorfa Disco Unidad No Anula Cota Derivada'
+filename: 'teo-fn-holomorfa-disco-unidad-no-anula-cota-derivada'
+created: '2026-06-14T17:46:26.413656222+00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:16.271368566+00:00'
+labels:
+  - teo:fn-holomorfa-disco-unidad-no-anula-cota-derivada
+references:
+  - conexion-simple
+  - fn-compleja-derivable-pnt
+  - fn-holomorfa
+  - prop-subordinacion-parte-real-positiva
+  - teo-fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia
+backlinks:
+  - cor-fn-holomorfa-acotada-no-anula-cota-derivada
+  - teo-cubrimiento-landau
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema4
 ---

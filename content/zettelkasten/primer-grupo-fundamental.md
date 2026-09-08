@@ -1,5 +1,23 @@
 ---
 title: 'Primer grupo fundamental'
+filename: 'primer-grupo-fundamental'
+created: '2025-05-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:17:39.427973551+00:00'
+labels:
+  - teo:primer-grupo-fundamental
+references:
+  - concatenacion-arcos
+  - esp-topologico
+  - grupo
+  - lazo
+  - prop-clases-homotopia-arcos
+backlinks:
+  - conexion-simple
+  - lem-primer-grupo-fundamental-morfismo-inducido
+  - prop-primer-grupo-fundamental-conexion-arcos
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema6
 ---

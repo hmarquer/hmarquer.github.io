@@ -1,5 +1,20 @@
 ---
 title: 'Teorema universal de las aplicaciones cocientes'
+filename: 'teo-universal-apl-cociente'
+created: '2025-02-26 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:31:07.984697764+00:00'
+labels:
+  - teo:universal-apl-cociente
+references:
+  - apl-cociente
+  - continuidad
+  - esp-topologico
+  - fibra
+backlinks:
+  - cor-universal-submersion-sobreyectiva
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

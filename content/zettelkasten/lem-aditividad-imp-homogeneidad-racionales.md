@@ -1,5 +1,22 @@
 ---
 title: 'Lem aditividad imp homogeneidad racionales'
+filename: 'lem-aditividad-imp-homogeneidad-racionales'
+created: '2025-09-30 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:14.525647834+00:00'
+labels:
+  - dem:aditividad-imp-homogeneidad-racionales:i
+  - dem:aditividad-imp-homogeneidad-racionales:ii
+  - dem:aditividad-imp-homogeneidad-racionales:iii
+  - lem:aditividad-imp-homogeneidad-racionales
+references:
+  - aditividad
+  - homogeneidad
+backlinks:
+  - lem-aditiva-no-homogenea-imp-grafica-densa
+  - lem-aditividad-continuidad-imp-homogeneidad
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema1
 ---

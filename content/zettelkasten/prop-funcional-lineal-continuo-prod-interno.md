@@ -1,5 +1,26 @@
 ---
 title: 'El funcional definido por el producto interno es lineal y continuo'
+filename: 'prop-funcional-lineal-continuo-prod-interno'
+created: '2025-10-29 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:56.671431183+00:00'
+labels:
+  - prop:funcional-lineal-continuo-prod-interno
+references:
+  - apl-lineal
+  - continuidad
+  - desigualdad-cauchy-schwarz
+  - esp-hilbert
+  - norma
+  - prod-interno
+  - teo-carac-continuidad-apl-lineal
+backlinks:
+  - operador-autoadjunto
+  - operador-unitario
+  - teo-representacion-riesz
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

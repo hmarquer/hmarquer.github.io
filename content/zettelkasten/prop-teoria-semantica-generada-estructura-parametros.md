@@ -1,5 +1,21 @@
 ---
 title: 'Teoría semántica generada por una estructura con parámetros'
+filename: 'prop-teoria-semantica-generada-estructura-parametros'
+created: '2026-03-27 10:25:59.948026'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_build_date_pdf: '2026-09-08T21:12:19.316834106+00:00'
+labels:
+  - prop:teoria-semantica-generada-estructura-parametros
+references:
+  - ejem-expansion-estructura-parametros
+  - enunciado
+  - estructura
+  - satisfaccion
+  - satisfacibilidad
+  - teoria-semantica
+  - teoria-semantica-completa
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

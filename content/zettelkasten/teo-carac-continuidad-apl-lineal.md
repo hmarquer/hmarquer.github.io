@@ -1,5 +1,26 @@
 ---
 title: 'Caracterización de la continuidad de una aplicación lineal'
+filename: 'teo-carac-continuidad-apl-lineal'
+created: '2025-10-29 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:08:05.378224829+00:00'
+labels:
+  - teo:carac-continuidad-apl-lineal
+references:
+  - apl-lineal
+  - continuidad
+  - continuidad-uniforme
+  - esp-vectorial
+  - norma
+backlinks:
+  - lem-separacion-punto-conjunto-convexo-abierto
+  - prop-apl-adjunta-lineal-continua-norma
+  - prop-funcional-lineal-continuo-prod-interno
+  - teo-esp-normado-separacion-punto-subespacio-cerrado
+  - teo-esp-reflexivo-iff-dual-reflexivo
+  - teo-hahn-banach-ii
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---

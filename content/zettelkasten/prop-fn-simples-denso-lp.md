@@ -1,5 +1,22 @@
 ---
 title: 'Densidad de las funciones simples en $L^p$'
+filename: 'prop-fn-simples-denso-lp'
+created: '2025-10-19 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:14:09.125391258+00:00'
+labels:
+  - prop:fn-simples-denso-lp
+references:
+  - con-denso
+  - esp-lp
+  - esp-medida
+  - fn-simple
+  - lem-aprox-fn-simple
+  - teo-convergencia-dominada
+backlinks:
+  - teo-fn-continua-soporte-compacto-denso-lp
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema1
 ---

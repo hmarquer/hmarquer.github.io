@@ -1,5 +1,30 @@
 ---
 title: 'Convergencia uniforme de funciones'
+filename: 'convergencia-uniforme'
+created: '2025-03-03 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:37.065248891+00:00'
+labels:
+  - defn:convergencia-uniforme
+references:
+  - convergencia
+  - esp-metrico
+backlinks:
+  - convergencia-localmente-uniforme
+  - convergencia-uniforme-compactos
+  - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
+  - lem-convergencia-uniforme-esp-finito-imp-lp
+  - lem-convergencia-uniforme-imp-ctp
+  - prop-convergencia-uniforme-borde-imp-convergencia-uniforme-interior
+  - prop-convergencia-uniforme-continuidad-uniforme
+  - prop-convergencia-uniforme-imp-medida
+  - teo-abel
+  - teo-cauchy-hadamard
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 3.2-variable-compleja-i
+  - 4.1-variable-real
+  - 4.2-variable-compleja-ii
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-compleja-i/tema3

@@ -1,5 +1,19 @@
 ---
 title: 'Cor Sup Derivada Hiperbolica Aut Disco Unidad'
+filename: 'cor-sup-derivada-hiperbolica-aut-disco-unidad'
+created: '2026-06-12T14:46:05.683822628+00:00'
+last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
+last_build_date_pdf: '2026-09-08T21:37:25.139169602+00:00'
+labels:
+  - cor:sup-derivada-hiperbolica-aut-disco-unidad
+references:
+  - automorfismo-disco-unidad
+  - derivada-hiperbolica
+  - fn-holomorfa
+  - involucion-disco-unidad
+  - lem-invarianza-derivada-hiperbolica-aut-disco-unidad
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

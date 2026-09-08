@@ -1,5 +1,20 @@
 ---
 title: 'Operador unitario'
+filename: 'operador-unitario'
+created: '2026-03-11 21:34:15.456391'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:18:24.903697559+00:00'
+labels:
+  - defn:operador-unitario
+references:
+  - esp-apl-lineales-continuas
+  - esp-hilbert
+  - prop-funcional-lineal-continuo-prod-interno
+backlinks:
+  - post-evolucion-temporal-sistema-cuantico
+  - prop-operador-unitario-iff-isometria-sobreyectiva
+projects:
+  - 4.2-fisica-cuantica
 tags:
   - fisica-cuantica/tema1-3
 ---

@@ -1,7 +1,32 @@
 ---
 title: 'Ideal maximal'
+filename: 'ideal-maximal'
+created: '2025-09-16 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_build_date_pdf: '2026-09-08T21:28:36.231153191+00:00'
+labels:
+  - defn:ideal-maximal
+references:
+  - anillo
+  - ideal
+backlinks:
+  - anillo-local
+  - cor-exists-ideal-maximal
+  - cor-ideal-maximal-imp-primo
+  - ejer-localizacion-ideal-primo-anillo-local
+  - lem-anillo-polinomios-variables-cuerpo-ideal-maximal-extension-algebraica-grado-finito
+  - prop-ideal-maximal-iff-cociente-cuerpo
+  - prop-ideales-primos-dominio-ideales-principales
+  - teo-extension-entera-ideal-primo-imp-exists-ideal-primo-contrae
+  - teo-extension-entera-ideal-primo-maximal-iff-maximal
+  - teo-ideal-imp-exists-ideal-maximal-contiene
+  - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
+projects:
+  - 3.1-teoria-de-galois
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
+  - teoria-de-galois/tema1
 ---
 
 [[ideal-maximal.pdf]]

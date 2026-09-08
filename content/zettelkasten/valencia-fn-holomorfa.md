@@ -1,5 +1,16 @@
 ---
 title: 'Valencia de una función holomorfa'
+filename: 'valencia-fn-holomorfa'
+created: '2025-12-15 11:57:16.993292'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:29:43.461887402+00:00'
+labels:
+  - defn:valencia-fn-holomorfa
+references:
+  - fn-holomorfa
+  - orden-cero-fn-holomorfa
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/tema3
 ---

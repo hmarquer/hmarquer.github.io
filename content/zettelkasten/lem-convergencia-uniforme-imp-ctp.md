@@ -1,5 +1,17 @@
 ---
 title: 'Lem convergencia uniforme imp ctp'
+filename: 'lem-convergencia-uniforme-imp-ctp'
+created: '2025-11-01 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_build_date_pdf: '2026-09-08T21:25:44.298620121+00:00'
+labels:
+  - lem:convergencia-uniforme-imp-ctp
+references:
+  - convergencia-puntual
+  - convergencia-uniforme
+  - esp-metrico
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema2
 ---

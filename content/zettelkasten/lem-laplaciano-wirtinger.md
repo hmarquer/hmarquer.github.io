@@ -1,5 +1,19 @@
 ---
 title: 'Fórmula para el laplaciano en función de las derivadas de Wirtinger'
+filename: 'lem-laplaciano-wirtinger'
+created: '2025-11-12 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
+last_build_date_pdf: '2026-09-08T21:23:54.215749778+00:00'
+labels:
+  - lem:laplaciano-wirtinger
+references:
+  - fn-clase-ck
+  - laplaciano
+  - operadores-wirtinger
+backlinks:
+  - lem-laplaciano-cambio-variable
+projects:
+  - 4-productos-finitos-de-blaschke
 tags:
   - productos-finitos-de-blaschke/anexo
 ---

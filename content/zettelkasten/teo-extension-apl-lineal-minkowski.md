@@ -1,5 +1,22 @@
 ---
 title: 'Teorema de extensión de una aplicación lineal según un funcional de Minkowski'
+filename: 'teo-extension-apl-lineal-minkowski'
+created: '2025-12-13 17:41:23.253778'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:47.395031840+00:00'
+labels:
+  - dem:extension-apl-lineal-minkowski:1
+  - teo:extension-apl-lineal-minkowski
+references:
+  - apl-lineal
+  - esp-vectorial
+  - funcional-minkowski
+  - lem-zorn
+  - subesp-vectorial
+backlinks:
+  - teo-hahn-banach-i
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

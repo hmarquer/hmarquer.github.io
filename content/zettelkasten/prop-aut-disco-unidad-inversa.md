@@ -1,5 +1,21 @@
 ---
 title: 'Prop Aut Disco Unidad Inversa'
+filename: 'prop-aut-disco-unidad-inversa'
+created: '2026-06-13T17:18:46.698341613+00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_build_date_pdf: '2026-09-08T21:16:44.115429602+00:00'
+labels:
+  - prop:aut-disco-unidad-inversa
+references:
+  - automorfismo-disco-unidad
+  - ejem-rotacion-disco-unidad
+  - involucion-disco-unidad
+  - lem-involucion-disco-unidad
+  - lem-involucion-disco-unidad-rho
+backlinks:
+  - teo-camino-minimo-poincare
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema2
 ---

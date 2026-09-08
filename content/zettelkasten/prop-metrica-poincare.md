@@ -1,5 +1,27 @@
 ---
 title: 'Prop metrica poincare'
+filename: 'prop-metrica-poincare'
+created: '2026-02-23 10:48:28.570032'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:21.475069283+00:00'
+labels:
+  - prop:metrica-poincare
+references:
+  - lem-desigualdad-triangular-producto-hiperbolico
+  - metrica
+  - prop-metrica-pseudohiperbolica-disco-unidad
+  - teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada
+backlinks:
+  - cor-cota-lipschitz-dominios-bloch
+  - derivada-hiperbolica
+  - lem-camino-minimo-poincare-0-r
+  - lem-comparacion-metricas-pseudohiperbolica-poincare-euclidea
+  - lem-distorsion-hiperbolica-euclidea-global
+  - teo-camino-minimo-poincare
+  - teo-completitud-metrica-poincare
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3

@@ -1,5 +1,22 @@
 ---
 title: 'Función holomorfa cuya parte real es una armónica dada'
+filename: 'prop-fn-armonica-simplemente-conexo-imp-holomorfa'
+created: '2026-06-10T09:23:43.646700639+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:14:25.510677478+00:00'
+labels:
+  - prop:fn-armonica-simplemente-conexo-imp-holomorfa
+references:
+  - conexion-simple
+  - fn-armonica
+  - fn-holomorfa
+  - prop-fn-armonica-imp-derivada-holomorfa
+  - teo-cauchy-riemann
+  - teo-fn-holomorfa-imp-exists-primitiva
+backlinks:
+  - teo-max-fn-armonica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema2
 ---

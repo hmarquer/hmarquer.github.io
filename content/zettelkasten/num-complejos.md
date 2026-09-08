@@ -1,5 +1,36 @@
 ---
 title: 'Números complejos'
+filename: 'num-complejos'
+created: '2025-01-29 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.232661052+00:00'
+last_build_date_pdf: '2026-09-08T21:19:47.134468186+00:00'
+labels:
+  - defn:num-complejos
+references:
+  - anillo
+  - cuerpo
+  - esp-vectorial
+  - extension
+  - grupo
+  - morfismo-anillos
+backlinks:
+  - circunferencia-generalizada
+  - esp-hermitico
+  - fn-hiperbolicas-complejas
+  - fn-holomorfa
+  - fn-potencia-compleja
+  - fn-trigonometricas-complejas
+  - log-complejo
+  - num-complejo-arg
+  - num-complejo-arg-principal
+  - num-complejo-conjugado
+  - num-complejo-modulo
+  - plano-complejo-extendido
+  - prop-orden-total-num-complejos
+  - rama-principal-log-complejo
+  - teo-fundamental-algebra
+projects:
+  - 3.2-variable-compleja-i
 tags:
   - variable-compleja-i/tema1
 ---

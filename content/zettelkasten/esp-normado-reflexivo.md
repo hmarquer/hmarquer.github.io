@@ -1,5 +1,23 @@
 ---
 title: 'Espacio normado reflexivo'
+filename: 'esp-normado-reflexivo'
+created: '2025-12-20 19:51:08.543913'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
+last_build_date_pdf: '2026-09-08T21:33:03.833968057+00:00'
+labels:
+  - defn:esp-normado-reflexivo
+references:
+  - ejem-funcional-evaluacion-bidual
+  - norma
+backlinks:
+  - teo-esp-banach-uniformemente-convexo-reflexivo-fn-convexa-coercitiva-semicontinua-inferior-minimo
+  - teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta
+  - teo-esp-reflexivo-iff-dual-reflexivo
+  - teo-isometria-biyectiva-reflexividad
+  - teo-milman-pettis
+  - teo-subespacio-reflexivo
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

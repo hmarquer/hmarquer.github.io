@@ -1,5 +1,22 @@
 ---
 title: 'Todo espacio $\mathcal{L}^p$ es un espacio vectorial'
+filename: 'lem-esp-lp-vectorial'
+created: '2025-03-14 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_build_date_pdf: '2026-09-08T21:24:56.219529421+00:00'
+labels:
+  - lem:esp-lp-vectorial
+references:
+  - esp-lp
+  - esp-medida
+  - esp-vectorial
+  - linealidad-integral
+  - norma
+backlinks:
+  - lem-esp-lp-normado
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 4.1-variable-real
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
   - variable-real/tema1
@@ -9,7 +26,6 @@ tags:
 ![[lem-esp-lp-vectorial.pdf]]
 
 ## Referencias
-- [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [esp-lp](./esp-lp.md)
 - [esp-medida](./esp-medida.md)
 - [esp-vectorial](./esp-vectorial.md)

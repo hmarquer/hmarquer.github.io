@@ -1,5 +1,18 @@
 ---
 title: 'Ejem continuidad derivadas laterales imp dini'
+filename: 'ejem-continuidad-derivadas-laterales-imp-dini'
+created: '2026-01-13 09:59:15.691916'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:35:18.933183869+00:00'
+labels:
+  - ejem:continuidad-derivadas-laterales-imp-dini
+references:
+  - esp-lp
+  - prop-criterio-dini
+backlinks:
+  - prop-criterio-dirichlet
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema4
 ---

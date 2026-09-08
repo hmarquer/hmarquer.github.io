@@ -1,5 +1,26 @@
 ---
 title: 'Estructura diferenciable inducida por un homeomorfismo'
+filename: 'prop-estructura-diferenciable-inducida-homeomorfismo'
+created: '2025-06-06 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_build_date_pdf: '2026-09-08T21:14:26.459803972+00:00'
+labels:
+  - prop:estructura-diferenciable-inducida-homeomorfismo
+references:
+  - atlas
+  - atlas-diferenciable
+  - c-infty-compatibilidad
+  - carta
+  - esp-topologico
+  - estructura-diferenciable
+  - homeomorfismo
+  - teo-existencia-unicidad-estructura-diferenciable
+  - variedad-diferenciable
+backlinks:
+  - lem-subvariedad-diferenciable
+  - lem-subvariedad-diferenciable-imp-variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

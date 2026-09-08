@@ -1,5 +1,21 @@
 ---
 title: 'Desigualdad jensen condicional'
+filename: 'desigualdad-jensen-condicional'
+created: '2025-06-14 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
+last_build_date_pdf: '2026-09-08T21:36:31.351566919+00:00'
+labels:
+  - lem:desigualdad-jensen-condicional
+references:
+  - esp-probabilidad
+  - esperanza-condicionada-sigma-algebra
+  - fn-convexa
+  - fn-integrable
+  - sigma-algebra
+backlinks:
+  - cor-fn-convexa-martingala-submartingala
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema4
 ---

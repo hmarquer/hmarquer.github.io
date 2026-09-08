@@ -1,5 +1,24 @@
 ---
 title: 'Teo subvariedad diferenciable fibra apl diferenciable'
+filename: 'teo-subvariedad-diferenciable-fibra-apl-diferenciable'
+created: '2025-06-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:31:20.468417813+00:00'
+labels:
+  - teo:subvariedad-diferenciable-fibra-apl-diferenciable
+references:
+  - apl-diferenciable
+  - carta-d-rebanada
+  - codimension-subvariedad-diferenciable
+  - d-rebanada
+  - fibra
+  - subvariedad-diferenciable
+  - teo-cartas-adaptadas-submersion
+  - teo-subvariedad-iff-carta-d-rebanada
+  - val-regular-apl-diferenciable
+  - variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema5
 ---

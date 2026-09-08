@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de existencia y unicidad de una estructura diferenciable'
+filename: 'teo-existencia-unicidad-estructura-diferenciable'
+created: '2025-05-31 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:35:48.483864992+00:00'
+labels:
+  - teo:existencia-unicidad-estructura-diferenciable
+references:
+  - atlas-diferenciable
+  - c-infty-compatibilidad
+  - esp-topologico
+  - estructura-diferenciable
+backlinks:
+  - esp-proyectivo-real
+  - prop-estructura-diferenciable-inducida-homeomorfismo
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

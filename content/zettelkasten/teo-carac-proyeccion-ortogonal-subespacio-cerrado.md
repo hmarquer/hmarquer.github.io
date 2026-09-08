@@ -1,5 +1,22 @@
 ---
 title: 'Caracterización de la proyección ortogonal en un subespacio cerrado'
+filename: 'teo-carac-proyeccion-ortogonal-subespacio-cerrado'
+created: '2025-10-28 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
+last_build_date_pdf: '2026-09-08T21:07:48.597467758+00:00'
+labels:
+  - teo:carac-proyeccion-ortogonal-subespacio-cerrado
+references:
+  - esp-hilbert
+  - ortogonalidad
+  - prop-carac-proyeccion-ortogonal-convexo-cerrado
+  - prop-proyeccion-ortogonal-convexo-cerrado
+  - subesp-vectorial
+backlinks:
+  - prop-descomposicion-ortogonal
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - variable-real/tema3

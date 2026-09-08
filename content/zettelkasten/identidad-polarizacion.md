@@ -1,5 +1,21 @@
 ---
 title: 'Identidad de polarización'
+filename: 'identidad-polarizacion'
+created: '2025-09-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_build_date_pdf: '2026-09-08T21:28:23.247190155+00:00'
+labels:
+  - prop:identidad-polarizacion
+references:
+  - esp-vectorial
+  - norma-inducida
+  - prod-interno
+backlinks:
+  - prop-carac-proyeccion-ortogonal-convexo-cerrado
+  - teo-prod-interno-iff-identidad-paralelogramo
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

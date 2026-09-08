@@ -1,5 +1,22 @@
 ---
 title: 'Topología cociente'
+filename: 'topologia-cociente'
+created: '2025-02-11 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:30:26.040758096+00:00'
+labels:
+  - defn:topologia-cociente
+references:
+  - esp-topologico
+  - prop-topologia-inducida-fn-sobre
+  - relacion-equivalencia
+backlinks:
+  - esp-proyectivo
+  - esp-proyectivo-real
+  - lem-relacion-equivalencia-abierta-segundo-numerable
+  - prop-fn-continua-cociente-iff-composicion-continua
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---

@@ -1,5 +1,21 @@
 ---
 title: 'Si la imagen al pasar por elementos del dual es acotada, el conjunto es acotado'
+filename: 'lem-acotado-dual-imp-acotado'
+created: '2025-12-27 18:18:26.103696'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_build_date_pdf: '2026-09-08T21:27:18.590232338+00:00'
+labels:
+  - lem:acotado-dual-imp-acotado
+references:
+  - con-acotado
+  - dual-topologico
+  - ejem-funcional-evaluacion-bidual
+  - esp-banach
+  - teo-banach-steinhaus
+backlinks:
+  - prop-norma-semicontinua-inf-convergencia-debil
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
 ---

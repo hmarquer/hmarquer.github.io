@@ -1,5 +1,25 @@
 ---
 title: 'Prop teoria generada estructura'
+filename: 'teoria-semantica-generada-estructura'
+created: '2026-03-26 12:30:19.574700'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:30:53.550768788+00:00'
+labels:
+  - prop:teoria-semantica-generada-estructura
+references:
+  - consecuencia-semantica
+  - enunciado
+  - estructura
+  - modelo
+  - satisfaccion
+  - satisfacibilidad
+  - teoria-semantica
+backlinks:
+  - equivalencia-elemental-estructuras
+  - teo-carac-teorias-semanticas-completas
+  - teoria-semantica-completa
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

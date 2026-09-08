@@ -1,5 +1,19 @@
 ---
 title: 'Ecuación de ondas en dimensión $1$'
+filename: 'ecu-ondas-dim1'
+created: '2025-05-06 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:35:25.597621016+00:00'
+labels:
+  - defn:ecu-ondas-dim1
+references:
+  - ecu-derivadas-parciales
+  - edp-lineal
+  - orden-edp
+backlinks:
+  - teo-formula-dalembert
+projects:
+  - 4.2-fisica-cuantica
 tags:
   - fisica-cuantica/tema1-2
 ---

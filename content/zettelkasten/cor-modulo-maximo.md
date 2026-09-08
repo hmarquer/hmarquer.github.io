@@ -1,5 +1,21 @@
 ---
 title: 'Corolario del principio del módulo máximo'
+filename: 'cor-modulo-maximo'
+created: '2026-02-04 11:04:37.878679'
+last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_build_date_pdf: '2026-09-08T21:38:11.017845562+00:00'
+labels:
+  - cor:modulo-maximo
+references:
+  - continuidad
+  - dominio
+  - fn-holomorfa
+  - teo-modulo-maximo
+backlinks:
+  - prop-convergencia-uniforme-borde-imp-convergencia-uniforme-interior
+projects:
+  - 3.2-variable-compleja-i
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-i/tema4
   - variable-compleja-ii/tema2

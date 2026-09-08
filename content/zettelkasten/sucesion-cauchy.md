@@ -1,5 +1,30 @@
 ---
 title: 'Sucesión de Cauchy'
+filename: 'sucesion-cauchy'
+created: '2025-02-05 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:09:05.626425110+00:00'
+labels:
+  - defn:sucesion-cauchy
+references:
+  - metrica
+  - sucesion
+backlinks:
+  - completitud-metrica
+  - criterio-cauchy
+  - prop-convergencia-imp-cauchy
+  - prop-esp-dual-banach
+  - teo-cerrado-convexo-hilbert-imp-exists-min-norma
+  - teo-comparacion-weierstrass
+  - teo-compleccion-esp-metrico
+  - teo-convergencia-martingalas
+  - teo-convergencia-serie-imp-lim-0
+  - teo-esp-lp-banach
+projects:
+  - 3.2-variable-compleja-i
+  - 4-teoria-descriptiva-de-conjuntos
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - teoria-descriptiva-de-conjuntos/tema1

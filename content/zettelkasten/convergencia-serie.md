@@ -1,5 +1,32 @@
 ---
 title: 'Convergencia-serie'
+filename: 'convergencia-serie'
+created: '2025-03-19 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:40.941025699+00:00'
+labels:
+  - defn:convergencia-serie
+references:
+  - convergencia
+  - esp-vectorial
+  - norma
+  - serie
+backlinks:
+  - base-schauder
+  - convergencia-absoluta-serie
+  - convergencia-serie-laurent
+  - cor-convergencia-serie-cualquier-n0
+  - criterio-cauchy
+  - fn-analitica
+  - prop-carac-esp-banach-convergencia-series
+  - serie-formal-potencias-radio-convergencia
+  - teo-abel
+  - teo-cociente-dalembert
+  - teo-comparacion-weierstrass
+  - teo-convergencia-serie-imp-lim-0
+projects:
+  - 3.2-variable-compleja-i
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
   - variable-compleja-i/tema3

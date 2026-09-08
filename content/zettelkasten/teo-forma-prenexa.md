@@ -1,5 +1,23 @@
 ---
 title: 'Teorema de la forma prenexa'
+filename: 'teo-forma-prenexa'
+created: '2026-03-26 11:55:32.843930'
+last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
+last_build_date_pdf: '2026-09-08T16:34:51.999516509+00:00'
+labels:
+  - teo:forma-prenexa
+references:
+  - aparicion
+  - complejidad
+  - equivalencia-semantica
+  - formula
+  - formula-atomica
+  - formula-prenexa
+  - formula-sin-cuantificadores
+  - lem-equivalencia-semantica-cuantificadores
+  - variables
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

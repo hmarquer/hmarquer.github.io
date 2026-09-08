@@ -1,5 +1,22 @@
 ---
 title: 'Lema de equivalencia semántica de cuantificadores'
+filename: 'lem-equivalencia-semantica-cuantificadores'
+created: '2026-03-26 11:51:41.078979'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_build_date_pdf: '2026-09-08T21:25:08.359191533+00:00'
+labels:
+  - lem:equivalencia-semantica-cuantificadores
+references:
+  - equivalencia-semantica
+  - lem-independencia-variables-no-libres
+  - lem-propiedades-equivalencia-semantica
+  - variable-simple-formula-libre-ligada
+  - variables
+backlinks:
+  - lem-preservacion-formulas-universales-subestructuras
+  - teo-forma-prenexa
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

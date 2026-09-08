@@ -1,5 +1,35 @@
 ---
 title: 'Esperanza condicionada a una $\sigma$-álgebra'
+filename: 'esperanza-condicionada-sigma-algebra'
+created: '2025-03-24 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
+last_build_date_pdf: '2026-09-08T21:32:14.325654647+00:00'
+labels:
+  - prop:esperanza-condicionada-sigma-algebra
+references:
+  - continuidad-absoluta
+  - esp-lp
+  - esp-probabilidad
+  - esperanza
+  - fn-medible
+  - sigma-algebra
+  - smedida
+  - teo-convergencia-dominada
+  - teo-radon-nikodym
+backlinks:
+  - desigualdad-jensen-condicional
+  - lem-esperanza-condicionada
+  - lem-esperanza-condicionada-mejor-aprox
+  - lem-sigma-algebra-parada-esperanza-condicionada
+  - martingala
+  - prop-esperanza-condicionada-sigma-algebra-indep
+  - prop-esperanza-condicionada-sigma-algebras-anidadas
+  - submartingala
+  - supermartingala
+  - teo-parada-opcional
+projects:
+  - 3.2-probabilidad-ii
+  - 4.2-aprendizaje-automatico
 tags:
   - aprendizaje-automatico/apendice
   - probabilidad-ii/tema4

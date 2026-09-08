@@ -1,5 +1,35 @@
 ---
 title: 'Espacio proyectivo real'
+filename: 'esp-proyectivo-real'
+created: '2025-03-06 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
+last_build_date_pdf: '2026-09-08T21:32:50.443085457+00:00'
+labels:
+  - defn:esp-proyectivo-real
+references:
+  - apl-abierta
+  - atlas
+  - atlas-diferenciable
+  - c-infty-compatibilidad
+  - carta
+  - esp-proyectivo
+  - esp-segundo-numerable
+  - esp-topologico
+  - esp-vectorial
+  - estructura-diferenciable
+  - hausdorff-topologia
+  - homeomorfismo
+  - lem-relacion-equivalencia-abierta-hausdorff
+  - lem-relacion-equivalencia-abierta-segundo-numerable
+  - prop-fn-continua-cociente-iff-composicion-continua
+  - relacion-equivalencia-abierta
+  - teo-existencia-unicidad-estructura-diferenciable
+  - topologia-cociente
+  - topologia-producto
+  - topologia-subespacio
+  - variedad-diferenciable
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
 ---
@@ -14,6 +44,7 @@ tags:
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 - [carta](./carta.md)
 - [esp-proyectivo](./esp-proyectivo.md)
+- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
@@ -23,7 +54,6 @@ tags:
 - [lem-relacion-equivalencia-abierta-segundo-numerable](./lem-relacion-equivalencia-abierta-segundo-numerable.md)
 - [prop-fn-continua-cociente-iff-composicion-continua](./prop-fn-continua-cociente-iff-composicion-continua.md)
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
-- [segundo-numerable](./segundo-numerable.md)
 - [teo-existencia-unicidad-estructura-diferenciable](./teo-existencia-unicidad-estructura-diferenciable.md)
 - [topologia-cociente](./topologia-cociente.md)
 - [topologia-producto](./topologia-producto.md)

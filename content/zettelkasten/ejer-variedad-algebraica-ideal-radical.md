@@ -1,5 +1,19 @@
 ---
 title: 'Un ideal y su radical definen la misma variedad algebraica'
+filename: 'ejer-variedad-algebraica-ideal-radical'
+created: '2025-12-17 16:46:18.303039'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
+last_build_date_pdf: '2026-09-08T21:33:58.502891053+00:00'
+labels:
+  - ejer:variedad-algebraica-ideal-radical
+references:
+  - anillo-polinomios
+  - con-ceros-polinomios-esp-afin
+  - dominio-integridad
+  - ideal
+  - radical-ideal
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema3
 ---

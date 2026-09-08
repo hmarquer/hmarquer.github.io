@@ -1,5 +1,19 @@
 ---
 title: 'Lem transformada fourier derivada'
+filename: 'lem-transformada-fourier-derivada'
+created: '2026-01-13 12:05:23.403388'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:13.022797377+00:00'
+labels:
+  - lem:transformada-fourier-derivada
+references:
+  - esp-lp
+  - fn-derivable
+  - transformada-fourier-l1
+backlinks:
+  - prop-transformada-fourier-derivada-n
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema5
 ---

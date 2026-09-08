@@ -1,5 +1,23 @@
 ---
 title: 'El funcional de evaluación como elemento del bidual'
+filename: 'ejem-funcional-evaluacion-bidual'
+created: '2025-12-20 19:27:46.595431'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_build_date_pdf: '2026-09-08T21:35:08.657555355+00:00'
+labels:
+  - ejem:funcional-evaluacion-bidual
+references:
+  - dual-topologico
+  - esp-bidual
+  - norma
+  - teo-esp-normado-separacion-punto-cero
+backlinks:
+  - esp-normado-reflexivo
+  - lem-acotado-dual-imp-acotado
+  - teo-esp-reflexivo-iff-dual-reflexivo
+  - teo-isometria-biyectiva-reflexividad
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

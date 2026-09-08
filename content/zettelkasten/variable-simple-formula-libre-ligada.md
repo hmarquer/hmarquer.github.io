@@ -1,5 +1,25 @@
 ---
 title: 'Variable simple formula libre ligada'
+filename: 'variable-simple-formula-libre-ligada'
+created: '2026-02-07 20:52:38.668857'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_build_date_pdf: '2026-09-08T16:29:29.580774126+00:00'
+labels:
+  - defn:variable-simple-formula-libre-ligada
+references:
+  - aparicion
+  - aparicion-variable-simple-formula-libre-ligada
+  - formula
+  - variables
+backlinks:
+  - axiomas-logicos
+  - clausura-universal
+  - enunciado
+  - lem-equivalencia-semantica-cuantificadores
+  - lem-substitucion-formulas
+  - obs-cambio-variables
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-1
 ---

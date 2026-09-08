@@ -1,5 +1,35 @@
 ---
 title: 'Todo espacio $\mathcal{L}^p$ es de Banach'
+filename: 'teo-esp-lp-banach'
+created: '2025-09-18 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
+last_build_date_pdf: '2026-09-08T16:36:21.279703519+00:00'
+labels:
+  - dem:teo-esp-lp-banach:eq1
+  - dem:teo-esp-lp-banach:eq2
+  - dem:teo-esp-lp-banach:eq3
+  - teo:esp-lp-banach
+references:
+  - completitud-metrica
+  - desigualdad-minkowski
+  - esp-banach
+  - esp-lp
+  - esp-medida
+  - lem-esp-lp-normado
+  - lem-fatou
+  - norma
+  - norma-lp
+  - sucesion-cauchy
+  - teo-convergencia-monotona
+backlinks:
+  - prop-convergencia-lp-imp-subsucesion-ctp
+  - prop-esp-c0-banach
+  - teo-convergencia-martingalas
+  - teo-esp-l2-hilbert
+projects:
+  - 3.2-ecuaciones-en-derivadas-parciales
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4

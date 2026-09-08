@@ -1,5 +1,19 @@
 ---
 title: 'Estructura producto'
+filename: 'estructura-producto'
+created: '2026-03-26 18:51:39.184200'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
+last_build_date_pdf: '2026-09-08T21:32:13.128382387+00:00'
+labels:
+  - defn:estructura-producto
+references:
+  - constante
+  - estructura
+backlinks:
+  - lem-proyeccion-cartesiana-morfismo
+  - teo-preservacion-formulas-horn-producto
+projects:
+  - 4.2-logica-matematica
 tags:
   - logica-matematica/tema1-2
 ---

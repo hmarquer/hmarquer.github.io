@@ -1,5 +1,24 @@
 ---
 title: 'Lema de separación de un punto y un conjunto convexo abierto'
+filename: 'lem-separacion-punto-conjunto-convexo-abierto'
+created: '2025-12-20 18:34:59.298745'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:22:49.907614254+00:00'
+labels:
+  - lem:separacion-punto-conjunto-convexo-abierto
+references:
+  - clausura
+  - con-convexo
+  - dual-topologico
+  - esp-vectorial
+  - lem-funcional-minkowski-conjunto-convexo
+  - norma
+  - teo-carac-continuidad-apl-lineal
+  - teo-hahn-banach-ii
+backlinks:
+  - teo-convexo-imp-cerrado-debil-iff-fuerte
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema3
 ---

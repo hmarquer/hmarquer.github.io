@@ -1,5 +1,17 @@
 ---
 title: 'Principio del argumento'
+filename: 'teo-principio-argumento'
+created: '2026-04-26T22:15:55.069774500+00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:32:21.213206082+00:00'
+labels:
+  - teo:principio-argumento
+references:
+  - camino
+  - dominio
+  - integral-linea-compleja
+  - numero-ceros-fn-holomorfa-camino
+  - numero-polos-fn-meromorfa-camino
 ---
 
 [[teo-principio-argumento.pdf]]
@@ -10,7 +22,7 @@ title: 'Principio del argumento'
 - [dominio](./dominio.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 - [numero-ceros-fn-holomorfa-camino](./numero-ceros-fn-holomorfa-camino.md)
-- [numero-polos-fn-holomorfa-camino](./numero-polos-fn-holomorfa-camino.md)
+- [numero-polos-fn-meromorfa-camino](./numero-polos-fn-meromorfa-camino.md)
 
 ## Etiquetas
 #REVISAR 

@@ -1,5 +1,27 @@
 ---
 title: 'Ley débil de los grandes números'
+filename: 'ley-debil-grandes-numeros'
+created: '2025-06-17 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_build_date_pdf: '2026-09-08T21:21:43.912300416+00:00'
+labels:
+  - dem:ley-debil-grandes-numeros:1
+  - dem:ley-debil-grandes-numeros:2
+  - teo:ley-debil-grandes-numeros
+references:
+  - convergencia-lp
+  - cor-orden-normas-lp
+  - desigualdad-minkowski
+  - esp-lp
+  - esperanza
+  - fn-integrable
+  - igualdad-distribucion
+  - mindependencia-var-aleatorias
+  - prop-varianza-sum-var-aleatorias-indep
+  - teo-convergencia-dominada
+  - varianza
+projects:
+  - 3.2-probabilidad-ii
 tags:
   - probabilidad-ii/tema5
 ---

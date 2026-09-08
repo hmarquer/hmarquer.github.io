@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de Baire'
+filename: 'teo-baire'
+created: '2025-12-03 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_build_date_pdf: '2026-09-08T21:08:20.683519837+00:00'
+labels:
+  - teo:baire
+references:
+  - completitud-metrica
+  - con-denso
+  - esp-metrico
+  - prop-con-denso
+backlinks:
+  - cor-baire
+  - ejer-esp-banach-union-cerrados-imp-interior-no-vacio
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema4
 ---

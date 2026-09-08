@@ -1,5 +1,32 @@
 ---
 title: 'Producto interno'
+filename: 'prod-interno'
+created: '2025-03-06 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_build_date_pdf: '2026-09-08T21:17:20.193041296+00:00'
+labels:
+  - defn:prod-interno
+references:
+  - esp-vectorial
+  - prod-escalar
+  - prod-hermitico
+backlinks:
+  - base-ortonormal
+  - cor-norma-p-no-prod-interno
+  - desigualdad-cauchy-schwarz
+  - esp-prehilbert
+  - identidad-paralelogramo
+  - identidad-polarizacion
+  - norma-inducida
+  - ortogonalidad
+  - prop-funcional-lineal-continuo-prod-interno
+  - teo-esp-l2-hilbert
+  - teo-prod-interno-iff-identidad-paralelogramo
+  - teo-proyeccion-ortogonal-sistema-ortonormal-formula
+  - transformada-fourier
+projects:
+  - 4.1-analisis-funcional
+  - 4.1-variable-real
 tags:
   - analisis-funcional/tema1
   - variable-real/tema3

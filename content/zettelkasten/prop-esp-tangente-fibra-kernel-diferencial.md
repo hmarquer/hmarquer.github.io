@@ -1,5 +1,21 @@
 ---
 title: 'Prop espacio tangente fibra kernel diferencial'
+filename: 'prop-esp-tangente-fibra-kernel-diferencial'
+created: '2025-06-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_build_date_pdf: '2026-09-08T21:14:39.901031388+00:00'
+labels:
+  - prop:esp-tangente-fibra-kernel-diferencial
+references:
+  - apl-diferenciable
+  - diferencial-apl-diferenciable
+  - esp-tangente-variedad
+  - fibra
+  - val-regular-apl-diferenciable
+citations:
+  - leeIntroductionSmoothManifolds2013
+projects:
+  - 3.2-geometria-diferencial
 tags:
   - geometria-diferencial/tema5
 ---

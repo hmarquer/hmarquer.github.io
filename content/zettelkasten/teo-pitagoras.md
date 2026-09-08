@@ -1,5 +1,21 @@
 ---
 title: 'Teorema de Pitágoras'
+filename: 'teo-pitagoras'
+created: '2025-10-28 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_build_date_pdf: '2026-09-08T16:32:21.183648960+00:00'
+labels:
+  - teo:pitagoras
+references:
+  - esp-prehilbert
+  - norma-inducida
+  - sistema-ortogonal
+backlinks:
+  - prop-sistema-ortogonal-indep-lineal
+  - teo-identidad-plancherel
+  - teo-riesz-fischer
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/tema3
 ---

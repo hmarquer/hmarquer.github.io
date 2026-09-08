@@ -1,7 +1,30 @@
 ---
 title: 'Base de una topología'
+filename: 'base-topologia'
+created: '2025-12-11 19:31:55.927164'
+last_edit_date: '2026-09-06T15:26:21.204657070+00:00'
+last_build_date_pdf: '2026-09-08T21:42:51.679010567+00:00'
+labels:
+  - defn:base-topologia
+references:
+  - esp-topologico
+backlinks:
+  - base-topologia-subespacio
+  - esp-metrizable
+  - esp-segundo-numerable
+  - herencia-segundo-numerable
+  - prop-base-alguna-topologia
+  - prop-base-topologia
+  - prop-base-topologia-inicial
+  - prop-comparacion-topologias-bases
+  - topologia-metrica
+  - topologia-producto
+projects:
+  - 3.1-topologia
+  - 4-teoria-descriptiva-de-conjuntos
 tags:
   - teoria-descriptiva-de-conjuntos/tema1
+  - topologia/tema1-1
 ---
 
 [[base-topologia.pdf]]

@@ -1,5 +1,27 @@
 ---
 title: 'Prop bola pseudohiperbolica bola euclidea'
+filename: 'prop-bola-pseudohiperbolica-bola-euclidea'
+created: '2026-02-26 19:46:02.972481'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_build_date_pdf: '2026-09-08T21:16:30.269725289+00:00'
+labels:
+  - fig:bolas-pseudohiperbolicas
+  - fig:caso1
+  - fig:caso2
+  - prop:bola-pseudohiperbolica-bola-euclidea
+references:
+  - involucion-disco-unidad
+  - lem-involucion-disco-unidad
+  - obs-involucion-disco-unidad-diametro
+  - prop-metrica-pseudohiperbolica-disco-unidad
+  - transformacion-mobius
+  - transformacion-mobius-circunferencias-generalizadas
+backlinks:
+  - lem-cota-modulo-bola-pseudohiperbolica
+  - obs-metrica-pseudohiperbolica-induce-topologia-usual
+projects:
+  - 4-productos-finitos-de-blaschke
+  - 4.2-variable-compleja-ii
 tags:
   - productos-finitos-de-blaschke/tema2
   - variable-compleja-ii/tema3

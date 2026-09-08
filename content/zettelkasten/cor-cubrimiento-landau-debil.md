@@ -1,5 +1,19 @@
 ---
 title: 'Cubrimiento de Landau débil'
+filename: 'cor-cubrimiento-landau-debil'
+created: '2026-06-15T11:23:01.200553504+00:00'
+last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
+last_build_date_pdf: '2026-09-08T21:39:04.922359435+00:00'
+labels:
+  - cor:cubrimiento-landau-debil
+references:
+  - bola-abierta
+  - fn-cubrimiento-landau
+  - fn-holomorfa
+  - lem-fn-cubrimiento-landau-cota
+  - teo-cubrimiento-landau
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema5
 ---

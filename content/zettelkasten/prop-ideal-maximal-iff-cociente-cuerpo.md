@@ -1,5 +1,23 @@
 ---
 title: 'Un ideal es maximal si y solo si el cociente es un cuerpo'
+filename: 'prop-ideal-maximal-iff-cociente-cuerpo'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_build_date_pdf: '2026-09-08T21:13:53.775498581+00:00'
+labels:
+  - prop:ideal-maximal-iff-cociente-cuerpo
+references:
+  - cuerpo
+  - ideal
+  - ideal-maximal
+  - lem-cuerpo-iff-ideales-triviales
+  - obs-anillo-cociente-morfismo-canonico
+  - teo-correspondencia-ideales-cociente
+backlinks:
+  - cor-ideal-maximal-imp-primo
+  - teo-extension-entera-ideal-primo-maximal-iff-maximal
+projects:
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
 ---

@@ -1,5 +1,24 @@
 ---
 title: 'Cor Borde Bola Pseudohiperbolica Desigualdades Auxiliares'
+filename: 'cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares'
+created: '2026-06-12T11:18:51.307436729+00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:20.071241712+00:00'
+labels:
+  - cor:borde-bola-pseudohiperbolica-desigualdades-auxiliares
+  - cor:borde-bola-pseudohiperbolica-desigualdades-auxiliares:1
+  - cor:borde-bola-pseudohiperbolica-desigualdades-auxiliares:2
+references:
+  - automorfismo-disco-unidad
+  - isometria
+  - lem-cota-modulo-bola-pseudohiperbolica
+  - lem-involucion-disco-unidad
+  - prop-metrica-pseudohiperbolica-disco-unidad
+  - teo-schwarz-pick
+backlinks:
+  - teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

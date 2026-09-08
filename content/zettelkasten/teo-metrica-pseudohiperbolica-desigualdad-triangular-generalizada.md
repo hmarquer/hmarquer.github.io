@@ -1,5 +1,20 @@
 ---
 title: 'Teo Metrica Pseudohiperbolica Desigualdad Triangular Generalizada'
+filename: 'teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada'
+created: '2026-06-12T11:20:47.163119477+00:00'
+last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_build_date_pdf: '2026-09-08T16:32:58.160428598+00:00'
+labels:
+  - teo:metrica-pseudohiperbolica-desigualdad-triangular-generalizada
+references:
+  - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
+  - lem-involucion-disco-unidad
+  - prop-metrica-pseudohiperbolica-disco-unidad
+backlinks:
+  - prop-metrica-poincare
+  - teo-completitud-metrica-pseudohiperbolica
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema3
 ---

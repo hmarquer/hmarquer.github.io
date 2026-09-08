@@ -1,5 +1,18 @@
 ---
 title: 'Prop di imp anillo polinomios di'
+filename: 'prop-di-imp-anillo-polinomios-di'
+created: '2025-09-19 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_build_date_pdf: '2026-09-08T21:15:14.362946505+00:00'
+labels:
+  - prop:di-imp-anillo-polinomios-di
+references:
+  - anillo-polinomios
+  - dominio-integridad
+  - prop-grado-polinomio
+projects:
+  - 3.1-teoria-de-galois
+  - 4.1-algebra-conmutativa
 tags:
   - algebra-conmutativa/tema1
   - teoria-de-galois/tema1

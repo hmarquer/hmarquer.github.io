@@ -1,5 +1,28 @@
 ---
 title: 'Convolución de dos funciones'
+filename: 'convolucion'
+created: '2025-10-09 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_build_date_pdf: '2026-09-08T21:39:34.321373116+00:00'
+labels:
+  - defn:convolucion
+  - obs:convolucion-bien-defn
+references:
+  - esp-lp
+  - esp-medida
+  - fn-medible
+  - integral
+  - norma-lp
+backlinks:
+  - cor-convolucion-regularidad
+  - desigualdad-young-convolucion
+  - lem-convolucion
+  - obs-sumacion-cesaro-convolucion-nucleo-fejer
+  - obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet
+  - prop-convolucion-exp-conjugados
+  - teo-aproximacion-nucleos-sumabilidad
+projects:
+  - 4.1-variable-real
 tags:
   - variable-real/parcial
   - variable-real/tema2

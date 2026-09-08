@@ -1,5 +1,19 @@
 ---
 title: 'Lem Carac Precompacidad Subsucesion Esp Metrico'
+filename: 'lem-carac-precompacidad-subsucesion-esp-metrico'
+created: '2026-04-28T16:37:42.092104273+00:00'
+last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
+last_build_date_pdf: '2026-09-08T21:26:18.469903986+00:00'
+labels:
+  - lem:carac-precompacidad-subsucesion-esp-metrico
+references:
+  - convergencia
+  - esp-metrico
+  - precompacidad
+backlinks:
+  - lem-precompacidad-imp-acotacion-uniforme-compactos
+projects:
+  - 4.2-variable-compleja-ii
 tags:
   - variable-compleja-ii/tema6
 ---

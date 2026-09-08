@@ -1,5 +1,19 @@
 ---
 title: 'Teo dim finita imp normas equivalentes'
+filename: 'teo-dim-finita-imp-normas-equivalentes'
+created: '2025-10-22 00:00:00'
+last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_build_date_pdf: '2026-09-08T16:36:41.679306434+00:00'
+labels:
+  - teo:dim-finita-imp-normas-equivalentes
+references:
+  - esp-vectorial
+  - lem-normas-kn-equivalentes
+  - norma
+  - normas-equivalentes
+  - teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn
+projects:
+  - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema2
 ---
