@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-09T13:32:30.020621626+00:00'
-last_build_date_pdf: '2026-09-09T13:55:00.263770018+00:00'
+last_edit_date: '2026-09-09T18:17:08.492011148+00:00'
+last_build_date_pdf: '2026-09-09T18:17:16.098599315+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
