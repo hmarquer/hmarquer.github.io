@@ -2,12 +2,20 @@
 title: 'Medida exterior asociada'
 filename: 'prop-medida-exterior-asociada'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-08T12:32:42.087016986+00:00'
-last_build_date_pdf: '2026-09-08T21:13:23.158328574+00:00'
+last_edit_date: '2026-09-09T09:43:28.243239485+00:00'
+last_build_date_pdf: '2026-09-09T09:43:33.122566352+00:00'
+labels:
+  - prop:medida-exterior-asociada
+  - prop:medida-exterior-asociada:i
+  - prop:medida-exterior-asociada:ii
+  - prop:medida-exterior-asociada:iii
 references:
   - algebra
   - medida-exterior
   - premedida
+  - prop-subaditividad-medida-exterior
+backlinks:
+  - teo-caratheodory-i
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
@@ -21,6 +29,5 @@ tags:
 - [algebra](./algebra.md)
 - [medida-exterior](./medida-exterior.md)
 - [premedida](./premedida.md)
+- [prop-subaditividad-medida-exterior](./prop-subaditividad-medida-exterior.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

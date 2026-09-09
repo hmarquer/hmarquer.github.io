@@ -9,9 +9,9 @@ labels:
 references:
   - anillo
 backlinks:
-  - alg-cerrado
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
+  - cuerpo-algebraicamente-cerrado
   - ejer-variedad-algebraica-ideal-radical
   - elemento-algebraico-sobre-anillo
   - elemento-entero-sobre-anillo

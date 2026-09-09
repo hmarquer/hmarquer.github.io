@@ -21,7 +21,7 @@ projects:
   - m.1-geometria-diferencial
 tags:
   - geometria-diferencial/tema2
-  - m.1-geometria-diferencial/m.1-geometria-diferencial
+  - m.1-geometria-diferencial/tema1
 ---
 
 [[fn-diferenciable-variedad.pdf]]

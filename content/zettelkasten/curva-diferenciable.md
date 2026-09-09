@@ -20,7 +20,7 @@ projects:
   - m.1-geometria-diferencial
 tags:
   - geometria-diferencial/tema3
-  - m.1-geometria-diferencial/m.1-geometria-diferencial
+  - m.1-geometria-diferencial/tema1
 ---
 
 [[curva-diferenciable.pdf]]

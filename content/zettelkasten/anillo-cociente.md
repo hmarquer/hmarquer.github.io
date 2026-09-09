@@ -2,8 +2,8 @@
 title: 'Anillo cociente'
 filename: 'anillo-cociente'
 created: '2025-10-08 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.201656644+00:00'
-last_build_date_pdf: '2026-09-08T21:44:09.853662499+00:00'
+last_edit_date: '2026-09-09T13:54:43.601440513+00:00'
+last_build_date_pdf: '2026-09-09T13:54:51.990413830+00:00'
 labels:
   - prop:anillo-cociente
 references:
@@ -20,8 +20,10 @@ backlinks:
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema1
   - teoria-de-galois/tema1
 ---
 

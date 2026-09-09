@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-08T12:11:45.449843594+00:00'
-last_build_date_pdf: '2026-09-08T21:44:39.957612612+00:00'
+last_edit_date: '2026-09-09T13:32:30.020621626+00:00'
+last_build_date_pdf: '2026-09-09T13:55:00.263770018+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -24,6 +24,8 @@ inclusions:
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
+  - teo-caratheodory-i
+  - teo-caratheodory-ii
   - teo-convergencia-dominada
   - teo-convergencia-monotona
   - teo-radon-nikodym
@@ -56,9 +58,14 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 - [singularidad-mutua](./singularidad-mutua.md)
+- [teo-caratheodory-i](./teo-caratheodory-i.md)
+- [teo-caratheodory-ii](./teo-caratheodory-ii.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ## Etiquetas
+#EJERCICIO : demostrar que este límite existe y que es igual a $\sup_{\delta > 0} H_\delta^\alpha(A)$.
+#EJERCICIO : demostrarlo
+#EJERCICIO 
 #REVISAR : lo ha definido distinto, así:

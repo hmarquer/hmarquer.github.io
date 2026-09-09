@@ -16,8 +16,10 @@ backlinks:
   - teo-correspondencia-ideales-cociente
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema1
 ---
 
 [[obs-anillo-cociente-morfismo-canonico.pdf]]

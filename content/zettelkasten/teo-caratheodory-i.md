@@ -2,18 +2,22 @@
 title: 'Teorema de Caratheodory I'
 filename: 'teo-caratheodory-i'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T21:07:47.810539129+00:00'
+last_edit_date: '2026-09-09T10:51:33.324583247+00:00'
+last_build_date_pdf: '2026-09-09T10:51:38.178774848+00:00'
 labels:
   - teo:caratheodory-i
 references:
-  - conjunto-medible
+  - con-caratheodory-medible
+  - esp-medible
   - medida-completa
   - medida-exterior
+  - prop-medida-exterior-asociada
   - sigma-algebra
 projects:
   - 3.2-probabilidad-ii
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
 ---
 
@@ -21,9 +25,11 @@ tags:
 ![[teo-caratheodory-i.pdf]]
 
 ## Referencias
-- [conjunto-medible](./conjunto-medible.md)
+- [con-caratheodory-medible](./con-caratheodory-medible.md)
+- [esp-medible](./esp-medible.md)
 - [medida-completa](./medida-completa.md)
 - [medida-exterior](./medida-exterior.md)
+- [prop-medida-exterior-asociada](./prop-medida-exterior-asociada.md)
 - [sigma-algebra](./sigma-algebra.md)
 
 ## Etiquetas

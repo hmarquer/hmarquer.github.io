@@ -1,28 +1,31 @@
 ---
 title: 'Cuerpo algebraicamente cerrado'
-filename: 'alg-cerrado'
+filename: 'cuerpo-algebraicamente-cerrado'
 created: '2025-05-18 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.201656644+00:00'
-last_build_date_pdf: '2026-09-08T21:44:15.489884829+00:00'
+last_edit_date: '2026-09-09T14:04:31.410844473+00:00'
+last_build_date_pdf: '2026-09-09T14:05:08.030529178+00:00'
 labels:
-  - defn:alg-cerrado
+  - defn:cuerpo-algebraicamente-cerrado
 references:
   - anillo-polinomios
   - cuerpo
   - grado-polinomio
 backlinks:
+  - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - teo-ceros-hilbert
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
   - teo-fundamental-algebra
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema1
 ---
 
-[[alg-cerrado.pdf]]
-![[alg-cerrado.pdf]]
+[[cuerpo-algebraicamente-cerrado.pdf]]
+![[cuerpo-algebraicamente-cerrado.pdf]]
 
 ## Referencias
 - [anillo-polinomios](./anillo-polinomios.md)

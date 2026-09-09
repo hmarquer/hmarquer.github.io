@@ -2,13 +2,13 @@
 title: 'Teorema fundamental del álgebra'
 filename: 'teo-fundamental-algebra'
 created: '2025-05-06 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
-last_build_date_pdf: '2026-09-08T16:34:25.580164824+00:00'
+last_edit_date: '2026-09-09T14:04:31.473845120+00:00'
+last_build_date_pdf: '2026-09-09T14:05:00.177412555+00:00'
 labels:
   - teo:fundamental-algebra
 references:
-  - alg-cerrado
   - cuerpo
+  - cuerpo-algebraicamente-cerrado
   - num-complejos
   - teo-liouville
 projects:
@@ -21,8 +21,8 @@ tags:
 ![[teo-fundamental-algebra.pdf]]
 
 ## Referencias
-- [alg-cerrado](./alg-cerrado.md)
 - [cuerpo](./cuerpo.md)
+- [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
 - [num-complejos](./num-complejos.md)
 - [teo-liouville](./teo-liouville.md)
 

@@ -9,7 +9,7 @@ labels:
 references:
   - anillo-polinomios
 backlinks:
-  - alg-cerrado
+  - cuerpo-algebraicamente-cerrado
   - prop-grado-polinomio
   - teo-base-hilbert
 projects:

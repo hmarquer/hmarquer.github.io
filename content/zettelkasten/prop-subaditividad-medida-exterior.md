@@ -8,6 +8,8 @@ labels:
   - prop:subaditividad-medida-exterior
 references:
   - medida-exterior
+backlinks:
+  - prop-medida-exterior-asociada
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

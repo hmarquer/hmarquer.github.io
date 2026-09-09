@@ -23,8 +23,10 @@ backlinks:
   - variedad-algebraica-afin-irreducible
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
 ---
 
 [[esp-afin.pdf]]

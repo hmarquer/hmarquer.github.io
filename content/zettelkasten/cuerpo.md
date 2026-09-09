@@ -12,11 +12,11 @@ references:
   - anillo
   - cuerpo
 backlinks:
-  - alg-cerrado
   - apl-lineal
   - caracteristica-cuerpo
   - con-ceros-polinomios-esp-afin
   - cuerpo
+  - cuerpo-algebraicamente-cerrado
   - esp-afin
   - esp-secuencial
   - esp-vectorial
@@ -33,6 +33,7 @@ backlinks:
   - lem-normalizacion-noether
   - num-complejos
   - polinomio-monico-variable
+  - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-cuerpo-fracciones-racionales
   - prop-ideal-maximal-iff-cociente-cuerpo
   - prop-variedad-algebraica-afin-ideal
