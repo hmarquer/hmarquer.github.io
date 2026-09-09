@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-09T18:17:08.492011148+00:00'
-last_build_date_pdf: '2026-09-09T18:17:16.098599315+00:00'
+last_edit_date: '2026-09-09T22:41:38.336957285+00:00'
+last_build_date_pdf: '2026-09-09T22:41:43.604654430+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -19,6 +19,7 @@ inclusions:
   - medida-sigma-finita
   - premedida
   - prop-medida-exterior-asociada
+  - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
   - prop-subaditividad-medida-exterior
   - sigma-algebra
@@ -53,6 +54,7 @@ tags:
 - [medida-sigma-finita](./medida-sigma-finita.md)
 - [premedida](./premedida.md)
 - [prop-medida-exterior-asociada](./prop-medida-exterior-asociada.md)
+- [prop-sigma-algebra-caratheodory](./prop-sigma-algebra-caratheodory.md)
 - [prop-sigma-algebra-generada](./prop-sigma-algebra-generada.md)
 - [prop-subaditividad-medida-exterior](./prop-subaditividad-medida-exterior.md)
 - [sigma-algebra](./sigma-algebra.md)
@@ -68,4 +70,5 @@ tags:
 #EJERCICIO : demostrar que este límite existe y que es igual a $\sup_{\delta > 0} H_\delta^\alpha(A)$.
 #EJERCICIO : demostrarlo
 #EJERCICIO 
+#REVISAR desde aquí.
 #REVISAR : lo ha definido distinto, así:

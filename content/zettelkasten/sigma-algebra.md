@@ -24,6 +24,7 @@ backlinks:
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-esperanza-condicionada-sigma-algebras-anidadas
   - prop-interseccion-sigma-algebra
+  - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
   - sigma-algebra-cola
   - sigma-algebra-fn

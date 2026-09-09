@@ -9,6 +9,7 @@ labels:
 references:
   - medida-exterior
 backlinks:
+  - prop-sigma-algebra-caratheodory
   - sigma-algebra-lebesgue
   - teo-caratheodory-i
   - teo-caratheodory-ii
