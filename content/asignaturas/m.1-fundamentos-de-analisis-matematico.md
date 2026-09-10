@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-09T22:41:38.336957285+00:00'
-last_build_date_pdf: '2026-09-09T22:41:43.604654430+00:00'
+last_edit_date: '2026-09-10T15:05:40.686662983+00:00'
+last_build_date_pdf: '2026-09-10T15:05:56.795044393+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -70,5 +70,5 @@ tags:
 #EJERCICIO : demostrar que este límite existe y que es igual a $\sup_{\delta > 0} H_\delta^\alpha(A)$.
 #EJERCICIO : demostrarlo
 #EJERCICIO 
-#REVISAR desde aquí.
+#REVISAR : la demostración la ha escrito la IA
 #REVISAR : lo ha definido distinto, así:

@@ -2,16 +2,20 @@
 title: 'Teorema de Caratheodory II'
 filename: 'teo-caratheodory-ii'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-09T10:27:54.935294218+00:00'
-last_build_date_pdf: '2026-09-09T10:28:06.032789160+00:00'
+last_edit_date: '2026-09-10T15:05:15.039929885+00:00'
+last_build_date_pdf: '2026-09-10T15:05:49.158501548+00:00'
 labels:
   - teo:caratheodory-ii
 references:
   - algebra
   - con-caratheodory-medible
   - medida
+  - medida-exterior
   - premedida
+  - prop-medida-exterior-asociada
+  - prop-sigma-algebra-caratheodory
   - sigma-algebra
+  - teo-caratheodory-i
 projects:
   - 3.2-probabilidad-ii
   - m.1-fundamentos-de-analisis-matematico
@@ -27,8 +31,12 @@ tags:
 - [algebra](./algebra.md)
 - [con-caratheodory-medible](./con-caratheodory-medible.md)
 - [medida](./medida.md)
+- [medida-exterior](./medida-exterior.md)
 - [premedida](./premedida.md)
+- [prop-medida-exterior-asociada](./prop-medida-exterior-asociada.md)
+- [prop-sigma-algebra-caratheodory](./prop-sigma-algebra-caratheodory.md)
 - [sigma-algebra](./sigma-algebra.md)
+- [teo-caratheodory-i](./teo-caratheodory-i.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#REVISAR : la demostración está escrita por IA

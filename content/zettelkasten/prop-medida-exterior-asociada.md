@@ -15,7 +15,7 @@ references:
   - premedida
   - prop-subaditividad-medida-exterior
 backlinks:
-  - teo-caratheodory-i
+  - teo-caratheodory-ii
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

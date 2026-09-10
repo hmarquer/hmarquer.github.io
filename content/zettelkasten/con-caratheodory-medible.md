@@ -11,7 +11,6 @@ references:
 backlinks:
   - prop-sigma-algebra-caratheodory
   - sigma-algebra-lebesgue
-  - teo-caratheodory-i
   - teo-caratheodory-ii
 projects:
   - 3.2-probabilidad-ii
