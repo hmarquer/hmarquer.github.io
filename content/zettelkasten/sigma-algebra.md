@@ -20,6 +20,7 @@ backlinks:
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
   - medida
+  - medida-signo
   - mindependencia-sigma-algebras
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-esperanza-condicionada-sigma-algebras-anidadas
@@ -30,7 +31,6 @@ backlinks:
   - sigma-algebra-fn
   - sigma-algebra-generada
   - sigma-algebra-tiempo-parada
-  - smedida
   - teo-caratheodory-i
   - teo-caratheodory-ii
 projects:

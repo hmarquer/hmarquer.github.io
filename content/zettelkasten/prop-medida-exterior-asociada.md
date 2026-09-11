@@ -3,7 +3,7 @@ title: 'Medida exterior asociada'
 filename: 'prop-medida-exterior-asociada'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-09T09:43:28.243239485+00:00'
-last_build_date_pdf: '2026-09-09T09:43:33.122566352+00:00'
+last_build_date_pdf: '2026-09-11T07:11:24.140041421+00:00'
 labels:
   - prop:medida-exterior-asociada
   - prop:medida-exterior-asociada:i

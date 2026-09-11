@@ -12,6 +12,10 @@ references:
   - esp-medida
 backlinks:
   - singularidad-mutua
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
 ---
 
 [[con-nulo.pdf]]

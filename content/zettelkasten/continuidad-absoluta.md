@@ -2,14 +2,14 @@
 title: 'Continuidad absoluta'
 filename: 'continuidad-absoluta'
 created: '2025-03-25 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
-last_build_date_pdf: '2026-09-08T21:40:17.965665415+00:00'
+last_edit_date: '2026-09-11T07:45:15.340494636+00:00'
+last_build_date_pdf: '2026-09-11T22:35:12.064747114+00:00'
 labels:
   - defn:continuidad-absoluta
 references:
   - esp-medible
   - medida
-  - smedida
+  - medida-signo
 backlinks:
   - esperanza-condicionada-sigma-algebra
   - teo-radon-nikodym
@@ -28,5 +28,5 @@ tags:
 ## Referencias
 - [esp-medible](./esp-medible.md)
 - [medida](./medida.md)
-- [smedida](./smedida.md)
+- [medida-signo](./medida-signo.md)
 

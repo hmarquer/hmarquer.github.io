@@ -2,8 +2,8 @@
 title: 'Esperanza condicionada a una $\sigma$-álgebra'
 filename: 'esperanza-condicionada-sigma-algebra'
 created: '2025-03-24 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-08T21:32:14.325654647+00:00'
+last_edit_date: '2026-09-11T07:45:15.361494817+00:00'
+last_build_date_pdf: '2026-09-11T22:35:11.921682900+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebra
 references:
@@ -12,8 +12,8 @@ references:
   - esp-probabilidad
   - esperanza
   - fn-medible
+  - medida-signo
   - sigma-algebra
-  - smedida
   - teo-convergencia-dominada
   - teo-radon-nikodym
 backlinks:
@@ -44,8 +44,8 @@ tags:
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esperanza](./esperanza.md)
 - [fn-medible](./fn-medible.md)
+- [medida-signo](./medida-signo.md)
 - [sigma-algebra](./sigma-algebra.md)
-- [smedida](./smedida.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 

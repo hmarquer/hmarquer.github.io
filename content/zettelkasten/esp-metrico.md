@@ -19,6 +19,7 @@ backlinks:
   - convergencia-uniforme
   - convergencia-uniforme-compactos
   - cor-baire
+  - diametro-con
   - ejem-topologia-metrica
   - esp-isometricos
   - fn-lipschitz

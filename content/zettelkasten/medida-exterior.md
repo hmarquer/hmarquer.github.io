@@ -12,6 +12,7 @@ labels:
 backlinks:
   - con-caratheodory-medible
   - prop-medida-exterior-asociada
+  - prop-medida-exterior-hausdorff-precision
   - prop-sigma-algebra-caratheodory
   - prop-subaditividad-medida-exterior
   - teo-caratheodory-i

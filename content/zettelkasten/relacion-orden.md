@@ -14,10 +14,12 @@ labels:
 backlinks:
   - cadena
   - con-dirigido
+  - diametro-con
   - estructura-diferenciable
   - lem-zorn
   - obs-consecuencia-semantica-orden-parcial
   - prop-carac-anillo-noetheriano
+  - prop-medida-exterior-hausdorff-precision
   - prop-orden-total-num-complejos
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas

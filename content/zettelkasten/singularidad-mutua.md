@@ -2,14 +2,14 @@
 title: 'Singularidad mutua'
 filename: 'singularidad-mutua'
 created: '2025-05-04 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
-last_build_date_pdf: '2026-09-08T21:09:59.694443046+00:00'
+last_edit_date: '2026-09-11T07:45:15.339494627+00:00'
+last_build_date_pdf: '2026-09-11T22:35:02.212486957+00:00'
 labels:
   - defn:singularidad-mutua
 references:
   - con-nulo
   - esp-medible
-  - smedida
+  - medida-signo
 backlinks:
   - teo-radon-nikodym
 projects:
@@ -26,5 +26,5 @@ tags:
 ## Referencias
 - [con-nulo](./con-nulo.md)
 - [esp-medible](./esp-medible.md)
-- [smedida](./smedida.md)
+- [medida-signo](./medida-signo.md)
 
