@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-13T16:30:49.445064954+00:00'
-last_build_date_pdf: '2026-09-13T16:30:53.735397563+00:00'
+last_edit_date: '2026-09-13T22:52:35.008755030+00:00'
+last_build_date_pdf: '2026-09-13T22:52:40.589488442+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -20,6 +20,7 @@ inclusions:
   - integral
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-fatou
+  - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-hausdorff-invariante-isometrias
   - medida
@@ -91,6 +92,7 @@ tags:
 - [distancia-conjuntos](./distancia-conjuntos.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
+- [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [lem-medida-exterior-hausdorff-dimensiones-ordenadas](./lem-medida-exterior-hausdorff-dimensiones-ordenadas.md)
 - [lem-medida-hausdorff-invariante-isometrias](./lem-medida-hausdorff-invariante-isometrias.md)
 - [medida-exterior-metrica](./medida-exterior-metrica.md)

@@ -12,6 +12,7 @@ references:
   - relacion-orden
 backlinks:
   - cor-dim-hausdorff
+  - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-hausdorff-invariante-isometrias
   - medida-hausdorff
