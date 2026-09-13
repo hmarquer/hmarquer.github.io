@@ -2,13 +2,14 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-13T00:05:39.411729782+00:00'
-last_build_date_pdf: '2026-09-13T00:05:56.228558974+00:00'
+last_edit_date: '2026-09-13T16:30:49.445064954+00:00'
+last_build_date_pdf: '2026-09-13T16:30:53.735397563+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
+  - cor-dim-hausdorff
   - diametro-con
   - distancia-conjuntos
   - distancia-pnt-con
@@ -19,6 +20,7 @@ inclusions:
   - integral
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-fatou
+  - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-hausdorff-invariante-isometrias
   - medida
   - medida-exterior
@@ -84,10 +86,12 @@ tags:
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ### tema1
+- [cor-dim-hausdorff](./cor-dim-hausdorff.md)
 - [diametro-con](./diametro-con.md)
 - [distancia-conjuntos](./distancia-conjuntos.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
+- [lem-medida-exterior-hausdorff-dimensiones-ordenadas](./lem-medida-exterior-hausdorff-dimensiones-ordenadas.md)
 - [lem-medida-hausdorff-invariante-isometrias](./lem-medida-hausdorff-invariante-isometrias.md)
 - [medida-exterior-metrica](./medida-exterior-metrica.md)
 - [medida-hausdorff](./medida-hausdorff.md)

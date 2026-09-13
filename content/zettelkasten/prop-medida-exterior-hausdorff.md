@@ -11,6 +11,8 @@ references:
   - prop-medida-exterior-hausdorff-precision
   - relacion-orden
 backlinks:
+  - cor-dim-hausdorff
+  - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-hausdorff-invariante-isometrias
   - medida-hausdorff
   - prop-homogeneidad-medida-hausdorff
