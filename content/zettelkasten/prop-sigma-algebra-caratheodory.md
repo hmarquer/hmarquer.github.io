@@ -15,8 +15,11 @@ references:
   - medida-exterior
   - sigma-algebra
 backlinks:
+  - medida-hausdorff
+  - prop-con-borel-imp-medible-hausdorff
   - teo-caratheodory-i
   - teo-caratheodory-ii
+  - teo-medibilidad-borel-medida-exterior-metrica
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

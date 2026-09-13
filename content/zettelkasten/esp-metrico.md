@@ -20,13 +20,17 @@ backlinks:
   - convergencia-uniforme-compactos
   - cor-baire
   - diametro-con
+  - distancia-conjuntos
+  - distancia-pnt-con
   - ejem-topologia-metrica
   - esp-isometricos
   - fn-lipschitz
   - fn-lipschitz-local
   - isometria
   - lem-carac-precompacidad-subsucesion-esp-metrico
+  - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-imp-ctp
+  - medida-exterior-metrica
   - prop-carac-con-abiertos-esp-metrico
   - prop-con-abiertos-esp-metrico
   - prop-convergencia-imp-cauchy
@@ -34,6 +38,7 @@ backlinks:
   - teo-baire
   - teo-compleccion-esp-metrico
   - teo-completitud-metrica-pseudohiperbolica
+  - teo-medibilidad-borel-medida-exterior-metrica
   - topologia-metrica
 projects:
   - 3.1-topologia

@@ -10,6 +10,8 @@ references:
   - esp-metrico
   - relacion-orden
 backlinks:
+  - lem-medida-hausdorff-invariante-isometrias
+  - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-hausdorff-precision
 projects:
   - m.1-fundamentos-de-analisis-matematico

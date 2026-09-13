@@ -20,6 +20,7 @@ backlinks:
   - convergencia-uniforme
   - lem-carac-convergencia-uniforme-compactos-convergencia-localmente-uniforme
   - lem-carac-precompacidad-subsucesion-esp-metrico
+  - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
   - lem-riemann-lebesgue-l1
   - prop-carac-convergencia-debil

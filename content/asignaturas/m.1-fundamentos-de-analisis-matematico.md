@@ -2,26 +2,36 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-11T09:42:16.492596637+00:00'
-last_build_date_pdf: '2026-09-11T09:42:24.915067970+00:00'
+last_edit_date: '2026-09-13T00:05:39.411729782+00:00'
+last_build_date_pdf: '2026-09-13T00:05:56.228558974+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
   - diametro-con
+  - distancia-conjuntos
+  - distancia-pnt-con
   - esp-medible
   - esp-medida
   - fn-medible
   - fn-simple
   - integral
+  - lem-continuidad-creciente-medida-exterior-metrica
   - lem-fatou
+  - lem-medida-hausdorff-invariante-isometrias
   - medida
   - medida-exterior
+  - medida-exterior-metrica
+  - medida-hausdorff
   - medida-sigma-finita
   - medida-signo
   - premedida
+  - prop-con-borel-imp-medible-hausdorff
+  - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-asociada
+  - prop-medida-exterior-hausdorff
+  - prop-medida-exterior-hausdorff-metrica
   - prop-medida-exterior-hausdorff-precision
   - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
@@ -33,6 +43,7 @@ inclusions:
   - teo-caratheodory-ii
   - teo-convergencia-dominada
   - teo-convergencia-monotona
+  - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
 tags:
   - m.1-fundamentos-de-analisis-matematico
@@ -74,9 +85,18 @@ tags:
 
 ### tema1
 - [diametro-con](./diametro-con.md)
+- [distancia-conjuntos](./distancia-conjuntos.md)
+- [distancia-pnt-con](./distancia-pnt-con.md)
+- [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
+- [lem-medida-hausdorff-invariante-isometrias](./lem-medida-hausdorff-invariante-isometrias.md)
+- [medida-exterior-metrica](./medida-exterior-metrica.md)
+- [medida-hausdorff](./medida-hausdorff.md)
+- [prop-con-borel-imp-medible-hausdorff](./prop-con-borel-imp-medible-hausdorff.md)
+- [prop-homogeneidad-medida-hausdorff](./prop-homogeneidad-medida-hausdorff.md)
+- [prop-medida-exterior-hausdorff](./prop-medida-exterior-hausdorff.md)
+- [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 - [prop-medida-exterior-hausdorff-precision](./prop-medida-exterior-hausdorff-precision.md)
+- [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
-#EJERCICIO : demostrarlo
-#EJERCICIO : demostrar que este límite existe y que es igual a $\sup_{\delta > 0} H_\delta^\alpha(A)$.
 #EJERCICIO 

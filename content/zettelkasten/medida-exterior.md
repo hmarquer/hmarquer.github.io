@@ -11,7 +11,9 @@ labels:
   - defn:medida-exterior:iii
 backlinks:
   - con-caratheodory-medible
+  - medida-exterior-metrica
   - prop-medida-exterior-asociada
+  - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-precision
   - prop-sigma-algebra-caratheodory
   - prop-subaditividad-medida-exterior

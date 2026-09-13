@@ -12,6 +12,7 @@ backlinks:
   - cor-adjunto-isometria-biyectiva
   - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
   - esp-isometricos
+  - lem-medida-hausdorff-invariante-isometrias
   - prop-dual-l1-sucesiones-linfty-sucesiones
   - prop-operador-unitario-iff-isometria-sobreyectiva
   - prop-sistema-ortonormal-isometria

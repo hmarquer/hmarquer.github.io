@@ -12,6 +12,7 @@ backlinks:
   - prop-sigma-algebra-generada
   - sigma-algebra-borel
   - sigma-algebra-tiempo-parada
+  - teo-medibilidad-borel-medida-exterior-metrica
   - teo-pi-sistema-subset-lambda-sistema
 projects:
   - m.1-fundamentos-de-analisis-matematico

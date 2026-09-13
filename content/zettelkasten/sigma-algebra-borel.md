@@ -13,6 +13,8 @@ backlinks:
   - fn-continua-soporte-compacto
   - fn-suave-soporte-compacto
   - lem-aprox-indicatriz-continua-norma-lp
+  - prop-con-borel-imp-medible-hausdorff
+  - teo-medibilidad-borel-medida-exterior-metrica
 projects:
   - 3.2-probabilidad-ii
 tags:

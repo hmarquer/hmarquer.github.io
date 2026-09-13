@@ -10,6 +10,10 @@ references:
   - diametro-con
   - medida-exterior
   - relacion-orden
+backlinks:
+  - lem-medida-hausdorff-invariante-isometrias
+  - prop-homogeneidad-medida-hausdorff
+  - prop-medida-exterior-hausdorff
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

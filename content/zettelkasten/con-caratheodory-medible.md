@@ -9,6 +9,7 @@ labels:
 references:
   - medida-exterior
 backlinks:
+  - lem-medida-hausdorff-invariante-isometrias
   - prop-sigma-algebra-caratheodory
   - sigma-algebra-lebesgue
   - teo-caratheodory-ii
