@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-13T22:52:35.008755030+00:00'
-last_build_date_pdf: '2026-09-13T22:52:40.589488442+00:00'
+last_edit_date: '2026-09-14T10:51:57.006195488+00:00'
+last_build_date_pdf: '2026-09-14T10:52:05.920039917+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -105,4 +105,5 @@ tags:
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
+#COMPLETAR 
 #EJERCICIO 
