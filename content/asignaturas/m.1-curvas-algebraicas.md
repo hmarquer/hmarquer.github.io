@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-09-09T14:53:08.072145255+00:00'
-last_build_date_pdf: '2026-09-09T14:53:11.730152150+00:00'
+last_edit_date: '2026-09-14T14:05:29.654484278+00:00'
+last_build_date_pdf: '2026-09-14T14:05:35.255866198+00:00'
 inclusions:
   - anillo
   - anillo-cociente
@@ -51,3 +51,4 @@ tags:
 #COMPLETAR : mirar las notas que va a publicar en moodle
 #REVISAR : lo hace todo diferente, con la noción de conjunto algebraicamente cerrado con coeficientes en $L$ demuestra que la topología de Zariski es una topología
 #COMPLETAR : mirar las notas que va a publicar en moodle y las de Jacobo
+#FALTA : mirar las notas de moodle

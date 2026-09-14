@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-14T10:51:57.006195488+00:00'
-last_build_date_pdf: '2026-09-14T10:52:05.920039917+00:00'
+last_edit_date: '2026-09-14T13:33:43.018794659+00:00'
+last_build_date_pdf: '2026-09-14T13:33:49.114098047+00:00'
 inclusions:
   - algebra
   - con-caratheodory-medible
@@ -13,8 +13,10 @@ inclusions:
   - diametro-con
   - distancia-conjuntos
   - distancia-pnt-con
+  - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - esp-medible
   - esp-medida
+  - fn-gamma-holder
   - fn-medible
   - fn-simple
   - integral
@@ -91,6 +93,8 @@ tags:
 - [diametro-con](./diametro-con.md)
 - [distancia-conjuntos](./distancia-conjuntos.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
+- [ejer-medida-hausdorff-comparacion-medida-lebesgue](./ejer-medida-hausdorff-comparacion-medida-lebesgue.md)
+- [fn-gamma-holder](./fn-gamma-holder.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [lem-medida-exterior-hausdorff-dimensiones-ordenadas](./lem-medida-exterior-hausdorff-dimensiones-ordenadas.md)
@@ -105,5 +109,6 @@ tags:
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
-#COMPLETAR 
 #EJERCICIO 
+#COMPLETAR la suma de diametros de los $E_j \cap A$ es mayor o igual que 1.
+#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
