@@ -8,6 +8,8 @@ labels:
   - defn:isomorfismo-anillos
 references:
   - morfismo-anillos
+backlinks:
+  - teo-primero-isomorfia
 projects:
   - 4.1-algebra-conmutativa
 tags:

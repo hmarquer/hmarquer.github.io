@@ -1,24 +1,29 @@
 ---
 title: 'Álgebra'
 filename: 'algebra'
-created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-08T12:34:40.433388861+00:00'
-last_build_date_pdf: '2026-09-08T21:44:12.391601566+00:00'
+created: '2025-10-21 00:00:00'
+last_edit_date: '2026-09-14T16:31:09.646893622+00:00'
+last_build_date_pdf: '2026-09-14T16:31:15.616660938+00:00'
 labels:
   - defn:algebra
-  - defn:algebra:i
-  - defn:algebra:ii
-  - defn:algebra:iii
+references:
+  - anillo
+  - modulo
 backlinks:
-  - premedida
-  - prop-medida-exterior-asociada
-  - teo-caratheodory-ii
+  - algebra-finitamente-generada
+  - isomorfismo-ralgebras
+  - lem-normalizacion-noether
+  - morfismo-ralgebras
 projects:
-  - m.1-fundamentos-de-analisis-matematico
+  - 4.1-algebra-conmutativa
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - algebra-conmutativa/tema2
 ---
 
 [[algebra.pdf]]
 ![[algebra.pdf]]
+
+## Referencias
+- [anillo](./anillo.md)
+- [modulo](./modulo.md)
 

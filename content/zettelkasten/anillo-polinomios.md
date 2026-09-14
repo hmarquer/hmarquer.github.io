@@ -9,6 +9,7 @@ labels:
 references:
   - anillo
 backlinks:
+  - algebra-finitamente-generada
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
   - cuerpo-algebraicamente-cerrado
@@ -26,7 +27,6 @@ backlinks:
   - prop-di-imp-anillo-polinomios-di
   - prop-grado-polinomio
   - prop-variedad-algebraica-afin-ideal
-  - ralgebra-finitamente-generada
   - teo-base-hilbert
   - teo-ceros-hilbert
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
@@ -36,8 +36,10 @@ backlinks:
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
   - teoria-de-galois/tema1
 ---
 

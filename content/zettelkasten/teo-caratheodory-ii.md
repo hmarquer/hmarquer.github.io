@@ -2,12 +2,12 @@
 title: 'Teorema de Caratheodory II'
 filename: 'teo-caratheodory-ii'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-11T07:37:51.729772751+00:00'
-last_build_date_pdf: '2026-09-11T22:35:02.320617530+00:00'
+last_edit_date: '2026-09-14T16:28:19.538191798+00:00'
+last_build_date_pdf: '2026-09-14T18:07:59.779936803+00:00'
 labels:
   - teo:caratheodory-ii
 references:
-  - algebra
+  - algebra-conjuntos
   - con-caratheodory-medible
   - medida
   - medida-completa
@@ -29,7 +29,7 @@ tags:
 ![[teo-caratheodory-ii.pdf]]
 
 ## Referencias
-- [algebra](./algebra.md)
+- [algebra-conjuntos](./algebra-conjuntos.md)
 - [con-caratheodory-medible](./con-caratheodory-medible.md)
 - [medida](./medida.md)
 - [medida-completa](./medida-completa.md)

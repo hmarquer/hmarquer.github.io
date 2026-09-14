@@ -2,15 +2,15 @@
 title: 'Medida exterior asociada'
 filename: 'prop-medida-exterior-asociada'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-09T09:43:28.243239485+00:00'
-last_build_date_pdf: '2026-09-11T07:11:24.140041421+00:00'
+last_edit_date: '2026-09-14T16:28:19.538191798+00:00'
+last_build_date_pdf: '2026-09-14T18:07:59.772453923+00:00'
 labels:
   - prop:medida-exterior-asociada
   - prop:medida-exterior-asociada:i
   - prop:medida-exterior-asociada:ii
   - prop:medida-exterior-asociada:iii
 references:
-  - algebra
+  - algebra-conjuntos
   - medida-exterior
   - premedida
   - prop-subaditividad-medida-exterior
@@ -26,7 +26,7 @@ tags:
 ![[prop-medida-exterior-asociada.pdf]]
 
 ## Referencias
-- [algebra](./algebra.md)
+- [algebra-conjuntos](./algebra-conjuntos.md)
 - [medida-exterior](./medida-exterior.md)
 - [premedida](./premedida.md)
 - [prop-subaditividad-medida-exterior](./prop-subaditividad-medida-exterior.md)

@@ -2,10 +2,10 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-14T13:33:43.018794659+00:00'
-last_build_date_pdf: '2026-09-14T13:33:49.114098047+00:00'
+last_edit_date: '2026-09-14T16:30:27.003684599+00:00'
+last_build_date_pdf: '2026-09-14T18:08:11.966592542+00:00'
 inclusions:
-  - algebra
+  - algebra-conjuntos
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
@@ -60,7 +60,7 @@ tags:
 ## Notas incluidas
 
 ### tema0
-- [algebra](./algebra.md)
+- [algebra-conjuntos](./algebra-conjuntos.md)
 - [con-caratheodory-medible](./con-caratheodory-medible.md)
 - [con-nulo](./con-nulo.md)
 - [continuidad-absoluta](./continuidad-absoluta.md)

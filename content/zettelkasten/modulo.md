@@ -10,10 +10,10 @@ references:
   - anillo
   - grupo
 backlinks:
+  - algebra
   - cor-extension-entera-anillos-transitiva
   - modulo-finitamente-generado
   - morfismo-modulos
-  - ralgebra
   - teo-extension-entero-modulo-finitamente-generado
 projects:
   - 4.1-algebra-conmutativa
