@@ -3,7 +3,7 @@ title: 'Una variedad algebraica afín es irreducible si y solo si su ideal de an
 filename: 'prop-variedad-algebraica-afin-irreducible-iff-ideal-primo'
 created: '2025-12-16 19:22:14.876879'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:37.507662969+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.018208864+00:00'
 labels:
   - prop:variedad-algebraica-afin-irreducible-iff-ideal-primo
 references:

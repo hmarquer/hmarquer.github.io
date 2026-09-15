@@ -3,7 +3,7 @@ title: 'Distancia entre conjuntos'
 filename: 'distancia-conjuntos'
 created: '2026-09-12T16:42:24.393938704+00:00'
 last_edit_date: '2026-09-12T16:42:34.361849552+00:00'
-last_build_date_pdf: '2026-09-13T00:05:51.538567054+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.803605256+00:00'
 labels:
   - defn:distancia-conjuntos
 references:

@@ -3,7 +3,7 @@ title: 'Proposición'
 filename: 'proposicion'
 created: '2026-02-02 17:02:12.197014'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:42.893322248+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.389899643+00:00'
 labels:
   - defn:proposicion
 references:

@@ -3,7 +3,7 @@ title: 'Extensión de cuerpos'
 filename: 'extension'
 created: '2025-02-01 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-08T21:32:00.427014033+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.279851867+00:00'
 labels:
   - defn:extension
 references:

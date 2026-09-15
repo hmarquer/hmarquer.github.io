@@ -3,7 +3,7 @@ title: 'Todo anillo tiene un ideal maximal'
 filename: 'cor-exists-ideal-maximal'
 created: '2026-01-10 10:55:00.332614'
 last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
-last_build_date_pdf: '2026-09-08T21:38:49.478810854+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.347049417+00:00'
 labels:
   - cor:exists-ideal-maximal
 references:

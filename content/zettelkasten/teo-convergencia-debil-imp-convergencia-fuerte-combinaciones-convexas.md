@@ -3,7 +3,7 @@ title: 'Convergencia débil implica convergencia fuerte de combinaciones convexa
 filename: 'teo-convergencia-debil-imp-convergencia-fuerte-combinaciones-convexas'
 created: '2026-01-06 20:27:48.149810'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T16:37:38.065417292+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.817407674+00:00'
 labels:
   - teo:convergencia-debil-imp-convergencia-fuerte-combinaciones-convexas
 references:

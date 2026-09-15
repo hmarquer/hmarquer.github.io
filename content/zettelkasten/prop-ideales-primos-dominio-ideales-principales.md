@@ -3,7 +3,7 @@ title: 'Prop ideales primos dominio ideales principales'
 filename: 'prop-ideales-primos-dominio-ideales-principales'
 created: '2026-01-10 18:31:14.435542'
 last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
-last_build_date_pdf: '2026-09-08T21:13:39.010603677+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.042191393+00:00'
 labels:
   - prop:ideales-primos-dominio-ideales-principales
 references:

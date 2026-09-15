@@ -3,7 +3,7 @@ title: 'Dos espacios normados relacionados por una isometría biyectiva son refl
 filename: 'teo-isometria-biyectiva-reflexividad'
 created: '2025-12-25 22:35:01.192004'
 last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-08T16:33:39.002612413+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.415909195+00:00'
 labels:
   - teo:isometria-biyectiva-reflexividad
 references:

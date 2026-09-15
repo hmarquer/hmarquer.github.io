@@ -3,7 +3,7 @@ title: 'Teorema de Riesz-Fischer'
 filename: 'teo-riesz-fischer'
 created: '2025-12-30 17:31:57.078928'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:31:55.439912593+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.148869295+00:00'
 labels:
   - teo:riesz-fischer
 references:

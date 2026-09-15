@@ -3,7 +3,7 @@ title: 'Primer grupo fundamental'
 filename: 'primer-grupo-fundamental'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
-last_build_date_pdf: '2026-09-08T21:17:39.427973551+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.400830269+00:00'
 labels:
   - teo:primer-grupo-fundamental
 references:

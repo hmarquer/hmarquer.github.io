@@ -3,7 +3,7 @@ title: 'Convergencia absoluta serie'
 filename: 'convergencia-absoluta-serie'
 created: '2025-04-20 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
-last_build_date_pdf: '2026-09-08T21:40:10.628498168+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.796495240+00:00'
 labels:
   - defn:convergencia-absoluta-serie
 references:

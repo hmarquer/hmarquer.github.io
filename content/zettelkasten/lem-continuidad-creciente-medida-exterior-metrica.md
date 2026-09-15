@@ -3,7 +3,7 @@ title: 'Continuidad creciente de una medida exterior métrica'
 filename: 'lem-continuidad-creciente-medida-exterior-metrica'
 created: '2026-09-12T19:26:54.365786783+00:00'
 last_edit_date: '2026-09-12T19:27:28.910257767+00:00'
-last_build_date_pdf: '2026-09-12T19:27:37.165408709+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.793228702+00:00'
 labels:
   - lem:continuidad-creciente-medida-exterior-metrica
 references:

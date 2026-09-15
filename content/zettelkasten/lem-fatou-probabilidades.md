@@ -3,7 +3,7 @@ title: 'Lema de Fatou para probabilidades'
 filename: 'lem-fatou-probabilidades'
 created: '2025-06-19 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:24:49.078517923+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.397200841+00:00'
 labels:
   - lem:fatou-probabilidades
 references:

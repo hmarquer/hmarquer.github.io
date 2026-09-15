@@ -3,7 +3,7 @@ title: 'La clausura de Zariski es el conjunto de ceros del ideal de anulación'
 filename: 'lem-clausura-zariski-con-ceros-ideal-anulacion'
 created: '2025-12-16 19:02:03.432869'
 last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-08T21:26:12.414000313+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.946792374+00:00'
 labels:
   - lem:clausura-zariski-con-ceros-ideal-anulacion
 references:

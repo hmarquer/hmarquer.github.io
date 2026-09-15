@@ -3,7 +3,7 @@ title: 'Preservación de fórmulas universales en subestructuras'
 filename: 'lem-preservacion-formulas-universales-subestructuras'
 created: '2026-03-26 16:39:59.400132'
 last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
-last_build_date_pdf: '2026-09-08T21:23:28.970160066+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.114017599+00:00'
 labels:
   - lem:preservacion-formulas-universales-subestructuras
 references:

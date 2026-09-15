@@ -3,7 +3,7 @@ title: 'Integral'
 filename: 'integral'
 created: '2025-12-11 19:31:56.705059'
 last_edit_date: '2026-09-07T13:16:43.938083675+00:00'
-last_build_date_pdf: '2026-09-08T21:27:56.788274359+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.610529283+00:00'
 labels:
   - defn:int-fn-no-negativa
   - defn:int-fn-simple

@@ -3,7 +3,7 @@ title: 'Toda bola abierta es convexa en espacios normados'
 filename: 'teo-esp-normado-imp-bola-abierta-convexa'
 created: '2025-09-17 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
-last_build_date_pdf: '2026-09-08T16:36:14.851495781+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.933691064+00:00'
 labels:
   - teo:esp-normado-imp-bola-abierta-convexa
 references:

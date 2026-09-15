@@ -3,7 +3,7 @@ title: 'Homotopía'
 filename: 'homotopia'
 created: '2025-06-22 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
-last_build_date_pdf: '2026-09-08T21:28:50.730497973+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.139130973+00:00'
 labels:
   - defn:homotopia
 references:

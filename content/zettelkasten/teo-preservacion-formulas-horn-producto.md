@@ -3,7 +3,7 @@ title: 'Teorema de preservación de fórmulas de Horn en el producto'
 filename: 'teo-preservacion-formulas-horn-producto'
 created: '2026-03-26 19:21:02.289026'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:32:20.690991653+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.519399428+00:00'
 labels:
   - teo:preservacion-formulas-horn-producto
 references:

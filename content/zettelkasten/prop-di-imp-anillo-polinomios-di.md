@@ -3,7 +3,7 @@ title: 'El anillo de polinomios sobre un dominio de integridad es un dominio de 
 filename: 'prop-di-imp-anillo-polinomios-di'
 created: '2025-09-19 00:00:00'
 last_edit_date: '2026-09-14T16:36:20.737615768+00:00'
-last_build_date_pdf: '2026-09-14T16:36:28.860273628+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.861788338+00:00'
 labels:
   - prop:di-imp-anillo-polinomios-di
 references:

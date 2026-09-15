@@ -3,7 +3,7 @@ title: 'Diámetro de un conjunto'
 filename: 'diametro-con'
 created: '2026-09-11T07:50:57.828610435+00:00'
 last_edit_date: '2026-09-11T07:51:08.686697826+00:00'
-last_build_date_pdf: '2026-09-11T22:35:11.466263055+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.034609424+00:00'
 labels:
   - defn:diametro-con
 references:

@@ -3,7 +3,7 @@ title: 'Teoría universal'
 filename: 'teoria-semantica-universal'
 created: '2026-03-26 16:42:25.105153'
 last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
-last_build_date_pdf: '2026-09-08T16:30:38.502005671+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.140254950+00:00'
 labels:
   - defn:teoria-semantica-universal
 references:

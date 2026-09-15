@@ -3,7 +3,7 @@ title: 'Lema subvariedad diferenciable'
 filename: 'lem-subvariedad-diferenciable'
 created: '2025-04-09 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-08T21:22:29.252447420+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.299845104+00:00'
 labels:
   - lem:subvariedad-diferenciable
 references:

@@ -3,7 +3,7 @@ title: 'Fórmula integral de Cauchy para derivadas de orden arbitrario'
 filename: 'teo-formula-integral-cauchy-derivadas'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
-last_build_date_pdf: '2026-09-08T16:34:38.215131597+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.303347464+00:00'
 labels:
   - teo:formula-integral-cauchy-derivadas
 references:

@@ -3,7 +3,7 @@ title: 'Teo fn suave soporte compacto denso lp'
 filename: 'teo-fn-suave-soporte-compacto-denso-lp'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
-last_build_date_pdf: '2026-09-08T16:34:54.599162853+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.240405436+00:00'
 labels:
   - teo:fn-suave-soporte-compacto-denso-lp
 references:

@@ -3,7 +3,7 @@ title: 'Propiedades de los conjuntos abiertos en un espacio métrico'
 filename: 'prop-con-abiertos-esp-metrico'
 created: '2026-07-17T20:28:57.917416153+00:00'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:16:05.780803435+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.066357519+00:00'
 labels:
   - prop:con-abiertos-esp-metrico
 references:

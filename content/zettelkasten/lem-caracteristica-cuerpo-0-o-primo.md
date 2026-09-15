@@ -3,7 +3,7 @@ title: 'La característica de un cuerpo es $0$ o un número primo'
 filename: 'lem-caracteristica-cuerpo-0-o-primo'
 created: '2026-07-27T08:47:37.001802925+00:00'
 last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-08T21:26:16.803619698+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.098483633+00:00'
 labels:
   - lem:caracteristica-cuerpo-0-o-primo
 references:

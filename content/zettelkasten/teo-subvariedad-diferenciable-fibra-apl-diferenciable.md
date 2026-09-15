@@ -3,7 +3,7 @@ title: 'Teo subvariedad diferenciable fibra apl diferenciable'
 filename: 'teo-subvariedad-diferenciable-fibra-apl-diferenciable'
 created: '2025-06-17 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:31:20.468417813+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.753298486+00:00'
 labels:
   - teo:subvariedad-diferenciable-fibra-apl-diferenciable
 references:

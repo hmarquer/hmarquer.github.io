@@ -3,7 +3,7 @@ title: 'Teorema de Picard para funciones enteras que omiten dos puntos'
 filename: 'teo-picard-fn-entera-omite-dos-puntos-imp-constante'
 created: '2026-06-17T15:57:07.586171170+00:00'
 last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-08T16:32:34.692060325+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.757275344+00:00'
 labels:
   - teo:picard-fn-entera-omite-dos-puntos-imp-constante
 references:

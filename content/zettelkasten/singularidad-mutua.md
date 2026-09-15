@@ -3,7 +3,7 @@ title: 'Singularidad mutua'
 filename: 'singularidad-mutua'
 created: '2025-05-04 00:00:00'
 last_edit_date: '2026-09-11T07:45:15.339494627+00:00'
-last_build_date_pdf: '2026-09-11T22:35:02.212486957+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.215888808+00:00'
 labels:
   - defn:singularidad-mutua
 references:

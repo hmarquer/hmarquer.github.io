@@ -3,7 +3,7 @@ title: 'Prop ideal radical iff cociente reducido'
 filename: 'prop-ideal-radical-iff-cociente-reducido'
 created: '2025-10-21 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
-last_build_date_pdf: '2026-09-08T21:13:51.507528192+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.298107032+00:00'
 labels:
   - prop:ideal-radical-iff-cociente-reducido
 references:

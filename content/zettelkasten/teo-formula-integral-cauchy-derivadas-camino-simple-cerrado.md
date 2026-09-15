@@ -3,7 +3,7 @@ title: 'Fórmula integral de Cauchy para derivadas de orden arbitrario en un cam
 filename: 'teo-formula-integral-cauchy-derivadas-camino-simple-cerrado'
 created: '2026-03-18 18:38:21.035122'
 last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
-last_build_date_pdf: '2026-09-08T16:34:37.568723345+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.746470105+00:00'
 labels:
   - teo:formula-integral-cauchy-derivadas-camino-simple-cerrado
 references:

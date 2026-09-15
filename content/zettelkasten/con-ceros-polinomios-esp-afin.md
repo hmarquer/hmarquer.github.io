@@ -3,7 +3,7 @@ title: 'Conjunto de ceros comunes de una familia de polinomios en el espacio af√
 filename: 'con-ceros-polinomios-esp-afin'
 created: '2025-12-14 13:32:20.138179'
 last_edit_date: '2026-09-06T15:26:21.212658208+00:00'
-last_build_date_pdf: '2026-09-08T21:41:19.115304278+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.937390129+00:00'
 labels:
   - defn:con-ceros-polinomios-esp-afin
 references:

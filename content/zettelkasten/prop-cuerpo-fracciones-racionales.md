@@ -3,7 +3,7 @@ title: 'Prop cuerpo fracciones racionales'
 filename: 'prop-cuerpo-fracciones-racionales'
 created: '2025-09-21 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
-last_build_date_pdf: '2026-09-08T21:15:19.419900564+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.954387844+00:00'
 labels:
   - prop:cuerpo-fracciones-racionales
 references:

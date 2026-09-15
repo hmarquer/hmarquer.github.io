@@ -3,7 +3,7 @@ title: 'Teorema de separación de un punto y un subespacio cerrado en un espacio
 filename: 'teo-esp-normado-separacion-punto-subespacio-cerrado'
 created: '2025-12-20 15:08:02.631537'
 last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
-last_build_date_pdf: '2026-09-08T16:36:13.310164008+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.784148160+00:00'
 labels:
   - teo:esp-normado-separacion-punto-subespacio-cerrado
 references:

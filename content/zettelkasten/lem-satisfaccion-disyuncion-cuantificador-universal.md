@@ -3,7 +3,7 @@ title: 'Lema de satisfacción de la disyunción y del cuantificador universal'
 filename: 'lem-satisfaccion-disyuncion-cuantificador-universal'
 created: '2026-03-26 09:53:01.976396'
 last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-08T21:22:58.826378180+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.234290579+00:00'
 labels:
   - lem:satisfaccion-disyuncion-cuantificador-universal
 references:

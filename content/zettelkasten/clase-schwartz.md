@@ -3,7 +3,7 @@ title: 'Clase schwartz'
 filename: 'clase-schwartz'
 created: '2026-01-13 12:14:49.151865'
 last_edit_date: '2026-09-06T15:26:21.211658066+00:00'
-last_build_date_pdf: '2026-09-08T21:41:56.506803589+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.555627006+00:00'
 labels:
   - defn:clase-schwartz
 references:

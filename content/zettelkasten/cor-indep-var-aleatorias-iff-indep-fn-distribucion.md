@@ -3,7 +3,7 @@ title: 'Cor indep var aleatorias iff indep fn distribucion'
 filename: 'cor-indep-var-aleatorias-iff-indep-fn-distribucion'
 created: '2025-06-11 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
-last_build_date_pdf: '2026-09-08T21:38:32.129030731+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.132944203+00:00'
 labels:
   - cor:indep-var-aleatorias-iff-indep-fn-distribucion
 references:

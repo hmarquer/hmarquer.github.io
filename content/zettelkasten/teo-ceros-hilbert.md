@@ -3,7 +3,7 @@ title: 'Teorema de los ceros de Hilbert'
 filename: 'teo-ceros-hilbert'
 created: '2026-01-04 07:40:35.988108'
 last_edit_date: '2026-09-09T14:04:31.413844504+00:00'
-last_build_date_pdf: '2026-09-09T14:04:59.947536987+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.162727266+00:00'
 labels:
   - teo:ceros-hilbert
 references:

@@ -3,7 +3,7 @@ title: 'Toda función holomorfa no identicamente nula tiene un número finito de
 filename: 'cor-fn-holomorfa-compacto-imp-finitud-ceros'
 created: '2025-12-15 10:58:26.654361'
 last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
-last_build_date_pdf: '2026-09-08T21:38:41.694758741+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.384455567+00:00'
 labels:
   - cor:fn-holomorfa-compacto-imp-finitud-ceros
 references:

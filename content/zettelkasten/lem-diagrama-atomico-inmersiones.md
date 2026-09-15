@@ -3,7 +3,7 @@ title: 'Lem diagrama atomico inmersiones'
 filename: 'lem-diagrama-atomico-inmersiones'
 created: '2026-03-26 17:32:57.445479'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:25:22.167435108+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.203782074+00:00'
 labels:
   - lem:diagrama-atomico-inmersiones
 references:

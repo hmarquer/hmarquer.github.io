@@ -3,7 +3,7 @@ title: 'Teo densidad induce metrica'
 filename: 'teo-densidad-induce-metrica'
 created: '2026-01-18 13:30:39.889513'
 last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
-last_build_date_pdf: '2026-09-08T16:37:07.875024955+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.990660919+00:00'
 labels:
   - teo:densidad-induce-metrica
 references:

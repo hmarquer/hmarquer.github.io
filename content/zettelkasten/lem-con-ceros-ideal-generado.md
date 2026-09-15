@@ -3,7 +3,7 @@ title: 'El conjunto de ceros de una familia de polinomios es igual al conjunto d
 filename: 'lem-con-ceros-ideal-generado'
 created: '2025-12-14 16:51:02.698982'
 last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-08T21:25:59.229281616+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.508432884+00:00'
 labels:
   - lem:con-ceros-ideal-generado
 references:

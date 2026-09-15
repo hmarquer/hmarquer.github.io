@@ -3,7 +3,7 @@ title: 'Fórmula para la proyección ortogonal en un sistema ortonormal finito'
 filename: 'teo-proyeccion-ortogonal-sistema-ortonormal-formula'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:32:08.436127183+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.291155563+00:00'
 labels:
   - teo:proyeccion-ortogonal-sistema-ortonormal-formula
 references:

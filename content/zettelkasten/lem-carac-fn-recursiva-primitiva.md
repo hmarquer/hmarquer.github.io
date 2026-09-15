@@ -3,7 +3,7 @@ title: 'Caracterización de las funciones recursivas primitivas'
 filename: 'lem-carac-fn-recursiva-primitiva'
 created: '2026-05-03T13:54:26.562473763+00:00'
 last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-08T21:26:26.844887830+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.108081969+00:00'
 labels:
   - lem:carac-fn-recursiva-primitiva
 references:

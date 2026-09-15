@@ -3,7 +3,7 @@ title: 'La preimagen de una subvariedad por un morfismo es una subvariedad'
 filename: 'prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 16:43:31.392056'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:13:05.177630993+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.714179099+00:00'
 labels:
   - prop:preimagen-subvariedad-morfismo-variedades-algebraicas-afines
 references:

@@ -3,7 +3,7 @@ title: 'Corolario de independencia del dominio de evaluación'
 filename: 'cor-independencia-dominio-evaluacion'
 created: '2026-02-17 19:26:37.094436'
 last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
-last_build_date_pdf: '2026-09-08T21:38:30.089083233+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.911329536+00:00'
 labels:
   - cor:independencia-dominio-evaluacion
 references:

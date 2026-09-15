@@ -3,7 +3,7 @@ title: 'Continuidad'
 filename: 'continuidad'
 created: '2025-12-11 19:31:56.678063'
 last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
-last_build_date_pdf: '2026-09-08T21:40:18.380983887+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.678210754+00:00'
 labels:
   - defn:continuidad
   - defn:continuidad-pnt

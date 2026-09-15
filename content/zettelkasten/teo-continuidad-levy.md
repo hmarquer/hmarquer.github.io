@@ -3,7 +3,7 @@ title: 'Teorema de continuidad de Lévy'
 filename: 'teo-continuidad-levy'
 created: '2025-06-18 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T16:37:45.259421595+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.211905164+00:00'
 labels:
   - teo:continuidad-levy
 references:

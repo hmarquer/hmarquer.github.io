@@ -3,7 +3,7 @@ title: 'Identidad de polarización'
 filename: 'identidad-polarizacion'
 created: '2025-09-17 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
-last_build_date_pdf: '2026-09-08T21:28:23.247190155+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.827821152+00:00'
 labels:
   - prop:identidad-polarizacion
 references:

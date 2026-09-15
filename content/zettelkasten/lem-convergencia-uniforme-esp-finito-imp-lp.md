@@ -3,7 +3,7 @@ title: 'Lem convergencia uniforme espacio finito imp lp'
 filename: 'lem-convergencia-uniforme-esp-finito-imp-lp'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:25:46.653818948+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.392489798+00:00'
 labels:
   - lem:convergencia-uniforme-esp-finito-imp-lp
 references:

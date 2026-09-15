@@ -3,7 +3,7 @@ title: 'Invariancia conforme de la longitud hiperbólica'
 filename: 'lem-invariancia-conforme-longitud-hiperbolica'
 created: '2026-06-13T17:07:20.302182424+00:00'
 last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
-last_build_date_pdf: '2026-09-08T21:24:14.765443339+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.870929893+00:00'
 labels:
   - lem:invariancia-conforme-longitud-hiperbolica
 references:

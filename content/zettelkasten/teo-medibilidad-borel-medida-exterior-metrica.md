@@ -3,7 +3,7 @@ title: 'Teorema de medibilidad de Borel para medidas exteriores métricas'
 filename: 'teo-medibilidad-borel-medida-exterior-metrica'
 created: '2026-09-12T21:10:34.664131225+00:00'
 last_edit_date: '2026-09-12T21:11:22.186391983+00:00'
-last_build_date_pdf: '2026-09-12T21:11:30.512430088+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.045078658+00:00'
 labels:
   - teo:medibilidad-borel-medida-exterior-metrica
 references:

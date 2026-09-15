@@ -3,7 +3,7 @@ title: 'Isomorfismo de variedades algebraicas afines'
 filename: 'isomorfismo-variedades-algebraicas-afines'
 created: '2026-01-05 11:37:07.221276'
 last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
-last_build_date_pdf: '2026-09-08T21:27:32.899426176+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.020823326+00:00'
 labels:
   - defn:isomorfismo-variedades-algebraicas-afines
 references:

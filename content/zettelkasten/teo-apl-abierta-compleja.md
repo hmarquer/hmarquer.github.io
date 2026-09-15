@@ -3,7 +3,7 @@ title: 'Teorema de la aplicación abierta en variable compleja'
 filename: 'teo-apl-abierta-compleja'
 created: '2025-11-20 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
-last_build_date_pdf: '2026-09-08T21:09:07.423295403+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.542610445+00:00'
 labels:
   - teo:apl-abierta-compleja
 references:

@@ -3,7 +3,7 @@ title: 'Producto finito de Blaschke'
 filename: 'producto-finito-blaschke'
 created: '2025-12-10 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:17:13.998719857+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.029897337+00:00'
 labels:
   - defn:producto-finito-blaschke
   - obs:producto-finito-blaschke-automorfismos-disco-unidad

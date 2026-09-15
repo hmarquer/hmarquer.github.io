@@ -3,7 +3,7 @@ title: 'Lema técnico sobre funcionales lineales dependientes en un espacio de B
 filename: 'lem-esp-banach-funcionales-lineales-dependientes'
 created: '2025-12-27 18:40:01.193327'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:25:03.128403335+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.190814651+00:00'
 labels:
   - lem:esp-banach-funcionales-lineales-dependientes
 references:

@@ -3,7 +3,7 @@ title: 'Completitud de la métrica de Poincaré'
 filename: 'teo-completitud-metrica-poincare'
 created: '2026-06-12T11:34:18.032031033+00:00'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T16:37:53.748581866+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.882760059+00:00'
 labels:
   - teo:completitud-metrica-poincare
 references:

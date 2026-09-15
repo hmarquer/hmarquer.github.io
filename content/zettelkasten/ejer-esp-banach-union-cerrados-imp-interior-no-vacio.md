@@ -3,7 +3,7 @@ title: 'Ejer espacio banach union cerrados imp interior no vacio'
 filename: 'ejer-esp-banach-union-cerrados-imp-interior-no-vacio'
 created: '2025-12-06 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
-last_build_date_pdf: '2026-09-08T21:34:30.226836899+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.256949283+00:00'
 labels:
   - ejer:esp-banach-union-cerrados-imp-interior-no-vacio
 references:

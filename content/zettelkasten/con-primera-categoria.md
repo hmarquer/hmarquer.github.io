@@ -3,7 +3,7 @@ title: 'Conjunto de primera categoría'
 filename: 'con-primera-categoria'
 created: '2025-10-23 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.212658208+00:00'
-last_build_date_pdf: '2026-09-08T21:40:52.380121831+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.081366695+00:00'
 labels:
   - defn:con-primera-categoria
 references:

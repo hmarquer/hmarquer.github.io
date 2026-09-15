@@ -3,7 +3,7 @@ title: 'Prop varianza sum var aleatorias indep'
 filename: 'prop-varianza-sum-var-aleatorias-indep'
 created: '2025-06-17 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:50.266970192+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.965420026+00:00'
 labels:
   - prop:varianza-sum-var-aleatorias-indep
 references:

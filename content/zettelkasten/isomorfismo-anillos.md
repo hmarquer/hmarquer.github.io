@@ -3,7 +3,7 @@ title: 'Isomorfismo anillos'
 filename: 'isomorfismo-anillos'
 created: '2025-09-23 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
-last_build_date_pdf: '2026-09-08T21:27:38.236688277+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.488316155+00:00'
 labels:
   - defn:isomorfismo-anillos
 references:

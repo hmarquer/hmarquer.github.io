@@ -3,7 +3,7 @@ title: 'Lem involucion disco unidad derivada'
 filename: 'lem-involucion-disco-unidad-derivada'
 created: '2026-01-22 13:53:11.017265'
 last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
-last_build_date_pdf: '2026-09-08T21:24:08.060610607+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.411117380+00:00'
 labels:
   - lem:involucion-disco-unidad-derivada
 references:

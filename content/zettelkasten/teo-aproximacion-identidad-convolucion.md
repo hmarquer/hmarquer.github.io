@@ -3,7 +3,7 @@ title: 'Teorema de aproximación de la identidad por convolución'
 filename: 'teo-aproximacion-identidad-convolucion'
 created: '2026-01-11 19:12:19.510616'
 last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
-last_build_date_pdf: '2026-09-08T21:09:04.996589007+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.157541527+00:00'
 labels:
   - dem:aproximacion-identidad-convolucion:ecu2
   - dem:aproximacion-identidad-convolucion:ecu3

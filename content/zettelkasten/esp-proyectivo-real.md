@@ -3,7 +3,7 @@ title: 'Espacio proyectivo real'
 filename: 'esp-proyectivo-real'
 created: '2025-03-06 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-08T21:32:50.443085457+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.183937372+00:00'
 labels:
   - defn:esp-proyectivo-real
 references:

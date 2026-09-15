@@ -3,7 +3,7 @@ title: 'Función recursiva primitiva'
 filename: 'fn-recursiva-primitiva'
 created: '2026-04-26T11:31:19.600463966+00:00'
 last_edit_date: '2026-09-06T15:26:21.222659630+00:00'
-last_build_date_pdf: '2026-09-08T21:30:15.285795362+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.137462423+00:00'
 labels:
   - defn:fn-recursiva-primitiva
 references:

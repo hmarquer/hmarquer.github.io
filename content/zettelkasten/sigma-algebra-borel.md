@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra de Borel'
 filename: 'sigma-algebra-borel'
 created: '2025-12-11 19:31:56.739054'
 last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
-last_build_date_pdf: '2026-09-08T21:10:26.941366155+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.393848540+00:00'
 labels:
   - defn:sigma-algebra-borel
 references:

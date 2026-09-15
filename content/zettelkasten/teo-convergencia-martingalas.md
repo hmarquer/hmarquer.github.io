@@ -3,7 +3,7 @@ title: 'Teorema de convergencia de martingalas'
 filename: 'teo-convergencia-martingalas'
 created: '2025-06-15 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
-last_build_date_pdf: '2026-09-08T16:37:36.002167642+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.144544077+00:00'
 labels:
   - teo:convergencia-martingalas
 references:

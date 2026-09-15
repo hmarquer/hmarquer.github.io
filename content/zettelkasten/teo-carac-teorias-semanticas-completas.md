@@ -3,7 +3,7 @@ title: 'Caracterización de teorías completas'
 filename: 'teo-carac-teorias-semanticas-completas'
 created: '2026-03-26 12:38:40.575516'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T21:07:49.028849972+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.632183336+00:00'
 labels:
   - teo:carac-teorias-semanticas-completas
 references:

@@ -3,7 +3,7 @@ title: 'Prop subordinacion relacion orden parcial'
 filename: 'prop-subordinacion-relacion-orden-parcial'
 created: '2026-03-20 13:40:40.006130'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:12:20.998889826+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.376966455+00:00'
 labels:
   - prop:subordinacion-relacion-orden-parcial
 references:

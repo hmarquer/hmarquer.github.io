@@ -3,7 +3,7 @@ title: 'Corolario de substitución múltiple en interpretaciones'
 filename: 'cor-substitucion-multiple-interpretacion'
 created: '2026-02-17 19:28:52.506740'
 last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
-last_build_date_pdf: '2026-09-08T21:37:36.956688161+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.135383715+00:00'
 labels:
   - cor:substitucion-multiple-interpretacion
 references:

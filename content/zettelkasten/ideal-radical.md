@@ -3,7 +3,7 @@ title: 'Ideal radical'
 filename: 'ideal-radical'
 created: '2025-09-17 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
-last_build_date_pdf: '2026-09-08T21:28:27.421567039+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.618109188+00:00'
 labels:
   - defn:ideal-radical
 references:

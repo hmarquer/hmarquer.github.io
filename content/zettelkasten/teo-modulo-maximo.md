@@ -3,7 +3,7 @@ title: 'Principio del módulo máximo'
 filename: 'teo-modulo-maximo'
 created: '2025-09-26 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-08T16:32:57.596121131+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.107290984+00:00'
 labels:
   - teo:modulo-maximo
 references:

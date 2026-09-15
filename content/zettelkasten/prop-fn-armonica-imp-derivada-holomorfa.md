@@ -3,7 +3,7 @@ title: 'Función holomorfa a partir de función armónica'
 filename: 'prop-fn-armonica-imp-derivada-holomorfa'
 created: '2026-06-12T09:45:44.429772276+00:00'
 last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
-last_build_date_pdf: '2026-09-08T21:14:27.354933127+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.881916487+00:00'
 labels:
   - prop:fn-armonica-imp-derivada-holomorfa
 references:

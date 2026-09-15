@@ -3,7 +3,7 @@ title: 'Caracterización de la proyección ortogonal en un subespacio cerrado'
 filename: 'teo-carac-proyeccion-ortogonal-subespacio-cerrado'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T21:07:48.597467758+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.759799278+00:00'
 labels:
   - teo:carac-proyeccion-ortogonal-subespacio-cerrado
 references:

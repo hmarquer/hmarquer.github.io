@@ -3,7 +3,7 @@ title: 'Lema integral de Cauchy'
 filename: 'lem-integral-cauchy'
 created: '2026-03-18 17:45:43.017181'
 last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
-last_build_date_pdf: '2026-09-08T21:24:20.859933508+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.076601165+00:00'
 labels:
   - lem:integral-cauchy
 references:

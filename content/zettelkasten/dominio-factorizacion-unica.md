@@ -3,7 +3,7 @@ title: 'Dominio factorización única'
 filename: 'dominio-factorizacion-unica'
 created: '2026-01-03 18:22:24.294080'
 last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
-last_build_date_pdf: '2026-09-08T21:35:41.689830679+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.910148115+00:00'
 labels:
   - defn:dominio-factorizacion-unica
 references:

@@ -3,7 +3,7 @@ title: 'Variedad algebraica afín'
 filename: 'variedad-algebraica-afin'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
-last_build_date_pdf: '2026-09-08T16:29:18.462502926+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.812381018+00:00'
 labels:
   - defn:variedad-algebraica-afin
 references:

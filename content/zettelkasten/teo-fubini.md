@@ -3,7 +3,7 @@ title: 'Teorema de Fubini'
 filename: 'teo-fubini'
 created: '2025-12-11 19:31:56.754052'
 last_edit_date: '2026-09-06T15:26:21.244662758+00:00'
-last_build_date_pdf: '2026-09-08T16:34:26.705866440+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.537219974+00:00'
 labels:
   - teo:fubini
 references:

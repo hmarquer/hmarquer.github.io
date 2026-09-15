@@ -3,7 +3,7 @@ title: 'Todo espacio vectorial normado de dimensión finita es de Banach'
 filename: 'cor-esp-vectorial-normado-dim-finita-imp-banach'
 created: '2025-11-02 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.214658492+00:00'
-last_build_date_pdf: '2026-09-08T21:38:52.660362654+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.107129004+00:00'
 labels:
   - cor:esp-vectorial-normado-dim-finita-imp-banach
 references:

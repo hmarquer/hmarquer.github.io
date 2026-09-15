@@ -3,7 +3,7 @@ title: 'Prop transformada fourier traslacion modulacion dilatacion'
 filename: 'prop-transformada-fourier-traslacion-modulacion-dilatacion'
 created: '2026-01-13 11:40:03.777768'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:49.180694307+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.415924639+00:00'
 labels:
   - prop:transformada-fourier-traslacion-modulacion-dilatacion
 references:

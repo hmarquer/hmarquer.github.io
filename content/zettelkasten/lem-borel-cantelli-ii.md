@@ -3,7 +3,7 @@ title: 'Lema de Borel-Cantelli II'
 filename: 'lem-borel-cantelli-ii'
 created: '2025-03-11 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-08T21:26:36.731799443+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.854068880+00:00'
 labels:
   - lem:borel-cantelli-ii
 references:

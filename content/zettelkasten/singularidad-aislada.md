@@ -3,7 +3,7 @@ title: 'Singularidad aislada'
 filename: 'singularidad-aislada'
 created: '2025-05-08 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
-last_build_date_pdf: '2026-09-08T21:10:03.102603278+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.289908717+00:00'
 labels:
   - defn:singularidad-aislada
 references:

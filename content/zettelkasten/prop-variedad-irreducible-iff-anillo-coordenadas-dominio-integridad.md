@@ -3,7 +3,7 @@ title: 'Una variedad algebraica afín es irreducible si y solo si su anillo de c
 filename: 'prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad'
 created: '2026-01-05 09:44:10.528593'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:41.965797808+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.773789202+00:00'
 labels:
   - prop:variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
 references:

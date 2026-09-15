@@ -3,7 +3,7 @@ title: 'Teoría generada por un conjunto de enunciados'
 filename: 'teoria-semantica-generada-enunciados'
 created: '2026-03-26 12:31:44.092955'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:30:54.366791979+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.492268939+00:00'
 labels:
   - prop:teoria-semantica-generada-enunciados
 references:

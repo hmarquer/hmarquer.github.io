@@ -3,7 +3,7 @@ title: 'Teorema de puntos fijos de una transformación de Möbius'
 filename: 'teo-transformacion-mobius-pnt-fijos'
 created: '2025-03-26 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:31:20.285505787+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.043948109+00:00'
 labels:
   - teo:transformacion-mobius-pnt-fijos
 references:

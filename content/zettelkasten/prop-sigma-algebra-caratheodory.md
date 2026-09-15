@@ -3,7 +3,7 @@ title: 'Prop sigma algebra caratheodory'
 filename: 'prop-sigma-algebra-caratheodory'
 created: '2026-09-09T22:41:15.615864159+00:00'
 last_edit_date: '2026-09-09T22:50:39.421702121+00:00'
-last_build_date_pdf: '2026-09-10T11:11:22.858454742+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.979698765+00:00'
 labels:
   - prop:sigma-algebra-caratheodory
   - prop:sigma-algebra-caratheodory:i

@@ -3,7 +3,7 @@ title: 'Álgebra'
 filename: 'algebra'
 created: '2025-10-21 00:00:00'
 last_edit_date: '2026-09-14T16:31:09.646893622+00:00'
-last_build_date_pdf: '2026-09-14T16:31:15.616660938+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.016125960+00:00'
 labels:
   - defn:algebra
 references:

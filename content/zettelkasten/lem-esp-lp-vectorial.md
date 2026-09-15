@@ -3,7 +3,7 @@ title: 'Todo espacio $\mathcal{L}^p$ es un espacio vectorial'
 filename: 'lem-esp-lp-vectorial'
 created: '2025-03-14 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:24:56.219529421+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.765568791+00:00'
 labels:
   - lem:esp-lp-vectorial
 references:

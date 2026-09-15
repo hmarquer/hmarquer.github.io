@@ -3,7 +3,7 @@ title: 'Toda transformación de Möbius es composición de traslaciones, dilatac
 filename: 'prop-transformacion-mobius-composicion'
 created: '2025-03-26 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:52.142054006+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.674177680+00:00'
 labels:
   - prop:transformacion-mobius-composicion
 references:

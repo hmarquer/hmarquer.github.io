@@ -3,7 +3,7 @@ title: 'Lem involucion disco unidad rho'
 filename: 'lem-involucion-disco-unidad-rho'
 created: '2026-01-22 13:33:42.163657'
 last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
-last_build_date_pdf: '2026-09-08T21:24:03.896422173+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.094539730+00:00'
 labels:
   - lem:involucion-disco-unidad-rho
 references:

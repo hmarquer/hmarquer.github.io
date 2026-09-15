@@ -3,7 +3,7 @@ title: 'Obs sumacion cesaro convolucion nucleo fejer'
 filename: 'obs-sumacion-cesaro-convolucion-nucleo-fejer'
 created: '2026-01-12 18:02:11.659929'
 last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
-last_build_date_pdf: '2026-09-08T21:18:41.521077905+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.478317908+00:00'
 labels:
   - obs:sumacion-cesaro-convolucion-nucleo-fejer
 references:

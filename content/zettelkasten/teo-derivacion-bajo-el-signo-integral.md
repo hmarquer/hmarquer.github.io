@@ -3,7 +3,7 @@ title: 'Teorema de derivación bajo el signo integral'
 filename: 'teo-derivacion-bajo-el-signo-integral'
 created: '2025-12-30 16:35:38.961359'
 last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
-last_build_date_pdf: '2026-09-08T16:37:01.719072439+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.835152129+00:00'
 labels:
   - teo:derivacion-bajo-el-signo-integral
 references:

@@ -3,7 +3,7 @@ title: 'Unicidad de la descomposición de una variedad algebraica afín en irred
 filename: 'teo-unicidad-descomposicion-variedad-algebraica-afin-irreducibles'
 created: '2025-12-16 20:01:06.310801'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:31:07.807301394+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.842184801+00:00'
 labels:
   - teo:unicidad-descomposicion-variedad-algebraica-afin-irreducibles
 references:

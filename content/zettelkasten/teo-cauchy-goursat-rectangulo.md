@@ -3,7 +3,7 @@ title: 'Teo cauchy goursat rectangulos'
 filename: 'teo-cauchy-goursat-rectangulo'
 created: '2025-05-02 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-08T21:07:37.034362557+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.834254230+00:00'
 labels:
   - teo:cauchy-goursat-rectangulo
 references:

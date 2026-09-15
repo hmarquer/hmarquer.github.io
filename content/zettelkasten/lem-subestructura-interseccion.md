@@ -3,7 +3,7 @@ title: 'Lema de la subestructura intersección'
 filename: 'lem-subestructura-interseccion'
 created: '2026-03-26 13:26:14.854757'
 last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-08T21:22:46.529630730+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.826312783+00:00'
 labels:
   - lem:subestructura-interseccion
 references:

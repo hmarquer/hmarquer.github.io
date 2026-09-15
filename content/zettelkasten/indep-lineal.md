@@ -3,7 +3,7 @@ title: 'Independencia lineal'
 filename: 'indep-lineal'
 created: '2025-10-01 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
-last_build_date_pdf: '2026-09-08T21:28:17.314680524+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.099355089+00:00'
 labels:
   - defn:indep-lineal
 references:

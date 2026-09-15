@@ -3,7 +3,7 @@ title: 'Lem riemann lebesgue l1'
 filename: 'lem-riemann-lebesgue-l1'
 created: '2026-01-12 19:23:04.835266'
 last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
-last_build_date_pdf: '2026-09-08T21:23:06.001849363+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.398438622+00:00'
 labels:
   - lem:riemann-lebesgue-l1
 references:

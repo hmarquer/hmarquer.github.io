@@ -3,7 +3,7 @@ title: '$\C$-derivabilidad en un punto'
 filename: 'fn-compleja-derivable-pnt'
 created: '2025-03-07 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.221659488+00:00'
-last_build_date_pdf: '2026-09-08T21:31:24.704294508+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.205320899+00:00'
 labels:
   - defn:fn-compleja-derivable-pnt
 references:

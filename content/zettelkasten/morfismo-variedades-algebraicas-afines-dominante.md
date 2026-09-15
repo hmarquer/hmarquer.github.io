@@ -3,7 +3,7 @@ title: 'Morfismo de variedades algebraicas afines dominante'
 filename: 'morfismo-variedades-algebraicas-afines-dominante'
 created: '2026-01-05 12:30:55.673280'
 last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
-last_build_date_pdf: '2026-09-08T21:20:20.048493231+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.740819424+00:00'
 labels:
   - defn:morfismo-variedades-algebraicas-afines-dominante
 references:

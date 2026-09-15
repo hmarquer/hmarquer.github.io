@@ -3,7 +3,7 @@ title: 'Prop apl recubridora diferenciable'
 filename: 'prop-apl-recubridora-diferenciable'
 created: '2025-06-23 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:16:45.554519342+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.964667666+00:00'
 labels:
   - prop:apl-recubridora-diferenciable
 references:

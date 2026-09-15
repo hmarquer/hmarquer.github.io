@@ -3,7 +3,7 @@ title: 'Caracterización de conjunto denso en ninguna parte'
 filename: 'prop-con-denso-ninguna-parte-carac'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:15:52.881289923+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.888157679+00:00'
 labels:
   - prop:con-denso-ninguna-parte-carac
 references:

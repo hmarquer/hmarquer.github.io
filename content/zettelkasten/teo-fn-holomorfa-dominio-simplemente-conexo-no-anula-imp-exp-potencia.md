@@ -3,7 +3,7 @@ title: 'Toda función holomorfa en un dominio simplemente conexo que no se anula
 filename: 'teo-fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia'
 created: '2026-06-10T10:26:48.297723636+00:00'
 last_edit_date: '2026-09-07T12:28:16.443276323+00:00'
-last_build_date_pdf: '2026-09-08T16:35:06.215538420+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.491688256+00:00'
 labels:
   - teo:fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia
   - teo:fn-holomorfa-dominio-simplemente-conexo-no-anula-imp-exp-potencia:1

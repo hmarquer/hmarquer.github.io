@@ -3,7 +3,7 @@ title: 'Prop proyeccion ortogonal convexo cerrado'
 filename: 'prop-proyeccion-ortogonal-convexo-cerrado'
 created: '2025-10-26 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:12:51.436942370+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.820671906+00:00'
 labels:
   - prop:proyeccion-ortogonal-convexo-cerrado
 references:

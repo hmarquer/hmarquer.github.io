@@ -3,7 +3,7 @@ title: 'Ejer localizacion ideal primo anillo local'
 filename: 'ejer-localizacion-ideal-primo-anillo-local'
 created: '2026-01-10 11:59:48.772740'
 last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
-last_build_date_pdf: '2026-09-08T21:34:13.967416937+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.266999333+00:00'
 labels:
   - ejer:localizacion-ideal-primo-anillo-local
 references:

@@ -3,7 +3,7 @@ title: 'Morfismo de variedades algebraicas afines'
 filename: 'morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 09:46:56.499735'
 last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
-last_build_date_pdf: '2026-09-08T21:20:22.324497652+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.136942883+00:00'
 labels:
   - defn:morfismo-variedades-algebraicas-afines
 references:

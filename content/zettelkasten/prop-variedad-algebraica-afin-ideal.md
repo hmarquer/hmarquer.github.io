@@ -3,7 +3,7 @@ title: 'Prop variedad algebraica afin ideal'
 filename: 'prop-variedad-algebraica-afin-ideal'
 created: '2025-12-14 16:48:41.533352'
 last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-08T21:11:46.343499876+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.390331887+00:00'
 labels:
   - prop:variedad-algebraica-afin-ideal
 references:

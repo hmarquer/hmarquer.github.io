@@ -3,7 +3,7 @@ title: 'Ejemplo de subestructura elementalmente equivalente que no es subestruct
 filename: 'ejem-subestructura-elementalmente-equivalente-no-subestructura-elemental'
 created: '2026-03-26 20:10:00.596474'
 last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
-last_build_date_pdf: '2026-09-08T21:34:51.934799945+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.509271676+00:00'
 labels:
   - ejem:subestructura-elementalmente-equivalente-no-subestructura-elemental
 references:

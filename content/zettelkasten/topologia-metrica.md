@@ -3,7 +3,7 @@ title: 'Topología métrica'
 filename: 'topologia-metrica'
 created: '2025-03-13 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
-last_build_date_pdf: '2026-09-08T16:30:16.792341868+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.760389435+00:00'
 labels:
   - prop:topologia-metrica
 references:

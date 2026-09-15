@@ -3,7 +3,7 @@ title: 'En un espacio de Hilbert, convergencia débil y en norma implica converg
 filename: 'prop-esp-hilbert-convergencia-debil-norma-imp-convergencia-fuerte'
 created: '2025-12-27 18:37:57.788485'
 last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
-last_build_date_pdf: '2026-09-08T21:14:44.713422354+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.463041856+00:00'
 labels:
   - prop:esp-hilbert-convergencia-debil-norma-imp-convergencia-fuerte
 references:

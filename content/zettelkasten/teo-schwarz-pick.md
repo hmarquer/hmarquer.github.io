@@ -3,7 +3,7 @@ title: 'Teorema de Schwarz-Pick'
 filename: 'teo-schwarz-pick'
 created: '2026-01-22 13:54:11.917752'
 last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
-last_build_date_pdf: '2026-09-08T16:31:44.746101587+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.484107745+00:00'
 labels:
   - teo:schwarz-pick
   - teo:schwarz-pick:eq1

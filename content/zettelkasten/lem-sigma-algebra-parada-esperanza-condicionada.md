@@ -3,7 +3,7 @@ title: 'Lem sigma algebra parada esperanza condicionada'
 filename: 'lem-sigma-algebra-parada-esperanza-condicionada'
 created: '2025-06-15 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-08T21:22:47.495077773+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.470550091+00:00'
 labels:
   - lem:sigma-algebra-parada-esperanza-condicionada
   - lem:sigma-algebra-parada-esperanza-condicionada:1

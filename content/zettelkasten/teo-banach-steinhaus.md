@@ -3,7 +3,7 @@ title: 'Teorema de Banach-Steinhaus'
 filename: 'teo-banach-steinhaus'
 created: '2025-12-06 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
-last_build_date_pdf: '2026-09-08T21:08:24.104503413+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.983217667+00:00'
 labels:
   - teo:banach-steinhaus
 references:

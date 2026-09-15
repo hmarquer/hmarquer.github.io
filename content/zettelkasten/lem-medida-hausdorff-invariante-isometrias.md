@@ -3,7 +3,7 @@ title: 'La medida de Hausdorff es invariante por isometrías de $\R^n$'
 filename: 'lem-medida-hausdorff-invariante-isometrias'
 created: '2026-09-12T21:43:45.762693022+00:00'
 last_edit_date: '2026-09-12T21:47:47.172966796+00:00'
-last_build_date_pdf: '2026-09-12T21:47:52.490980372+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.362251480+00:00'
 labels:
   - lem:medida-hausdorff-invariante-isometrias
 references:

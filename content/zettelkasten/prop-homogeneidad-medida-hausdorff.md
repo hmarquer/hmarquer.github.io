@@ -3,7 +3,7 @@ title: 'La medida de Hausdorff es $\alpha$-homogénea'
 filename: 'prop-homogeneidad-medida-hausdorff'
 created: '2026-09-12T23:51:40.913429458+00:00'
 last_edit_date: '2026-09-12T23:52:02.656632186+00:00'
-last_build_date_pdf: '2026-09-12T23:52:11.456600942+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.380365610+00:00'
 labels:
   - prop:homogeneidad-medida-hausdorff
 references:

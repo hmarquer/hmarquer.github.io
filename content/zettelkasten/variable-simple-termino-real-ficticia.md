@@ -3,7 +3,7 @@ title: 'Tipo de variable simple en un término: real o ficticia'
 filename: 'variable-simple-termino-real-ficticia'
 created: '2026-02-07 20:39:52.940902'
 last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
-last_build_date_pdf: '2026-09-08T16:29:18.950559524+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.881372878+00:00'
 labels:
   - defn:variable-simple-termino-real-ficticia
 references:

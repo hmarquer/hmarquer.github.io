@@ -3,7 +3,7 @@ title: 'Lema de cambio de variable para el laplaciano'
 filename: 'lem-laplaciano-cambio-variable'
 created: '2025-11-12 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
-last_build_date_pdf: '2026-09-08T21:23:57.810148299+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.190296746+00:00'
 labels:
   - lem:laplaciano-cambio-variable
 references:

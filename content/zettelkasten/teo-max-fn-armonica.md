@@ -3,7 +3,7 @@ title: 'Teo max fn armonica'
 filename: 'teo-max-fn-armonica'
 created: '2026-02-11 11:22:26.853564'
 last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-08T16:33:10.177780814+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.722483649+00:00'
 labels:
   - teo:max-fn-armonica
 references:

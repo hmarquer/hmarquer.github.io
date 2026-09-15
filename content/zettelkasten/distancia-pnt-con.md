@@ -3,7 +3,7 @@ title: 'Distancia de un punto a un conjunto'
 filename: 'distancia-pnt-con'
 created: '2026-09-12T16:42:06.366653056+00:00'
 last_edit_date: '2026-09-12T16:42:38.242877282+00:00'
-last_build_date_pdf: '2026-09-13T00:05:51.596506167+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.370745789+00:00'
 labels:
   - defn:distancia-pnt-con
 references:

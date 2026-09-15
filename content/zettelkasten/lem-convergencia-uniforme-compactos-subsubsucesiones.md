@@ -3,7 +3,7 @@ title: 'Lem Convergencia Uniforme Compactos Subsubsucesiones'
 filename: 'lem-convergencia-uniforme-compactos-subsubsucesiones'
 created: '2026-04-28T15:37:26.417468838+00:00'
 last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
-last_build_date_pdf: '2026-09-08T21:25:49.123004355+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.075571919+00:00'
 labels:
   - lem:convergencia-uniforme-compactos-subsubsucesiones
 references:

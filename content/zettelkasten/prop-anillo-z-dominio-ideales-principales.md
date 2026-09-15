@@ -3,7 +3,7 @@ title: '$\Z$ es un dominio de ideales principales'
 filename: 'prop-anillo-z-dominio-ideales-principales'
 created: '2026-01-10 18:01:58.600787'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:17:01.746218420+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.694553918+00:00'
 labels:
   - prop:anillo-z-dominio-ideales-principales
 references:

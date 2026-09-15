@@ -3,7 +3,7 @@ title: 'Obs derivada holomorfa wirtinger'
 filename: 'obs-derivada-holomorfa-wirtinger'
 created: '2026-01-22 18:07:29.061206'
 last_edit_date: '2026-09-06T15:26:21.232661052+00:00'
-last_build_date_pdf: '2026-09-08T21:19:09.088077159+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.458292780+00:00'
 labels:
   - obs:derivada-holomorfa-wirtinger
 references:

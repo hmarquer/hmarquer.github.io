@@ -3,7 +3,7 @@ title: 'Prop bola pseudohiperbolica bola euclidea'
 filename: 'prop-bola-pseudohiperbolica-bola-euclidea'
 created: '2026-02-26 19:46:02.972481'
 last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-08T21:16:30.269725289+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.122555142+00:00'
 labels:
   - fig:bolas-pseudohiperbolicas
   - fig:caso1

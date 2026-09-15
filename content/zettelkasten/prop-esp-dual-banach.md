@@ -3,7 +3,7 @@ title: 'El espacio dual es siempre de Banach'
 filename: 'prop-esp-dual-banach'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
-last_build_date_pdf: '2026-09-08T21:14:44.365803966+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.840097919+00:00'
 labels:
   - prop:esp-dual-banach
 references:

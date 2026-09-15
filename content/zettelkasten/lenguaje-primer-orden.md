@@ -3,7 +3,7 @@ title: 'Lenguaje primer orden'
 filename: 'lenguaje-primer-orden'
 created: '2026-02-02 15:53:45.811042'
 last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-08T21:21:47.317448868+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.439748067+00:00'
 labels:
   - defn:lenguaje-primer-orden
 backlinks:

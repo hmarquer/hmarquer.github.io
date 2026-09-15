@@ -3,7 +3,7 @@ title: 'Término'
 filename: 'termino'
 created: '2026-02-02 17:23:48.658612'
 last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
-last_build_date_pdf: '2026-09-08T16:30:38.822690646+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.704281079+00:00'
 labels:
   - defn:termino
 references:

@@ -3,7 +3,7 @@ title: 'Teorema de Isomorfismos de Banach'
 filename: 'teo-isomorfismos-banach'
 created: '2025-12-13 12:54:29.225306'
 last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-08T16:33:38.378329119+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.855530069+00:00'
 labels:
   - teo:isomorfismos-banach
 references:
