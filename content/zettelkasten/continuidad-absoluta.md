@@ -12,6 +12,7 @@ references:
   - medida-signo
 backlinks:
   - esperanza-condicionada-sigma-algebra
+  - lem-descomposicion-jordan-continuidad-absoluta
   - teo-radon-nikodym
   - var-aleatoria-absolutamente-continua
 projects:

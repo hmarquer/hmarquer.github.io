@@ -17,7 +17,6 @@ backlinks:
   - desigualdad-chebyshev
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - esp-lp
-  - esperanza-condicionada-sigma-algebra
   - fn-integrable
   - integral
   - lem-aprox-fn-simple

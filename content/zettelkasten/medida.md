@@ -13,11 +13,13 @@ references:
 backlinks:
   - continuidad-absoluta
   - esp-medida
+  - lem-descomposicion-jordan-continuidad-absoluta
   - medida-inducida
   - probabilidad-total
   - teo-caratheodory-i
   - teo-caratheodory-ii
   - teo-convergencia-monotona
+  - teo-descomposicion-hahn-jordan
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

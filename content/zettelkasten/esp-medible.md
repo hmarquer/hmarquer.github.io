@@ -16,10 +16,12 @@ backlinks:
   - fn-simple
   - fn-suave-soporte-compacto
   - lem-aprox-fn-simple
+  - lem-descomposicion-jordan-continuidad-absoluta
   - medida-inducida
   - prop-suma-fn-medibles
   - singularidad-mutua
   - teo-caratheodory-i
+  - teo-descomposicion-hahn-jordan
   - teo-radon-nikodym
 projects:
   - 3.2-probabilidad-ii

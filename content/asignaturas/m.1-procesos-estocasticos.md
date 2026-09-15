@@ -2,11 +2,13 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-15T16:26:07.288436994+00:00'
-last_build_date_pdf: '2026-09-15T16:26:13.283471805+00:00'
+last_edit_date: '2026-09-15T18:14:54.449225337+00:00'
+last_build_date_pdf: '2026-09-15T18:25:54.905824709+00:00'
 inclusions:
   - desigualdad-jensen-condicional
+  - esperanza-condicionada-sigma-algebra
   - prop-esperanza-condicionada-sigma-algebra-indep
+  - teo-radon-nikodym
 tags:
   - m.1-procesos-estocasticos
 ---
@@ -18,7 +20,9 @@ tags:
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
+- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [prop-esperanza-condicionada-sigma-algebra-indep](./prop-esperanza-condicionada-sigma-algebra-indep.md)
+- [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ## Etiquetas
 #REVISAR 

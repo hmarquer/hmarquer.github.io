@@ -2,8 +2,8 @@
 title: 'Propiedad universal del anillo cociente'
 filename: 'teo-universal-anillo-cociente'
 created: '2026-09-15T10:35:33.571452703+00:00'
-last_edit_date: '2026-09-15T10:52:15.665063377+00:00'
-last_build_date_pdf: '2026-09-15T10:52:23.334434396+00:00'
+last_edit_date: '2026-09-15T17:16:37.889975990+00:00'
+last_build_date_pdf: '2026-09-15T17:16:44.665097615+00:00'
 labels:
   - teo:universal-anillo-cociente
 references:

@@ -11,7 +11,9 @@ references:
 backlinks:
   - continuidad-absoluta
   - esperanza-condicionada-sigma-algebra
+  - lem-descomposicion-jordan-continuidad-absoluta
   - singularidad-mutua
+  - teo-descomposicion-hahn-jordan
   - teo-radon-nikodym
 projects:
   - 3.2-probabilidad-ii

@@ -2,8 +2,8 @@
 title: 'Esperanza condicionada a una $\sigma$-álgebra'
 filename: 'esperanza-condicionada-sigma-algebra'
 created: '2025-03-24 00:00:00'
-last_edit_date: '2026-09-11T07:45:15.361494817+00:00'
-last_build_date_pdf: '2026-09-11T22:35:11.921682900+00:00'
+last_edit_date: '2026-09-15T17:32:33.560959452+00:00'
+last_build_date_pdf: '2026-09-15T17:32:40.828755657+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebra
 references:
@@ -11,7 +11,6 @@ references:
   - esp-lp
   - esp-probabilidad
   - esperanza
-  - fn-medible
   - medida-signo
   - sigma-algebra
   - teo-convergencia-dominada
@@ -30,8 +29,10 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.2-aprendizaje-automatico
+  - m.1-procesos-estocasticos
 tags:
   - aprendizaje-automatico/apendice
+  - m.1-procesos-estocasticos/tema0
   - probabilidad-ii/tema4
 ---
 
@@ -43,7 +44,6 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [esp-probabilidad](./esp-probabilidad.md)
 - [esperanza](./esperanza.md)
-- [fn-medible](./fn-medible.md)
 - [medida-signo](./medida-signo.md)
 - [sigma-algebra](./sigma-algebra.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)

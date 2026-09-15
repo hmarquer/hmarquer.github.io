@@ -10,6 +10,7 @@ references:
   - esp-medida
 backlinks:
   - con-nulo
+  - teo-descomposicion-hahn-jordan
 ---
 
 [[con-positivo.pdf]]
