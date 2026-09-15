@@ -13,6 +13,7 @@ backlinks:
   - lem-primer-grupo-fundamental-morfismo-inducido
   - morfismo-modulos
   - morfismos
+  - nucleo-morfismo-grupos
 ---
 
 [[morfismo-grupos.pdf]]

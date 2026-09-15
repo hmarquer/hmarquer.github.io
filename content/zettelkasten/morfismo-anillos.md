@@ -10,6 +10,7 @@ references:
   - anillo
 backlinks:
   - ejer-morfismo-anillos-inverso
+  - ejer-nucleo-morfismo-imp-ideal
   - extension
   - extension-anillos
   - isomorfismo-anillos
@@ -17,10 +18,12 @@ backlinks:
   - lem-morfismo-anillos-cuerpo-anillo-imp-inyectivo
   - morfismo-ralgebras
   - morfismos
+  - nucleo-morfismo-anillos
   - num-complejos
   - obs-anillo-cociente-morfismo-canonico
   - prop-inclusion-localizacion-morfismo-anillos
   - teo-primero-isomorfia
+  - teo-universal-anillo-cociente
   - teo-universal-localizacion
 projects:
   - 3.1-teoria-de-galois

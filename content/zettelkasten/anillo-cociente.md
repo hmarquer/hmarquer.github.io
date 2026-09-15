@@ -18,6 +18,7 @@ backlinks:
   - prop-ideal-radical-iff-cociente-reducido
   - teo-correspondencia-ideales-cociente
   - teo-primero-isomorfia
+  - teo-universal-anillo-cociente
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa

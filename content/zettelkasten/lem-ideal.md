@@ -12,6 +12,7 @@ labels:
 references:
   - anillo
 backlinks:
+  - ejer-nucleo-morfismo-imp-ideal
   - lem-suma-ideales
   - prop-ideal-anulacion-ideal-radical
 projects:

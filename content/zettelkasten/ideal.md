@@ -17,6 +17,7 @@ backlinks:
   - dominio-ideales-principales
   - ejer-extension-entera-cociente
   - ejer-interseccion-ideales
+  - ejer-nucleo-morfismo-imp-ideal
   - ejer-union-ideales-encajados
   - ejer-variedad-algebraica-ideal-radical
   - ideal-finitamente-generado
@@ -50,6 +51,8 @@ backlinks:
   - teo-correspondencia-ideales-cociente
   - teo-cuerpo-imp-polinomios-dip
   - teo-ideal-imp-exists-ideal-maximal-contiene
+  - teo-primero-isomorfia
+  - teo-universal-anillo-cociente
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa

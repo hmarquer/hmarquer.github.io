@@ -14,6 +14,7 @@ references:
 backlinks:
   - prop-ideal-maximal-iff-cociente-cuerpo
   - teo-correspondencia-ideales-cociente
+  - teo-universal-anillo-cociente
 projects:
   - 4.1-algebra-conmutativa
   - m.1-curvas-algebraicas
