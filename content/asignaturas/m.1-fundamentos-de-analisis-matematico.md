@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-15T22:18:18.194166356+00:00'
-last_build_date_pdf: '2026-09-15T23:14:26.302450541+00:00'
+last_edit_date: '2026-09-16T14:50:17.078452657+00:00'
+last_build_date_pdf: '2026-09-16T14:52:50.782790536+00:00'
 inclusions:
   - algebra-conjuntos
   - con-caratheodory-medible
@@ -112,3 +112,8 @@ tags:
 #EJERCICIO 
 #COMPLETAR la suma de diametros de los $E_j \cap A$ es mayor o igual que 1.
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
+#DEMOSTRACIÓN es básicamente usar el lema anterior y la definición de dimensión de Hausdorff
+#REVISAR : Aquí ha escrito un factor de 2 extra,
+#DEMOSTRACIÓN : escribir bien
+#EJERCICIO : escribirlo bien
+#COMPLETAR : incluir figura del polvo de Cantor
