@@ -11,6 +11,9 @@ references:
   - medida-exterior
   - relacion-orden
 backlinks:
+  - ejems-dim-hausdorff
+  - lem-dim-hausdorff-con-cantor-cota-superior
+  - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
   - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-hausdorff

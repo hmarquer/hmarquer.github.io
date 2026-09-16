@@ -10,6 +10,7 @@ references:
   - prop-medida-exterior-hausdorff
   - prop-sigma-algebra-caratheodory
 backlinks:
+  - ejer-medida-hausdorff-dim-0-contar
   - lem-medida-hausdorff-invariante-isometrias
   - prop-homogeneidad-medida-hausdorff
 projects:

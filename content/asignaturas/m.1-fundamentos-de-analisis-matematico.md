@@ -2,18 +2,22 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-16T14:54:33.279476809+00:00'
-last_build_date_pdf: '2026-09-16T14:54:35.197660031+00:00'
+last_edit_date: '2026-09-16T18:08:14.648757333+00:00'
+last_build_date_pdf: '2026-09-16T18:08:24.931484747+00:00'
 inclusions:
   - algebra-conjuntos
+  - con-cantor
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
   - cor-dim-hausdorff
+  - cor-dimension-hausdorff-fn-gamma-holder
   - diametro-con
   - distancia-conjuntos
   - distancia-pnt-con
+  - ejems-dim-hausdorff
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
+  - ejer-medida-hausdorff-dim-0-contar
   - esp-medible
   - esp-medida
   - fn-gamma-holder
@@ -21,9 +25,11 @@ inclusions:
   - fn-simple
   - integral
   - lem-continuidad-creciente-medida-exterior-metrica
+  - lem-dim-hausdorff-con-cantor-cota-superior
   - lem-fatou
   - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
+  - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
   - medida
   - medida-exterior
@@ -89,15 +95,21 @@ tags:
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ### tema1
+- [con-cantor](./con-cantor.md)
 - [cor-dim-hausdorff](./cor-dim-hausdorff.md)
+- [cor-dimension-hausdorff-fn-gamma-holder](./cor-dimension-hausdorff-fn-gamma-holder.md)
 - [diametro-con](./diametro-con.md)
 - [distancia-conjuntos](./distancia-conjuntos.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
+- [ejems-dim-hausdorff](./ejems-dim-hausdorff.md)
 - [ejer-medida-hausdorff-comparacion-medida-lebesgue](./ejer-medida-hausdorff-comparacion-medida-lebesgue.md)
+- [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
 - [fn-gamma-holder](./fn-gamma-holder.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
+- [lem-dim-hausdorff-con-cantor-cota-superior](./lem-dim-hausdorff-con-cantor-cota-superior.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [lem-medida-exterior-hausdorff-dimensiones-ordenadas](./lem-medida-exterior-hausdorff-dimensiones-ordenadas.md)
+- [lem-medida-exterior-hausdorff-fn-gamma-holder](./lem-medida-exterior-hausdorff-fn-gamma-holder.md)
 - [lem-medida-hausdorff-invariante-isometrias](./lem-medida-hausdorff-invariante-isometrias.md)
 - [medida-exterior-metrica](./medida-exterior-metrica.md)
 - [medida-hausdorff](./medida-hausdorff.md)
@@ -110,9 +122,7 @@ tags:
 
 ## Etiquetas
 #EJERCICIO 
-#COMPLETAR la suma de diametros de los $E_j \cap A$ es mayor o igual que 1.
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
-#DEMOSTRACIÓN es básicamente usar el lema anterior y la definición de dimensión de Hausdorff
 #REVISAR : Aquí ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien

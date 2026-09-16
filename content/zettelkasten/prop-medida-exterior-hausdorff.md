@@ -12,9 +12,12 @@ references:
   - relacion-orden
 backlinks:
   - cor-dim-hausdorff
+  - ejems-dim-hausdorff
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
+  - lem-dim-hausdorff-con-cantor-cota-superior
   - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
+  - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
   - medida-hausdorff
   - prop-homogeneidad-medida-hausdorff

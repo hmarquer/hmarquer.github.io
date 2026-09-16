@@ -9,6 +9,8 @@ labels:
 references:
   - medida-exterior-lebesgue
   - prop-medida-exterior-hausdorff
+backlinks:
+  - ejems-dim-hausdorff
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

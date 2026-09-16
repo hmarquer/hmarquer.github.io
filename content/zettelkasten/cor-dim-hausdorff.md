@@ -10,6 +10,10 @@ references:
   - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - prop-medida-exterior-hausdorff
+backlinks:
+  - cor-dimension-hausdorff-fn-gamma-holder
+  - ejems-dim-hausdorff
+  - lem-dim-hausdorff-con-cantor-cota-superior
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

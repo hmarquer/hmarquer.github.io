@@ -8,6 +8,9 @@ labels:
   - defn:fn-gamma-holder
 references:
   - esp-metrico
+backlinks:
+  - cor-dimension-hausdorff-fn-gamma-holder
+  - lem-medida-exterior-hausdorff-fn-gamma-holder
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
