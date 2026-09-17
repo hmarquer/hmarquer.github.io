@@ -2,17 +2,17 @@
 title: 'Teo morfismo anillos coordenadas imp morfismo variedades algebraicas afines'
 filename: 'teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 09:59:58.272437'
-last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.581519178+00:00'
+last_edit_date: '2026-09-17T17:59:10.734327544+00:00'
+last_build_date_pdf: '2026-09-17T18:04:22.251032521+00:00'
 labels:
   - teo:morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines
 references:
+  - con-algebraico-afin
+  - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
   - morfismo-ralgebras
-  - morfismo-variedades-algebraicas-afines
-  - variedad-algebraica-afin
 backlinks:
-  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
 tags:
@@ -23,8 +23,8 @@ tags:
 ![[teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines.pdf]]
 
 ## Referencias
+- [con-algebraico-afin](./con-algebraico-afin.md)
+- [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
 - [morfismo-ralgebras](./morfismo-ralgebras.md)
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 

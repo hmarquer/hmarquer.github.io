@@ -26,7 +26,7 @@ backlinks:
   - prop-orden-total-num-complejos
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas
-  - teo-descomposicion-variedad-algebraica-afin-irreducibles
+  - teo-descomposicion-con-algebraico-afin-irreducibles
 ---
 
 [[relacion-orden.pdf]]

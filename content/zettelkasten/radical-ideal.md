@@ -10,7 +10,7 @@ references:
   - anillo
   - ideal
 backlinks:
-  - ejer-variedad-algebraica-ideal-radical
+  - ejer-con-algebraico-afin-ideal-radical
   - ideal-radical
   - lem-radical-ideal-ideal
   - prop-ideal-radical-iff-cociente-reducido

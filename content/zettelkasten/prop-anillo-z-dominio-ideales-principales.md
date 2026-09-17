@@ -11,6 +11,8 @@ references:
   - dominio-ideales-principales
   - ideal
   - ideal-principal
+backlinks:
+  - ejems-anillos-noetherianos
 projects:
   - 3.1-teoria-de-galois
 tags:

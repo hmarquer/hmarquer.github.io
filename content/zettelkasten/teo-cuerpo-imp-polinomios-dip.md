@@ -11,6 +11,8 @@ references:
   - cuerpo
   - dominio-ideales-principales
   - ideal
+backlinks:
+  - ejems-anillos-noetherianos
 projects:
   - 4.1-algebra-conmutativa
 tags:

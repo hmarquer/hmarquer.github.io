@@ -10,6 +10,8 @@ references:
   - anillo
   - morfismo-anillos
   - parte-multiplicativa-anillo
+backlinks:
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
 projects:
   - 4.1-algebra-conmutativa
 tags:

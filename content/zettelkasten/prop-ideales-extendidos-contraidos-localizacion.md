@@ -12,6 +12,7 @@ references:
   - parte-multiplicativa-anillo
 backlinks:
   - cor-ideal-primo-localizacion-extendido
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
 projects:
   - 4.1-algebra-conmutativa
 tags:

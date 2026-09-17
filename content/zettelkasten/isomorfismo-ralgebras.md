@@ -10,7 +10,7 @@ references:
   - algebra
   - morfismo-ralgebras
 backlinks:
-  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
 tags:

@@ -14,6 +14,7 @@ references:
   - lem-ideal-generado
   - lem-ideal-total
 backlinks:
+  - ejems-anillos-noetherianos
   - prop-ideal-maximal-iff-cociente-cuerpo
 projects:
   - 4.1-algebra-conmutativa

@@ -15,11 +15,12 @@ backlinks:
   - anillo-cociente
   - anillo-noetheriano
   - dominio-ideales-principales
+  - ejems-anillos-noetherianos
+  - ejer-con-algebraico-afin-ideal-radical
   - ejer-extension-entera-cociente
   - ejer-interseccion-ideales
   - ejer-nucleo-morfismo-imp-ideal
   - ejer-union-ideales-encajados
-  - ejer-variedad-algebraica-ideal-radical
   - ideal-finitamente-generado
   - ideal-generado
   - ideal-maximal
@@ -34,15 +35,16 @@ backlinks:
   - lem-suma-ideales
   - obs-anillo-cociente-morfismo-canonico
   - producto-ideales
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-anillo-z-dominio-ideales-principales
   - prop-carac-anillo-noetheriano
+  - prop-con-algebraico-afin-ideal
   - prop-ideal-anulacion-ideal-radical
   - prop-ideal-maximal-iff-cociente-cuerpo
   - prop-ideal-primo-iff-cociente-di-integridad
   - prop-ideal-radical-iff-cociente-reducido
   - prop-ideales-extendidos-contraidos-localizacion
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-algebraica-afin-ideal
   - radical-ideal
   - suma-ideales
   - teo-base-hilbert
@@ -60,7 +62,6 @@ projects:
 tags:
   - algebra-conmutativa/tema1
   - m.1-curvas-algebraicas/tema0
-  - m.1-curvas-algebraicas/tema1
   - teoria-de-galois/tema1
 ---
 

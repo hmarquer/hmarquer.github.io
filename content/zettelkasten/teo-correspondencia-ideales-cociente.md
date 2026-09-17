@@ -12,6 +12,7 @@ references:
   - ideal
   - obs-anillo-cociente-morfismo-canonico
 backlinks:
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-ideal-maximal-iff-cociente-cuerpo
 projects:
   - 4.1-algebra-conmutativa

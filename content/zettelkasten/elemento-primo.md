@@ -12,6 +12,10 @@ references:
 backlinks:
   - prop-di-imp-primo-imp-irreducible
   - prop-ideales-primos-dominio-ideales-principales
+projects:
+  - m.1-curvas-algebraicas
+tags:
+  - m.1-curvas-algebraicas/tema0
 ---
 
 [[elemento-primo.pdf]]

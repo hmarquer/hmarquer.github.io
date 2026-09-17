@@ -13,7 +13,7 @@ references:
   - long-cadena-ideales-primos
 backlinks:
   - cor-extension-entera-dim-krull-igualdad
-  - dim-variedad-algebraica-afin
+  - dim-con-algebraico-afin
 projects:
   - 4.1-algebra-conmutativa
 tags:

@@ -2,18 +2,18 @@
 title: 'La clausura de Zariski es el conjunto de ceros del ideal de anulación'
 filename: 'lem-clausura-zariski-con-ceros-ideal-anulacion'
 created: '2025-12-16 19:02:03.432869'
-last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
-last_build_date_pdf: '2026-09-15T23:12:44.946792374+00:00'
+last_edit_date: '2026-09-17T10:56:06.759251550+00:00'
+last_build_date_pdf: '2026-09-17T10:56:12.239256640+00:00'
 labels:
   - lem:clausura-zariski-con-ceros-ideal-anulacion
 references:
   - clausura-zariski
+  - con-algebraico-afin
   - con-ceros-polinomios-esp-afin
   - esp-afin
   - ideal-anulacion
+  - prop-con-algebraico-afin-ideal
   - prop-topologia-zariski
-  - prop-variedad-algebraica-afin-ideal
-  - variedad-algebraica-afin
 backlinks:
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
 projects:
@@ -27,10 +27,10 @@ tags:
 
 ## Referencias
 - [clausura-zariski](./clausura-zariski.md)
+- [con-algebraico-afin](./con-algebraico-afin.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [esp-afin](./esp-afin.md)
 - [ideal-anulacion](./ideal-anulacion.md)
+- [prop-con-algebraico-afin-ideal](./prop-con-algebraico-afin-ideal.md)
 - [prop-topologia-zariski](./prop-topologia-zariski.md)
-- [prop-variedad-algebraica-afin-ideal](./prop-variedad-algebraica-afin-ideal.md)
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 

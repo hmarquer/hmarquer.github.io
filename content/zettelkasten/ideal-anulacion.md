@@ -10,12 +10,12 @@ references:
   - anillo-polinomios
   - esp-afin
 backlinks:
-  - anillo-coordenadas-variedad-algebraica-afin
+  - anillo-coordenadas-con-algebraico-afin
   - lem-clausura-zariski-con-ceros-ideal-anulacion
-  - lem-variedad-algebraica-afin-ideal-anulacion
+  - lem-con-algebraico-afin-ideal-anulacion
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
   - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-ceros-hilbert
 projects:

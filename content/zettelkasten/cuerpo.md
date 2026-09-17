@@ -17,6 +17,7 @@ backlinks:
   - con-ceros-polinomios-esp-afin
   - cuerpo
   - cuerpo-algebraicamente-cerrado
+  - ejems-anillos-noetherianos
   - esp-afin
   - esp-secuencial
   - esp-vectorial
@@ -33,10 +34,10 @@ backlinks:
   - lem-normalizacion-noether
   - num-complejos
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-ideal
   - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-cuerpo-fracciones-racionales
   - prop-ideal-maximal-iff-cociente-cuerpo
-  - prop-variedad-algebraica-afin-ideal
   - subcuerpo
   - subcuerpo-generado
   - teo-ceros-hilbert

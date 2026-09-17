@@ -19,7 +19,7 @@ references:
   - relacion-orden
 backlinks:
   - teo-base-hilbert
-  - teo-descomposicion-variedad-algebraica-afin-irreducibles
+  - teo-descomposicion-con-algebraico-afin-irreducibles
 projects:
   - 4.1-algebra-conmutativa
   - m.1-curvas-algebraicas

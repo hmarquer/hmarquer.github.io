@@ -2,15 +2,15 @@
 title: 'Ejer Composicion Morfismos Variedades Algebraicas Afines'
 filename: 'ejer-composicion-morfismos-variedades-algebraicas-afines'
 created: '2026-06-24T18:36:32.884182514+00:00'
-last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.194287986+00:00'
+last_edit_date: '2026-09-17T17:59:10.733327544+00:00'
+last_build_date_pdf: '2026-09-17T18:04:42.371485399+00:00'
 labels:
   - ejer:composicion-morfismos-variedades-algebraicas-afines
 references:
+  - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
-  - morfismo-variedades-algebraicas-afines
 backlinks:
-  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
 tags:
@@ -21,6 +21,6 @@ tags:
 ![[ejer-composicion-morfismos-variedades-algebraicas-afines.pdf]]
 
 ## Referencias
+- [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
 

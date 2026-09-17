@@ -9,6 +9,7 @@ labels:
 references:
   - anillo
 backlinks:
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
   - ejer-extension-entera-localizacion
   - lem-di-localizacion-relacion-equivalencia
   - prop-ideal-primo-localizacion-extendido-contraido

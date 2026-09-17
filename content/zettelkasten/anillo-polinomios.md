@@ -10,13 +10,15 @@ references:
   - anillo
 backlinks:
   - algebra-finitamente-generada
+  - con-algebraico-afin
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
   - cuerpo-algebraicamente-cerrado
-  - ejer-variedad-algebraica-ideal-radical
+  - ejems-anillos-noetherianos
+  - ejer-con-algebraico-afin-ideal-radical
   - elemento-algebraico-sobre-anillo
   - elemento-entero-sobre-anillo
-  - funcion-regular-variedad-algebraica-afin
+  - fn-regular-con-algebraico-afin
   - grado-polinomio
   - ideal-anulacion
   - independencia-algebraica
@@ -24,15 +26,14 @@ backlinks:
   - lem-con-ceros-ideal-generado
   - obs-con-ceros-ideal-generado-contenido-trivial
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-ideal
   - prop-di-imp-anillo-polinomios-di
   - prop-grado-polinomio
-  - prop-variedad-algebraica-afin-ideal
   - teo-base-hilbert
   - teo-ceros-hilbert
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
   - teo-cuerpo-imp-polinomios-dip
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
-  - variedad-algebraica-afin
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa

@@ -2,8 +2,8 @@
 title: 'Anillo noetheriano'
 filename: 'anillo-noetheriano'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.202656786+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.659919235+00:00'
+last_edit_date: '2026-09-17T16:40:28.330194237+00:00'
+last_build_date_pdf: '2026-09-17T16:40:34.363561352+00:00'
 labels:
   - defn:anillo-noetheriano
 references:
@@ -12,9 +12,12 @@ references:
   - ideal-finitamente-generado
 backlinks:
   - cor-base-hilbert-n-var
+  - ejems-anillos-noetherianos
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-carac-anillo-noetheriano
   - teo-base-hilbert
-  - teo-descomposicion-variedad-algebraica-afin-irreducibles
+  - teo-descomposicion-con-algebraico-afin-irreducibles
 projects:
   - 4.1-algebra-conmutativa
   - m.1-curvas-algebraicas

@@ -12,15 +12,15 @@ references:
   - esp-vectorial
 backlinks:
   - clausura-zariski
+  - con-algebraico-afin
+  - con-algebraico-afin-irreducible
   - con-ceros-polinomios-esp-afin
   - ideal-anulacion
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - prop-con-algebraico-afin-ideal
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-topologia-zariski
-  - prop-variedad-algebraica-afin-ideal
-  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
-  - variedad-algebraica-afin
-  - variedad-algebraica-afin-irreducible
 projects:
   - 4.1-algebra-conmutativa
   - m.1-curvas-algebraicas

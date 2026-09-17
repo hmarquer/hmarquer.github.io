@@ -14,6 +14,7 @@ references:
   - relacion-equivalencia
 backlinks:
   - cor-ideal-primo-localizacion-extendido
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
   - ejer-extension-entera-localizacion
   - ejer-localizacion-ideal-primo-anillo-local
 projects:

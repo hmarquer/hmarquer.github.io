@@ -13,7 +13,7 @@ references:
 backlinks:
   - dominio-euclideo
   - dominio-ideales-principales
-  - ejer-variedad-algebraica-ideal-radical
+  - ejer-con-algebraico-afin-ideal-radical
   - lem-cuerpo-imp-di
   - lem-di-localizacion-relacion-equivalencia
   - prop-di-imp-anillo-polinomios-di

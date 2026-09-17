@@ -12,8 +12,10 @@ references:
   - teo-base-hilbert
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema1
 ---
 
 [[cor-base-hilbert-n-var.pdf]]

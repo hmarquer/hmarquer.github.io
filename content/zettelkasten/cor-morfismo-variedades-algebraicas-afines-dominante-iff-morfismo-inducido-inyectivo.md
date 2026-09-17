@@ -2,14 +2,14 @@
 title: 'Cor morfismo variedades algebraicas afines dominante iff morfismo inducido inyectivo'
 filename: 'cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo'
 created: '2026-01-05 13:08:43.876759'
-last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.638678094+00:00'
+last_edit_date: '2026-09-17T18:00:45.445330218+00:00'
+last_build_date_pdf: '2026-09-17T18:04:49.854193820+00:00'
 labels:
   - cor:morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo
 references:
+  - morfismo-con-algebraicos-afines
+  - morfismo-con-algebraicos-afines-dominante
   - morfismo-inducido-variedades-algebraicas-afines
-  - morfismo-variedades-algebraicas-afines
-  - morfismo-variedades-algebraicas-afines-dominante
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
 projects:
   - 4.1-algebra-conmutativa
@@ -21,8 +21,8 @@ tags:
 ![[cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo.pdf]]
 
 ## Referencias
+- [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
+- [morfismo-con-algebraicos-afines-dominante](./morfismo-con-algebraicos-afines-dominante.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
-- [morfismo-variedades-algebraicas-afines-dominante](./morfismo-variedades-algebraicas-afines-dominante.md)
 - [teo-clausura-zariski-morfismo-variedades-algebraicas-afines](./teo-clausura-zariski-morfismo-variedades-algebraicas-afines.md)
 

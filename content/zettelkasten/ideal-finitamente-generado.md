@@ -12,6 +12,7 @@ references:
   - ideal-generado
 backlinks:
   - anillo-noetheriano
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-carac-anillo-noetheriano
   - teo-base-hilbert
 projects:

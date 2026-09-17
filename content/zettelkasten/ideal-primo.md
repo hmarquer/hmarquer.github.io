@@ -15,10 +15,10 @@ backlinks:
   - dim-krull
   - ejer-localizacion-ideal-primo-anillo-local
   - long-cadena-ideales-primos
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-primo-iff-cociente-di-integridad
   - prop-ideal-primo-localizacion-extendido-contraido
   - prop-ideales-primos-dominio-ideales-principales
-  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
   - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-extension-entera-ideal-primo-imp-exists-ideal-primo-contrae
   - teo-extension-entera-ideal-primo-maximal-iff-maximal

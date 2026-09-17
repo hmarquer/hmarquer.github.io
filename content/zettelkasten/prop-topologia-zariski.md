@@ -2,17 +2,17 @@
 title: 'Topología de Zariski'
 filename: 'prop-topologia-zariski'
 created: '2025-12-14 17:39:57.598689'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.311184153+00:00'
+last_edit_date: '2026-09-17T10:49:40.966513718+00:00'
+last_build_date_pdf: '2026-09-17T10:49:46.423581049+00:00'
 labels:
   - prop:topologia-zariski
 references:
+  - con-algebraico-afin
   - esp-afin
   - producto-ideales
-  - prop-variedad-algebraica-afin-ideal
+  - prop-con-algebraico-afin-ideal
   - suma-ideales
   - topologia
-  - variedad-algebraica-afin
 backlinks:
   - clausura-zariski
   - lem-clausura-zariski-con-ceros-ideal-anulacion
@@ -28,12 +28,12 @@ tags:
 ![[prop-topologia-zariski.pdf]]
 
 ## Referencias
+- [con-algebraico-afin](./con-algebraico-afin.md)
 - [esp-afin](./esp-afin.md)
 - [producto-ideales](./producto-ideales.md)
-- [prop-variedad-algebraica-afin-ideal](./prop-variedad-algebraica-afin-ideal.md)
+- [prop-con-algebraico-afin-ideal](./prop-con-algebraico-afin-ideal.md)
 - [suma-ideales](./suma-ideales.md)
 - [topologia](./topologia.md)
-- [variedad-algebraica-afin](./variedad-algebraica-afin.md)
 
 ## Etiquetas
 #ORDENAR referenciar estas propiedades

@@ -12,9 +12,10 @@ references:
   - ideal
   - relacion-equivalencia
 backlinks:
-  - anillo-coordenadas-variedad-algebraica-afin
+  - anillo-coordenadas-con-algebraico-afin
   - ejer-extension-entera-cociente
   - obs-anillo-cociente-morfismo-canonico
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-ideal-radical-iff-cociente-reducido
   - teo-correspondencia-ideales-cociente
   - teo-primero-isomorfia
@@ -26,7 +27,6 @@ projects:
 tags:
   - algebra-conmutativa/tema1
   - m.1-curvas-algebraicas/tema0
-  - m.1-curvas-algebraicas/tema1
   - teoria-de-galois/tema1
 ---
 

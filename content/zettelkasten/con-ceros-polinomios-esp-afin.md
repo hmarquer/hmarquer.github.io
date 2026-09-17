@@ -11,21 +11,23 @@ references:
   - cuerpo
   - esp-afin
 backlinks:
-  - ejer-variedad-algebraica-ideal-radical
+  - con-algebraico-afin
+  - ejer-con-algebraico-afin-ideal-radical
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - lem-con-algebraico-afin-ideal-anulacion
   - lem-con-ceros-ideal-generado
-  - lem-variedad-algebraica-afin-ideal-anulacion
   - obs-con-ceros-ideal-generado-contenido-trivial
+  - prop-con-algebraico-afin-ideal
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-algebraica-afin-ideal
   - teo-ceros-hilbert
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
-  - variedad-algebraica-afin
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
 ---
 
 [[con-ceros-polinomios-esp-afin.pdf]]

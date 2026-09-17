@@ -14,7 +14,7 @@ references:
   - lem-ideal-generado
   - obs-con-ceros-ideal-generado-contenido-trivial
 backlinks:
-  - prop-variedad-algebraica-afin-ideal
+  - prop-con-algebraico-afin-ideal
 projects:
   - 4.1-algebra-conmutativa
 tags:
