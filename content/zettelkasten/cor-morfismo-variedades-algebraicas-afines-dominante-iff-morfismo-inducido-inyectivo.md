@@ -13,8 +13,10 @@ references:
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo.pdf]]

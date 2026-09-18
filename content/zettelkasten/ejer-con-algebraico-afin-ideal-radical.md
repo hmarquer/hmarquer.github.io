@@ -2,8 +2,8 @@
 title: 'Un ideal y su radical definen el mismo conjunto algebraico afín'
 filename: 'ejer-con-algebraico-afin-ideal-radical'
 created: '2025-12-17 16:46:18.303039'
-last_edit_date: '2026-09-17T14:51:50.324010242+00:00'
-last_build_date_pdf: '2026-09-17T14:51:57.136040181+00:00'
+last_edit_date: '2026-09-18T10:38:58.815033129+00:00'
+last_build_date_pdf: '2026-09-18T10:39:03.736863558+00:00'
 labels:
   - ejer:con-algebraico-afin-ideal-radical
 references:
@@ -14,8 +14,11 @@ references:
   - radical-ideal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[ejer-con-algebraico-afin-ideal-radical.pdf]]

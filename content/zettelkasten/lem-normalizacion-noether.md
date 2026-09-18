@@ -17,8 +17,10 @@ backlinks:
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[lem-normalizacion-noether.pdf]]

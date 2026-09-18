@@ -15,8 +15,10 @@ backlinks:
   - cor-exists-ideal-maximal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[teo-ideal-imp-exists-ideal-maximal-contiene.pdf]]

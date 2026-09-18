@@ -3,7 +3,7 @@ title: 'Anillo de coordenadas de un conjunto algebraico afín'
 filename: 'anillo-coordenadas-con-algebraico-afin'
 created: '2026-01-05 09:43:40.754186'
 last_edit_date: '2026-09-17T18:03:44.141335262+00:00'
-last_build_date_pdf: '2026-09-17T18:03:49.039326855+00:00'
+last_build_date_pdf: '2026-09-18T10:17:03.366411045+00:00'
 labels:
   - defn:anillo-coordenadas-con-algebraico-afin
 references:
@@ -15,8 +15,10 @@ backlinks:
   - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[anillo-coordenadas-con-algebraico-afin.pdf]]

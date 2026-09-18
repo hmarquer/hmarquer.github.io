@@ -3,7 +3,7 @@ title: 'Aplicación conforme'
 filename: 'apl-conforme'
 created: '2025-09-13 00:00:00'
 last_edit_date: '2026-09-09T10:13:34.071838858+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.224889346+00:00'
+last_build_date_pdf: '2026-09-18T12:36:46.359129935+00:00'
 labels:
   - defn:apl-conforme
 references:

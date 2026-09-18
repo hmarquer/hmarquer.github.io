@@ -2,8 +2,8 @@
 title: 'Topología de Zariski'
 filename: 'prop-topologia-zariski'
 created: '2025-12-14 17:39:57.598689'
-last_edit_date: '2026-09-17T10:49:40.966513718+00:00'
-last_build_date_pdf: '2026-09-17T10:49:46.423581049+00:00'
+last_edit_date: '2026-09-18T10:26:54.699947134+00:00'
+last_build_date_pdf: '2026-09-18T10:27:02.101798737+00:00'
 labels:
   - prop:topologia-zariski
 references:
@@ -22,6 +22,7 @@ projects:
 tags:
   - algebra-conmutativa/tema3
   - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[prop-topologia-zariski.pdf]]

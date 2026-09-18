@@ -22,6 +22,7 @@ projects:
 tags:
   - algebra-conmutativa/tema2
   - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[teo-base-hilbert.pdf]]

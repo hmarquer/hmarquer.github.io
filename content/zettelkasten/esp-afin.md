@@ -27,6 +27,7 @@ projects:
 tags:
   - algebra-conmutativa/tema3
   - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[esp-afin.pdf]]
