@@ -2,14 +2,14 @@
 title: 'Morfismo de $R$-álgebras'
 filename: 'morfismo-ralgebras'
 created: '2026-01-05 07:02:22.960522'
-last_edit_date: '2026-09-03T09:44:22.661848255+00:00'
-last_build_date_pdf: '2026-09-03T17:10:24.240726171+00:00'
+last_edit_date: '2026-09-20T15:23:19.056373507+00:00'
+last_build_date_pdf: '2026-09-20T16:33:41.318168847+00:00'
 labels:
   - defn:morfismo-ralgebras
 references:
+  - algebra
   - morfismo-anillos
   - morfismo-modulos
-  - ralgebra
 backlinks:
   - isomorfismo-ralgebras
   - morfismo-inducido-variedades-algebraicas-afines
@@ -24,7 +24,7 @@ tags:
 ![[morfismo-ralgebras.pdf]]
 
 ## Referencias
+- [algebra](./algebra.md)
 - [morfismo-anillos](./morfismo-anillos.md)
 - [morfismo-modulos](./morfismo-modulos.md)
-- [ralgebra](./ralgebra.md)
 

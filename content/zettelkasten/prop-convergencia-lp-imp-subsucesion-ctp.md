@@ -3,7 +3,7 @@ title: 'Convergencia en $L^p$ implica existencia de subsucesión con convergenci
 filename: 'prop-convergencia-lp-imp-subsucesion-ctp'
 created: '2025-10-19 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.688531579+00:00'
-last_build_date_pdf: '2026-09-03T17:06:59.564993766+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.508478820+00:00'
 labels:
   - prop:convergencia-lp-imp-subsucesion-ctp
 references:

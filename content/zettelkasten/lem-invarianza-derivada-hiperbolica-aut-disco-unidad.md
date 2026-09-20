@@ -3,7 +3,7 @@ title: 'Lem Invarianza Derivada Hiperbolica Aut Disco Unidad'
 filename: 'lem-invarianza-derivada-hiperbolica-aut-disco-unidad'
 created: '2026-06-12T14:21:59.367986195+00:00'
 last_edit_date: '2026-09-03T09:44:22.637455846+00:00'
-last_build_date_pdf: '2026-09-03T17:13:06.665364322+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.135981219+00:00'
 labels:
   - lem:invarianza-derivada-hiperbolica-aut-disco-unidad
 references:

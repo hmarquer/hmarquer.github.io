@@ -3,7 +3,7 @@ title: 'Operador adjunto'
 filename: 'operador-adjunto'
 created: '2025-12-25 22:31:18.769372'
 last_edit_date: '2026-09-03T09:44:22.673185664+00:00'
-last_build_date_pdf: '2026-09-03T17:08:57.441443157+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.710330642+00:00'
 labels:
   - defn:operador-adjunto
 references:

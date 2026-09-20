@@ -3,7 +3,7 @@ title: 'Funcional de Minkowski asociado a un conjunto convexo'
 filename: 'lem-funcional-minkowski-conjunto-convexo'
 created: '2025-12-20 18:12:28.293512'
 last_edit_date: '2026-09-03T09:44:22.635266946+00:00'
-last_build_date_pdf: '2026-09-03T17:13:22.949168577+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.690145098+00:00'
 labels:
   - lem:funcional-minkowski-conjunto-convexo
 references:

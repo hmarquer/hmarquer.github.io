@@ -3,7 +3,7 @@ title: 'Teorema de la proyección ortogonal'
 filename: 'teo-proyeccion-ortogonal'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.763029152+00:00'
-last_build_date_pdf: '2026-09-03T16:57:29.527514206+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.979120315+00:00'
 labels:
   - teo:proyeccion-ortogonal
 references:

@@ -3,7 +3,7 @@ title: 'Difeomorfismo'
 filename: 'difeomorfismo'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.570709990+00:00'
-last_build_date_pdf: '2026-09-03T17:21:29.066373832+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.955660047+00:00'
 labels:
   - defn:difeomorfismo
 references:

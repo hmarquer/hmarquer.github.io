@@ -3,7 +3,7 @@ title: 'Espacio de aplicaciones lineales continuas'
 filename: 'esp-apl-lineales-continuas'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.583161661+00:00'
-last_build_date_pdf: '2026-09-03T17:19:42.367595292+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.837011897+00:00'
 labels:
   - defn:esp-apl-lineales-continuas
 references:

@@ -3,7 +3,7 @@ title: 'Teorema de Gram-Schmidt'
 filename: 'teo-gram-schmidt'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.754899475+00:00'
-last_build_date_pdf: '2026-09-03T16:58:26.357383118+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.680166900+00:00'
 labels:
   - teo:gram-schmidt
 references:

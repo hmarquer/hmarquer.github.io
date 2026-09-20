@@ -3,7 +3,7 @@ title: 'Teo espacio banach imp base hamel finita o no numerable'
 filename: 'teo-esp-banach-imp-base-hamel-finita-o-no-numerable'
 created: '2025-12-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.746210191+00:00'
-last_build_date_pdf: '2026-09-03T16:59:37.276390323+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.966156885+00:00'
 labels:
   - teo:esp-banach-imp-base-hamel-finita-o-no-numerable
 references:

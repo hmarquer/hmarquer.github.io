@@ -3,7 +3,7 @@ title: 'Aproximación en norma $\mathcal{L}^p$ de la indicatriz por funciones co
 filename: 'lem-aprox-indicatriz-continua-norma-lp'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.621259711+00:00'
-last_build_date_pdf: '2026-09-03T17:14:58.244865173+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.029717300+00:00'
 labels:
   - lem:aprox-indicatriz-continua-norma-lp
 references:

@@ -3,7 +3,7 @@ title: 'Topología del subespacio'
 filename: 'topologia-subespacio'
 created: '2025-02-24 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.771554203+00:00'
-last_build_date_pdf: '2026-09-03T16:56:29.803525360+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.180613962+00:00'
 labels:
   - defn:topologia-subespacio
 references:

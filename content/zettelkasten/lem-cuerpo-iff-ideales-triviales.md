@@ -3,7 +3,7 @@ title: 'Lem cuerpo iff ideales triviales'
 filename: 'lem-cuerpo-iff-ideales-triviales'
 created: '2025-09-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.627479731+00:00'
-last_build_date_pdf: '2026-09-03T17:14:10.610229006+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.680565187+00:00'
 labels:
   - lem:cuerpo-iff-ideales-triviales
 references:
@@ -14,6 +14,7 @@ references:
   - lem-ideal-generado
   - lem-ideal-total
 backlinks:
+  - ejems-anillos-noetherianos
   - prop-ideal-maximal-iff-cociente-cuerpo
 projects:
   - 4.1-algebra-conmutativa

@@ -3,7 +3,7 @@ title: 'Cor modulo minimo'
 filename: 'cor-modulo-minimo'
 created: '2026-03-19 14:35:16.739773'
 last_edit_date: '2026-09-03T09:44:22.560332110+00:00'
-last_build_date_pdf: '2026-09-03T17:22:54.172862845+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.246103022+00:00'
 labels:
   - cor:modulo-minimo
 references:

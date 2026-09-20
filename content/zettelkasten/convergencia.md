@@ -3,7 +3,7 @@ title: 'Convergencia'
 filename: 'convergencia'
 created: '2025-02-05 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.552899480+00:00'
-last_build_date_pdf: '2026-09-03T17:24:19.660375088+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.091099807+00:00'
 labels:
   - defn:convergencia
 references:
@@ -20,6 +20,7 @@ backlinks:
   - convergencia-uniforme
   - lem-carac-convergencia-uniforme-compactos-convergencia-localmente-uniforme
   - lem-carac-precompacidad-subsucesion-esp-metrico
+  - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
   - lem-riemann-lebesgue-l1
   - prop-carac-convergencia-debil

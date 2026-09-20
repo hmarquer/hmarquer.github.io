@@ -3,7 +3,7 @@ title: 'La norma viene de un producto interno si y solo si satisface la identida
 filename: 'teo-prod-interno-iff-identidad-paralelogramo'
 created: '2025-09-17 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.762621125+00:00'
-last_build_date_pdf: '2026-09-03T16:57:30.098732863+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.631021290+00:00'
 labels:
   - teo:prod-interno-iff-identidad-paralelogramo
 references:

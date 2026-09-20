@@ -3,7 +3,7 @@ title: 'Acción diferenciable'
 filename: 'accion-diferenciable'
 created: '2025-06-21 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.529420180+00:00'
-last_build_date_pdf: '2026-09-03T17:27:16.805509509+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.553061563+00:00'
 last_build_date_html: '2026-08-30T23:21:26.895148648+00:00'
 labels:
   - defn:accion-diferenciable

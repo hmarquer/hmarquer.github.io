@@ -3,7 +3,7 @@ title: 'Derivada hiperbólica'
 filename: 'derivada-hiperbolica'
 created: '2026-03-20 18:06:51.841940'
 last_edit_date: '2026-09-03T09:44:22.567215854+00:00'
-last_build_date_pdf: '2026-09-03T17:21:58.363011624+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.868793819+00:00'
 labels:
   - defn:derivada-hiperbolica
 references:

@@ -3,7 +3,7 @@ title: 'Variedades difeomorfas difeomorfas'
 filename: 'variedades-difeomorfas'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.776720365+00:00'
-last_build_date_pdf: '2026-09-03T16:55:45.309327829+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.308514307+00:00'
 labels:
   - defn:variedades-difeomorfas
 references:

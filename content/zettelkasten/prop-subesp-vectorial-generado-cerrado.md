@@ -3,7 +3,7 @@ title: 'El subespacio vectorial generado por un sistema ortonormal finito es cer
 filename: 'prop-subesp-vectorial-generado-cerrado'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.708166956+00:00'
-last_build_date_pdf: '2026-09-03T17:04:32.933462426+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.612486111+00:00'
 labels:
   - prop:subesp-vectorial-generado-cerrado
 references:

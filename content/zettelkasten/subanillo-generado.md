@@ -3,7 +3,7 @@ title: 'Subanillo generado'
 filename: 'subanillo-generado'
 created: '2025-09-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.724927937+00:00'
-last_build_date_pdf: '2026-09-03T17:02:31.882530922+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.290425278+00:00'
 labels:
   - defn:subanillo-generado
 references:

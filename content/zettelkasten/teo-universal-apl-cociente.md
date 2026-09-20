@@ -3,7 +3,7 @@ title: 'Teorema universal de las aplicaciones cocientes'
 filename: 'teo-universal-apl-cociente'
 created: '2025-02-26 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.768646834+00:00'
-last_build_date_pdf: '2026-09-03T16:56:53.680526759+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.632387988+00:00'
 labels:
   - teo:universal-apl-cociente
 references:

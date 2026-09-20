@@ -3,7 +3,7 @@ title: 'Topología generada por una familia de conjuntos'
 filename: 'prop-topologia-generada'
 created: '2025-05-27 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.709264256+00:00'
-last_build_date_pdf: '2026-09-03T17:04:23.405771936+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.892175273+00:00'
 labels:
   - prop:topologia-generada
 references:

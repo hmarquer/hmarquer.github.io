@@ -2,15 +2,15 @@
 title: 'Teo morfismo inducido variedades algebraicas afines sobreyectivo imp isomorfismo'
 filename: 'teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo'
 created: '2026-01-05 13:27:12.933223'
-last_edit_date: '2026-09-03T09:44:22.760834090+00:00'
-last_build_date_pdf: '2026-09-03T16:57:42.362536027+00:00'
+last_edit_date: '2026-09-20T15:23:19.058927195+00:00'
+last_build_date_pdf: '2026-09-20T16:32:47.932044151+00:00'
 labels:
   - teo:morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo
 references:
-  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
-  - isomorfismo-variedades-algebraicas-afines
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
+  - isomorfismo-con-algebraicos-afines
+  - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
-  - morfismo-variedades-algebraicas-afines
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
 projects:
   - 4.1-algebra-conmutativa
@@ -22,9 +22,9 @@ tags:
 ![[teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo.pdf]]
 
 ## Referencias
-- [cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras](./cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras.md)
-- [isomorfismo-variedades-algebraicas-afines](./isomorfismo-variedades-algebraicas-afines.md)
+- [cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras](./cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras.md)
+- [isomorfismo-con-algebraicos-afines](./isomorfismo-con-algebraicos-afines.md)
+- [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
 - [teo-clausura-zariski-morfismo-variedades-algebraicas-afines](./teo-clausura-zariski-morfismo-variedades-algebraicas-afines.md)
 

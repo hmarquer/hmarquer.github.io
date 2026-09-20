@@ -3,7 +3,7 @@ title: 'Teorema de parada opcional'
 filename: 'teo-parada-opcional'
 created: '2025-06-15 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.761017560+00:00'
-last_build_date_pdf: '2026-09-03T16:57:41.894792881+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.120105995+00:00'
 labels:
   - teo:parada-opcional
   - teo:parada-opcional:martingala

@@ -3,7 +3,7 @@ title: 'Serie de Fourier en $\mathcal{L}^1$'
 filename: 'serie-fourier-l1'
 created: '2026-01-12 17:04:08.581571'
 last_edit_date: '2026-09-03T09:44:22.720083548+00:00'
-last_build_date_pdf: '2026-09-03T17:03:06.755637111+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.504337973+00:00'
 labels:
   - defn:serie-fourier-l1
 references:

@@ -3,7 +3,7 @@ title: 'Teorema $\pi$-$\lambda$'
 filename: 'teo-pi-sistema-subset-lambda-sistema'
 created: '2025-03-27 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.761730258+00:00'
-last_build_date_pdf: '2026-09-03T16:57:36.741064576+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.083252113+00:00'
 labels:
   - teo:pi-sistema-subset-lambda-sistema
 references:

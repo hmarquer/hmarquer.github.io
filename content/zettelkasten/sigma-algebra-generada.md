@@ -3,7 +3,7 @@ title: '$\sigma$ álgebra generada por una familia'
 filename: 'sigma-algebra-generada'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.721577534+00:00'
-last_build_date_pdf: '2026-09-03T17:02:58.161902082+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.554129228+00:00'
 labels:
   - defn:sigma-algebra-generada
 references:
@@ -12,7 +12,12 @@ backlinks:
   - prop-sigma-algebra-generada
   - sigma-algebra-borel
   - sigma-algebra-tiempo-parada
+  - teo-medibilidad-borel-medida-exterior-metrica
   - teo-pi-sistema-subset-lambda-sistema
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
 ---
 
 [[sigma-algebra-generada.pdf]]

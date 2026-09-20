@@ -3,7 +3,7 @@ title: 'Lema de unicidad para funciones armónicas'
 filename: 'lem-unicidad-armonica'
 created: '2026-02-11 11:20:52.824950'
 last_edit_date: '2026-09-03T09:44:22.651731342+00:00'
-last_build_date_pdf: '2026-09-03T17:11:37.757583676+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.728313817+00:00'
 labels:
   - lem:unicidad-armonica
 references:

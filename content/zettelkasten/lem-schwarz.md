@@ -3,7 +3,7 @@ title: 'Lema de Schwarz'
 filename: 'lem-schwarz'
 created: '2025-08-14 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.646674588+00:00'
-last_build_date_pdf: '2026-09-03T17:12:11.358845255+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.938809246+00:00'
 labels:
   - lem:schwarz
   - lem:schwarz:1

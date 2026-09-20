@@ -3,7 +3,7 @@ title: 'Función recursiva'
 filename: 'fn-recursiva'
 created: '2026-05-03T17:42:48.203111001+00:00'
 last_edit_date: '2026-09-03T09:44:22.601315416+00:00'
-last_build_date_pdf: '2026-09-03T17:17:27.113507840+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.793507342+00:00'
 labels:
   - defn:fn-recursiva
 references:

@@ -3,7 +3,7 @@ title: 'Función subarmónica'
 filename: 'fn-subarmonica'
 created: '2025-05-20 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.602060085+00:00'
-last_build_date_pdf: '2026-09-03T17:17:19.848777650+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.149698258+00:00'
 labels:
   - defn:fn-subarmonica
 references:

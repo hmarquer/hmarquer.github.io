@@ -3,7 +3,7 @@ title: 'Función derivable'
 filename: 'fn-derivable'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.596241369+00:00'
-last_build_date_pdf: '2026-09-03T17:18:05.497073929+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.057015037+00:00'
 labels:
   - defn:fn-derivable
   - defn:fn-derivable-pnt

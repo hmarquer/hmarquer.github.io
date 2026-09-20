@@ -3,7 +3,7 @@ title: 'Obs Metrica Pseudohiperbolica Induce Topologia Usual'
 filename: 'obs-metrica-pseudohiperbolica-induce-topologia-usual'
 created: '2026-06-12T10:54:03.526453811+00:00'
 last_edit_date: '2026-09-03T09:44:22.671198408+00:00'
-last_build_date_pdf: '2026-09-03T17:09:15.133643823+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.928908455+00:00'
 labels:
   - obs:metrica-pseudohiperbolica-induce-topologia-usual
 references:

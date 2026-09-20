@@ -3,7 +3,7 @@ title: 'Lem Convergencia Uniforme Compactos Imp Continuidad'
 filename: 'lem-convergencia-uniforme-compactos-imp-continuidad'
 created: '2026-04-28T13:15:57.022936940+00:00'
 last_edit_date: '2026-09-03T09:44:22.626168934+00:00'
-last_build_date_pdf: '2026-09-03T17:14:20.852303395+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.315420024+00:00'
 labels:
   - lem:convergencia-uniforme-compactos-imp-continuidad
 references:

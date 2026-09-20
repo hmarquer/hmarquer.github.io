@@ -3,7 +3,7 @@ title: 'Dimensión de Krull'
 filename: 'dim-krull'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.571365699+00:00'
-last_build_date_pdf: '2026-09-03T17:21:22.756062442+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.280427887+00:00'
 labels:
   - defn:dim-krull
 references:
@@ -13,7 +13,7 @@ references:
   - long-cadena-ideales-primos
 backlinks:
   - cor-extension-entera-dim-krull-igualdad
-  - dim-variedad-algebraica-afin
+  - dim-con-algebraico-afin
 projects:
   - 4.1-algebra-conmutativa
 tags:

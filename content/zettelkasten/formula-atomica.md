@@ -3,7 +3,7 @@ title: 'Fórmula atómica'
 filename: 'formula-atomica'
 created: '2026-03-05 11:25:06.432814'
 last_edit_date: '2026-09-03T09:44:22.603386651+00:00'
-last_build_date_pdf: '2026-09-03T17:17:08.097263002+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.719540455+00:00'
 labels:
   - defn:formula-atomica
 references:

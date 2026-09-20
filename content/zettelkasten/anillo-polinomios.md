@@ -3,19 +3,22 @@ title: 'Anillo polinomios'
 filename: 'anillo-polinomios'
 created: '2025-09-19 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.531970649+00:00'
-last_build_date_pdf: '2026-09-03T17:26:58.152435764+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.994607778+00:00'
 labels:
   - defn:anillo-polinomios
 references:
   - anillo
 backlinks:
-  - alg-cerrado
+  - algebra-finitamente-generada
+  - con-algebraico-afin
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
-  - ejer-variedad-algebraica-ideal-radical
+  - cuerpo-algebraicamente-cerrado
+  - ejems-anillos-noetherianos
+  - ejer-con-algebraico-afin-ideal-radical
   - elemento-algebraico-sobre-anillo
   - elemento-entero-sobre-anillo
-  - funcion-regular-variedad-algebraica-afin
+  - fn-regular-con-algebraico-afin
   - grado-polinomio
   - ideal-anulacion
   - independencia-algebraica
@@ -23,21 +26,21 @@ backlinks:
   - lem-con-ceros-ideal-generado
   - obs-con-ceros-ideal-generado-contenido-trivial
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-ideal
   - prop-di-imp-anillo-polinomios-di
   - prop-grado-polinomio
-  - prop-variedad-algebraica-afin-ideal
-  - ralgebra-finitamente-generada
   - teo-base-hilbert
   - teo-ceros-hilbert
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
   - teo-cuerpo-imp-polinomios-dip
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
-  - variedad-algebraica-afin
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
   - teoria-de-galois/tema1
 ---
 

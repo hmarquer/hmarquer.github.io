@@ -3,7 +3,7 @@ title: 'Ejer aut disco unidad inversa'
 filename: 'ejer-aut-disco-unidad-inversa'
 created: '2026-01-22 14:19:34.359334'
 last_edit_date: '2026-09-03T09:44:22.577286309+00:00'
-last_build_date_pdf: '2026-09-03T17:20:29.959399548+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.938747972+00:00'
 labels:
   - ejer:aut-disco-unidad-inversa
 references:

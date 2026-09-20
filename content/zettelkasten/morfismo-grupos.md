@@ -3,7 +3,7 @@ title: 'Morfismo de grupos'
 filename: 'morfismo-grupos'
 created: '2025-06-22 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.661277708+00:00'
-last_build_date_pdf: '2026-09-03T17:10:30.004009626+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.104177979+00:00'
 labels:
   - defn:morfismo-grupos
 references:
@@ -13,6 +13,7 @@ backlinks:
   - lem-primer-grupo-fundamental-morfismo-inducido
   - morfismo-modulos
   - morfismos
+  - nucleo-morfismo-grupos
 ---
 
 [[morfismo-grupos.pdf]]

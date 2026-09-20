@@ -3,7 +3,7 @@ title: 'Prop Aut Disco Unidad Inversa'
 filename: 'prop-aut-disco-unidad-inversa'
 created: '2026-06-13T17:18:46.698341613+00:00'
 last_edit_date: '2026-09-03T09:44:22.682537670+00:00'
-last_build_date_pdf: '2026-09-03T17:07:47.065831127+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.189580206+00:00'
 labels:
   - prop:aut-disco-unidad-inversa
 references:

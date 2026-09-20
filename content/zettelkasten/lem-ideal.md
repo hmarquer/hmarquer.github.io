@@ -3,7 +3,7 @@ title: 'Caracterización de ideal'
 filename: 'lem-ideal'
 created: '2025-09-22 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.636115132+00:00'
-last_build_date_pdf: '2026-09-03T17:13:18.454754394+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.387332342+00:00'
 labels:
   - lem:ideal
   - lem:ideal:i
@@ -12,12 +12,15 @@ labels:
 references:
   - anillo
 backlinks:
+  - ejer-nucleo-morfismo-imp-ideal
   - lem-suma-ideales
   - prop-ideal-anulacion-ideal-radical
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
 ---
 
 [[lem-ideal.pdf]]

@@ -2,8 +2,8 @@
 title: 'Carta'
 filename: 'carta'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.539855049+00:00'
-last_build_date_pdf: '2026-09-03T17:25:47.231664941+00:00'
+last_edit_date: '2026-09-20T15:23:19.053782519+00:00'
+last_build_date_pdf: '2026-09-20T16:34:58.913778184+00:00'
 labels:
   - defn:carta
 references:
@@ -23,8 +23,10 @@ backlinks:
   - teo-cartas-adaptadas-submersion
 projects:
   - 3.2-geometria-diferencial
+  - m.1-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
+  - m.1-geometria-diferencial/tema1
 ---
 
 [[carta.pdf]]

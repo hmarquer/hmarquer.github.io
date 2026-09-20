@@ -3,7 +3,7 @@ title: 'Teorema de equivalencia entre analiticidad y holomorfía'
 filename: 'teo-fn-analitica-iff-holomorfa'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.750276347+00:00'
-last_build_date_pdf: '2026-09-03T16:59:04.039024854+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.607661451+00:00'
 labels:
   - teo:fn-analitica-iff-holomorfa
 references:

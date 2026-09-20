@@ -3,7 +3,7 @@ title: 'Aplicación recubridora diferenciable'
 filename: 'apl-recubridora-diferenciable'
 created: '2025-06-21 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.534314214+00:00'
-last_build_date_pdf: '2026-09-03T17:26:35.627255527+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.172989519+00:00'
 labels:
   - defn:apl-recubridora-diferenciable
 references:

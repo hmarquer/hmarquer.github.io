@@ -3,7 +3,7 @@ title: 'Término constante'
 filename: 'termino-constante'
 created: '2026-02-09 11:04:26.627555'
 last_edit_date: '2026-09-03T09:44:22.769586685+00:00'
-last_build_date_pdf: '2026-09-03T16:56:41.568464179+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.964323177+00:00'
 labels:
   - defn:termino-constante
 references:

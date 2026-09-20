@@ -3,7 +3,7 @@ title: 'Una aplicaci√≥n entre espacios vectoriales es lineal si y solo si su gr√
 filename: 'lem-apl-lineal-iff-grafica-subesp-vectorial'
 created: '2025-12-13 13:09:02.796576'
 last_edit_date: '2026-09-03T09:44:22.620532045+00:00'
-last_build_date_pdf: '2026-09-03T17:15:05.317654345+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.618887554+00:00'
 labels:
   - lem:apl-lineal-iff-grafica-subesp-vectorial
 references:

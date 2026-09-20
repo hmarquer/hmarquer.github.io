@@ -3,7 +3,7 @@ title: 'Lema de aproximación por funciones simples'
 filename: 'lem-aprox-fn-simple'
 created: '2025-09-30 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.620894084+00:00'
-last_build_date_pdf: '2026-09-03T17:15:02.667192846+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.688505155+00:00'
 labels:
   - lem:aprox-fn-simple
 references:

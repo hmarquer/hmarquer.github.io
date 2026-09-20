@@ -3,7 +3,7 @@ title: 'La adjunta es una aplicación lineal continua que tiene la misma norma'
 filename: 'prop-apl-adjunta-lineal-continua-norma'
 created: '2025-12-25 22:32:43.423031'
 last_edit_date: '2026-09-03T09:44:22.681388250+00:00'
-last_build_date_pdf: '2026-09-03T17:07:59.478107634+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.511821866+00:00'
 labels:
   - prop:apl-adjunta-lineal-continua-norma
 references:

@@ -3,7 +3,7 @@ title: 'Sumacion cesaro'
 filename: 'sumacion-cesaro'
 created: '2026-01-12 17:54:05.011030'
 last_edit_date: '2026-09-03T09:44:22.729185758+00:00'
-last_build_date_pdf: '2026-09-03T17:01:51.801593377+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.432123473+00:00'
 labels:
   - defn:sumacion-cesaro
 references:

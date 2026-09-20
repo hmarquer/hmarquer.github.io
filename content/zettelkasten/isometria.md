@@ -3,7 +3,7 @@ title: 'Isometría'
 filename: 'isometria'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.616329058+00:00'
-last_build_date_pdf: '2026-09-03T17:15:38.002648297+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.643383525+00:00'
 labels:
   - defn:isometria
 references:
@@ -12,6 +12,7 @@ backlinks:
   - cor-adjunto-isometria-biyectiva
   - cor-borde-bola-pseudohiperbolica-desigualdades-auxiliares
   - esp-isometricos
+  - lem-medida-hausdorff-invariante-isometrias
   - prop-dual-l1-sucesiones-linfty-sucesiones
   - prop-operador-unitario-iff-isometria-sobreyectiva
   - prop-sistema-ortonormal-isometria

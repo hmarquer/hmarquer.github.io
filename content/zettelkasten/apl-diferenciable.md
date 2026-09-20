@@ -3,7 +3,7 @@ title: 'Aplicación diferenciable'
 filename: 'apl-diferenciable'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.533542032+00:00'
-last_build_date_pdf: '2026-09-03T17:26:46.332502437+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.064268989+00:00'
 labels:
   - defn:apl-diferenciable
 references:
@@ -44,8 +44,10 @@ backlinks:
   - val-regular-apl-diferenciable
 projects:
   - 3.2-geometria-diferencial
+  - m.1-geometria-diferencial
 tags:
   - geometria-diferencial/tema2
+  - m.1-geometria-diferencial/tema1
 ---
 
 [[apl-diferenciable.pdf]]

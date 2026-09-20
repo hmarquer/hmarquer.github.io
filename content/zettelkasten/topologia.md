@@ -3,7 +3,7 @@ title: 'Topología'
 filename: 'topologia'
 created: '2025-01-19 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.771725439+00:00'
-last_build_date_pdf: '2026-09-03T16:56:35.940577617+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.391084827+00:00'
 labels:
   - defn:topologia
 backlinks:

@@ -3,7 +3,7 @@ title: 'Ideal finitamente generado'
 filename: 'ideal-finitamente-generado'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.610632856+00:00'
-last_build_date_pdf: '2026-09-03T11:39:09.421724589+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.845684601+00:00'
 labels:
   - defn:ideal-finitamente-generado
 references:
@@ -12,6 +12,7 @@ references:
   - ideal-generado
 backlinks:
   - anillo-noetheriano
+  - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-carac-anillo-noetheriano
   - teo-base-hilbert
 projects:

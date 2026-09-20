@@ -3,7 +3,7 @@ title: 'Función simple'
 filename: 'fn-simple'
 created: '2025-10-19 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.601689168+00:00'
-last_build_date_pdf: '2026-09-03T17:17:21.217771244+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.257017003+00:00'
 labels:
   - defn:fn-simple
 references:
@@ -17,7 +17,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

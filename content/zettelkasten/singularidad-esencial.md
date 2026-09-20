@@ -3,7 +3,7 @@ title: 'Singularidad esencial'
 filename: 'singularidad-esencial'
 created: '2025-05-08 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.722820832+00:00'
-last_build_date_pdf: '2026-09-03T17:02:46.655516882+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.328305061+00:00'
 labels:
   - defn:singularidad-esencial
 references:

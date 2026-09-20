@@ -3,7 +3,7 @@ title: 'Esperanza de una función de una variable aleatoria'
 filename: 'prop-esperanza-fn'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.693965531+00:00'
-last_build_date_pdf: '2026-09-03T17:06:07.005690162+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.329475785+00:00'
 labels:
   - dem:esperanza-fn:1
   - dem:esperanza-fn:2

@@ -3,7 +3,7 @@ title: 'Conexión'
 filename: 'conexion'
 created: '2025-02-05 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.546817423+00:00'
-last_build_date_pdf: '2026-09-03T17:24:37.837371985+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.186845195+00:00'
 labels:
   - defn:conexion
   - defn:separacion

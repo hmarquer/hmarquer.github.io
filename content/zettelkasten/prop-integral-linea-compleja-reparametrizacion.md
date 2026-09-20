@@ -3,7 +3,7 @@ title: 'Prop integral linea compleja reparametrizacion'
 filename: 'prop-integral-linea-compleja-reparametrizacion'
 created: '2025-05-01 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.702480673+00:00'
-last_build_date_pdf: '2026-09-03T17:05:15.631220231+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.641866165+00:00'
 labels:
   - prop:integral-linea-compleja-reparametrizacion
 references:

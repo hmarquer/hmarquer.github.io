@@ -3,7 +3,7 @@ title: 'La convergencia débil y en el dual implica la convergencia de la evalua
 filename: 'prop-convergencia-debil-dual-imp-convergencia-evaluacion'
 created: '2025-12-27 18:22:07.149535'
 last_edit_date: '2026-09-03T09:44:22.687936645+00:00'
-last_build_date_pdf: '2026-09-03T17:07:02.544366377+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.935224544+00:00'
 labels:
   - prop:convergencia-debil-dual-imp-convergencia-evaluacion
 references:

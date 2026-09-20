@@ -3,7 +3,7 @@ title: 'Completitud métrica'
 filename: 'completitud-metrica'
 created: '2025-02-05 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.543779115+00:00'
-last_build_date_pdf: '2026-09-03T17:25:12.503310431+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.045644574+00:00'
 labels:
   - defn:completitud-metrica
 references:

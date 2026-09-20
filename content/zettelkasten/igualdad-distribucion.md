@@ -3,7 +3,7 @@ title: 'Igualdad distribución'
 filename: 'igualdad-distribucion'
 created: '2025-03-25 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.612573293+00:00'
-last_build_date_pdf: '2026-09-03T17:16:04.644114287+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.935523654+00:00'
 labels:
   - ejem:igualdad-distribucion
   - igualdad-distribucion

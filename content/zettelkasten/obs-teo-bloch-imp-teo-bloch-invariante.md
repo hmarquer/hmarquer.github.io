@@ -3,7 +3,7 @@ title: 'Obs Teo Bloch Imp Teo Bloch Invariante'
 filename: 'obs-teo-bloch-imp-teo-bloch-invariante'
 created: '2026-06-15T18:51:55.155190631+00:00'
 last_edit_date: '2026-09-03T09:44:22.673000922+00:00'
-last_build_date_pdf: '2026-09-03T17:08:59.294395810+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.936814233+00:00'
 labels:
   - obs:teo-bloch-imp-teo-bloch-invariante
 references:

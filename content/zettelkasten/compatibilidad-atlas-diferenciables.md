@@ -3,7 +3,7 @@ title: 'Compatibilidad entre atlas diferenciables'
 filename: 'compatibilidad-atlas-diferenciables'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.543266358+00:00'
-last_build_date_pdf: '2026-09-03T17:25:17.770272758+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.871874563+00:00'
 labels:
   - defn:compatibilidad-atlas-direcenciables
 references:

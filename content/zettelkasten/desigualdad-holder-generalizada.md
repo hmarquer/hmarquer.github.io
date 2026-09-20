@@ -3,7 +3,7 @@ title: 'Desigualdad de Hölder'
 filename: 'desigualdad-holder-generalizada'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.568363430+00:00'
-last_build_date_pdf: '2026-09-03T17:21:46.788466142+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.836288577+00:00'
 labels:
   - prop:desigualdad-holder-generalizada
 references:

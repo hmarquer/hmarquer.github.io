@@ -3,7 +3,7 @@ title: 'Aplicaciones lineales equivalentes'
 filename: 'apl-lineales-equivalentes'
 created: '2025-03-10 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.533850159+00:00'
-last_build_date_pdf: '2026-09-03T17:26:40.863098116+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.332079799+00:00'
 labels:
   - defn:apl-lineales-equivalentes
 references:

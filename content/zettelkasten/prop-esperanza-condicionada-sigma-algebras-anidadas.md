@@ -3,7 +3,7 @@ title: 'Esperanza condicionada a $\sigma$-álgebras anidadas'
 filename: 'prop-esperanza-condicionada-sigma-algebras-anidadas'
 created: '2025-06-14 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.693752485+00:00'
-last_build_date_pdf: '2026-09-03T17:06:08.119478137+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.099385832+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebras-anidadas
 references:

@@ -3,7 +3,7 @@ title: '$L^2$ es el único espacio $L^p$ que es de Hilbert'
 filename: 'teo-l2-unico-esp-hilbert'
 created: '2025-11-25 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.757891404+00:00'
-last_build_date_pdf: '2026-09-03T16:58:07.295951943+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.107255763+00:00'
 labels:
   - teo:l2-unico-esp-hilbert
 references:

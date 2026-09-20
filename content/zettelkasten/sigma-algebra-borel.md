@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra de Borel'
 filename: 'sigma-algebra-borel'
 created: '2025-12-11 19:31:56.739054'
 last_edit_date: '2026-09-03T09:44:22.720933306+00:00'
-last_build_date_pdf: '2026-09-03T17:03:00.359669331+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.393848540+00:00'
 labels:
   - defn:sigma-algebra-borel
 references:
@@ -13,6 +13,8 @@ backlinks:
   - fn-continua-soporte-compacto
   - fn-suave-soporte-compacto
   - lem-aprox-indicatriz-continua-norma-lp
+  - prop-con-borel-imp-medible-hausdorff
+  - teo-medibilidad-borel-medida-exterior-metrica
 projects:
   - 3.2-probabilidad-ii
 tags:

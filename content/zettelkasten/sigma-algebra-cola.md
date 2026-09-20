@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra de cola'
 filename: 'sigma-algebra-cola'
 created: '2025-03-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.721139369+00:00'
-last_build_date_pdf: '2026-09-03T17:02:59.118160071+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.921903748+00:00'
 labels:
   - defn:sigma-algebra-cola
 references:

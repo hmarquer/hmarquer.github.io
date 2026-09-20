@@ -3,7 +3,7 @@ title: 'Base ortonormal'
 filename: 'base-ortonormal'
 created: '2025-11-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.537034175+00:00'
-last_build_date_pdf: '2026-09-03T17:26:12.046819879+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.477207269+00:00'
 labels:
   - defn:base-ortonormal
 references:

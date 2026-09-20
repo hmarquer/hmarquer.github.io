@@ -3,7 +3,7 @@ title: 'Comunicación en una cadena de Markov'
 filename: 'cadena-markov-comunicacion'
 created: '2025-03-20 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.538134111+00:00'
-last_build_date_pdf: '2026-09-03T17:25:58.945019590+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.535361629+00:00'
 labels:
   - defn:cadena-markov-comunicacion
 references:

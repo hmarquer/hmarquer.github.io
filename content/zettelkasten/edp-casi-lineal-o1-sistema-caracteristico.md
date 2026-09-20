@@ -3,7 +3,7 @@ title: 'Edp casi lineal o1 sistema caracteristico'
 filename: 'edp-casi-lineal-o1-sistema-caracteristico'
 created: '2025-03-30 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.573885450+00:00'
-last_build_date_pdf: '2026-09-03T17:20:59.281983585+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.426778605+00:00'
 labels:
   - defn:edp-casi-lineal-o1-sistema-caracteristico
   - eq:edp-casi-lineal-o1

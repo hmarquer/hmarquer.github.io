@@ -3,7 +3,7 @@ title: 'Operador autoadjunto'
 filename: 'operador-autoadjunto'
 created: '2026-03-12 16:11:25.958263'
 last_edit_date: '2026-09-03T09:44:22.673378962+00:00'
-last_build_date_pdf: '2026-09-03T17:08:56.986567652+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.461905277+00:00'
 labels:
   - defn:operador-autoadjunto
 references:

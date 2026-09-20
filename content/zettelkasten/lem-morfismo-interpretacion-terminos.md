@@ -3,7 +3,7 @@ title: 'Lema de interpretación de términos a través de morfismos de estructur
 filename: 'lem-morfismo-interpretacion-terminos'
 created: '2026-02-17 19:29:23.132982'
 last_edit_date: '2026-09-03T09:44:22.640061720+00:00'
-last_build_date_pdf: '2026-09-03T17:12:48.816408757+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.310628421+00:00'
 labels:
   - lem:morfismo-interpretacion-terminos
 references:

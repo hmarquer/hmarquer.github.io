@@ -3,7 +3,7 @@ title: 'Toda subvariedad diferenciable es uan subvariedad inmersa'
 filename: 'obs-subvariedad-diferenciable-imp-subvariedad-inmersa'
 created: '2025-06-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.672293574+00:00'
-last_build_date_pdf: '2026-09-03T17:09:05.401903718+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.896780093+00:00'
 labels:
   - obs:subvariedad-diferenciable-imp-subvariedad-inmersa
 references:

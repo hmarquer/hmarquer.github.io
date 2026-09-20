@@ -3,7 +3,7 @@ title: 'Logaritmo complejo'
 filename: 'log-complejo'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.655508097+00:00'
-last_build_date_pdf: '2026-09-03T17:11:11.749195419+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.917039939+00:00'
 labels:
   - defn:log-complejo
 references:

@@ -3,7 +3,7 @@ title: 'Teorema de convergencia monótona'
 filename: 'teo-convergencia-monotona'
 created: '2025-01-26 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.740999534+00:00'
-last_build_date_pdf: '2026-09-03T17:00:22.454036128+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.435789201+00:00'
 labels:
   - teo:convergencia-monotona
   - teo:convergencia-monotona-funciones
@@ -22,7 +22,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

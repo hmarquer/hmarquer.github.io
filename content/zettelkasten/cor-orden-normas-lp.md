@@ -3,7 +3,7 @@ title: 'Corolario del orden de las normas $\mathcal{L}^p$'
 filename: 'cor-orden-normas-lp'
 created: '2025-03-27 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.560971948+00:00'
-last_build_date_pdf: '2026-09-03T17:22:48.266914458+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.085834364+00:00'
 labels:
   - cor:orden-normas-lp
 references:

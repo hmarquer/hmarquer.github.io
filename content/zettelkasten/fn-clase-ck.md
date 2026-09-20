@@ -3,7 +3,7 @@ title: 'Función de clase $\mathcal{C}^k$'
 filename: 'fn-clase-ck'
 created: '2025-02-04 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.595073053+00:00'
-last_build_date_pdf: '2026-09-03T17:18:14.094243188+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.507742719+00:00'
 labels:
   - defn:fn-clase-ck
 references:

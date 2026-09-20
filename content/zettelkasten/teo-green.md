@@ -3,7 +3,7 @@ title: 'Teorema de Green'
 filename: 'teo-green'
 created: '2026-03-18 18:17:08.641624'
 last_edit_date: '2026-09-03T09:44:22.755094025+00:00'
-last_build_date_pdf: '2026-09-03T16:58:26.287563205+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.154295961+00:00'
 labels:
   - teo:green
 references:

@@ -3,7 +3,7 @@ title: 'Ejems lenguajes primer orden'
 filename: 'ejems-lenguajes-primer-orden'
 created: '2026-02-07 17:51:39.718777'
 last_edit_date: '2026-09-03T09:44:22.576106731+00:00'
-last_build_date_pdf: '2026-09-03T17:20:35.548869816+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.094126835+00:00'
 labels:
   - ejems:lenguajes-primer-orden
   - ejems:lenguajes-primer-orden:anillos

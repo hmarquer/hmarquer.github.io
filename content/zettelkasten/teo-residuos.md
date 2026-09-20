@@ -3,7 +3,7 @@ title: 'Teorema de los residuos'
 filename: 'teo-residuos'
 created: '2026-04-26T22:03:21.938192209+00:00'
 last_edit_date: '2026-09-03T09:44:22.764091456+00:00'
-last_build_date_pdf: '2026-09-03T16:57:17.831891170+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.955293936+00:00'
 labels:
   - teo:residuos
 references:

@@ -3,7 +3,7 @@ title: 'Tautología'
 filename: 'tautologia'
 created: '2026-02-17 19:39:45.138868'
 last_edit_date: '2026-09-03T09:44:22.729902804+00:00'
-last_build_date_pdf: '2026-09-03T17:01:45.570119699+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.291501475+00:00'
 labels:
   - defn:tautologia
   - ejems:tautologias

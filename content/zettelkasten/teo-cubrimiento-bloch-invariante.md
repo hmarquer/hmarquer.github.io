@@ -3,7 +3,7 @@ title: 'Teorema del cubrimiento de Bloch invariante'
 filename: 'teo-cubrimiento-bloch-invariante'
 created: '2026-06-15T18:35:55.319949766+00:00'
 last_edit_date: '2026-09-03T09:44:22.742005571+00:00'
-last_build_date_pdf: '2026-09-03T17:00:09.918397700+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.843902388+00:00'
 labels:
   - dem:cubrimiento-bloch-invariante:1
   - dem:cubrimiento-bloch-invariante:2

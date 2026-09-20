@@ -3,7 +3,7 @@ title: 'Tiempo parada'
 filename: 'tiempo-parada'
 created: '2025-06-15 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.769999140+00:00'
-last_build_date_pdf: '2026-09-03T16:56:41.448908480+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.981521131+00:00'
 labels:
   - defn:tiempo-parada
 references:

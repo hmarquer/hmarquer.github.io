@@ -3,7 +3,7 @@ title: 'El anillo de polinomios de un cuerpo es un dominio de ideales principale
 filename: 'teo-cuerpo-imp-polinomios-dip'
 created: '2025-09-22 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.742574314+00:00'
-last_build_date_pdf: '2026-09-03T17:00:09.493682753+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.757374798+00:00'
 labels:
   - teo:cuerpo-imp-polinomios-dip
 references:
@@ -11,6 +11,8 @@ references:
   - cuerpo
   - dominio-ideales-principales
   - ideal
+backlinks:
+  - ejems-anillos-noetherianos
 projects:
   - 4.1-algebra-conmutativa
 tags:

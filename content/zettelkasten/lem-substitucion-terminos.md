@@ -3,7 +3,7 @@ title: 'Lema de substitución en términos'
 filename: 'lem-substitucion-terminos'
 created: '2026-02-09 16:51:52.898884'
 last_edit_date: '2026-09-03T09:44:22.649340086+00:00'
-last_build_date_pdf: '2026-09-03T17:11:53.577311048+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.653100373+00:00'
 labels:
   - lem:substitucion-terminos
 references:

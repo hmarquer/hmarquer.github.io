@@ -3,7 +3,7 @@ title: 'Integral linea compleja'
 filename: 'integral-linea-compleja'
 created: '2025-04-01 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.615168056+00:00'
-last_build_date_pdf: '2026-09-03T17:15:45.735831791+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.288526879+00:00'
 labels:
   - defn:integral-linea-compleja
 references:

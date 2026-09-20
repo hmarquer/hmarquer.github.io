@@ -3,7 +3,7 @@ title: 'Lem convergencia uniforme imp ctp'
 filename: 'lem-convergencia-uniforme-imp-ctp'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.626877664+00:00'
-last_build_date_pdf: '2026-09-03T17:14:14.894763519+00:00'
+last_build_date_pdf: '2026-09-15T23:12:44.859022820+00:00'
 labels:
   - lem:convergencia-uniforme-imp-ctp
 references:

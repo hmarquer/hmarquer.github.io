@@ -3,7 +3,7 @@ title: 'Inmersión elemental'
 filename: 'inmersion-elemental'
 created: '2026-03-26 19:43:24.897394'
 last_edit_date: '2026-09-03T09:44:22.614361830+00:00'
-last_build_date_pdf: '2026-09-03T17:15:51.682372945+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.749195785+00:00'
 labels:
   - defn:inmersion-elemental
 references:

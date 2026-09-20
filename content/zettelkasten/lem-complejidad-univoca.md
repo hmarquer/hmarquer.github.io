@@ -3,7 +3,7 @@ title: 'Lem complejidad univoca'
 filename: 'lem-complejidad-univoca'
 created: '2026-02-10 19:22:00.812812'
 last_edit_date: '2026-09-03T09:44:22.624982884+00:00'
-last_build_date_pdf: '2026-09-03T17:14:28.560286547+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.046407860+00:00'
 labels:
   - lem:complejidad-univoca
 references:

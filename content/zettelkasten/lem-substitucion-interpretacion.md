@@ -3,7 +3,7 @@ title: 'Lema de substitución en interpretaciones de términos'
 filename: 'lem-substitucion-interpretacion'
 created: '2026-02-17 19:27:01.057672'
 last_edit_date: '2026-09-03T09:44:22.648858218+00:00'
-last_build_date_pdf: '2026-09-03T17:11:58.774001359+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.923756832+00:00'
 labels:
   - lem:substitucion-interpretacion
 references:

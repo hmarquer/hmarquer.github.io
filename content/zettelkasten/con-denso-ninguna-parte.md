@@ -3,7 +3,7 @@ title: 'Conjunto denso en ninguna parte'
 filename: 'con-denso-ninguna-parte'
 created: '2025-10-23 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.545990488+00:00'
-last_build_date_pdf: '2026-09-03T17:24:54.744760645+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.661308664+00:00'
 labels:
   - defn:con-denso-ninguna-parte
 references:

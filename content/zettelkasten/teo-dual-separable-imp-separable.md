@@ -3,7 +3,7 @@ title: 'Si el dual es separable, entonces el espacio es separable'
 filename: 'teo-dual-separable-imp-separable'
 created: '2025-12-25 22:40:19.718738'
 last_edit_date: '2026-09-03T09:44:22.745457998+00:00'
-last_build_date_pdf: '2026-09-03T16:59:43.887726034+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.343943718+00:00'
 labels:
   - teo:dual-separable-imp-separable
 references:

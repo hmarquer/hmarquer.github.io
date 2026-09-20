@@ -3,7 +3,7 @@ title: 'Traslación'
 filename: 'traslacion'
 created: '2026-01-13 10:51:58.463256'
 last_edit_date: '2026-09-03T09:44:22.772695186+00:00'
-last_build_date_pdf: '2026-09-03T16:56:23.892712549+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.370575573+00:00'
 labels:
   - defn:traslacion
 backlinks:

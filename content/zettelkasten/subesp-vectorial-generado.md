@@ -3,7 +3,7 @@ title: 'Subespacio vectorial generado'
 filename: 'subesp-vectorial-generado'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.725856946+00:00'
-last_build_date_pdf: '2026-09-03T17:02:19.595119314+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.986507597+00:00'
 labels:
   - defn:subesp-vectorial-generado
 references:

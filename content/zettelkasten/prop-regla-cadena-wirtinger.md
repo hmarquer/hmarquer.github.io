@@ -3,7 +3,7 @@ title: 'Regla de la cadena para derivadas de Wirtinger'
 filename: 'prop-regla-cadena-wirtinger'
 created: '2025-11-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.706329305+00:00'
-last_build_date_pdf: '2026-09-03T17:04:46.211575095+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.151043635+00:00'
 labels:
   - prop:regla-cadena-wirtinger
 references:

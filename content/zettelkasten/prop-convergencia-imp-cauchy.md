@@ -3,7 +3,7 @@ title: 'Prop convergencia imp cauchy'
 filename: 'prop-convergencia-imp-cauchy'
 created: '2025-10-08 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.688359581+00:00'
-last_build_date_pdf: '2026-09-03T17:07:00.758181083+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.982104600+00:00'
 labels:
   - prop:convergencia-imp-cauchy
 references:

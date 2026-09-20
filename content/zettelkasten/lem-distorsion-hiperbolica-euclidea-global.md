@@ -3,7 +3,7 @@ title: 'Lem Distorsion Hiperbolica Euclidea Global'
 filename: 'lem-distorsion-hiperbolica-euclidea-global'
 created: '2026-06-13T17:31:30.237548088+00:00'
 last_edit_date: '2026-09-03T09:44:22.630427536+00:00'
-last_build_date_pdf: '2026-09-03T17:13:48.179467500+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.420145012+00:00'
 labels:
   - lem:distorsion-hiperbolica-euclidea-global
 references:

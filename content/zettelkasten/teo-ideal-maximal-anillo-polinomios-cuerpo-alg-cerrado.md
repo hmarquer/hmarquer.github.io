@@ -2,14 +2,14 @@
 title: 'Teo ideal maximal anillo polinomios cuerpo alg cerrado'
 filename: 'teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado'
 created: '2026-01-04 07:42:54.211804'
-last_edit_date: '2026-09-03T09:44:22.756582270+00:00'
-last_build_date_pdf: '2026-09-03T16:58:19.307850150+00:00'
+last_edit_date: '2026-09-20T15:23:19.058736033+00:00'
+last_build_date_pdf: '2026-09-20T16:32:47.983152634+00:00'
 labels:
   - teo:ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 references:
-  - alg-cerrado
   - anillo-polinomios
   - cuerpo
+  - cuerpo-algebraicamente-cerrado
   - ideal-generado
   - ideal-maximal
   - lem-normalizacion-noether
@@ -23,9 +23,9 @@ tags:
 ![[teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado.pdf]]
 
 ## Referencias
-- [alg-cerrado](./alg-cerrado.md)
 - [anillo-polinomios](./anillo-polinomios.md)
 - [cuerpo](./cuerpo.md)
+- [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
 - [ideal-generado](./ideal-generado.md)
 - [ideal-maximal](./ideal-maximal.md)
 - [lem-normalizacion-noether](./lem-normalizacion-noether.md)

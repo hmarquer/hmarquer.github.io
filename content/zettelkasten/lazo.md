@@ -3,7 +3,7 @@ title: 'Lazo'
 filename: 'lazo'
 created: '2025-06-22 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.618318618+00:00'
-last_build_date_pdf: '2026-09-03T17:15:21.953623607+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.021606591+00:00'
 labels:
   - defn:lazo
 references:

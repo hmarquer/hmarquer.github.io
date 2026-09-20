@@ -3,7 +3,7 @@ title: 'Función convexa'
 filename: 'fn-convexa'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.595641236+00:00'
-last_build_date_pdf: '2026-09-03T17:18:08.202562614+00:00'
+last_build_date_pdf: '2026-09-15T23:12:52.744549039+00:00'
 labels:
   - defn:fn-convexa
 backlinks:

@@ -3,7 +3,7 @@ title: 'Teorema de la base de Hilbert'
 filename: 'teo-base-hilbert'
 created: '2025-12-16 18:38:46.220415'
 last_edit_date: '2026-09-03T09:44:22.732563182+00:00'
-last_build_date_pdf: '2026-09-03T17:01:25.034119172+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.633442699+00:00'
 labels:
   - teo:base-hilbert
 references:
@@ -18,8 +18,11 @@ backlinks:
   - cor-base-hilbert-n-var
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[teo-base-hilbert.pdf]]

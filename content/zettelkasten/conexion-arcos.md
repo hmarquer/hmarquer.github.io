@@ -3,7 +3,7 @@ title: 'Conexión por arcos'
 filename: 'conexion-arcos'
 created: '2025-05-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.546493125+00:00'
-last_build_date_pdf: '2026-09-03T17:24:37.234243469+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.043327420+00:00'
 labels:
   - defn:conexion-arcos
 references:

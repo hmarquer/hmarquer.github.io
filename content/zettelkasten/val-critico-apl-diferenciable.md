@@ -3,7 +3,7 @@ title: 'Valor crítico de una aplicación diferenciable'
 filename: 'val-critico-apl-diferenciable'
 created: '2025-06-17 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.773054832+00:00'
-last_build_date_pdf: '2026-09-03T16:56:17.940160527+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.198864828+00:00'
 labels:
   - defn:val-critico-apl-diferenciable
 references:

@@ -3,7 +3,7 @@ title: 'Obs aut disco unidad fija origen imp rotacion'
 filename: 'obs-aut-disco-unidad-fija-origen-imp-rotacion'
 created: '2025-09-24 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.668138759+00:00'
-last_build_date_pdf: '2026-09-03T17:09:41.316487827+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.842288200+00:00'
 labels:
   - obs:aut-disco-unidad-fija-origen-imp-rotacion
 references:

@@ -3,7 +3,7 @@ title: 'Acotación uniforme de una familia de operadores lineales entre espacios
 filename: 'acotacion-uniforme-operadores-lineales'
 created: '2025-12-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.530367665+00:00'
-last_build_date_pdf: '2026-09-03T17:27:10.247887045+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.217640587+00:00'
 labels:
   - defn:acotacion-uniforme-operadores-lineales
 references:

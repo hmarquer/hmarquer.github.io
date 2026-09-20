@@ -3,7 +3,7 @@ title: 'Clausura'
 filename: 'clausura'
 created: '2025-04-30 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.541788162+00:00'
-last_build_date_pdf: '2026-09-03T17:25:29.525260798+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.825656139+00:00'
 labels:
   - defn:clausura
 references:

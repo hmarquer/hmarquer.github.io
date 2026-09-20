@@ -2,19 +2,26 @@
 title: 'Teorema de Caratheodory II'
 filename: 'teo-caratheodory-ii'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.734776879+00:00'
-last_build_date_pdf: '2026-09-03T17:00:59.539113017+00:00'
+last_edit_date: '2026-09-20T15:23:19.058274051+00:00'
+last_build_date_pdf: '2026-09-20T16:32:59.733079158+00:00'
 labels:
   - teo:caratheodory-ii
 references:
-  - algebra
-  - conjunto-medible
+  - algebra-conjuntos
+  - con-caratheodory-medible
   - medida
+  - medida-completa
+  - medida-exterior
   - premedida
+  - prop-medida-exterior-asociada
+  - prop-sigma-algebra-caratheodory
   - sigma-algebra
+  - teo-caratheodory-i
 projects:
   - 3.2-probabilidad-ii
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
 ---
 
@@ -22,11 +29,16 @@ tags:
 ![[teo-caratheodory-ii.pdf]]
 
 ## Referencias
-- [algebra](./algebra.md)
-- [conjunto-medible](./conjunto-medible.md)
+- [algebra-conjuntos](./algebra-conjuntos.md)
+- [con-caratheodory-medible](./con-caratheodory-medible.md)
 - [medida](./medida.md)
+- [medida-completa](./medida-completa.md)
+- [medida-exterior](./medida-exterior.md)
 - [premedida](./premedida.md)
+- [prop-medida-exterior-asociada](./prop-medida-exterior-asociada.md)
+- [prop-sigma-algebra-caratheodory](./prop-sigma-algebra-caratheodory.md)
 - [sigma-algebra](./sigma-algebra.md)
+- [teo-caratheodory-i](./teo-caratheodory-i.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
+#REVISAR : la demostración está escrita por IA

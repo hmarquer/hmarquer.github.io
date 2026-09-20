@@ -3,7 +3,7 @@ title: 'Transformada de Fourier'
 filename: 'transformada-fourier'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.772517047+00:00'
-last_build_date_pdf: '2026-09-03T16:56:23.946937687+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.145705512+00:00'
 labels:
   - defn:transformada-fourier
 references:

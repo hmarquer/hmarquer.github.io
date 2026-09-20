@@ -3,7 +3,7 @@ title: 'Transformación de Möbius'
 filename: 'transformacion-mobius'
 created: '2025-03-04 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.772101626+00:00'
-last_build_date_pdf: '2026-09-03T16:56:29.799008372+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.948674178+00:00'
 labels:
   - defn:transformacion-mobius
 references:

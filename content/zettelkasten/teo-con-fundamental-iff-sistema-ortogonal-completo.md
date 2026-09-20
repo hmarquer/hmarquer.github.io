@@ -3,7 +3,7 @@ title: 'Relación entre conjunto fundamental y sistema ortogonal completo'
 filename: 'teo-con-fundamental-iff-sistema-ortogonal-completo'
 created: '2025-12-24 17:00:29.842794'
 last_edit_date: '2026-09-03T09:44:22.739481572+00:00'
-last_build_date_pdf: '2026-09-03T17:00:28.802395893+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.763845132+00:00'
 labels:
   - teo:con-fundamental-iff-sistema-ortogonal-completo
 references:

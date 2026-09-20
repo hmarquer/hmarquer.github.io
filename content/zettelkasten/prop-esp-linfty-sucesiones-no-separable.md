@@ -3,7 +3,7 @@ title: 'Prop espacio linfty sucesiones no separable'
 filename: 'prop-esp-linfty-sucesiones-no-separable'
 created: '2025-10-25 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.694543562+00:00'
-last_build_date_pdf: '2026-09-03T17:06:15.436162239+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.513960744+00:00'
 labels:
   - prop:esp-linfty-sucesiones-no-separable
 references:

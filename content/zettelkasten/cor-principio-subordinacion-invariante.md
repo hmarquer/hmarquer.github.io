@@ -3,7 +3,7 @@ title: 'Cor Principio Subordinacion Invariante'
 filename: 'cor-principio-subordinacion-invariante'
 created: '2026-06-13T18:37:52.949757908+00:00'
 last_edit_date: '2026-09-03T09:44:22.561154306+00:00'
-last_build_date_pdf: '2026-09-03T17:22:45.520813714+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.792667611+00:00'
 labels:
   - cor:principio-subordinacion-invariante
   - cor:principio-subordinacion-invariante:1

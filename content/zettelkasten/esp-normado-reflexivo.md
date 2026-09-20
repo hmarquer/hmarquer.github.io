@@ -3,7 +3,7 @@ title: 'Espacio normado reflexivo'
 filename: 'esp-normado-reflexivo'
 created: '2025-12-20 19:51:08.543913'
 last_edit_date: '2026-09-03T09:44:22.586174832+00:00'
-last_build_date_pdf: '2026-09-03T17:19:18.746109559+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.467132466+00:00'
 labels:
   - defn:esp-normado-reflexivo
 references:

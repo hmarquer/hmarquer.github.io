@@ -3,7 +3,7 @@ title: 'Espacio métrico'
 filename: 'esp-metrico'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.585817080+00:00'
-last_build_date_pdf: '2026-09-03T17:19:22.743399692+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.925459255+00:00'
 labels:
   - defn:esp-metrico
 references:
@@ -19,13 +19,19 @@ backlinks:
   - convergencia-uniforme
   - convergencia-uniforme-compactos
   - cor-baire
+  - diametro-con
+  - distancia-conjuntos
+  - distancia-pnt-con
   - ejem-topologia-metrica
   - esp-isometricos
+  - fn-gamma-holder
   - fn-lipschitz
   - fn-lipschitz-local
   - isometria
   - lem-carac-precompacidad-subsucesion-esp-metrico
+  - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-imp-ctp
+  - medida-exterior-metrica
   - prop-carac-con-abiertos-esp-metrico
   - prop-con-abiertos-esp-metrico
   - prop-convergencia-imp-cauchy
@@ -33,6 +39,7 @@ backlinks:
   - teo-baire
   - teo-compleccion-esp-metrico
   - teo-completitud-metrica-pseudohiperbolica
+  - teo-medibilidad-borel-medida-exterior-metrica
   - topologia-metrica
 projects:
   - 3.1-topologia

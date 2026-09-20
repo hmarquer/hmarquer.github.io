@@ -3,7 +3,7 @@ title: 'Teo espacio banach uniformemente convexo reflexivo fn convexa coercitiva
 filename: 'teo-esp-banach-uniformemente-convexo-reflexivo-fn-convexa-coercitiva-semicontinua-inferior-minimo'
 created: '2026-01-07 19:52:47.190498'
 last_edit_date: '2026-09-03T09:44:22.746583572+00:00'
-last_build_date_pdf: '2026-09-03T16:59:30.884695122+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.399841876+00:00'
 labels:
   - teo:esp-banach-uniformemente-convexo-reflexivo-fn-convexa-coercitiva-semicontinua-inferior-minimo
 references:

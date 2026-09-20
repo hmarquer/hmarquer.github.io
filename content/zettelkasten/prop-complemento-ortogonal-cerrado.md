@@ -3,7 +3,7 @@ title: 'El complemento ortogonal es un subespacio vectorial cerrado'
 filename: 'prop-complemento-ortogonal-cerrado'
 created: '2025-12-25 13:47:53.586949'
 last_edit_date: '2026-09-03T09:44:22.686092923+00:00'
-last_build_date_pdf: '2026-09-03T17:07:19.129105927+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.907561671+00:00'
 labels:
   - prop:complemento-ortogonal-cerrado
 references:

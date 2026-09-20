@@ -3,7 +3,7 @@ title: 'Teo Metrica Pseudohiperbolica Desigualdad Triangular Generalizada'
 filename: 'teo-metrica-pseudohiperbolica-desigualdad-triangular-generalizada'
 created: '2026-06-12T11:20:47.163119477+00:00'
 last_edit_date: '2026-09-03T09:44:22.759483287+00:00'
-last_build_date_pdf: '2026-09-03T16:57:54.412647146+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.124491092+00:00'
 labels:
   - teo:metrica-pseudohiperbolica-desigualdad-triangular-generalizada
 references:

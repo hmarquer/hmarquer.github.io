@@ -3,7 +3,7 @@ title: 'Transformación de Möbius dados tres puntos'
 filename: 'teo-transformacion-mobius-dados-3-pnt'
 created: '2025-03-26 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.767992077+00:00'
-last_build_date_pdf: '2026-09-03T16:56:59.646009850+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.815112394+00:00'
 labels:
   - teo:transformacion-mobius-dados-3-pnt
 references:

@@ -3,7 +3,7 @@ title: 'Conjunto de ceros comunes de una familia de polinomios en el espacio af√
 filename: 'con-ceros-polinomios-esp-afin'
 created: '2025-12-14 13:32:20.138179'
 last_edit_date: '2026-09-03T09:44:22.544646768+00:00'
-last_build_date_pdf: '2026-09-03T17:25:06.595577258+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.937390129+00:00'
 labels:
   - defn:con-ceros-polinomios-esp-afin
 references:
@@ -11,21 +11,24 @@ references:
   - cuerpo
   - esp-afin
 backlinks:
-  - ejer-variedad-algebraica-ideal-radical
+  - con-algebraico-afin
+  - ejer-con-algebraico-afin-ideal-radical
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - lem-con-algebraico-afin-ideal-anulacion
   - lem-con-ceros-ideal-generado
-  - lem-variedad-algebraica-afin-ideal-anulacion
   - obs-con-ceros-ideal-generado-contenido-trivial
+  - prop-con-algebraico-afin-ideal
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-algebraica-afin-ideal
   - teo-ceros-hilbert
   - teo-clausura-zariski-morfismo-variedades-algebraicas-afines
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
-  - variedad-algebraica-afin
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[con-ceros-polinomios-esp-afin.pdf]]

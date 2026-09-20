@@ -3,7 +3,7 @@ title: 'Satisfacibilidad'
 filename: 'satisfacibilidad'
 created: '2026-03-05 10:51:41.200935'
 last_edit_date: '2026-09-03T09:44:22.718390092+00:00'
-last_build_date_pdf: '2026-09-03T17:03:24.362850692+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.071519136+00:00'
 labels:
   - defn:satisfacibilidad
 references:

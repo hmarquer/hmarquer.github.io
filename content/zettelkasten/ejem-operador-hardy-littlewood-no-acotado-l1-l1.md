@@ -3,7 +3,7 @@ title: 'Ejem operador hardy littlewood no acotado l1 l1'
 filename: 'ejem-operador-hardy-littlewood-no-acotado-l1-l1'
 created: '2026-01-12 10:06:02.663984'
 last_edit_date: '2026-09-03T09:44:22.575629212+00:00'
-last_build_date_pdf: '2026-09-03T17:20:47.133939580+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.427245825+00:00'
 labels:
   - ejem:operador-hardy-littlewood-no-acotado-l1-l1
 references:

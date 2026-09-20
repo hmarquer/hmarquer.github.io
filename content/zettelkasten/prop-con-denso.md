@@ -3,7 +3,7 @@ title: 'Caracterización de un conjunto denso'
 filename: 'prop-con-denso'
 created: '2025-05-29 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.687359867+00:00'
-last_build_date_pdf: '2026-09-03T17:07:12.666345055+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.623201979+00:00'
 labels:
   - prop:con-denso
 references:

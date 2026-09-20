@@ -3,7 +3,7 @@ title: 'Variable simple formula libre ligada'
 filename: 'variable-simple-formula-libre-ligada'
 created: '2026-02-07 20:52:38.668857'
 last_edit_date: '2026-09-03T09:44:22.774722298+00:00'
-last_build_date_pdf: '2026-09-03T16:56:02.888418912+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.888329443+00:00'
 labels:
   - defn:variable-simple-formula-libre-ligada
 references:

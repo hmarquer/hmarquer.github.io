@@ -3,7 +3,7 @@ title: 'Toda submersión sobreyectiva es una aplicación cociente'
 filename: 'cor-submersion-sobreyectiva-imp-cociente'
 created: '2025-06-08 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.562657099+00:00'
-last_build_date_pdf: '2026-09-03T17:22:33.716186711+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.245679578+00:00'
 labels:
   - cor:submersion-sobreyectiva-imp-cociente
 references:

@@ -3,7 +3,7 @@ title: 'Comparación de topologías a través de sus bases'
 filename: 'prop-comparacion-topologias-bases'
 created: '2026-08-07T10:01:02.288743875+00:00'
 last_edit_date: '2026-09-03T09:44:22.685900937+00:00'
-last_build_date_pdf: '2026-09-03T17:07:20.158619375+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.251558050+00:00'
 labels:
   - prop:comparacion-topologias-bases
 references:

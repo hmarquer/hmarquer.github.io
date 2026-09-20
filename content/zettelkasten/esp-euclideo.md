@@ -3,7 +3,7 @@ title: 'Espacio euclídeo'
 filename: 'esp-euclideo'
 created: '2025-03-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.584341950+00:00'
-last_build_date_pdf: '2026-09-03T17:19:36.008689344+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.220617811+00:00'
 labels:
   - defn:esp-euclideo
 references:

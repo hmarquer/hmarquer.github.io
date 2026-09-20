@@ -3,7 +3,7 @@ title: 'Teo Completitud Metrica Pseudohiperbolica'
 filename: 'teo-completitud-metrica-pseudohiperbolica'
 created: '2026-06-12T11:21:58.750231491+00:00'
 last_edit_date: '2026-09-03T09:44:22.739083303+00:00'
-last_build_date_pdf: '2026-09-03T17:00:34.708910323+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.486674090+00:00'
 labels:
   - teo:completitud-metrica-pseudohiperbolica
 references:

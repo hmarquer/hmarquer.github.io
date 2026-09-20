@@ -3,7 +3,7 @@ title: 'Fórmula de Horn básica'
 filename: 'formula-horn-basica'
 created: '2026-03-26 19:11:54.505597'
 last_edit_date: '2026-09-03T09:44:22.603935968+00:00'
-last_build_date_pdf: '2026-09-03T17:17:02.290799763+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.545590403+00:00'
 labels:
   - defn:formula-horn-basica
 references:

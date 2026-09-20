@@ -3,7 +3,7 @@ title: 'Cuerpo'
 filename: 'cuerpo'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.565155950+00:00'
-last_build_date_pdf: '2026-09-03T17:22:16.033141880+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.008909448+00:00'
 last_build_date_html: '2026-05-07T00:30:22.820719792+00:00'
 labels:
   - defn:cuerpo
@@ -12,11 +12,12 @@ references:
   - anillo
   - cuerpo
 backlinks:
-  - alg-cerrado
   - apl-lineal
   - caracteristica-cuerpo
   - con-ceros-polinomios-esp-afin
   - cuerpo
+  - cuerpo-algebraicamente-cerrado
+  - ejems-anillos-noetherianos
   - esp-afin
   - esp-secuencial
   - esp-vectorial
@@ -33,9 +34,10 @@ backlinks:
   - lem-normalizacion-noether
   - num-complejos
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-ideal
+  - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-cuerpo-fracciones-racionales
   - prop-ideal-maximal-iff-cociente-cuerpo
-  - prop-variedad-algebraica-afin-ideal
   - subcuerpo
   - subcuerpo-generado
   - teo-ceros-hilbert
@@ -48,8 +50,10 @@ backlinks:
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
   - teoria-de-galois/tema1
 ---
 

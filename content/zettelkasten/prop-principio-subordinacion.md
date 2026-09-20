@@ -3,7 +3,7 @@ title: 'Principio de subordinación'
 filename: 'prop-principio-subordinacion'
 created: '2026-03-20 13:46:12.539100'
 last_edit_date: '2026-09-03T09:44:22.705684627+00:00'
-last_build_date_pdf: '2026-09-03T17:04:49.367720411+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.657565623+00:00'
 labels:
   - prop:principio-subordinacion
   - prop:principio-subordinacion:1

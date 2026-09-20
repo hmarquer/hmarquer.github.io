@@ -3,7 +3,7 @@ title: 'Lema de equivalencia semántica de cuantificadores'
 filename: 'lem-equivalencia-semantica-cuantificadores'
 created: '2026-03-26 11:51:41.078979'
 last_edit_date: '2026-09-03T09:44:22.631063648+00:00'
-last_build_date_pdf: '2026-09-03T17:13:45.394636333+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.806590674+00:00'
 labels:
   - lem:equivalencia-semantica-cuantificadores
 references:

@@ -3,7 +3,7 @@ title: 'Ideal generado'
 filename: 'ideal-generado'
 created: '2025-09-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.610820453+00:00'
-last_build_date_pdf: '2026-09-03T17:16:16.410874654+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.113988138+00:00'
 labels:
   - defn:ideal-generado
 references:
@@ -23,8 +23,10 @@ backlinks:
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
 ---
 
 [[ideal-generado.pdf]]

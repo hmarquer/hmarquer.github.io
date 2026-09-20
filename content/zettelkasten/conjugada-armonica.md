@@ -3,7 +3,7 @@ title: 'Conjugada armónica'
 filename: 'conjugada-armonica'
 created: '2025-03-15 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.547145779+00:00'
-last_build_date_pdf: '2026-09-03T17:24:34.784853507+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.110213065+00:00'
 labels:
   - teo:conjugada-armonica
 references:

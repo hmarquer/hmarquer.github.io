@@ -3,7 +3,7 @@ title: 'Subestructura'
 filename: 'subestructura'
 created: '2026-03-12 10:53:00.416842'
 last_edit_date: '2026-09-03T09:44:22.726605823+00:00'
-last_build_date_pdf: '2026-09-03T17:02:19.394877022+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.067271236+00:00'
 labels:
   - defn:subestructura
 references:

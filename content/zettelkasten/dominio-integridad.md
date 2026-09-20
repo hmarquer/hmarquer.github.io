@@ -3,7 +3,7 @@ title: 'Dominio integridad'
 filename: 'dominio-integridad'
 created: '2025-09-10 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.572305019+00:00'
-last_build_date_pdf: '2026-09-03T17:21:11.399116569+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.399528496+00:00'
 labels:
   - defn:dominio-integridad
   - ejems:dominio-integridad
@@ -13,7 +13,7 @@ references:
 backlinks:
   - dominio-euclideo
   - dominio-ideales-principales
-  - ejer-variedad-algebraica-ideal-radical
+  - ejer-con-algebraico-afin-ideal-radical
   - lem-cuerpo-imp-di
   - lem-di-localizacion-relacion-equivalencia
   - prop-di-imp-anillo-polinomios-di
@@ -27,8 +27,10 @@ backlinks:
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0
   - teoria-de-galois/tema1
 ---
 

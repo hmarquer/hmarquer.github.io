@@ -2,16 +2,16 @@
 title: 'Fórmula para la clausura de Zariski de un morfismo de variedades algebraicas afines'
 filename: 'teo-clausura-zariski-morfismo-variedades-algebraicas-afines'
 created: '2026-01-05 12:19:45.572630'
-last_edit_date: '2026-09-03T09:44:22.737690220+00:00'
-last_build_date_pdf: '2026-09-03T17:00:40.915309713+00:00'
+last_edit_date: '2026-09-20T15:23:19.058413779+00:00'
+last_build_date_pdf: '2026-09-20T16:32:59.700234637+00:00'
 labels:
   - teo:clausura-zariski-morfismo-variedades-algebraicas-afines
 references:
   - clausura-zariski
   - con-ceros-polinomios-esp-afin
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
-  - morfismo-variedades-algebraicas-afines
 backlinks:
   - cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo
   - teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo
@@ -28,6 +28,6 @@ tags:
 - [clausura-zariski](./clausura-zariski.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [lem-clausura-zariski-con-ceros-ideal-anulacion](./lem-clausura-zariski-con-ceros-ideal-anulacion.md)
+- [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-inducido-variedades-algebraicas-afines](./morfismo-inducido-variedades-algebraicas-afines.md)
-- [morfismo-variedades-algebraicas-afines](./morfismo-variedades-algebraicas-afines.md)
 

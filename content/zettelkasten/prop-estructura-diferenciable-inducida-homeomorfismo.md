@@ -3,7 +3,7 @@ title: 'Estructura diferenciable inducida por un homeomorfismo'
 filename: 'prop-estructura-diferenciable-inducida-homeomorfismo'
 created: '2025-06-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.695247363+00:00'
-last_build_date_pdf: '2026-09-03T17:06:01.616324342+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.160277060+00:00'
 labels:
   - prop:estructura-diferenciable-inducida-homeomorfismo
 references:

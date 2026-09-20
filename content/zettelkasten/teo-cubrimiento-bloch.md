@@ -3,7 +3,7 @@ title: 'Teorema del cubrimiento de Bloch'
 filename: 'teo-cubrimiento-bloch'
 created: '2026-06-15T18:44:39.971232705+00:00'
 last_edit_date: '2026-09-03T09:44:22.742191495+00:00'
-last_build_date_pdf: '2026-09-03T17:00:09.887383484+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.032242552+00:00'
 labels:
   - teo:cubrimiento-bloch
 references:

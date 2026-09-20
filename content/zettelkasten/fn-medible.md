@@ -3,7 +3,7 @@ title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.600376798+00:00'
-last_build_date_pdf: '2026-09-03T17:17:32.141419299+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.014205460+00:00'
 labels:
   - defn:fn-medible
 references:
@@ -17,7 +17,6 @@ backlinks:
   - desigualdad-chebyshev
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - esp-lp
-  - esperanza-condicionada-sigma-algebra
   - fn-integrable
   - integral
   - lem-aprox-fn-simple
@@ -41,7 +40,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

@@ -3,7 +3,7 @@ title: 'El ideal de anulación es un ideal radical'
 filename: 'prop-ideal-anulacion-ideal-radical'
 created: '2025-12-14 22:15:27.271927'
 last_edit_date: '2026-09-03T09:44:22.699536374+00:00'
-last_build_date_pdf: '2026-09-03T17:05:35.016436165+00:00'
+last_build_date_pdf: '2026-09-15T23:12:51.748737461+00:00'
 labels:
   - prop:ideal-anulacion-ideal-radical
 references:
@@ -15,8 +15,11 @@ references:
   - lem-ideal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[prop-ideal-anulacion-ideal-radical.pdf]]

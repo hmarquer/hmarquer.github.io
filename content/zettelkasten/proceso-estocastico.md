@@ -3,7 +3,7 @@ title: 'Proceso estocástico'
 filename: 'proceso-estocastico'
 created: '2025-04-01 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.678824356+00:00'
-last_build_date_pdf: '2026-09-03T17:08:15.142245617+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.180826851+00:00'
 labels:
   - defn:proceso-estocastico
   - obs:proceso-estocastico

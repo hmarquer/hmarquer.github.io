@@ -2,15 +2,15 @@
 title: 'Isomorfismo de $R$-álgebras'
 filename: 'isomorfismo-ralgebras'
 created: '2026-01-05 11:30:12.481649'
-last_edit_date: '2026-09-03T09:44:22.617289137+00:00'
-last_build_date_pdf: '2026-09-03T17:15:29.048972156+00:00'
+last_edit_date: '2026-09-20T15:23:19.055389352+00:00'
+last_build_date_pdf: '2026-09-20T16:34:11.103970743+00:00'
 labels:
   - defn:isomorfismo-ralgebras
 references:
+  - algebra
   - morfismo-ralgebras
-  - ralgebra
 backlinks:
-  - cor-isomorfismo-variedades-algebraicas-afines-iff-isomorfismo-ralgebras
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
 tags:
@@ -21,6 +21,6 @@ tags:
 ![[isomorfismo-ralgebras.pdf]]
 
 ## Referencias
+- [algebra](./algebra.md)
 - [morfismo-ralgebras](./morfismo-ralgebras.md)
-- [ralgebra](./ralgebra.md)
 

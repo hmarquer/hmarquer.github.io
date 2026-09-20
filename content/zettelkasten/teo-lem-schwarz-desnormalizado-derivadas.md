@@ -3,7 +3,7 @@ title: 'Teo Lem Schwarz Desnormalizado Derivadas'
 filename: 'teo-lem-schwarz-desnormalizado-derivadas'
 created: '2026-06-10T16:53:06.244945334+00:00'
 last_edit_date: '2026-09-03T09:44:22.758260798+00:00'
-last_build_date_pdf: '2026-09-03T16:58:01.650779268+00:00'
+last_build_date_pdf: '2026-09-15T23:12:50.602476449+00:00'
 labels:
   - teo:lem-schwarz-desnormalizado-derivadas
 references:

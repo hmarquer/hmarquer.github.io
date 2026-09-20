@@ -3,7 +3,7 @@ title: 'Conexión simple'
 filename: 'conexion-simple'
 created: '2025-04-30 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.546653300+00:00'
-last_build_date_pdf: '2026-09-03T17:24:36.972832432+00:00'
+last_build_date_pdf: '2026-09-15T23:12:56.811558579+00:00'
 labels:
   - defn:conexion-simple
 references:

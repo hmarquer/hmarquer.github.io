@@ -3,7 +3,7 @@ title: 'Desigualdad de Bessel'
 filename: 'desigualdad-bessel'
 created: '2025-11-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.567596348+00:00'
-last_build_date_pdf: '2026-09-03T17:21:54.984838344+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.432765178+00:00'
 labels:
   - teo:desigualdad-bessel
 references:

@@ -3,7 +3,7 @@ title: 'Función de densidad'
 filename: 'fn-densidad'
 created: '2025-02-21 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.596049554+00:00'
-last_build_date_pdf: '2026-09-03T17:18:07.108613989+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.932671610+00:00'
 labels:
   - defn:fn-densidad
 references:

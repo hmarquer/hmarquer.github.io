@@ -2,14 +2,18 @@
 title: 'Expresión de la $\sigma$-álgebra generada'
 filename: 'prop-sigma-algebra-generada'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.706941321+00:00'
-last_build_date_pdf: '2026-09-03T17:04:40.583047997+00:00'
+last_edit_date: '2026-09-20T15:23:19.057753702+00:00'
+last_build_date_pdf: '2026-09-20T16:33:11.600343211+00:00'
 labels:
   - prop:sigma-algebra-generada
 references:
   - prop-interseccion-sigma-algebra
   - sigma-algebra
   - sigma-algebra-generada
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
 ---
 
 [[prop-sigma-algebra-generada.pdf]]

@@ -3,7 +3,7 @@ title: 'La suma y el producto acotados son funciones recursivas primitivas'
 filename: 'lem-suma-producto-acotados-recurviva-primitiva'
 created: '2026-05-03T14:17:50.800214121+00:00'
 last_edit_date: '2026-09-03T09:44:22.650424452+00:00'
-last_build_date_pdf: '2026-09-03T17:11:47.500205575+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.858883838+00:00'
 labels:
   - lem:suma-producto-acotados-recurviva-primitiva
 references:

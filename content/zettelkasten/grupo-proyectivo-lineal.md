@@ -3,7 +3,7 @@ title: 'Grupo proyectivo lineal'
 filename: 'grupo-proyectivo-lineal'
 created: '2026-04-29T16:20:41.755021440+00:00'
 last_edit_date: '2026-09-03T09:44:22.608725042+00:00'
-last_build_date_pdf: '2026-09-03T17:16:32.906912963+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.007214561+00:00'
 labels:
   - defn:grupo-proyectivo-lineal
 references:

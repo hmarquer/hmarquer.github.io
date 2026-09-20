@@ -3,7 +3,7 @@ title: 'Teorema del cubrimiento de Landau'
 filename: 'teo-cubrimiento-landau'
 created: '2026-06-15T09:28:36.422350162+00:00'
 last_edit_date: '2026-09-03T09:44:22.742386536+00:00'
-last_build_date_pdf: '2026-09-03T17:00:09.592390697+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.256758502+00:00'
 labels:
   - teo:cubrimiento-landau
 references:

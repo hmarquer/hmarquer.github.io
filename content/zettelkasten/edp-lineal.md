@@ -3,7 +3,7 @@ title: 'Ecuación en derivadas parciales lineal'
 filename: 'edp-lineal'
 created: '2025-03-12 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.574361366+00:00'
-last_build_date_pdf: '2026-09-03T17:20:59.056750676+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.223603286+00:00'
 labels:
   - defn:edp-lineal
   - ecu:edp-lineal

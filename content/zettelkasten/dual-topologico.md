@@ -3,7 +3,7 @@ title: 'Dual topológico'
 filename: 'dual-topologico'
 created: '2025-10-29 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.572927214+00:00'
-last_build_date_pdf: '2026-09-03T17:21:10.798710865+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.298181125+00:00'
 labels:
   - defn:dual-topologico
 references:

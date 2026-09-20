@@ -3,7 +3,7 @@ title: 'Teo espacio vectorial normado dim finita imp isomorfo kn'
 filename: 'teo-esp-vectorial-normado-dim-finita-imp-isomorfo-kn'
 created: '2025-11-02 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.748291446+00:00'
-last_build_date_pdf: '2026-09-03T16:59:17.510480857+00:00'
+last_build_date_pdf: '2026-09-15T23:12:54.136654540+00:00'
 labels:
   - teo:esp-vectorial-normado-dim-finita-imp-isomorfo-kn
 references:

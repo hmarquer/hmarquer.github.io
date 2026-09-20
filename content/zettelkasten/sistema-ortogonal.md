@@ -3,7 +3,7 @@ title: 'Sistema ortogonal'
 filename: 'sistema-ortogonal'
 created: '2025-05-14 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.723666123+00:00'
-last_build_date_pdf: '2026-09-03T17:02:44.959770415+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.451109867+00:00'
 labels:
   - defn:sistema-ortogonal
 references:

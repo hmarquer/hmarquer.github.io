@@ -3,7 +3,7 @@ title: 'Normas equivalentes'
 filename: 'normas-equivalentes'
 created: '2025-09-24 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.663565176+00:00'
-last_build_date_pdf: '2026-09-03T17:10:08.523334917+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.660303997+00:00'
 labels:
   - defn:normas-equivalentes
 references:

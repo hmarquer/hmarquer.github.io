@@ -3,7 +3,7 @@ title: 'Prop convergencia uniforme continuidad uniforme'
 filename: 'prop-convergencia-uniforme-continuidad-uniforme'
 created: '2026-01-24 21:21:20.218365'
 last_edit_date: '2026-09-03T09:44:22.689035679+00:00'
-last_build_date_pdf: '2026-09-03T17:06:54.399244906+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.649978747+00:00'
 labels:
   - prop:convergencia-uniforme-continuidad-uniforme
 references:

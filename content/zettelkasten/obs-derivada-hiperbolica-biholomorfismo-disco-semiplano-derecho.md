@@ -3,7 +3,7 @@ title: 'Obs Derivada Hiperbolica Biholomorfismo Disco Semiplano Derecho'
 filename: 'obs-derivada-hiperbolica-biholomorfismo-disco-semiplano-derecho'
 created: '2026-06-14T09:56:02.265476953+00:00'
 last_edit_date: '2026-09-03T09:44:22.669687900+00:00'
-last_build_date_pdf: '2026-09-03T17:09:28.070266844+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.535308999+00:00'
 labels:
   - obs:derivada-hiperbolica-biholomorfismo-disco-semiplano-derecho
 references:

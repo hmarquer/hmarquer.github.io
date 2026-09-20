@@ -3,7 +3,7 @@ title: 'Teo Fn Holomorfa Disco Unidad No Anula Cota Derivada'
 filename: 'teo-fn-holomorfa-disco-unidad-no-anula-cota-derivada'
 created: '2026-06-14T17:46:26.413656222+00:00'
 last_edit_date: '2026-09-03T09:44:22.750807158+00:00'
-last_build_date_pdf: '2026-09-03T16:58:58.131575742+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.753590602+00:00'
 labels:
   - teo:fn-holomorfa-disco-unidad-no-anula-cota-derivada
 references:

@@ -3,7 +3,7 @@ title: 'Propiedades de las involuciones del disco unidad'
 filename: 'lem-involucion-disco-unidad'
 created: '2025-12-10 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.638302579+00:00'
-last_build_date_pdf: '2026-09-03T17:13:05.014900858+00:00'
+last_build_date_pdf: '2026-09-15T23:12:55.306815466+00:00'
 labels:
   - lem:involucion-disco-unidad
   - lem:involucion-disco-unidad:1

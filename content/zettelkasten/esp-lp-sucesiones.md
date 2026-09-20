@@ -3,7 +3,7 @@ title: 'Espacio $\ell^p$'
 filename: 'esp-lp-sucesiones'
 created: '2025-10-17 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.585005364+00:00'
-last_build_date_pdf: '2026-09-03T17:19:28.736989582+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.253445004+00:00'
 labels:
   - defn:esp-lp-sucesiones
 references:

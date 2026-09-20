@@ -3,25 +3,28 @@ title: 'Ideal de anulación'
 filename: 'ideal-anulacion'
 created: '2025-12-14 22:06:47.356167'
 last_edit_date: '2026-09-03T09:44:22.610436943+00:00'
-last_build_date_pdf: '2026-09-03T17:16:19.570419222+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.995197529+00:00'
 labels:
   - defn:ideal-anulacion
 references:
   - anillo-polinomios
   - esp-afin
 backlinks:
-  - anillo-coordenadas-variedad-algebraica-afin
+  - anillo-coordenadas-con-algebraico-afin
   - lem-clausura-zariski-con-ceros-ideal-anulacion
-  - lem-variedad-algebraica-afin-ideal-anulacion
+  - lem-con-algebraico-afin-ideal-anulacion
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
   - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-ceros-hilbert
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[ideal-anulacion.pdf]]

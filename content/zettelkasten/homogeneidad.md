@@ -2,8 +2,8 @@
 title: 'Homogeneidad'
 filename: 'homogeneidad'
 created: '2025-09-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.609846348+00:00'
-last_build_date_pdf: '2026-09-03T17:16:25.417954274+00:00'
+last_edit_date: '2026-09-20T15:23:19.055315025+00:00'
+last_build_date_pdf: '2026-09-20T16:34:11.788423692+00:00'
 labels:
   - defn:homogeneidad
 references:
@@ -13,6 +13,7 @@ backlinks:
   - lem-aditiva-no-homogenea-imp-grafica-densa
   - lem-aditividad-continuidad-imp-homogeneidad
   - lem-aditividad-imp-homogeneidad-racionales
+  - prop-homogeneidad-medida-hausdorff
 projects:
   - 4.1-analisis-funcional
 tags:

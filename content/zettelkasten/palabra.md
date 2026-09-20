@@ -3,7 +3,7 @@ title: 'Palabra'
 filename: 'palabra'
 created: '2026-02-02 17:04:57.439852'
 last_edit_date: '2026-09-03T09:44:22.675036199+00:00'
-last_build_date_pdf: '2026-09-03T17:08:44.520879975+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.913402518+00:00'
 labels:
   - defn:palabra
 references:

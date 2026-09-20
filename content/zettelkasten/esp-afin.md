@@ -3,7 +3,7 @@ title: 'Espacio afín'
 filename: 'esp-afin'
 created: '2025-02-19 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.582980326+00:00'
-last_build_date_pdf: '2026-09-03T17:19:42.681912955+00:00'
+last_build_date_pdf: '2026-09-15T23:12:45.372950982+00:00'
 labels:
   - defn:esp-afin
   - ejem:esp-afin
@@ -12,19 +12,22 @@ references:
   - esp-vectorial
 backlinks:
   - clausura-zariski
+  - con-algebraico-afin
+  - con-algebraico-afin-irreducible
   - con-ceros-polinomios-esp-afin
   - ideal-anulacion
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - prop-con-algebraico-afin-ideal
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-topologia-zariski
-  - prop-variedad-algebraica-afin-ideal
-  - prop-variedad-algebraica-afin-irreducible-iff-ideal-primo
-  - variedad-algebraica-afin
-  - variedad-algebraica-afin-irreducible
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1
+  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[esp-afin.pdf]]

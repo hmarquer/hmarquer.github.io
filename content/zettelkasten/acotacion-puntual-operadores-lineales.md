@@ -3,7 +3,7 @@ title: 'Acotación puntual de una familia de operadores lineales entre espacios 
 filename: 'acotacion-puntual-operadores-lineales'
 created: '2025-12-06 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.529990457+00:00'
-last_build_date_pdf: '2026-09-03T17:27:12.523901697+00:00'
+last_build_date_pdf: '2026-09-15T23:12:48.083834851+00:00'
 labels:
   - defn:acotacion-puntual-operadores-lineales
 references:

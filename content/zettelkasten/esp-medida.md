@@ -3,7 +3,7 @@ title: 'Espacio de medida'
 filename: 'esp-medida'
 created: '2025-02-21 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.585669048+00:00'
-last_build_date_pdf: '2026-09-03T17:19:24.706363016+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.804974645+00:00'
 labels:
   - defn:esp-medida
 references:
@@ -49,7 +49,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

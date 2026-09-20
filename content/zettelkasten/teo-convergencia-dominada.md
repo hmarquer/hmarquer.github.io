@@ -3,7 +3,7 @@ title: 'Teorema de la convergencia dominada'
 filename: 'teo-convergencia-dominada'
 created: '2025-03-18 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.740064623+00:00'
-last_build_date_pdf: '2026-09-03T17:00:22.939942867+00:00'
+last_build_date_pdf: '2026-09-15T23:12:53.969590970+00:00'
 labels:
   - teo:convergencia-dominada
 references:
@@ -27,7 +27,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

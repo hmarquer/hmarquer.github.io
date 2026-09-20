@@ -3,12 +3,13 @@ title: 'Parte multiplicativa de un anillo'
 filename: 'parte-multiplicativa-anillo'
 created: '2025-11-26 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.675262310+00:00'
-last_build_date_pdf: '2026-09-03T17:08:44.141451469+00:00'
+last_build_date_pdf: '2026-09-15T23:12:47.008040838+00:00'
 labels:
   - defn:parte-multiplicativa-anillo
 references:
   - anillo
 backlinks:
+  - ejer-anillo-noetheriano-imp-localizacion-noetheriana
   - ejer-extension-entera-localizacion
   - lem-di-localizacion-relacion-equivalencia
   - prop-ideal-primo-localizacion-extendido-contraido

@@ -3,7 +3,7 @@ title: 'Función antiholomorfa'
 filename: 'fn-antiholomorfa'
 created: '2025-11-11 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.594154083+00:00'
-last_build_date_pdf: '2026-09-03T17:18:19.951300136+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.967328436+00:00'
 labels:
   - defn:fn-antiholomorfa
 references:

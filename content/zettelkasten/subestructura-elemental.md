@@ -3,7 +3,7 @@ title: 'Subestructura elemental'
 filename: 'subestructura-elemental'
 created: '2026-03-26 19:43:42.436027'
 last_edit_date: '2026-09-03T09:44:22.726255957+00:00'
-last_build_date_pdf: '2026-09-03T17:02:18.901591872+00:00'
+last_build_date_pdf: '2026-09-15T23:12:46.207464023+00:00'
 labels:
   - defn:subestructura-elemental
 references:

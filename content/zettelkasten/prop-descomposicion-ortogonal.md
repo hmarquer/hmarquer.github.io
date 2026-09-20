@@ -3,7 +3,7 @@ title: 'Prop descomposicion ortogonal'
 filename: 'prop-descomposicion-ortogonal'
 created: '2025-10-28 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.690500379+00:00'
-last_build_date_pdf: '2026-09-03T17:06:40.923347019+00:00'
+last_build_date_pdf: '2026-09-15T23:12:57.596173797+00:00'
 labels:
   - prop:descomposicion-ortogonal
 references:

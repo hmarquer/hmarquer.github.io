@@ -3,7 +3,7 @@ title: 'Aplicación recubridora'
 filename: 'apl-recubridora'
 created: '2025-06-21 00:00:00'
 last_edit_date: '2026-09-03T09:44:22.534466634+00:00'
-last_build_date_pdf: '2026-09-03T17:26:37.349450511+00:00'
+last_build_date_pdf: '2026-09-15T23:12:49.639182053+00:00'
 labels:
   - defn:apl-recubridora
 references:

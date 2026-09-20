@@ -1,9 +1,9 @@
 ---
-title: 'Prop di imp anillo polinomios di'
+title: 'El anillo de polinomios sobre un dominio de integridad es un dominio de integridad'
 filename: 'prop-di-imp-anillo-polinomios-di'
 created: '2025-09-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.690894681+00:00'
-last_build_date_pdf: '2026-09-03T17:06:39.590896136+00:00'
+last_edit_date: '2026-09-20T15:23:19.056373507+00:00'
+last_build_date_pdf: '2026-09-20T16:33:23.539632286+00:00'
 labels:
   - prop:di-imp-anillo-polinomios-di
 references:
