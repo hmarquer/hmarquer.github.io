@@ -2,7 +2,7 @@
 title: 'Transferencia de diferenciabilidad por embebimiento'
 filename: 'teo-embibimiento-transferencia-diferenciabilidad'
 created: '2025-04-08 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_edit_date: '2026-09-03T09:44:22.745632170+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.601166428+00:00'
 labels:
   - teo:embibimiento-transferencia-diferenciabilidad

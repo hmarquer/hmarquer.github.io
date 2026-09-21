@@ -2,7 +2,7 @@
 title: 'Teorema de equivalencia del radio interno y el supremo de la derivada hiperbólica'
 filename: 'teo-equivalencia-radio-interno-sup-derivada-hiperbolica'
 created: '2026-06-16T12:34:58.007854211+00:00'
-last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_edit_date: '2026-09-03T09:44:22.745996544+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.446498925+00:00'
 labels:
   - teo:equivalencia-radio-interno-sup-derivada-hiperbolica

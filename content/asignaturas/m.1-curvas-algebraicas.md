@@ -156,11 +156,11 @@ tags:
 - [teo-base-hilbert](./teo-base-hilbert.md)
 
 ## Etiquetas
+#DEMOSTRACIÓN 
 #COMPLETAR no he entendido nada
 #REVISAR y COMPLETAR no he entendido nada
 #EJERCICIO : comprobar lo que se afirma e incluir ejemplo más exótico de álgebra conmutativa
 #ORDENAR : Esta parte no sé muy bien cómo encajarla, creo que solo será relevante cuando hablemos explícitamente de cuerpos algebraicamente cerrados, pero de momento lo estoy evitando. De momento, lo comento y lo dejo para más adelante. %%%%%%%%%%%%%%%%%%%%%%%
-#DEMOSTRACIÓN 
 #REVISAR : lo hace todo diferente, con la noción de conjunto algebraicamente cerrado con coeficientes en $L$ demuestra que la topología de Zariski es una topología
 #COMPLETAR : mirar las notas que va a publicar en moodle y las de Jacobo
 #FALTA : mirar las notas de moodle

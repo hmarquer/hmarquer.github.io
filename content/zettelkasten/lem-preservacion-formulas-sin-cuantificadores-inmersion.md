@@ -2,7 +2,7 @@
 title: 'Preservación de fórmulas sin cuantificadores por una inmersión'
 filename: 'lem-preservacion-formulas-sin-cuantificadores-inmersion'
 created: '2026-03-05 11:30:15.257972'
-last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
+last_edit_date: '2026-09-03T09:44:22.642366992+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.853314807+00:00'
 labels:
   - lem:preservacion-formulas-sin-cuantificadores-inmersion

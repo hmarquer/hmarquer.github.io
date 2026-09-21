@@ -2,7 +2,7 @@
 title: 'Base de entornos de una topología'
 filename: 'base-entornos-topologia'
 created: '2025-05-27 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.203656928+00:00'
+last_edit_date: '2026-09-03T09:44:22.536556065+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.103872689+00:00'
 labels:
   - defn:base-entornos-topologia

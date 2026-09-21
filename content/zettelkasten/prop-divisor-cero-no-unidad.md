@@ -2,7 +2,7 @@
 title: 'Prop divisor cero no unidad'
 filename: 'prop-divisor-cero-no-unidad'
 created: '2025-09-22 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_edit_date: '2026-09-03T09:44:22.692028791+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.526669257+00:00'
 labels:
   - prop:divisor-cero-no-unidad
