@@ -2,7 +2,7 @@
 title: 'Espacio topológico secuencial'
 filename: 'esp-topologico-secuencial'
 created: '2026-01-09 10:03:48.037267'
-last_edit_date: '2026-09-03T09:44:22.588985156+00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.459145076+00:00'
 labels:
   - defn:espacio-topologico-secuencial

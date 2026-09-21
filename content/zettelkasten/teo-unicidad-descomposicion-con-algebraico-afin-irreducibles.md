@@ -12,10 +12,8 @@ references:
   - teo-descomposicion-con-algebraico-afin-irreducibles
 projects:
   - 4.1-algebra-conmutativa
-  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[teo-unicidad-descomposicion-con-algebraico-afin-irreducibles.pdf]]

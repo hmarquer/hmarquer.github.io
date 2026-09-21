@@ -17,8 +17,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
-  - m.1-curvas-algebraicas/tema1
-  - m.1-curvas-algebraicas/tema1-ia
+  - m.1-curvas-algebraicas/tema1-ZK-1
 ---
 
 [[prop-anillo-noetheriano-imp-cociente-noetheriano.pdf]]

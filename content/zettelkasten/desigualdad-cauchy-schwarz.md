@@ -2,7 +2,7 @@
 title: 'Desigualdad cauchy schwarz'
 filename: 'desigualdad-cauchy-schwarz'
 created: '2025-09-17 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.567783846+00:00'
+last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.024230018+00:00'
 labels:
   - prop:desigualdad-cauchy-schwarz

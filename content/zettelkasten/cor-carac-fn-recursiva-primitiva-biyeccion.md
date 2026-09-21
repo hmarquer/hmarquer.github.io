@@ -2,7 +2,7 @@
 title: 'Caracterización de las funciones recursivas primitivas mediante biyecciones'
 filename: 'cor-carac-fn-recursiva-primitiva-biyeccion'
 created: '2026-05-03T15:01:13.892673362+00:00'
-last_edit_date: '2026-09-03T09:44:22.554838183+00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.986555642+00:00'
 labels:
   - cor:carac-fn-recursiva-primitiva-biyeccion

@@ -2,7 +2,7 @@
 title: 'Precompacidad'
 filename: 'precompacidad'
 created: '2026-04-28T15:49:18.255854189+00:00'
-last_edit_date: '2026-09-03T09:44:22.677479003+00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.145869499+00:00'
 labels:
   - defn:precompacidad

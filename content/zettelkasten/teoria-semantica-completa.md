@@ -2,7 +2,7 @@
 title: 'Teoría completa'
 filename: 'teoria-semantica-completa'
 created: '2026-03-05 11:18:22.188721'
-last_edit_date: '2026-09-03T09:44:22.764328828+00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.974805942+00:00'
 labels:
   - defn:teoria-semantica-completa

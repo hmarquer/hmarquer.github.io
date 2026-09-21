@@ -23,10 +23,8 @@ backlinks:
   - teo-morfismo-inducido-variedades-algebraicas-afines-sobreyectivo-imp-isomorfismo
 projects:
   - 4.1-algebra-conmutativa
-  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
-  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[morfismo-con-algebraicos-afines.pdf]]
