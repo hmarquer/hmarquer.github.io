@@ -36,6 +36,7 @@ backlinks:
   - prop-con-abiertos-esp-metrico
   - prop-convergencia-imp-cauchy
   - prop-convergencia-uniforme-continuidad-uniforme
+  - semejanza
   - teo-baire
   - teo-compleccion-esp-metrico
   - teo-completitud-metrica-pseudohiperbolica

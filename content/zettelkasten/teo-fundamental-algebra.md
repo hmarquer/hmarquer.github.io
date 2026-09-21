@@ -3,7 +3,7 @@ title: 'Teorema fundamental del álgebra'
 filename: 'teo-fundamental-algebra'
 created: '2025-05-06 00:00:00'
 last_edit_date: '2026-09-09T14:04:31.473845120+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.524277671+00:00'
+last_build_date_pdf: '2026-09-20T16:32:53.791289413+00:00'
 labels:
   - teo:fundamental-algebra
 references:

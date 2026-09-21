@@ -3,7 +3,7 @@ title: 'Lema de normalización de Noether'
 filename: 'lem-normalizacion-noether'
 created: '2025-12-31 06:11:19.799242'
 last_edit_date: '2026-09-14T16:29:45.081165056+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.827687139+00:00'
+last_build_date_pdf: '2026-09-20T16:33:53.439150835+00:00'
 labels:
   - lem:normalizacion-noether
 references:

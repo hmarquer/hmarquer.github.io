@@ -3,7 +3,7 @@ title: 'Medida completa'
 filename: 'medida-completa'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-10T11:47:10.347924808+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.973232666+00:00'
+last_build_date_pdf: '2026-09-20T16:33:53.913421747+00:00'
 labels:
   - defn:medida-completa
 references:

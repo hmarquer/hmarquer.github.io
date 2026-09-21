@@ -3,7 +3,7 @@ title: 'Topología de Zariski'
 filename: 'prop-topologia-zariski'
 created: '2025-12-14 17:39:57.598689'
 last_edit_date: '2026-09-18T10:26:54.699947134+00:00'
-last_build_date_pdf: '2026-09-18T10:27:02.101798737+00:00'
+last_build_date_pdf: '2026-09-20T16:33:05.853665690+00:00'
 labels:
   - prop:topologia-zariski
 references:

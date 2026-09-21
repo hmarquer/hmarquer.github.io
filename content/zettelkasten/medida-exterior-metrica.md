@@ -3,7 +3,7 @@ title: 'Medida exterior métrica'
 filename: 'medida-exterior-metrica'
 created: '2026-09-12T17:18:58.588985126+00:00'
 last_edit_date: '2026-09-12T17:19:08.038504324+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.279568564+00:00'
+last_build_date_pdf: '2026-09-20T16:33:47.386188130+00:00'
 labels:
   - defn:medida-exterior-metrica
 references:

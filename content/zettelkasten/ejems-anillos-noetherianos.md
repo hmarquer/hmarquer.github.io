@@ -3,7 +3,7 @@ title: 'Ejemplos de anillos noetherianos'
 filename: 'ejems-anillos-noetherianos'
 created: '2026-09-17T16:39:50.768245377+00:00'
 last_edit_date: '2026-09-17T16:49:34.351209650+00:00'
-last_build_date_pdf: '2026-09-17T16:49:41.479139793+00:00'
+last_build_date_pdf: '2026-09-20T16:34:29.596603922+00:00'
 labels:
   - ejems:anillos-noetherianos
 references:

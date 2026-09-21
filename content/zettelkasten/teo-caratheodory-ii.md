@@ -3,7 +3,7 @@ title: 'Teorema de Caratheodory II'
 filename: 'teo-caratheodory-ii'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-09-14T16:28:19.538191798+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.449981564+00:00'
+last_build_date_pdf: '2026-09-20T16:32:59.733079158+00:00'
 labels:
   - teo:caratheodory-ii
 references:

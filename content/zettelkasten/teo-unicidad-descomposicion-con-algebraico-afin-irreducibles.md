@@ -3,7 +3,7 @@ title: 'Unicidad de la descomposición de un conjunto algebraico afín en irredu
 filename: 'teo-unicidad-descomposicion-con-algebraico-afin-irreducibles'
 created: '2025-12-16 20:01:06.310801'
 last_edit_date: '2026-09-17T11:15:56.395036694+00:00'
-last_build_date_pdf: '2026-09-17T11:16:04.498294365+00:00'
+last_build_date_pdf: '2026-09-20T16:32:41.972602450+00:00'
 labels:
   - teo:unicidad-descomposicion-con-algebraico-afin-irreducibles
 references:

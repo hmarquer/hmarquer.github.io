@@ -2,8 +2,8 @@
 title: 'La medida exterior de Hausdorff es métrica'
 filename: 'prop-medida-exterior-hausdorff-metrica'
 created: '2026-09-12T17:22:33.057913903+00:00'
-last_edit_date: '2026-09-12T18:28:46.480494662+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.719118571+00:00'
+last_edit_date: '2026-09-21T13:46:25.099385798+00:00'
+last_build_date_pdf: '2026-09-21T13:46:30.071089357+00:00'
 labels:
   - prop:medida-exterior-hausdorff-metrica
 references:
@@ -15,6 +15,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/hoja1
   - m.1-fundamentos-de-analisis-matematico/tema1
 ---
 

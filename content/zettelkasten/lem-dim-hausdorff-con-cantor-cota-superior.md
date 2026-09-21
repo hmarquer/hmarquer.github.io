@@ -3,7 +3,7 @@ title: 'Lem dim hausdorff con cantor cota superior'
 filename: 'lem-dim-hausdorff-con-cantor-cota-superior'
 created: '2026-09-16T17:04:41.654269099+00:00'
 last_edit_date: '2026-09-16T17:06:52.396381750+00:00'
-last_build_date_pdf: '2026-09-16T17:06:57.583411979+00:00'
+last_build_date_pdf: '2026-09-20T16:33:59.870885617+00:00'
 labels:
   - lem:dim-hausdorff-con-cantor-cota-superior
 references:

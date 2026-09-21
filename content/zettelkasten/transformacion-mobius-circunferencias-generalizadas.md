@@ -2,8 +2,8 @@
 title: 'Toda transformación de Möbius manda circunferencias generalizadas a circunferencias generalizadas'
 filename: 'transformacion-mobius-circunferencias-generalizadas'
 created: '2025-03-26 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.726702723+00:00'
+last_edit_date: '2026-09-21T10:33:20.189148852+00:00'
+last_build_date_pdf: '2026-09-21T14:53:08.922881040+00:00'
 labels:
   - dem:tm-circunferencias-generalizadas-en-circunferencias-generalizadas:eq1
   - teo:transformacion-mobius-circunferencias-generalizadas

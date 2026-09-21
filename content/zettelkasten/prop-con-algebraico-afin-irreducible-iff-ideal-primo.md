@@ -3,7 +3,7 @@ title: 'Un conjunto algebraico afín es irreducible si y solo si su ideal de anu
 filename: 'prop-con-algebraico-afin-irreducible-iff-ideal-primo'
 created: '2025-12-16 19:22:14.876879'
 last_edit_date: '2026-09-17T11:07:05.697402884+00:00'
-last_build_date_pdf: '2026-09-17T11:07:12.929549026+00:00'
+last_build_date_pdf: '2026-09-20T16:33:29.472029216+00:00'
 labels:
   - prop:con-algebraico-afin-irreducible-iff-ideal-primo
 references:

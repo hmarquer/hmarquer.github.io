@@ -3,7 +3,7 @@ title: 'El anillo cociente de un anillo noetheriano es noetheriano'
 filename: 'prop-anillo-noetheriano-imp-cociente-noetheriano'
 created: '2026-09-17T10:20:24.579259189+00:00'
 last_edit_date: '2026-09-17T15:07:42.367037117+00:00'
-last_build_date_pdf: '2026-09-17T15:07:49.042430268+00:00'
+last_build_date_pdf: '2026-09-20T16:33:35.406766325+00:00'
 labels:
   - prop:anillo-noetheriano-imp-cociente-noetheriano
 references:

@@ -3,7 +3,7 @@ title: 'Continuidad absoluta'
 filename: 'continuidad-absoluta'
 created: '2025-03-25 00:00:00'
 last_edit_date: '2026-09-11T07:45:15.340494636+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.009202793+00:00'
+last_build_date_pdf: '2026-09-20T16:34:47.195320667+00:00'
 labels:
   - defn:continuidad-absoluta
 references:

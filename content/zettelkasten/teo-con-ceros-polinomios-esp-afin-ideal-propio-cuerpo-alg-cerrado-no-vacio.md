@@ -3,7 +3,7 @@ title: 'Teo con ceros polinomios espacio afin ideal propio cuerpo alg cerrado no
 filename: 'teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio'
 created: '2026-01-04 07:41:01.988820'
 last_edit_date: '2026-09-09T14:04:31.475845141+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.478898781+00:00'
+last_build_date_pdf: '2026-09-20T16:32:53.946029644+00:00'
 labels:
   - teo:con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
 references:

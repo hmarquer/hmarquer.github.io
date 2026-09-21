@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-09-18T14:07:39.729251113+00:00'
-last_build_date_pdf: '2026-09-18T14:07:50.964363562+00:00'
+last_edit_date: '2026-09-21T14:26:13.538653416+00:00'
+last_build_date_pdf: '2026-09-21T14:26:19.836751117+00:00'
 inclusions:
   - anillo
   - anillo-cociente

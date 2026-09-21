@@ -3,7 +3,7 @@ title: 'Morfismo de $K$-álgebras inducido por un morfismo de variedades algebra
 filename: 'morfismo-inducido-variedades-algebraicas-afines'
 created: '2026-01-05 08:18:06.354637'
 last_edit_date: '2026-09-17T17:59:10.737327544+00:00'
-last_build_date_pdf: '2026-09-17T18:04:30.470311529+00:00'
+last_build_date_pdf: '2026-09-20T16:33:41.365715371+00:00'
 labels:
   - prop:morfismo-inducido-variedades-algebraicas-afines
 references:

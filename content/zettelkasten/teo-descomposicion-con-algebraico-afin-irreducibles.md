@@ -3,7 +3,7 @@ title: 'Teorema de descomposición de un conjunto algebraico afín en irreducibl
 filename: 'teo-descomposicion-con-algebraico-afin-irreducibles'
 created: '2025-12-16 19:57:32.522335'
 last_edit_date: '2026-09-17T11:13:00.214218686+00:00'
-last_build_date_pdf: '2026-09-17T11:13:06.686168383+00:00'
+last_build_date_pdf: '2026-09-20T16:32:53.874502436+00:00'
 labels:
   - teo:descomposicion-con-algebraico-afin-irreducibles
 references:

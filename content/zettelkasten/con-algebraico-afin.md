@@ -3,7 +3,7 @@ title: 'Conjunto algebraico afín'
 filename: 'con-algebraico-afin'
 created: '2025-12-03 00:00:00'
 last_edit_date: '2026-09-17T10:44:13.884305790+00:00'
-last_build_date_pdf: '2026-09-18T10:16:02.482153814+00:00'
+last_build_date_pdf: '2026-09-20T16:34:53.154534282+00:00'
 labels:
   - defn:con-algebraico-afin
 references:

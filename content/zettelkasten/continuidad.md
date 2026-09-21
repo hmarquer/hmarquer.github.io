@@ -21,6 +21,8 @@ backlinks:
   - cor-universal-submersion-sobreyectiva
   - curva-topologica
   - dual-topologico
+  - ejer-fn-continuas-no-gamma-holder
+  - ejer-gamma-holder-imp-continuidad
   - equivalencia-homotopica
   - esp-apl-lineales-continuas
   - fn-clase-ck

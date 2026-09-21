@@ -3,7 +3,7 @@ title: 'Conjunto algebraico afín irreducible'
 filename: 'con-algebraico-afin-irreducible'
 created: '2025-12-16 19:03:48.226483'
 last_edit_date: '2026-09-17T11:05:31.161390673+00:00'
-last_build_date_pdf: '2026-09-17T11:05:43.843531335+00:00'
+last_build_date_pdf: '2026-09-20T16:34:52.955258183+00:00'
 labels:
   - defn:con-algebraico-afin-irreducible
 references:
