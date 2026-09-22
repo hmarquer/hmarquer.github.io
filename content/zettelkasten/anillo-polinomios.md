@@ -11,6 +11,7 @@ references:
 backlinks:
   - algebra-finitamente-generada
   - con-algebraico-afin
+  - con-algebraico-afin-definido-subcuerpo
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
   - cuerpo-algebraicamente-cerrado

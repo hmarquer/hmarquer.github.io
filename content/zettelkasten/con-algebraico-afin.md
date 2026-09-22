@@ -13,6 +13,7 @@ references:
 backlinks:
   - anillo-coordenadas-con-algebraico-afin
   - clausura-zariski
+  - con-algebraico-afin-definido-subcuerpo
   - con-algebraico-afin-irreducible
   - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
   - dim-con-algebraico-afin

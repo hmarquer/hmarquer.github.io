@@ -11,6 +11,7 @@ references:
   - esp-afin
 backlinks:
   - anillo-coordenadas-con-algebraico-afin
+  - con-algebraico-afin-definido-subcuerpo
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo

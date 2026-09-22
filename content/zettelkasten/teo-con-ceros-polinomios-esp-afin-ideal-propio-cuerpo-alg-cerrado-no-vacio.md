@@ -14,8 +14,10 @@ references:
   - ideal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema1-ZK-3
 ---
 
 [[teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio.pdf]]

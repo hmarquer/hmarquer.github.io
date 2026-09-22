@@ -10,6 +10,7 @@ references:
   - anillo
   - ideal
 backlinks:
+  - con-algebraico-afin-definido-subcuerpo
   - ideal-finitamente-generado
   - ideal-principal
   - lem-con-ceros-ideal-generado

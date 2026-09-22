@@ -1,7 +1,6 @@
 ---
 title: "Sobre mí"
 ---
-
 Soy Hugo Marquerie, [graduado en Matemáticas](https://www.uam.es/uam/matematicas) en la [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) y estudiante del [Máster en Matemáticas y Aplicaciones](https://www.uam.es/uam/master-universitario-matematicas-aplicaciones) en la misma universidad. El segundo cuatrimestre del segundo curso, empecé a tomar apuntes a [LaTeX](https://www.latex-project.org/), un documento por cada asignatura. Me gustaba que pudiese editar lo ya escrito con facilidad según repasaba y lo limpio que quedaba el resultado final. Además, los paquetes [hyperref](https://ctan.org/pkg/hyperref) y [cleveref](https://ctan.org/pkg/cleveref) me permitían referenciar resultados previos, lo que hacía que las pruebas y definiciones fuesen mucho más fáciles de seguir.
 
 Pronto me di cuenta de que muchas asignaturas utilizaban y dependían de resultados y conceptos vistos en cursos anteriores que no podía referenciar directamente, necesitaba crear enlaces *entre* documentos. Buscando en internet, encontré el método de organización [Zettelkasten](https://es.wikipedia.org/wiki/Zettelkasten), que consiste en crear notas atómicas (cada una con un único concepto) y enlazarlas entre sí. Era justo lo que necesitaba para organizar mis apuntes: cada teorema, definición o incluso ejemplo podía tener su propia nota, desligada de la asignatura en la que lo había estudiado. Así, podía crear un grafo (o red) de conceptos matemáticos interconectados.

@@ -16,8 +16,10 @@ backlinks:
   - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
+  - m.1-curvas-algebraicas/tema1-ZK-4
 ---
 
 [[prop-con-algebraico-afin-irreducible-iff-ideal-primo.pdf]]

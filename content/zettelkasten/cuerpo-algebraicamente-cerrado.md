@@ -11,6 +11,7 @@ references:
   - cuerpo
   - grado-polinomio
 backlinks:
+  - con-algebraico-afin-definido-subcuerpo
   - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - teo-ceros-hilbert
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio

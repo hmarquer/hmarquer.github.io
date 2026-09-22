@@ -14,6 +14,7 @@ references:
 backlinks:
   - apl-lineal
   - caracteristica-cuerpo
+  - con-algebraico-afin-definido-subcuerpo
   - con-ceros-polinomios-esp-afin
   - cuerpo
   - cuerpo-algebraicamente-cerrado

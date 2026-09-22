@@ -16,8 +16,10 @@ references:
   - radical-ideal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema1-ZK-3
 ---
 
 [[teo-ceros-hilbert.pdf]]

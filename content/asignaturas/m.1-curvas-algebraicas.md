@@ -2,26 +2,36 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-09-21T23:00:28.675581991+00:00'
-last_build_date_pdf: '2026-09-21T23:01:42.473628159+00:00'
+last_edit_date: '2026-09-22T10:10:33.354016253+00:00'
+last_build_date_pdf: '2026-09-22T10:10:45.896352535+00:00'
 inclusions:
   - anillo-noetheriano
   - clausura-zariski
   - con-algebraico-afin
+  - con-algebraico-afin-definido-subcuerpo
+  - con-algebraico-afin-irreducible
   - con-ceros-polinomios-esp-afin
   - cor-base-hilbert-n-var
   - ejems-anillos-noetherianos
   - ejer-anillo-noetheriano-imp-localizacion-noetheriana
   - ejer-anillo-noetheriano-subanillo-no-noetheriano
+  - esp-afin
   - ideal-anulacion
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - lem-con-ceros-ideal-generado
+  - lem-normalizacion-noether
   - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-carac-anillo-noetheriano
+  - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-topologia-zariski
   - teo-base-hilbert
+  - teo-ceros-hilbert
+  - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
+  - teo-descomposicion-con-algebraico-afin-irreducibles
+  - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
+  - teo-unicidad-descomposicion-con-algebraico-afin-irreducibles
 tags:
   - m.1-curvas-algebraicas
 ---
@@ -44,13 +54,27 @@ tags:
 ### tema1-ZK-2
 - [clausura-zariski](./clausura-zariski.md)
 - [con-algebraico-afin](./con-algebraico-afin.md)
+- [con-algebraico-afin-definido-subcuerpo](./con-algebraico-afin-definido-subcuerpo.md)
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
+- [esp-afin](./esp-afin.md)
 - [ideal-anulacion](./ideal-anulacion.md)
 - [lem-clausura-zariski-con-ceros-ideal-anulacion](./lem-clausura-zariski-con-ceros-ideal-anulacion.md)
 - [lem-con-algebraico-afin-ideal-anulacion](./lem-con-algebraico-afin-ideal-anulacion.md)
 - [lem-con-ceros-ideal-generado](./lem-con-ceros-ideal-generado.md)
 - [prop-ideal-anulacion-ideal-radical](./prop-ideal-anulacion-ideal-radical.md)
 - [prop-topologia-zariski](./prop-topologia-zariski.md)
+
+### tema1-ZK-3
+- [lem-normalizacion-noether](./lem-normalizacion-noether.md)
+- [teo-ceros-hilbert](./teo-ceros-hilbert.md)
+- [teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio](./teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio.md)
+- [teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado](./teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado.md)
+
+### tema1-ZK-4
+- [con-algebraico-afin-irreducible](./con-algebraico-afin-irreducible.md)
+- [prop-con-algebraico-afin-irreducible-iff-ideal-primo](./prop-con-algebraico-afin-irreducible-iff-ideal-primo.md)
+- [teo-descomposicion-con-algebraico-afin-irreducibles](./teo-descomposicion-con-algebraico-afin-irreducibles.md)
+- [teo-unicidad-descomposicion-con-algebraico-afin-irreducibles](./teo-unicidad-descomposicion-con-algebraico-afin-irreducibles.md)
 
 ## Etiquetas
 #REVISAR 
