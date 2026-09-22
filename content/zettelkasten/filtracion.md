@@ -11,6 +11,7 @@ references:
   - esp-probabilidad
   - sigma-algebra
 backlinks:
+  - lem-carac-tiempo-parada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala
   - proceso-estocastico-adaptado
@@ -22,7 +23,9 @@ backlinks:
   - tiempo-parada
 projects:
   - 3.2-probabilidad-ii
+  - m.1-procesos-estocasticos
 tags:
+  - m.1-procesos-estocasticos/tema1
   - probabilidad-ii/tema4
 ---
 

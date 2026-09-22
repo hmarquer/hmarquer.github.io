@@ -15,8 +15,10 @@ backlinks:
   - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
+  - m.1-curvas-algebraicas/tema1-ZK-5
 ---
 
 [[teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines.pdf]]

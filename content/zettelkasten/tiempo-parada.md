@@ -2,8 +2,8 @@
 title: 'Tiempo parada'
 filename: 'tiempo-parada'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.981521131+00:00'
+last_edit_date: '2026-09-22T16:17:00.603890092+00:00'
+last_build_date_pdf: '2026-09-22T16:17:02.660354701+00:00'
 labels:
   - defn:tiempo-parada
 references:
@@ -17,7 +17,9 @@ backlinks:
   - teo-parada-opcional
 projects:
   - 3.2-probabilidad-ii
+  - m.1-procesos-estocasticos
 tags:
+  - m.1-procesos-estocasticos/tema1
   - probabilidad-ii/tema4
 ---
 
