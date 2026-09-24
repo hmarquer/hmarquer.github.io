@@ -3,7 +3,7 @@ title: 'Toda función $\gamma$-Hölder es continua'
 filename: 'ejer-gamma-holder-imp-continuidad'
 created: '2026-09-21T10:38:13.956520861+00:00'
 last_edit_date: '2026-09-21T10:38:27.514949033+00:00'
-last_build_date_pdf: '2026-09-21T10:38:33.929392817+00:00'
+last_build_date_pdf: '2026-09-24T13:25:15.412533806+00:00'
 labels:
   - ejer:gamma-holder-imp-continuidad
 references:

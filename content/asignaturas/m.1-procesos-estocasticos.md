@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-22T16:21:37.176947614+00:00'
-last_build_date_pdf: '2026-09-22T16:21:42.300067141+00:00'
+last_edit_date: '2026-09-24T16:20:43.135375234+00:00'
+last_build_date_pdf: '2026-09-24T16:20:47.992852266+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
@@ -47,6 +47,10 @@ tags:
 #EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
 #COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
 #ORDENAR : esta es la estrategia de martingala
+#ORDENAR : referenciar teorema anterior
+#REVISAR : No lo ha escrito igual, lo ha hecho así:
+#COMPLETAR : falta ver que se cumplen las condiciones
+#REVISAR : no sé si es un "ya que" o qué coño es
 #COMPLETAR y REVISAR
 #EJERCICIO : comprobarlo.
 #COMPLETAR con la foto, no he entendido nada.

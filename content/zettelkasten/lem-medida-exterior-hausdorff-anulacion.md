@@ -2,8 +2,8 @@
 title: 'La medida exterior de Hausdorff se anula para dimensiones mayores que la dimensión ambiente'
 filename: 'lem-medida-exterior-hausdorff-anulacion'
 created: '2026-09-13T22:17:16.283332182+00:00'
-last_edit_date: '2026-09-21T13:55:44.268557014+00:00'
-last_build_date_pdf: '2026-09-21T13:55:52.515514882+00:00'
+last_edit_date: '2026-09-24T15:05:20.582470336+00:00'
+last_build_date_pdf: '2026-09-24T16:24:55.218578396+00:00'
 labels:
   - fig:cubrimiento-cuadrado-unidad
   - lem:medida-exterior-hausdorff-anulacion

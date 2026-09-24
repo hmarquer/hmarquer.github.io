@@ -3,7 +3,7 @@ title: 'Con algebraico afín definido subcuerpo'
 filename: 'con-algebraico-afin-definido-subcuerpo'
 created: '2026-09-22T08:19:05.941849381+00:00'
 last_edit_date: '2026-09-22T08:21:11.128365263+00:00'
-last_build_date_pdf: '2026-09-22T08:21:21.836280498+00:00'
+last_build_date_pdf: '2026-09-24T13:25:21.185947281+00:00'
 labels:
   - defn:con-algebraico-afin-definido-subcuerpo
 references:
