@@ -15,8 +15,10 @@ references:
   - lem-normalizacion-noether
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema1-ZK-3
 ---
 
 [[teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado.pdf]]

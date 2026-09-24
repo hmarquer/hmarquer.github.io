@@ -2,10 +2,11 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-20T15:23:19.062664396+00:00'
-last_build_date_pdf: '2026-09-20T16:35:12.329510458+00:00'
+last_edit_date: '2026-09-24T11:37:41.453898218+00:00'
+last_build_date_pdf: '2026-09-24T11:37:49.771880873+00:00'
 inclusions:
   - algebra-conjuntos
+  - con-autosemejante
   - con-cantor
   - con-caratheodory-medible
   - con-nulo
@@ -16,6 +17,8 @@ inclusions:
   - distancia-conjuntos
   - distancia-pnt-con
   - ejems-dim-hausdorff
+  - ejer-fn-continuas-no-gamma-holder
+  - ejer-gamma-holder-imp-continuidad
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - ejer-medida-hausdorff-dim-0-contar
   - esp-medible
@@ -47,6 +50,7 @@ inclusions:
   - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
   - prop-subaditividad-medida-exterior
+  - semejanza
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
@@ -64,6 +68,11 @@ tags:
 ![[m.1-fundamentos-de-analisis-matematico.pdf]]
 
 ## Notas incluidas
+
+### hoja1
+- [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
+- [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
+- [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 
 ### tema0
 - [algebra-conjuntos](./algebra-conjuntos.md)
@@ -95,6 +104,7 @@ tags:
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ### tema1
+- [con-autosemejante](./con-autosemejante.md)
 - [con-cantor](./con-cantor.md)
 - [cor-dim-hausdorff](./cor-dim-hausdorff.md)
 - [cor-dimension-hausdorff-fn-gamma-holder](./cor-dimension-hausdorff-fn-gamma-holder.md)
@@ -102,8 +112,9 @@ tags:
 - [distancia-conjuntos](./distancia-conjuntos.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
 - [ejems-dim-hausdorff](./ejems-dim-hausdorff.md)
+- [ejer-fn-continuas-no-gamma-holder](./ejer-fn-continuas-no-gamma-holder.md)
+- [ejer-gamma-holder-imp-continuidad](./ejer-gamma-holder-imp-continuidad.md)
 - [ejer-medida-hausdorff-comparacion-medida-lebesgue](./ejer-medida-hausdorff-comparacion-medida-lebesgue.md)
-- [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
 - [fn-gamma-holder](./fn-gamma-holder.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
 - [lem-dim-hausdorff-con-cantor-cota-superior](./lem-dim-hausdorff-con-cantor-cota-superior.md)
@@ -118,12 +129,22 @@ tags:
 - [prop-medida-exterior-hausdorff](./prop-medida-exterior-hausdorff.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 - [prop-medida-exterior-hausdorff-precision](./prop-medida-exterior-hausdorff-precision.md)
+- [semejanza](./semejanza.md)
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
 #EJERCICIO 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
-#REVISAR : Aquí ha escrito un factor de 2 extra,
+#REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
-#COMPLETAR : incluir figura del polvo de Cantor
+#REVISAR : ¿qué pasaría si permitiésemos razones distintas?
+#COMPLETAR : añadir ejemplos de la curva de Koch y del polvo de Cantor.
+#REVISAR : parece que todavía no hemos usado que la razón sea común entre las semejanzas
+#EJERCICIO : probar detenidamente
+#EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
+#DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
+#ORDENAR : poner label y hacer nota
+#DEMOSTRACIÓN 
+#REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
+#COMPLETAR : se acabó, no entiendo nada

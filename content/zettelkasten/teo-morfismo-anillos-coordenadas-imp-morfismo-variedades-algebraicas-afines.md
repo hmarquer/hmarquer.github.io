@@ -18,7 +18,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
-  - m.1-curvas-algebraicas/tema1-ia
+  - m.1-curvas-algebraicas/tema1-ZK-5
 ---
 
 [[teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines.pdf]]

@@ -16,8 +16,10 @@ backlinks:
   - dim-con-algebraico-afin
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema6
+  - m.1-curvas-algebraicas/tema1-ZK-6
 ---
 
 [[dim-krull.pdf]]

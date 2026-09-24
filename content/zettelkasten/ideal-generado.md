@@ -10,6 +10,7 @@ references:
   - anillo
   - ideal
 backlinks:
+  - con-algebraico-afin-definido-subcuerpo
   - ideal-finitamente-generado
   - ideal-principal
   - lem-con-ceros-ideal-generado
@@ -23,10 +24,8 @@ backlinks:
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 projects:
   - 4.1-algebra-conmutativa
-  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema0
 ---
 
 [[ideal-generado.pdf]]

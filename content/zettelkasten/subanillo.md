@@ -9,6 +9,7 @@ labels:
 references:
   - anillo
 backlinks:
+  - ejer-anillo-noetheriano-subanillo-no-noetheriano
   - subanillo-generado
 projects:
   - 4.1-algebra-conmutativa

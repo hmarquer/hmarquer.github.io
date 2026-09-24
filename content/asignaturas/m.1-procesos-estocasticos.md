@@ -2,13 +2,20 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-20T15:23:19.063102494+00:00'
-last_build_date_pdf: '2026-09-20T16:35:10.725861883+00:00'
+last_edit_date: '2026-09-24T09:07:25.591861873+00:00'
+last_build_date_pdf: '2026-09-24T13:25:27.450315928+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
+  - filtracion
+  - lem-carac-tiempo-parada
+  - martingala
+  - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
+  - submartingala
+  - supermartingala
   - teo-radon-nikodym
+  - tiempo-parada
 tags:
   - m.1-procesos-estocasticos
 ---
@@ -24,6 +31,15 @@ tags:
 - [prop-esperanza-condicionada-sigma-algebra-indep](./prop-esperanza-condicionada-sigma-algebra-indep.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
+### tema1
+- [filtracion](./filtracion.md)
+- [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
+- [martingala](./martingala.md)
+- [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
+- [submartingala](./submartingala.md)
+- [supermartingala](./supermartingala.md)
+- [tiempo-parada](./tiempo-parada.md)
+
 ## Etiquetas
 #REVISAR 
 #COMPLETAR y REVISAR
@@ -32,3 +48,8 @@ tags:
 #REVISAR y COMPLETAR con la foto, no he entendido nada.
 #EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
 #EJERCICIO :
+#REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
+#REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
+#EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
+#COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
+#ORDENAR : esta es la estrategia de martingala

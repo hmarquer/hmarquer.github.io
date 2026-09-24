@@ -11,8 +11,10 @@ references:
   - extension-anillos-entera
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema6
+  - m.1-curvas-algebraicas/tema1-ZK-6
 ---
 
 [[cor-extension-entera-dim-krull-igualdad.pdf]]

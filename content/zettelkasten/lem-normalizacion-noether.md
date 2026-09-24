@@ -20,7 +20,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema1-ia
+  - m.1-curvas-algebraicas/tema1-ZK-3
 ---
 
 [[lem-normalizacion-noether.pdf]]

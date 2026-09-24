@@ -13,11 +13,8 @@ backlinks:
   - prop-carac-anillo-noetheriano
 projects:
   - 4.1-algebra-conmutativa
-  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema1
-  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[ejer-union-ideales-encajados.pdf]]

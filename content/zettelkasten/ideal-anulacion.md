@@ -11,6 +11,7 @@ references:
   - esp-afin
 backlinks:
   - anillo-coordenadas-con-algebraico-afin
+  - con-algebraico-afin-definido-subcuerpo
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
@@ -23,8 +24,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1
-  - m.1-curvas-algebraicas/tema1-ia
+  - m.1-curvas-algebraicas/tema1-ZK-2
 ---
 
 [[ideal-anulacion.pdf]]

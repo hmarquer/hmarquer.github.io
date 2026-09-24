@@ -8,6 +8,8 @@ labels:
   - prop:cuerpo-fracciones-racionales
 references:
   - cuerpo
+backlinks:
+  - ejer-anillo-noetheriano-subanillo-no-noetheriano
 projects:
   - 3.1-teoria-de-galois
 tags:

@@ -20,11 +20,8 @@ backlinks:
   - prop-topologia-zariski
 projects:
   - 4.1-algebra-conmutativa
-  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1
-  - m.1-curvas-algebraicas/tema1-ia
 ---
 
 [[prop-con-algebraico-afin-ideal.pdf]]

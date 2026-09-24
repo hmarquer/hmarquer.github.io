@@ -10,6 +10,8 @@ references:
   - esp-metrico
 backlinks:
   - cor-dimension-hausdorff-fn-gamma-holder
+  - ejer-fn-continuas-no-gamma-holder
+  - ejer-gamma-holder-imp-continuidad
   - lem-medida-exterior-hausdorff-fn-gamma-holder
 projects:
   - m.1-fundamentos-de-analisis-matematico

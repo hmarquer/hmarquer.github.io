@@ -21,7 +21,9 @@ backlinks:
   - teo-parada-opcional
 projects:
   - 3.2-probabilidad-ii
+  - m.1-procesos-estocasticos
 tags:
+  - m.1-procesos-estocasticos/tema1
   - probabilidad-ii/tema4
 ---
 
