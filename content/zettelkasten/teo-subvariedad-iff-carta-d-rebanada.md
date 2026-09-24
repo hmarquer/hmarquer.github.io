@@ -2,7 +2,7 @@
 title: 'Teo subvariedad iff carta d rebanada'
 filename: 'teo-subvariedad-iff-carta-d-rebanada'
 created: '2025-06-16 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.767788960+00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.520339028+00:00'
 labels:
   - teo:subvariedad-iff-carta-d-rebanada

@@ -2,7 +2,7 @@
 title: 'Prop-fn-continua-cociente-iff-composicion-continua'
 filename: 'prop-fn-continua-cociente-iff-composicion-continua'
 created: '2025-03-01 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.696464221+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.786751765+00:00'
 labels:
   - prop:fn-continua-cociente-iff-composicion-continua

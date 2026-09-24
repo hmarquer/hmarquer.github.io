@@ -2,7 +2,7 @@
 title: 'Estructura producto'
 filename: 'estructura-producto'
 created: '2026-03-26 18:51:39.184200'
-last_edit_date: '2026-09-03T09:44:22.590169612+00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.315323056+00:00'
 labels:
   - defn:estructura-producto

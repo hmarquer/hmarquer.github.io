@@ -2,7 +2,7 @@
 title: 'Las aplicaciones lineales continuas forman un espacio vectorial'
 filename: 'prop-apl-lineales-continuas-esp-vectorial'
 created: '2025-10-29 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.681771660+00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.977371452+00:00'
 labels:
   - prop:apl-lineales-continuas-esp-vectorial

@@ -2,7 +2,7 @@
 title: 'Lem convergencia lp imp medida'
 filename: 'lem-convergencia-lp-imp-medida'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.625753722+00:00'
+last_edit_date: '2026-09-06T15:26:21.226660199+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.252965926+00:00'
 labels:
   - lem:convergencia-lp-imp-medida

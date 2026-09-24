@@ -2,7 +2,7 @@
 title: 'Teorema de Cauchy-Goursat para rectángulos con singularidades'
 filename: 'teo-cauchy-goursat-rectangulo-singularidades'
 created: '2025-05-02 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.735922953+00:00'
+last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
 last_build_date_pdf: '2026-09-15T23:12:44.914378791+00:00'
 labels:
   - teo:cauchy-goursat-rectangulo-singularidades

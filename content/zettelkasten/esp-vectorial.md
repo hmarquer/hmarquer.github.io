@@ -2,7 +2,7 @@
 title: 'Espacio vectorial'
 filename: 'esp-vectorial'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.589788235+00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.478740669+00:00'
 last_build_date_html: '2026-05-07T11:26:43.884655450+00:00'
 labels:

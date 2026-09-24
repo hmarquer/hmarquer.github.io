@@ -2,7 +2,7 @@
 title: 'Prop orbita accion grupo relacion equivalencia'
 filename: 'prop-orbita-accion-grupo-relacion-equivalencia'
 created: '2025-06-23 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.704695152+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.252705112+00:00'
 labels:
   - prop:orbita-accion-grupo-relacion-equivalencia

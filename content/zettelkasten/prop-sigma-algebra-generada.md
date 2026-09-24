@@ -2,7 +2,7 @@
 title: 'Expresión de la $\sigma$-álgebra generada'
 filename: 'prop-sigma-algebra-generada'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.057753702+00:00'
+last_edit_date: '2026-09-08T11:29:40.233616827+00:00'
 last_build_date_pdf: '2026-09-20T16:33:11.600343211+00:00'
 labels:
   - prop:sigma-algebra-generada

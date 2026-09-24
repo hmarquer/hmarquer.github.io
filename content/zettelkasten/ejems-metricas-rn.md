@@ -2,7 +2,7 @@
 title: 'Ejemplos de métricas en $\R^n$'
 filename: 'ejems-metricas-rn'
 created: '2026-07-17T23:40:34.317834266+00:00'
-last_edit_date: '2026-09-03T09:44:22.576280533+00:00'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.178170656+00:00'
 labels:
   - ejems:metricas-rn

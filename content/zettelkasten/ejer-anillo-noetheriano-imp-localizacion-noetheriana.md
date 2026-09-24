@@ -2,7 +2,7 @@
 title: 'La localización de un anillo noetheriano es noetheriana'
 filename: 'ejer-anillo-noetheriano-imp-localizacion-noetheriana'
 created: '2026-09-17T10:24:20.181607668+00:00'
-last_edit_date: '2026-09-20T15:23:19.054742830+00:00'
+last_edit_date: '2026-09-17T16:32:52.770181377+00:00'
 last_build_date_pdf: '2026-09-20T16:34:29.169496939+00:00'
 labels:
   - ejer:anillo-noetheriano-imp-localizacion-noetheriana

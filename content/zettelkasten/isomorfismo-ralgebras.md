@@ -2,7 +2,7 @@
 title: 'Isomorfismo de $R$-álgebras'
 filename: 'isomorfismo-ralgebras'
 created: '2026-01-05 11:30:12.481649'
-last_edit_date: '2026-09-20T15:23:19.055389352+00:00'
+last_edit_date: '2026-09-14T16:29:13.699317742+00:00'
 last_build_date_pdf: '2026-09-20T16:34:11.103970743+00:00'
 labels:
   - defn:isomorfismo-ralgebras

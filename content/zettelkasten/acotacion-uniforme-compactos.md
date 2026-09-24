@@ -2,7 +2,7 @@
 title: 'Acotación uniforme sobre compactos'
 filename: 'acotacion-uniforme-compactos'
 created: '2026-04-28T16:56:02.624256320+00:00'
-last_edit_date: '2026-09-03T09:44:22.530189987+00:00'
+last_edit_date: '2026-09-06T15:26:21.201656644+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.710771527+00:00'
 labels:
   - defn:acotacion-uniforme-compactos

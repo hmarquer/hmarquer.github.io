@@ -2,7 +2,7 @@
 title: 'Medida exterior de Hausdorff a través de una función $\gamma$-Hölder'
 filename: 'lem-medida-exterior-hausdorff-fn-gamma-holder'
 created: '2026-09-16T17:20:23.583699802+00:00'
-last_edit_date: '2026-09-20T15:23:19.055932834+00:00'
+last_edit_date: '2026-09-16T17:20:46.826144385+00:00'
 last_build_date_pdf: '2026-09-20T16:33:59.187060806+00:00'
 labels:
   - lem:medida-exterior-hausdorff-fn-gamma-holder

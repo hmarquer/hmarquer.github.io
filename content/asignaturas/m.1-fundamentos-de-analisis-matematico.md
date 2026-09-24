@@ -133,7 +133,6 @@ tags:
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
-#EJERCICIO 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
