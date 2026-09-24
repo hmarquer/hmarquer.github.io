@@ -2,10 +2,11 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-21T14:11:12.439340207+00:00'
-last_build_date_pdf: '2026-09-21T14:11:18.733760349+00:00'
+last_edit_date: '2026-09-23T13:25:17.494200474+00:00'
+last_build_date_pdf: '2026-09-23T14:06:07.531799888+00:00'
 inclusions:
   - algebra-conjuntos
+  - con-autosemejante
   - con-cantor
   - con-caratheodory-medible
   - con-nulo
@@ -103,6 +104,7 @@ tags:
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
 ### tema1
+- [con-autosemejante](./con-autosemejante.md)
 - [con-cantor](./con-cantor.md)
 - [cor-dim-hausdorff](./cor-dim-hausdorff.md)
 - [cor-dimension-hausdorff-fn-gamma-holder](./cor-dimension-hausdorff-fn-gamma-holder.md)
@@ -132,9 +134,9 @@ tags:
 
 ## Etiquetas
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
-#REVISAR : Aquí ha escrito un factor de 2 extra,
-#DEMOSTRACIÓN : escribir bien
 #EJERCICIO 
+#REVISAR : Aquí el profe ha escrito un factor de 2 extra,
+#DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
 #REVISAR : ¿qué pasaría si permitiésemos razones distintas?
 #COMPLETAR : añadir ejemplos de la curva de Koch y del polvo de Cantor.
@@ -142,4 +144,7 @@ tags:
 #EJERCICIO : probar detenidamente
 #EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
 #DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
+#ORDENAR : poner label y hacer nota
 #DEMOSTRACIÓN 
+#REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
+#COMPLETAR : se acabó, no entiendo nada

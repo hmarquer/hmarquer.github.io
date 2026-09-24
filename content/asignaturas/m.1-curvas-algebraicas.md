@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-09-22T15:54:32.818272501+00:00'
-last_build_date_pdf: '2026-09-22T16:22:15.487023764+00:00'
+last_edit_date: '2026-09-23T14:53:00.592962385+00:00'
+last_build_date_pdf: '2026-09-23T14:53:06.773486527+00:00'
 inclusions:
   - anillo-coordenadas-con-algebraico-afin
   - anillo-noetheriano
@@ -113,3 +113,4 @@ tags:
 ## Etiquetas
 #REVISAR 
 #ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
+#EJERCICIO 

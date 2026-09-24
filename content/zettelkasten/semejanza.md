@@ -8,6 +8,8 @@ labels:
   - defn:semejanza
 references:
   - esp-metrico
+backlinks:
+  - con-autosemejante
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
