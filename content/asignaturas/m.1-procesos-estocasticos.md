@@ -57,3 +57,8 @@ tags:
 #REVISAR y COMPLETAR con la foto, no he entendido nada.
 #EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
 #EJERCICIO :
+#REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
+#REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
+#EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
+#COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
+#ORDENAR : esta es la estrategia de martingala
