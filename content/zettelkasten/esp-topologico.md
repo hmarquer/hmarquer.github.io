@@ -30,6 +30,7 @@ backlinks:
   - con-secuencialmente-cerrado
   - con-secuencialmente-compacto
   - con-segunda-categoria
+  - con-totalmente-disconexo
   - conexion
   - conexion-arcos
   - conexion-simple
