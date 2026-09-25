@@ -2,7 +2,7 @@
 title: 'Lem carac tiempo parada'
 filename: 'lem-carac-tiempo-parada'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-09-24T09:07:25.587624448+00:00'
+last_edit_date: '2026-09-22T16:20:36.285299206+00:00'
 last_build_date_pdf: '2026-09-24T13:25:09.504347242+00:00'
 labels:
   - lem:carac-tiempo-parada

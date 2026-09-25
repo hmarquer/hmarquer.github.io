@@ -2,7 +2,7 @@
 title: 'La medida de Hausdorff con dimensión $0$ es la medida de contar'
 filename: 'ejer-medida-hausdorff-dim-0-contar'
 created: '2026-09-16T17:37:26.474587126+00:00'
-last_edit_date: '2026-09-24T09:07:25.587438129+00:00'
+last_edit_date: '2026-09-21T13:50:03.604399431+00:00'
 last_build_date_pdf: '2026-09-24T13:25:09.567086582+00:00'
 labels:
   - ejer:medida-hausdorff-dim-0-contar

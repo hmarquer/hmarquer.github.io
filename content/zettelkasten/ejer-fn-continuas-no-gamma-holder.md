@@ -2,7 +2,7 @@
 title: 'Ejemplo de función continua no $\gamma$-Hölder'
 filename: 'ejer-fn-continuas-no-gamma-holder'
 created: '2026-09-21T10:57:06.827662640+00:00'
-last_edit_date: '2026-09-24T09:07:25.587273453+00:00'
+last_edit_date: '2026-09-21T10:57:26.911663723+00:00'
 last_build_date_pdf: '2026-09-24T13:25:15.614923222+00:00'
 labels:
   - ejer:fn-continuas-no-gamma-holder
