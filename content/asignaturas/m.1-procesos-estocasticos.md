@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-24T09:07:25.591861873+00:00'
-last_build_date_pdf: '2026-09-24T13:25:27.450315928+00:00'
+last_edit_date: '2026-09-25T11:30:52.420837322+00:00'
+last_build_date_pdf: '2026-09-25T17:52:16.140908758+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
@@ -42,11 +42,6 @@ tags:
 
 ## Etiquetas
 #REVISAR 
-#REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
-#REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
-#EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
-#COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
-#ORDENAR : esta es la estrategia de martingala
 #COMPLETAR y REVISAR
 #EJERCICIO : comprobarlo.
 #COMPLETAR con la foto, no he entendido nada.
@@ -58,3 +53,7 @@ tags:
 #EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
 #COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
 #ORDENAR : esta es la estrategia de martingala
+#ORDENAR : referenciar teorema anterior
+#REVISAR : No lo ha escrito igual, lo ha hecho así:
+#COMPLETAR : falta ver que se cumplen las condiciones
+#REVISAR : no sé si es un "ya que" o qué coño es

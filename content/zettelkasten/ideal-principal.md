@@ -2,7 +2,7 @@
 title: 'Ideal principal'
 filename: 'ideal-principal'
 created: '2025-09-12 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_edit_date: '2026-09-03T09:44:22.611601862+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.866251561+00:00'
 last_build_date_html: '2026-05-25T10:05:41.541118310+00:00'
 labels:

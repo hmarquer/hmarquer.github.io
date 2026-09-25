@@ -2,7 +2,7 @@
 title: 'Var aleatoria absolutamente continua'
 filename: 'var-aleatoria-absolutamente-continua'
 created: '2025-06-10 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_edit_date: '2026-09-03T09:44:22.773790353+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.748083036+00:00'
 labels:
   - defn:var-aleatoria-absolutamente-continua

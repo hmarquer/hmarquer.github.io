@@ -2,7 +2,7 @@
 title: 'Propiedad de la convolución para exponentes conjugados'
 filename: 'prop-convolucion-exp-conjugados'
 created: '2025-11-04 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_edit_date: '2026-09-03T09:44:22.689401576+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.543822486+00:00'
 labels:
   - prop:convolucion-exp-conjugados

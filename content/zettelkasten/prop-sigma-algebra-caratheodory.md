@@ -2,7 +2,7 @@
 title: 'Prop sigma algebra caratheodory'
 filename: 'prop-sigma-algebra-caratheodory'
 created: '2026-09-09T22:41:15.615864159+00:00'
-last_edit_date: '2026-09-09T22:50:39.421702121+00:00'
+last_edit_date: '2026-09-20T15:23:19.057677992+00:00'
 last_build_date_pdf: '2026-09-20T16:33:11.696070818+00:00'
 labels:
   - prop:sigma-algebra-caratheodory

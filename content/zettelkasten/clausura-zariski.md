@@ -2,7 +2,7 @@
 title: 'Clausura de Zariski'
 filename: 'clausura-zariski'
 created: '2025-12-16 18:48:31.161593'
-last_edit_date: '2026-09-17T10:54:41.398822191+00:00'
+last_edit_date: '2026-09-20T15:23:19.053782519+00:00'
 last_build_date_pdf: '2026-09-20T16:34:53.473928525+00:00'
 labels:
   - defn:clausura-zariski

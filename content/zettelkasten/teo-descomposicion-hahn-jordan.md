@@ -2,7 +2,7 @@
 title: 'Teorema de descomposición de Hahn y Jordan'
 filename: 'teo-descomposicion-hahn-jordan'
 created: '2026-09-15T17:50:31.219108956+00:00'
-last_edit_date: '2026-09-15T17:59:07.934019392+00:00'
+last_edit_date: '2026-09-20T15:23:19.058583652+00:00'
 last_build_date_pdf: '2026-09-20T16:32:53.854001690+00:00'
 labels:
   - teo:descomposcion-hahn-jordan

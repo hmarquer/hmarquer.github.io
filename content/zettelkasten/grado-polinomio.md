@@ -2,7 +2,7 @@
 title: 'Grado polinomio'
 filename: 'grado-polinomio'
 created: '2025-09-19 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.222659630+00:00'
+last_edit_date: '2026-09-03T09:44:22.607147135+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.225454716+00:00'
 labels:
   - defn:grado-polinomio

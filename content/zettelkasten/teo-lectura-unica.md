@@ -2,7 +2,7 @@
 title: 'Teorema de lectura única'
 filename: 'teo-lectura-unica'
 created: '2026-02-10 19:22:28.143819'
-last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_edit_date: '2026-09-03T09:44:22.758054214+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.351224126+00:00'
 labels:
   - teo:lectura-unica

@@ -2,7 +2,7 @@
 title: 'Teorema de Hahn-Banach II'
 filename: 'teo-hahn-banach-ii'
 created: '2025-12-19 18:22:12.836104'
-last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_edit_date: '2026-09-03T09:44:22.755295148+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.795801746+00:00'
 labels:
   - teo:hahn-banach-ii

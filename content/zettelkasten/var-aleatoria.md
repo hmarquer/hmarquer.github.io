@@ -2,7 +2,7 @@
 title: 'Variable aleatoria'
 filename: 'var-aleatoria'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
+last_edit_date: '2026-09-03T09:44:22.774542346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.750833210+00:00'
 last_build_date_html: '2026-05-07T21:34:34.317057453+00:00'
 labels:

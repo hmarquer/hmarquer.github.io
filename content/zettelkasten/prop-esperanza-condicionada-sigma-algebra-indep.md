@@ -2,7 +2,7 @@
 title: 'Esperanza condicionada a una $\sigma$-álgebra independiente'
 filename: 'prop-esperanza-condicionada-sigma-algebra-indep'
 created: '2025-06-14 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_edit_date: '2026-09-03T09:44:22.693541263+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.576196456+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebra-indep
