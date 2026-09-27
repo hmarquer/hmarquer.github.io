@@ -2,7 +2,7 @@
 title: 'Productos finitos de Blaschke'
 name: '4-productos-finitos-de-blaschke'
 created: '2025-12-11 19:31:56.810045'
-last_edit_date: '2026-09-21T10:33:20.189148852+00:00'
+last_edit_date: '2026-09-20T21:06:59.288806624+00:00'
 last_build_date_pdf: '2026-09-21T14:53:15.304146164+00:00'
 inclusions:
   - algebra-disco-unidad
@@ -167,22 +167,11 @@ tags:
 - [prop-envolvente-convexa-combinacion-convexa](./prop-envolvente-convexa-combinacion-convexa.md)
 
 ## Etiquetas
-#DEMOSTRACIÓN 
-#COMPLETAR : Añadir teorema de Roche
-#COMPLETAR para ver que $K \in H^\infty$ hay que separar el dominio $\mathbb{D}$ en dos partes, una cerca de $0$ y otra lejos de $0$
-#ORDENAR : referenciar
-#COMPLETAR usar desigualdad triangular inversa
-#REVISAR : esto está mal, tomar sucesión maximizante
-#ORDENAR enviar al anexo
 #REVISAR 
-#TODO hace falta estimar hasta el borde para que el resultado quede demostrado, luego hay que tomar una cota más pequeña y tomar el límite
-#REVISAR noe entiendo lo que el libro quiere decir
-#ORDENAR : referenciar mirar los apuntes de Dragan: https://verso.mat.uam.es/~dragan.vukotic/grado/mat-doc/FAM-notes-metr-approx.pdf
-#ORDENAR referenciar
+#DEMOSTRACIÓN 
+#COMPLETAR : añadir definición de residuo de $f$ en $z_0$
 #COMPLETAR 
-#REVISAR demostración a partir de aquí, consultar fuentes.
-#REVISAR esto está mal mirar la foto del 03/03/2026
-#ORDENAR : a lo mejor esto no hace falta explicarlo
+#ORDENAR : referenciar
 #REVISAR : comprobar
 #REVISAR : explicar mejor porque no lo entiendo.
 #REVISAR : yo creo que el libro está mal.
@@ -202,6 +191,17 @@ tags:
 #REVISAR : este teorema es de cosecha propia, hecho por la chati
 #REVISAR esta DEMOSTRACIÓN
 #REVISAR : lo ha escrito la chati
+#COMPLETAR para ver que $K \in H^\infty$ hay que separar el dominio $\mathbb{D}$ en dos partes, una cerca de $0$ y otra lejos de $0$
+#COMPLETAR usar desigualdad triangular inversa
+#REVISAR : esto está mal, tomar sucesión maximizante
+#ORDENAR enviar al anexo
+#TODO hace falta estimar hasta el borde para que el resultado quede demostrado, luego hay que tomar una cota más pequeña y tomar el límite
+#REVISAR noe entiendo lo que el libro quiere decir
+#ORDENAR : referenciar mirar los apuntes de Dragan: https://verso.mat.uam.es/~dragan.vukotic/grado/mat-doc/FAM-notes-metr-approx.pdf
+#ORDENAR referenciar
+#REVISAR demostración a partir de aquí, consultar fuentes.
+#REVISAR esto está mal mirar la foto del 03/03/2026
+#ORDENAR : a lo mejor esto no hace falta explicarlo
 #REVISAR : esta parte es prescindible
 #REVISAR realmente no entiendo esta condición
 #COMPLETAR : esta parte no me queda nada clara, ¿Cómo demostramos que Aut(D) es un subgrupo de PGL(2,C)? ¿Y que es isomorfo a PSU(1,1)?
@@ -225,4 +225,4 @@ tags:
 #ORDENAR : referenciar bien
 #EJERCICIO 
 #COMPLETAR mirar Geometry: Euclid and Beyond.
-#COMPLETAR : añadir definición de residuo de $f$ en $z_0$
+#COMPLETAR : Añadir teorema de Roche

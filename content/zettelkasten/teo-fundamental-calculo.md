@@ -11,6 +11,7 @@ references:
   - fn-derivable
   - fn-integrable
 backlinks:
+  - lem-norma-lp-integral-fn-distribucion
   - lem-var-aleatoria-fn-distribucion-c1
 ---
 

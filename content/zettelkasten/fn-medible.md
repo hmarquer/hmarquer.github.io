@@ -17,6 +17,7 @@ backlinks:
   - desigualdad-chebyshev
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - esp-lp
+  - fn-distribucion
   - fn-integrable
   - integral
   - lem-aprox-fn-simple
@@ -24,6 +25,7 @@ backlinks:
   - lem-convolucion
   - lem-esperanza-condicionada-mejor-aprox
   - lem-fatou
+  - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
   - norma-lp
   - proceso-estocastico-adaptado

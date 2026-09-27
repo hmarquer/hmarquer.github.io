@@ -21,6 +21,7 @@ backlinks:
   - esp-lp-sucesiones
   - lem-aprox-indicatriz-continua-norma-lp
   - lem-esp-lp-normado
+  - lem-norma-lp-integral-fn-distribucion
   - prop-clase-ck-velocidad-convergencia-uniforme-fourier
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convolucion-exp-conjugados

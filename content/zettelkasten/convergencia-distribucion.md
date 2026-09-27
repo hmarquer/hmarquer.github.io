@@ -2,12 +2,12 @@
 title: 'Convergencia en distribución'
 filename: 'convergencia-distribucion'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.550964203+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.902480152+00:00'
+last_edit_date: '2026-09-27T07:03:03.466120025+00:00'
+last_build_date_pdf: '2026-09-27T15:15:53.509214605+00:00'
 labels:
   - defn:convergencia-distribucion
 references:
-  - fn-distribucion
+  - fn-distribucion-var-aleatoria
   - var-aleatoria
 backlinks:
   - convergencia-probabilidad-imp-distribucion
@@ -23,6 +23,6 @@ tags:
 ![[convergencia-distribucion.pdf]]
 
 ## Referencias
-- [fn-distribucion](./fn-distribucion.md)
+- [fn-distribucion-var-aleatoria](./fn-distribucion-var-aleatoria.md)
 - [var-aleatoria](./var-aleatoria.md)
 

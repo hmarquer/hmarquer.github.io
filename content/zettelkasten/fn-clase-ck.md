@@ -25,6 +25,7 @@ backlinks:
   - lem-derivadas-parciales-wirtinger
   - lem-dubois-reymond
   - lem-laplaciano-wirtinger
+  - lem-norma-lp-integral-fn-distribucion
   - lem-serie-fourier-derivada
   - lem-var-aleatoria-fn-distribucion-c1
   - prop-clase-ck-velocidad-convergencia-uniforme-fourier

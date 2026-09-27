@@ -2,13 +2,13 @@
 title: 'Prop fn exists var aleatoria'
 filename: 'prop-fn-exists-var-aleatoria'
 created: '2025-03-25 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.697500796+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.068077790+00:00'
+last_edit_date: '2026-09-27T07:04:47.684947057+00:00'
+last_build_date_pdf: '2026-09-27T15:15:41.728024583+00:00'
 labels:
   - prop:fn-exists-var-aleatoria
 references:
   - esp-probabilidad
-  - prop-fn-distribucion
+  - prop-fn-distribucion-var-aleatoria
   - var-aleatoria
 projects:
   - 3.2-probabilidad-ii
@@ -21,7 +21,7 @@ tags:
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)
-- [prop-fn-distribucion](./prop-fn-distribucion.md)
+- [prop-fn-distribucion-var-aleatoria](./prop-fn-distribucion-var-aleatoria.md)
 - [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas

@@ -20,7 +20,7 @@ backlinks:
   - ley-debil-grandes-numeros
   - obs-propiedades-dilatacion-isotropica
   - prop-convergencia-puntual-dominada-imp-lp
-  - prop-fn-distribucion
+  - prop-fn-distribucion-var-aleatoria
   - prop-fn-simples-denso-lp
   - teo-derivacion-bajo-el-signo-integral
   - teo-inversion-transformada-fourier

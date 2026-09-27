@@ -9,6 +9,7 @@ labels:
 references:
   - esp-medida
 backlinks:
+  - lem-norma-lp-integral-fn-distribucion
   - teo-fubini
   - teo-radon-nikodym
 projects:
