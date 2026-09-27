@@ -2,7 +2,7 @@
 title: 'Derivada logarítmica de un producto finito de Blaschke'
 filename: 'lem-derivada-logaritmica-prod-finito-blaschke'
 created: '2025-12-10 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
+last_edit_date: '2026-09-03T09:44:22.628087007+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.475186214+00:00'
 labels:
   - lem:derivada-logaritmica-prod-finito-blaschke

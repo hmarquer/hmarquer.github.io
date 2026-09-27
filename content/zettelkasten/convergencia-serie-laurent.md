@@ -2,7 +2,7 @@
 title: 'Convergencia de una serie de Laurent'
 filename: 'convergencia-serie-laurent'
 created: '2025-05-08 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_edit_date: '2026-09-03T09:44:22.552552890+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.313467115+00:00'
 labels:
   - defn:convergencia-serie-laurent
