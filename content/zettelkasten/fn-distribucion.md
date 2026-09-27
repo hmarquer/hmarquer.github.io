@@ -1,29 +1,26 @@
 ---
-title: 'Función de distribución'
+title: 'Fn distribucion'
 filename: 'fn-distribucion'
-created: '2025-02-05 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.221659488+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.150902027+00:00'
+created: '2026-09-27T07:06:41.479788751+00:00'
+last_edit_date: '2026-09-27T18:01:48.030000890+00:00'
+last_build_date_pdf: '2026-09-27T19:17:02.021510345+00:00'
 labels:
   - defn:fn-distribucion
 references:
-  - var-aleatoria
+  - esp-medida
+  - fn-medible
 backlinks:
-  - convergencia-distribucion
-  - igualdad-distribucion
-  - lem-var-aleatoria-fn-distribucion-c1
-  - prop-fn-distribucion
-  - teo-central-limite
-  - var-aleatoria-continua
+  - lem-norma-lp-integral-fn-distribucion
 projects:
-  - 3.2-probabilidad-ii
+  - m-trabajo-de-fin-de-master
 tags:
-  - probabilidad-ii/tema1
+  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[fn-distribucion.pdf]]
 ![[fn-distribucion.pdf]]
 
 ## Referencias
-- [var-aleatoria](./var-aleatoria.md)
+- [esp-medida](./esp-medida.md)
+- [fn-medible](./fn-medible.md)
 

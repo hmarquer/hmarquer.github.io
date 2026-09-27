@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-24T15:05:20.583469568+00:00'
-last_build_date_pdf: '2026-09-24T16:25:00.396284804+00:00'
+last_edit_date: '2026-09-27T18:59:30.525098631+00:00'
+last_build_date_pdf: '2026-09-27T19:17:34.286603117+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante
@@ -15,12 +15,14 @@ inclusions:
   - cor-dimension-hausdorff-fn-gamma-holder
   - diametro-con
   - distancia-conjuntos
+  - distancia-hausdorff
   - distancia-pnt-con
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
   - ejer-gamma-holder-imp-continuidad
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - ejer-medida-hausdorff-dim-0-contar
+  - ejer-medida-hausdorff-sigma-finita
   - esp-medible
   - esp-medida
   - fn-gamma-holder
@@ -58,6 +60,7 @@ inclusions:
   - teo-caratheodory-ii
   - teo-convergencia-dominada
   - teo-convergencia-monotona
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
 tags:
@@ -71,6 +74,7 @@ tags:
 
 ### hoja1
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
+- [ejer-medida-hausdorff-sigma-finita](./ejer-medida-hausdorff-sigma-finita.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 
@@ -110,6 +114,7 @@ tags:
 - [cor-dimension-hausdorff-fn-gamma-holder](./cor-dimension-hausdorff-fn-gamma-holder.md)
 - [diametro-con](./diametro-con.md)
 - [distancia-conjuntos](./distancia-conjuntos.md)
+- [distancia-hausdorff](./distancia-hausdorff.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
 - [ejems-dim-hausdorff](./ejems-dim-hausdorff.md)
 - [ejer-fn-continuas-no-gamma-holder](./ejer-fn-continuas-no-gamma-holder.md)
@@ -130,6 +135,7 @@ tags:
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 - [prop-medida-exterior-hausdorff-precision](./prop-medida-exterior-hausdorff-precision.md)
 - [semejanza](./semejanza.md)
+- [teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados](./teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados.md)
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ## Etiquetas
@@ -144,7 +150,6 @@ tags:
 #EJERCICIO : probar detenidamente
 #EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
 #DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
-#ORDENAR : poner label y hacer nota
 #DEMOSTRACIÓN 
 #REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
-#COMPLETAR : se acabó, no entiendo nada
+#COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp

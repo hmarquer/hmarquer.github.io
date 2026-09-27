@@ -13,6 +13,7 @@ backlinks:
   - esp-topologico-secuencial
   - obs-cerrado-imp-compacto-iff-precompacto
   - prop-con-cerrado-imp-secuencialmente-cerrado
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-medibilidad-borel-medida-exterior-metrica
 ---
 

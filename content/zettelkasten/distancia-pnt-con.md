@@ -11,6 +11,7 @@ references:
   - relacion-orden
 backlinks:
   - distancia-conjuntos
+  - distancia-hausdorff
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

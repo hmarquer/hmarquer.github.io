@@ -2,15 +2,15 @@
 title: 'Teo central limite'
 filename: 'teo-central-limite'
 created: '2025-06-18 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.719942426+00:00'
+last_edit_date: '2026-09-27T18:01:48.031000890+00:00'
+last_build_date_pdf: '2026-09-27T19:16:53.460936700+00:00'
 labels:
   - teo:central-limite
 references:
   - convergencia-distribucion
   - esp-lp
   - esperanza
-  - fn-distribucion
+  - fn-distribucion-var-aleatoria
   - igualdad-distribucion
   - mindependencia-var-aleatorias
   - varianza
@@ -27,7 +27,7 @@ tags:
 - [convergencia-distribucion](./convergencia-distribucion.md)
 - [esp-lp](./esp-lp.md)
 - [esperanza](./esperanza.md)
-- [fn-distribucion](./fn-distribucion.md)
+- [fn-distribucion-var-aleatoria](./fn-distribucion-var-aleatoria.md)
 - [igualdad-distribucion](./igualdad-distribucion.md)
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [varianza](./varianza.md)

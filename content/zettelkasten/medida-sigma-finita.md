@@ -9,6 +9,8 @@ labels:
 references:
   - esp-medida
 backlinks:
+  - ejer-medida-hausdorff-sigma-finita
+  - lem-norma-lp-integral-fn-distribucion
   - teo-fubini
   - teo-radon-nikodym
 projects:

@@ -2,14 +2,14 @@
 title: 'Lem var aleatoria fn distribucion c1'
 filename: 'lem-var-aleatoria-fn-distribucion-c1'
 created: '2025-06-10 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.616193556+00:00'
+last_edit_date: '2026-09-27T18:01:48.030000890+00:00'
+last_build_date_pdf: '2026-09-27T19:16:57.814968705+00:00'
 labels:
   - lem:var-aleatoria-fn-distribucion-c1
 references:
   - fn-clase-ck
   - fn-densidad
-  - fn-distribucion
+  - fn-distribucion-var-aleatoria
   - teo-fundamental-calculo
   - teo-radon-nikodym
   - var-aleatoria
@@ -26,7 +26,7 @@ tags:
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-densidad](./fn-densidad.md)
-- [fn-distribucion](./fn-distribucion.md)
+- [fn-distribucion-var-aleatoria](./fn-distribucion-var-aleatoria.md)
 - [teo-fundamental-calculo](./teo-fundamental-calculo.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 - [var-aleatoria](./var-aleatoria.md)

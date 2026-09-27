@@ -14,6 +14,8 @@ references:
   - prop-sigma-algebra-caratheodory
   - sigma-algebra-borel
   - sigma-algebra-generada
+backlinks:
+  - ejer-medida-hausdorff-sigma-finita
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

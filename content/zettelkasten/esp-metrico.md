@@ -22,6 +22,7 @@ backlinks:
   - cor-baire
   - diametro-con
   - distancia-conjuntos
+  - distancia-hausdorff
   - distancia-pnt-con
   - ejem-topologia-metrica
   - esp-isometricos
@@ -41,6 +42,7 @@ backlinks:
   - teo-baire
   - teo-compleccion-esp-metrico
   - teo-completitud-metrica-pseudohiperbolica
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-medibilidad-borel-medida-exterior-metrica
   - topologia-metrica
 projects:

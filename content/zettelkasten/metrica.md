@@ -35,6 +35,7 @@ backlinks:
   - teo-compleccion-esp-metrico
   - teo-debil-metrizable-imp-dim-finita
   - teo-densidad-induce-metrica
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-identidad-plancherel
   - teo-metrica-inducida-iff-homogeneidad-traslaciones
   - teo-metrica-lp-0-1

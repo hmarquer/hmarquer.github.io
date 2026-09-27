@@ -23,7 +23,7 @@ backlinks:
   - ejer-var-aleatorias-prod-suma
   - esperanza
   - fn-caracteristica-var-aleatoria
-  - fn-distribucion
+  - fn-distribucion-var-aleatoria
   - igualdad-distribucion
   - independencia-var-aleatorias
   - lem-carac-tiempo-parada
@@ -37,7 +37,7 @@ backlinks:
   - norma-var-aleatoria
   - proceso-estocastico
   - prop-esperanza-fn
-  - prop-fn-distribucion
+  - prop-fn-distribucion-var-aleatoria
   - prop-fn-exists-var-aleatoria
   - prop-formula-varianza
   - quijote-infinito

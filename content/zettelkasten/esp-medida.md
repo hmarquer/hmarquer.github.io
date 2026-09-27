@@ -23,12 +23,14 @@ backlinks:
   - esp-lp
   - esp-medida-finito
   - esp-probabilidad
+  - fn-distribucion
   - fn-integrable
   - integral
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-fatou
+  - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
   - medida-completa
