@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-28T13:47:00.936513626+00:00'
-last_build_date_pdf: '2026-09-28T13:47:10.781790209+00:00'
+last_edit_date: '2026-09-28T16:27:38.241815351+00:00'
+last_build_date_pdf: '2026-09-28T16:28:12.522731835+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante
@@ -172,6 +172,7 @@ tags:
 
 ## Etiquetas
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
+#REVISAR 
 #EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
