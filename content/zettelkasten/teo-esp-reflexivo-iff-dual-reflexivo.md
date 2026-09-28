@@ -2,7 +2,7 @@
 title: 'Un espacio normado es reflexivo si y solo si su dual es reflexivo'
 filename: 'teo-esp-reflexivo-iff-dual-reflexivo'
 created: '2025-12-25 22:39:31.135810'
-last_edit_date: '2026-09-03T09:44:22.747899709+00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.046397467+00:00'
 labels:
   - teo:esp-reflexivo-iff-dual-reflexivo

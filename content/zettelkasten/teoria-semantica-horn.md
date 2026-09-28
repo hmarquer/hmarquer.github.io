@@ -2,7 +2,7 @@
 title: 'Teoria horn'
 filename: 'teoria-semantica-horn'
 created: '2026-03-26 19:25:10.510804'
-last_edit_date: '2026-09-03T09:44:22.764938539+00:00'
+last_edit_date: '2026-09-06T15:26:21.247663185+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.894101965+00:00'
 labels:
   - defn:teoria-semantica-horn

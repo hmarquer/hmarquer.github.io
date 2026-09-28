@@ -2,7 +2,7 @@
 title: 'Norma $\mathcal{L}^p$'
 filename: 'norma-lp'
 created: '2025-03-05 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.663091203+00:00'
+last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.087949899+00:00'
 labels:
   - defn:norma-lp
@@ -16,6 +16,7 @@ backlinks:
   - cor-convolucion-regularidad
   - cor-orden-normas-lp
   - desigualdad-holder
+  - desigualdad-minkowski
   - desigualdad-young-convolucion
   - esp-lp
   - esp-lp-sucesiones
@@ -36,8 +37,10 @@ projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

@@ -2,7 +2,7 @@
 title: 'Todo espacio $L^p$ es un espacio normado'
 filename: 'lem-esp-lp-normado'
 created: '2025-03-14 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.632042904+00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.884435685+00:00'
 labels:
   - lem:esp-lp-normado
@@ -18,8 +18,10 @@ backlinks:
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - variable-real/tema1
 ---
 

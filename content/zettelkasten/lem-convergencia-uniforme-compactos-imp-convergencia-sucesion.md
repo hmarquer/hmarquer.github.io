@@ -2,7 +2,7 @@
 title: 'Lem convergencia uniforme compactos imp convergencia sucesion'
 filename: 'lem-convergencia-uniforme-compactos-imp-convergencia-sucesion'
 created: '2026-04-28T14:56:29.233404267+00:00'
-last_edit_date: '2026-09-03T09:44:22.626349578+00:00'
+last_edit_date: '2026-09-06T15:26:21.226660199+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.548138577+00:00'
 labels:
   - lem:convergencia-uniforme-compactos-imp-convergencia-sucesion

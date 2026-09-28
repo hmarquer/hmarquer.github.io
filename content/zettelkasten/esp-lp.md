@@ -2,7 +2,7 @@
 title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 filename: 'esp-lp'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.585176370+00:00'
+last_edit_date: '2026-09-07T12:18:19.260444342+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.407004197+00:00'
 labels:
   - defn:esp-lp
@@ -17,7 +17,6 @@ backlinks:
   - cor-desigualdad-chebyshev-varianza
   - cor-orden-normas-lp
   - cor-serie-fourier-convergencia-l2
-  - desigualdad-holder
   - desigualdad-holder-condicional
   - desigualdad-holder-generalizada
   - desigualdad-jensen
@@ -85,9 +84,11 @@ projects:
   - 3.2-probabilidad-ii
   - 4.1-analisis-funcional
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

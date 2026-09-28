@@ -2,7 +2,7 @@
 title: 'Espacio de Hilbert'
 filename: 'esp-hilbert'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.584675546+00:00'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.675771528+00:00'
 labels:
   - defn:esp-hilbert
@@ -36,8 +36,10 @@ backlinks:
 projects:
   - 4.1-analisis-funcional
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema2
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - variable-real/tema3
 ---
 

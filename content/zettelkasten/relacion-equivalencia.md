@@ -2,7 +2,7 @@
 title: 'Relación de equivalencia'
 filename: 'relacion-equivalencia'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.717516948+00:00'
+last_edit_date: '2026-09-06T15:26:21.238661905+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.974280414+00:00'
 labels:
   - defn:relacion-equivalencia

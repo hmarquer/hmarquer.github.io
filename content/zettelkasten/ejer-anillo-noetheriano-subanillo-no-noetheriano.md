@@ -2,7 +2,7 @@
 title: 'Un subanillo de un anillo noetheriano no tiene por qué ser noetheriano'
 filename: 'ejer-anillo-noetheriano-subanillo-no-noetheriano'
 created: '2026-09-21T22:15:05.025193710+00:00'
-last_edit_date: '2026-09-24T09:07:25.587216250+00:00'
+last_edit_date: '2026-09-21T22:22:15.401484372+00:00'
 last_build_date_pdf: '2026-09-24T13:25:15.475540424+00:00'
 labels:
   - ejer:anillo-noetheriano-subanillo-no-noetheriano

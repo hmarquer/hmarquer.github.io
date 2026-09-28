@@ -2,7 +2,7 @@
 title: 'Operador adjunto de la composición'
 filename: 'lem-adjunto-composicion'
 created: '2025-12-25 22:33:48.854706'
-last_edit_date: '2026-09-03T09:44:22.619438351+00:00'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.328644208+00:00'
 labels:
   - lem:adjunto-composicion
