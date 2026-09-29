@@ -2,7 +2,7 @@
 title: 'Momento de orden $p$'
 filename: 'momento-p'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.660693515+00:00'
+last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.407367658+00:00'
 labels:
   - defn:momento-p
