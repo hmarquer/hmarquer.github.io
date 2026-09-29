@@ -12,6 +12,7 @@ references:
   - prop-medida-exterior-hausdorff
 backlinks:
   - cor-dim-hausdorff
+  - ejer-medida-hausdorff-sigma-finita
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

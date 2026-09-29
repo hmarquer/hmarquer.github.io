@@ -3,7 +3,7 @@ title: 'Lem norma lp integral fn distribucion'
 filename: 'lem-norma-lp-integral-fn-distribucion'
 created: '2026-09-27T11:51:31.733155741+00:00'
 last_edit_date: '2026-09-27T11:51:31.735285956+00:00'
-last_build_date_pdf: '2026-09-27T15:15:47.712679129+00:00'
+last_build_date_pdf: '2026-09-27T19:16:57.912126597+00:00'
 labels:
   - lem:norma-lp-integral-fn-distribucion
 references:

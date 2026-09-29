@@ -27,6 +27,7 @@ backlinks:
   - lem-fatou
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
+  - m.1-procesos-estocasticos-entrega-1
   - norma-lp
   - proceso-estocastico-adaptado
   - prop-convergencia-puntual-dominada-imp-lp

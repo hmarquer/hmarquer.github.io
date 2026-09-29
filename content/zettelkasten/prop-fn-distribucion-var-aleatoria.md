@@ -3,7 +3,7 @@ title: 'Propiedades de la función de distribución'
 filename: 'prop-fn-distribucion-var-aleatoria'
 created: '2025-03-25 00:00:00'
 last_edit_date: '2026-09-27T07:04:50.648935223+00:00'
-last_build_date_pdf: '2026-09-27T15:15:41.877915193+00:00'
+last_build_date_pdf: '2026-09-27T19:16:53.603043616+00:00'
 labels:
   - prop:fn-distribucion-var-aleatoria
   - prop:fn-distribucion-var-aleatoria:1

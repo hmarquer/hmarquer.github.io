@@ -11,7 +11,6 @@ references:
   - var-aleatoria
 backlinks:
   - desigualdad-holder-generalizada
-  - desigualdad-minkowski
 projects:
   - 3.2-probabilidad-ii
 tags:

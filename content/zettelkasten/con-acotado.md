@@ -15,6 +15,7 @@ backlinks:
   - lem-acotado-dual-imp-acotado
   - prop-convergencia-uniforme-borde-imp-convergencia-uniforme-interior
   - teo-curva-jordan
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
 projects:
   - 3.2-variable-compleja-i
 tags:

@@ -19,7 +19,6 @@ backlinks:
   - cor-indep-var-aleatorias-iff-indep-fn-distribucion
   - desigualdad-chebyshev
   - desigualdad-markov
-  - desigualdad-minkowski
   - ejer-var-aleatorias-prod-suma
   - esperanza
   - fn-caracteristica-var-aleatoria
@@ -31,6 +30,7 @@ backlinks:
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - lem-var-aleatoria-fn-distribucion-c1
   - ley-0-1-kolmogorov
+  - m.1-procesos-estocasticos-entrega-1
   - medida-inducida
   - mindependencia-var-aleatorias
   - momento-p

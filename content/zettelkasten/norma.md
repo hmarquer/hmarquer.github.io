@@ -92,8 +92,10 @@ backlinks:
 projects:
   - 3.1-topologia
   - 4.1-analisis-funcional
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema1
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - topologia/tema1-1
 ---
 

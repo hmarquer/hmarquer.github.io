@@ -16,8 +16,10 @@ backlinks:
 projects:
   - 4.1-analisis-funcional
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema1
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - variable-real/tema3
 ---
 

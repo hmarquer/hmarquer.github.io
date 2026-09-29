@@ -11,6 +11,7 @@ references:
   - prop-sigma-algebra-caratheodory
 backlinks:
   - ejer-medida-hausdorff-dim-0-contar
+  - ejer-medida-hausdorff-sigma-finita
   - lem-medida-hausdorff-invariante-isometrias
   - prop-homogeneidad-medida-hausdorff
 projects:

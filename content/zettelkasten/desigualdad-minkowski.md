@@ -2,8 +2,8 @@
 title: 'Desigualdad de Minkowski'
 filename: 'desigualdad-minkowski'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.569532327+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.101790337+00:00'
+last_edit_date: '2026-09-29T18:22:31.139816799+00:00'
+last_build_date_pdf: '2026-09-29T20:15:06.079642376+00:00'
 labels:
   - dem:desigualdad-minkowsi:i
   - dem:desigualdad-minkowsi:ii
@@ -17,8 +17,7 @@ references:
   - esp-lp
   - linealidad-integral
   - norma
-  - norma-var-aleatoria
-  - var-aleatoria
+  - norma-lp
 backlinks:
   - lem-convergencia-lp-traslacion
   - lem-esp-lp-normado
@@ -29,7 +28,9 @@ backlinks:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---
@@ -42,6 +43,5 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [norma](./norma.md)
-- [norma-var-aleatoria](./norma-var-aleatoria.md)
-- [var-aleatoria](./var-aleatoria.md)
+- [norma-lp](./norma-lp.md)
 

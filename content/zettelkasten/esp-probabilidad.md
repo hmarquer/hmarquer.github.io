@@ -31,6 +31,7 @@ backlinks:
   - lem-fatou-probabilidades
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-var-aleatorias-indep-iff-sigma-algebras-indep
+  - m.1-procesos-estocasticos-entrega-1
   - medida-inducida
   - mindependencia-sigma-algebras
   - mindependencia-sucesos

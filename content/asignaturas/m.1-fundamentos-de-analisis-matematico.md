@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-24T11:37:41.453898218+00:00'
-last_build_date_pdf: '2026-09-24T16:25:00.396284804+00:00'
+last_edit_date: '2026-09-29T18:22:31.140680387+00:00'
+last_build_date_pdf: '2026-09-29T20:15:15.294030422+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante
@@ -13,22 +13,33 @@ inclusions:
   - continuidad-absoluta
   - cor-dim-hausdorff
   - cor-dimension-hausdorff-fn-gamma-holder
+  - desigualdad-holder
+  - desigualdad-minkowski
   - diametro-con
   - distancia-conjuntos
+  - distancia-hausdorff
   - distancia-pnt-con
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
   - ejer-gamma-holder-imp-continuidad
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - ejer-medida-hausdorff-dim-0-contar
+  - ejer-medida-hausdorff-sigma-finita
+  - esp-banach
+  - esp-hilbert
+  - esp-lp
   - esp-medible
   - esp-medida
+  - esp-prehilbert
+  - exponente-conjugado
   - fn-gamma-holder
   - fn-medible
   - fn-simple
   - integral
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-dim-hausdorff-con-cantor-cota-superior
+  - lem-esp-lp-normado
+  - lem-esp-lp-vectorial
   - lem-fatou
   - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
@@ -40,7 +51,12 @@ inclusions:
   - medida-hausdorff
   - medida-sigma-finita
   - medida-signo
+  - norma
+  - norma-lp
   - premedida
+  - prod-escalar
+  - prod-hermitico
+  - prod-interno
   - prop-con-borel-imp-medible-hausdorff
   - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-asociada
@@ -58,6 +74,8 @@ inclusions:
   - teo-caratheodory-ii
   - teo-convergencia-dominada
   - teo-convergencia-monotona
+  - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
+  - teo-esp-lp-banach
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
 tags:
@@ -71,6 +89,7 @@ tags:
 
 ### hoja1
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
+- [ejer-medida-hausdorff-sigma-finita](./ejer-medida-hausdorff-sigma-finita.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 
@@ -110,6 +129,7 @@ tags:
 - [cor-dimension-hausdorff-fn-gamma-holder](./cor-dimension-hausdorff-fn-gamma-holder.md)
 - [diametro-con](./diametro-con.md)
 - [distancia-conjuntos](./distancia-conjuntos.md)
+- [distancia-hausdorff](./distancia-hausdorff.md)
 - [distancia-pnt-con](./distancia-pnt-con.md)
 - [ejems-dim-hausdorff](./ejems-dim-hausdorff.md)
 - [ejer-fn-continuas-no-gamma-holder](./ejer-fn-continuas-no-gamma-holder.md)
@@ -130,11 +150,30 @@ tags:
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 - [prop-medida-exterior-hausdorff-precision](./prop-medida-exterior-hausdorff-precision.md)
 - [semejanza](./semejanza.md)
+- [teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados](./teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados.md)
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
+
+### tema2
+- [desigualdad-holder](./desigualdad-holder.md)
+- [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [esp-banach](./esp-banach.md)
+- [esp-hilbert](./esp-hilbert.md)
+- [esp-lp](./esp-lp.md)
+- [esp-prehilbert](./esp-prehilbert.md)
+- [exponente-conjugado](./exponente-conjugado.md)
+- [lem-esp-lp-normado](./lem-esp-lp-normado.md)
+- [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
+- [norma](./norma.md)
+- [norma-lp](./norma-lp.md)
+- [prod-escalar](./prod-escalar.md)
+- [prod-hermitico](./prod-hermitico.md)
+- [prod-interno](./prod-interno.md)
+- [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
 #EJERCICIO 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
+#REVISAR 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -144,7 +183,9 @@ tags:
 #EJERCICIO : probar detenidamente
 #EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
 #DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
-#ORDENAR : poner label y hacer nota
 #DEMOSTRACIÓN 
 #REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
-#COMPLETAR : se acabó, no entiendo nada
+#COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
+#COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
+#DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
+#REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa?

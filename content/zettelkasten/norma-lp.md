@@ -16,6 +16,7 @@ backlinks:
   - cor-convolucion-regularidad
   - cor-orden-normas-lp
   - desigualdad-holder
+  - desigualdad-minkowski
   - desigualdad-young-convolucion
   - esp-lp
   - esp-lp-sucesiones
@@ -36,8 +37,10 @@ projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

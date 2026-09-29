@@ -3,7 +3,7 @@ title: 'Igualdad distribución'
 filename: 'igualdad-distribucion'
 created: '2025-03-25 00:00:00'
 last_edit_date: '2026-09-27T07:03:03.469364488+00:00'
-last_build_date_pdf: '2026-09-27T15:15:47.777751876+00:00'
+last_build_date_pdf: '2026-09-27T19:16:57.906539011+00:00'
 labels:
   - ejem:igualdad-distribucion
   - igualdad-distribucion
@@ -17,6 +17,7 @@ backlinks:
   - igualdad-distribucion
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
+  - m.1-procesos-estocasticos-entrega-1
   - teo-central-limite
 projects:
   - 3.2-probabilidad-ii
