@@ -17,6 +17,7 @@ backlinks:
   - igualdad-distribucion
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
+  - m.1-procesos-estocasticos-entrega-1
   - teo-central-limite
 projects:
   - 3.2-probabilidad-ii

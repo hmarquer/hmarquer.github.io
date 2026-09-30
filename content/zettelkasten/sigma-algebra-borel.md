@@ -13,6 +13,7 @@ backlinks:
   - fn-continua-soporte-compacto
   - fn-suave-soporte-compacto
   - lem-aprox-indicatriz-continua-norma-lp
+  - m.1-procesos-estocasticos-entrega-1
   - prop-con-borel-imp-medible-hausdorff
   - teo-medibilidad-borel-medida-exterior-metrica
 projects:

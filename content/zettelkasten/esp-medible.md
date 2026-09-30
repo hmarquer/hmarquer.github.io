@@ -19,9 +19,11 @@ backlinks:
   - lem-descomposicion-jordan-continuidad-absoluta
   - medida-inducida
   - prop-suma-fn-medibles
+  - sigma-algebra-producto
   - singularidad-mutua
   - teo-caratheodory-i
   - teo-descomposicion-hahn-jordan
+  - teo-esp-medible-producto-imp-secciones-medibles
   - teo-radon-nikodym
 projects:
   - 3.2-probabilidad-ii

@@ -19,6 +19,7 @@ backlinks:
   - independencia-sigma-algebras
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - m.1-procesos-estocasticos-entrega-1
   - medida
   - medida-signo
   - mindependencia-sigma-algebras
@@ -30,9 +31,11 @@ backlinks:
   - sigma-algebra-cola
   - sigma-algebra-fn
   - sigma-algebra-generada
+  - sigma-algebra-producto
   - sigma-algebra-tiempo-parada
   - teo-caratheodory-i
   - teo-caratheodory-ii
+  - teo-esp-medible-producto-imp-secciones-medibles
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

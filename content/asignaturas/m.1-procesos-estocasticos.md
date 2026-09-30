@@ -2,13 +2,14 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-24T16:20:43.135375234+00:00'
-last_build_date_pdf: '2026-09-25T17:52:16.140908758+00:00'
+last_edit_date: '2026-09-30T11:04:29.751005292+00:00'
+last_build_date_pdf: '2026-09-30T11:05:50.117358407+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
   - filtracion
   - lem-carac-tiempo-parada
+  - m.1-procesos-estocasticos-entrega-1
   - martingala
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
@@ -24,6 +25,9 @@ tags:
 ![[m.1-procesos-estocasticos.pdf]]
 
 ## Notas incluidas
+
+### m.1-procesos-estocasticos
+- [m.1-procesos-estocasticos-entrega-1](./m.1-procesos-estocasticos-entrega-1.md)
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)

@@ -14,10 +14,12 @@ backlinks:
   - teo-fubini
   - teo-radon-nikodym
 projects:
+  - 3.1-teoria-de-la-integral-y-la-medida
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
   - m.1-fundamentos-de-analisis-matematico/tema0
+  - teoria-de-la-integral-y-la-medida/tema4
   - variable-real/tema1
 ---
 

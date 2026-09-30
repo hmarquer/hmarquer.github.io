@@ -17,6 +17,7 @@ backlinks:
   - lem-esperanza-condicionada-mejor-aprox
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
+  - m.1-procesos-estocasticos-entrega-1
   - momento-p
   - obs-linealidad-esperanza
   - prop-esperanza-condicionada-sigma-algebra-indep

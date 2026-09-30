@@ -12,6 +12,7 @@ backlinks:
   - prop-sigma-algebra-generada
   - sigma-algebra-borel
   - sigma-algebra-tiempo-parada
+  - teo-esp-medible-producto-imp-secciones-medibles
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-pi-sistema-subset-lambda-sistema
 projects:

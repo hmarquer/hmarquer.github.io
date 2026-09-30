@@ -2,8 +2,8 @@
 title: 'Medida inducida'
 filename: 'medida-inducida'
 created: '2025-03-25 00:00:00'
-last_edit_date: '2026-09-22T13:56:20.550645043+00:00'
-last_build_date_pdf: '2026-09-24T13:25:09.451293256+00:00'
+last_edit_date: '2026-09-30T11:05:01.851979914+00:00'
+last_build_date_pdf: '2026-09-30T11:05:08.948311581+00:00'
 labels:
   - lem:medida-inducida
 references:
