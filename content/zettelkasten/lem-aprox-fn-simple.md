@@ -12,6 +12,7 @@ references:
   - fn-simple
 backlinks:
   - prop-fn-simples-denso-lp
+  - teo-medida-inducida-integral-fn-medible
 projects:
   - 4.1-variable-real
 tags:

@@ -2,8 +2,8 @@
 title: 'La medida de Hausdorff es $\sigma$-finita dependiendo de la dimensión'
 filename: 'ejer-medida-hausdorff-sigma-finita'
 created: '2026-09-27T18:48:08.841100039+00:00'
-last_edit_date: '2026-09-29T18:22:31.139982594+00:00'
-last_build_date_pdf: '2026-09-29T20:15:00.321903412+00:00'
+last_edit_date: '2026-09-30T14:03:26.247496910+00:00'
+last_build_date_pdf: '2026-09-30T14:03:31.569221277+00:00'
 labels:
   - ejer:medida-hausdorff-sigma-finita
   - fig:cubrimiento-cuadrado-unidad

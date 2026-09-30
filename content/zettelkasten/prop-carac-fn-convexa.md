@@ -1,10 +1,11 @@
 ---
-title: 'Prop carac fn convexa'
+title: 'Caracterizaciones de una función convexa'
 filename: 'prop-carac-fn-convexa'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.868251065+00:00'
+last_edit_date: '2026-09-30T14:03:48.404498110+00:00'
+last_build_date_pdf: '2026-09-30T14:03:53.581465857+00:00'
 labels:
+  - fig:secantes-fn-convexa
   - prop:carac-fn-convexa
 references:
   - fn-convexa

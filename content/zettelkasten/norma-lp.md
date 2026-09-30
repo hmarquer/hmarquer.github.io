@@ -18,6 +18,7 @@ backlinks:
   - desigualdad-holder
   - desigualdad-minkowski
   - desigualdad-young-convolucion
+  - ejem-norma-lp-p01-imp-no-norma
   - esp-lp
   - esp-lp-sucesiones
   - lem-aprox-indicatriz-continua-norma-lp

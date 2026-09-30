@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-29T18:22:31.140680387+00:00'
-last_build_date_pdf: '2026-09-29T20:15:15.294030422+00:00'
+last_edit_date: '2026-09-30T14:03:26.247496910+00:00'
+last_build_date_pdf: '2026-09-30T18:24:38.688110844+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante
@@ -19,6 +19,7 @@ inclusions:
   - distancia-conjuntos
   - distancia-hausdorff
   - distancia-pnt-con
+  - ejem-norma-lp-p01-imp-no-norma
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
   - ejer-gamma-holder-imp-continuidad
@@ -32,6 +33,7 @@ inclusions:
   - esp-medida
   - esp-prehilbert
   - exponente-conjugado
+  - fn-convexa
   - fn-gamma-holder
   - fn-medible
   - fn-simple
@@ -58,6 +60,7 @@ inclusions:
   - prod-hermitico
   - prod-interno
   - prop-con-borel-imp-medible-hausdorff
+  - prop-fn-convexa
   - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-asociada
   - prop-medida-exterior-hausdorff
@@ -156,11 +159,13 @@ tags:
 ### tema2
 - [desigualdad-holder](./desigualdad-holder.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [ejem-norma-lp-p01-imp-no-norma](./ejem-norma-lp-p01-imp-no-norma.md)
 - [esp-banach](./esp-banach.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [esp-lp](./esp-lp.md)
 - [esp-prehilbert](./esp-prehilbert.md)
 - [exponente-conjugado](./exponente-conjugado.md)
+- [fn-convexa](./fn-convexa.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
 - [norma](./norma.md)
@@ -168,11 +173,13 @@ tags:
 - [prod-escalar](./prod-escalar.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
+- [prop-fn-convexa](./prop-fn-convexa.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR 
+#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -188,3 +195,4 @@ tags:
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
 #REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa?
+#REVISAR : está totalmente mal, fumada del profesor

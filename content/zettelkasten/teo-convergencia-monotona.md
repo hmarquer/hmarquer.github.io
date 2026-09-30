@@ -19,6 +19,7 @@ backlinks:
   - prop-indep-pi-sistemas-imp-indep-sigma-algebras
   - quijote-infinito
   - teo-esp-lp-banach
+  - teo-medida-inducida-integral-fn-medible
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

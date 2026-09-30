@@ -15,6 +15,8 @@ backlinks:
   - cor-formula-esperanza
   - igualdad-distribucion
   - prop-esperanza-fn
+  - teo-carac-independencia-var-aleatorias-medida-inducida
+  - teo-medida-inducida-integral-fn-medible
   - var-aleatoria-absolutamente-continua
 projects:
   - 3.2-probabilidad-ii

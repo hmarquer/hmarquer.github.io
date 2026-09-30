@@ -42,7 +42,9 @@ backlinks:
   - prop-formula-varianza
   - quijote-infinito
   - sigma-algebra-cola
+  - teo-carac-independencia-var-aleatorias-medida-inducida
   - teo-continuidad-levy
+  - teo-medida-inducida-integral-fn-medible
   - tiempo-parada
   - var-aleatoria-absolutamente-continua
   - var-aleatoria-centrada

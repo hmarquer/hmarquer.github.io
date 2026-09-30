@@ -38,6 +38,7 @@ backlinks:
   - teo-convergencia-dominada
   - teo-convergencia-monotona
   - teo-hardy-littlewood
+  - teo-medida-inducida-integral-fn-medible
   - var-aleatoria
   - vec-aleatorio
 projects:

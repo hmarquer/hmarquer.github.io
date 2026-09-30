@@ -18,6 +18,7 @@ backlinks:
   - convolucion
   - cor-integral-suma-infinita
   - desigualdad-jensen
+  - ejem-norma-lp-p01-imp-no-norma
   - ejems-filtros
   - esp-conteo
   - esp-lp

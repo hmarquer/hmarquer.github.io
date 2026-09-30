@@ -24,6 +24,7 @@ backlinks:
   - desigualdad-minkowski
   - dual-topologico
   - ejem-funcional-evaluacion-bidual
+  - ejem-norma-lp-p01-imp-no-norma
   - ejer-adjunto-identidad
   - esp-apl-lineales-continuas
   - esp-banach

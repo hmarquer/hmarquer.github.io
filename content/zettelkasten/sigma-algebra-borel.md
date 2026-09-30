@@ -16,6 +16,7 @@ backlinks:
   - m.1-procesos-estocasticos-entrega-1
   - prop-con-borel-imp-medible-hausdorff
   - teo-medibilidad-borel-medida-exterior-metrica
+  - teo-medida-inducida-integral-fn-medible
 projects:
   - 3.2-probabilidad-ii
 tags:

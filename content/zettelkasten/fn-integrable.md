@@ -25,6 +25,7 @@ backlinks:
   - teo-convergencia-dominada
   - teo-fubini
   - teo-fundamental-calculo
+  - teo-medida-inducida-integral-fn-medible
   - varianza
 projects:
   - 3.2-probabilidad-ii

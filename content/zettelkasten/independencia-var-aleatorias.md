@@ -14,6 +14,7 @@ backlinks:
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - lem-var-aleatorias-indep-iff-sigma-algebras-indep
   - prop-esperanza-prod-var-aleatorias-indep
+  - teo-carac-independencia-var-aleatorias-medida-inducida
 projects:
   - 3.2-probabilidad-ii
 tags:

@@ -17,6 +17,7 @@ backlinks:
   - prop-esperanza-fn
   - teo-convergencia-dominada
   - teo-esp-l2-hilbert
+  - teo-medida-inducida-integral-fn-medible
 ---
 
 [[linealidad-integral.pdf]]

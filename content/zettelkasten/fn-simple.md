@@ -14,6 +14,7 @@ backlinks:
   - prop-esperanza-fn
   - prop-fn-simples-denso-lp
   - teo-fn-continua-soporte-compacto-denso-lp
+  - teo-medida-inducida-integral-fn-medible
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

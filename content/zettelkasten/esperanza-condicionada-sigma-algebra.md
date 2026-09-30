@@ -20,6 +20,7 @@ backlinks:
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
   - lem-sigma-algebra-parada-esperanza-condicionada
+  - m.1-procesos-estocasticos-entrega-1
   - martingala
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-esperanza-condicionada-sigma-algebras-anidadas

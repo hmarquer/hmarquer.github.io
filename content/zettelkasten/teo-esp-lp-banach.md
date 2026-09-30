@@ -2,8 +2,8 @@
 title: 'Todo espacio $\mathcal{L}^p$ es de Banach'
 filename: 'teo-esp-lp-banach'
 created: '2025-09-18 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.815006680+00:00'
+last_edit_date: '2026-09-30T12:16:58.845568115+00:00'
+last_build_date_pdf: '2026-09-30T12:17:05.556887771+00:00'
 labels:
   - dem:teo-esp-lp-banach:eq1
   - dem:teo-esp-lp-banach:eq2
