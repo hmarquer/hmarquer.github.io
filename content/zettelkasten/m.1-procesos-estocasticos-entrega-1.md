@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos - Entrega 1: Martingalas y funciones armónicas'
 filename: 'm.1-procesos-estocasticos-entrega-1'
 created: '2026-09-30T10:43:21.327548024+00:00'
-last_edit_date: '2026-09-30T22:47:13.330314254+00:00'
-last_build_date_pdf: '2026-09-30T22:47:23.285903139+00:00'
+last_edit_date: '2026-10-01T12:49:05.115993573+00:00'
+last_build_date_pdf: '2026-10-01T12:49:14.039897747+00:00'
 references:
   - esp-probabilidad
   - esperanza
@@ -41,6 +41,5 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 
 ## Etiquetas
-#REVISAR : justificar
-#REVISAR 
-#DEMOSTRACIÓN 
+#COMPLETAR 
+#ORDENAR : corolario innecesario
