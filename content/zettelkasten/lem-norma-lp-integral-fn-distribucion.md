@@ -16,8 +16,10 @@ references:
   - teo-fundamental-calculo
 projects:
   - m-trabajo-de-fin-de-master
+  - m.1-procesos-estocasticos
 tags:
   - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - m.1-procesos-estocasticos/tema1
 ---
 
 [[lem-norma-lp-integral-fn-distribucion.pdf]]

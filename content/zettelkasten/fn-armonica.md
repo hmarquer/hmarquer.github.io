@@ -19,6 +19,7 @@ backlinks:
   - prop-fn-armonica-imp-derivada-holomorfa
   - prop-fn-armonica-simplemente-conexo-imp-holomorfa
   - teo-max-fn-armonica
+  - teo-propiedad-media-fn-armonica
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-variable-compleja-i

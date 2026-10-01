@@ -2,8 +2,8 @@
 title: 'Teo medida inducida integral fn medible'
 filename: 'teo-medida-inducida-integral-fn-medible'
 created: '2026-09-30T16:07:48.520837925+00:00'
-last_edit_date: '2026-10-01T10:44:43.043066738+00:00'
-last_build_date_pdf: '2026-10-01T10:44:49.188708125+00:00'
+last_edit_date: '2026-10-01T17:28:58.404588089+00:00'
+last_build_date_pdf: '2026-10-01T17:29:03.533908590+00:00'
 labels:
   - dem:medida-inducida-integral-fn-medible:i
   - dem:medida-inducida-integral-fn-medible:ii

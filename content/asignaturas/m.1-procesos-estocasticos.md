@@ -2,13 +2,14 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-01T12:49:05.115993573+00:00'
-last_build_date_pdf: '2026-10-01T13:34:29.063902410+00:00'
+last_edit_date: '2026-10-01T17:40:53.021827129+00:00'
+last_build_date_pdf: '2026-10-01T17:43:46.194690461+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
   - filtracion
   - lem-carac-tiempo-parada
+  - lem-norma-lp-integral-fn-distribucion
   - m.1-procesos-estocasticos-entrega-1
   - martingala
   - proceso-estocastico-adaptado
@@ -38,6 +39,7 @@ tags:
 ### tema1
 - [filtracion](./filtracion.md)
 - [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
+- [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
 - [martingala](./martingala.md)
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 - [submartingala](./submartingala.md)
@@ -55,6 +57,8 @@ tags:
 #REVISAR : No lo ha escrito igual, lo ha hecho así:
 #COMPLETAR : falta ver que se cumplen las condiciones
 #REVISAR : no sé si es un "ya que" o qué coño es
+#REVISAR : no entiendo
+#ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
 #COMPLETAR y REVISAR
 #EJERCICIO : comprobarlo.
 #COMPLETAR con la foto, no he entendido nada.

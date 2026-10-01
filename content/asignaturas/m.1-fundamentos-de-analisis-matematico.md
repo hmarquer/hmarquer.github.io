@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-09-30T14:03:26.247496910+00:00'
-last_build_date_pdf: '2026-09-30T18:24:38.688110844+00:00'
+last_edit_date: '2026-10-01T18:04:02.882843626+00:00'
+last_build_date_pdf: '2026-10-01T18:25:17.372168938+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante

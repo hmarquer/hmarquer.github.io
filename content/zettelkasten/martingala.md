@@ -16,6 +16,7 @@ references:
   - supermartingala
 backlinks:
   - cor-fn-convexa-martingala-submartingala
+  - m.1-procesos-estocasticos-entrega-1
   - teo-descomposicion-doob
   - teo-parada-opcional
 projects:

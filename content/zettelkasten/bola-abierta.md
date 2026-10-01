@@ -23,6 +23,7 @@ backlinks:
   - teo-cubrimiento-landau
   - teo-esp-normado-imp-bola-abierta-convexa
   - teo-inyectividad-landau
+  - teo-propiedad-media-fn-armonica
   - topologia-metrica
 projects:
   - 3.1-topologia

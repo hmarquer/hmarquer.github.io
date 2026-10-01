@@ -12,6 +12,7 @@ backlinks:
   - con-delta-ubicuo
   - lem-carac-convergencia-uniforme-compactos-convergencia-localmente-uniforme
   - teo-bola-cerrada-compacta-imp-dim-finita
+  - teo-propiedad-media-fn-armonica
 projects:
   - 4-teoria-descriptiva-de-conjuntos
 tags:

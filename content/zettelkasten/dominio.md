@@ -52,6 +52,7 @@ backlinks:
   - teo-modulo-maximo
   - teo-modulo-maximo-global
   - teo-principio-argumento
+  - teo-propiedad-media-fn-armonica
   - teo-residuos
   - teo-singularidad-evitable-riemann
 projects:
