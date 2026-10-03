@@ -2,7 +2,7 @@
 title: 'Convergencia en distribución'
 filename: 'convergencia-distribucion'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-09-27T07:03:03.466120025+00:00'
+last_edit_date: '2026-09-27T18:01:48.030000890+00:00'
 last_build_date_pdf: '2026-09-27T19:17:02.125872780+00:00'
 labels:
   - defn:convergencia-distribucion
