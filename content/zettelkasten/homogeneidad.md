@@ -2,7 +2,7 @@
 title: 'Homogeneidad'
 filename: 'homogeneidad'
 created: '2025-09-10 00:00:00'
-last_edit_date: '2026-09-12T23:24:18.296353927+00:00'
+last_edit_date: '2026-09-20T15:23:19.055315025+00:00'
 last_build_date_pdf: '2026-09-20T16:34:11.788423692+00:00'
 labels:
   - defn:homogeneidad

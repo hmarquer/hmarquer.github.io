@@ -2,7 +2,7 @@
 title: 'Teo modulo maximo global'
 filename: 'teo-modulo-maximo-global'
 created: '2026-02-11 11:30:29.571173'
-last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
+last_edit_date: '2026-09-03T09:44:22.760026211+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.645949253+00:00'
 labels:
   - teo:modulo-maximo-global

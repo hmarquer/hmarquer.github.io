@@ -2,7 +2,7 @@
 title: 'Anillo cociente'
 filename: 'anillo-cociente'
 created: '2025-10-08 00:00:00'
-last_edit_date: '2026-09-09T13:54:43.601440513+00:00'
+last_edit_date: '2026-09-20T15:23:19.053661166+00:00'
 last_build_date_pdf: '2026-09-20T16:34:59.101704537+00:00'
 labels:
   - prop:anillo-cociente

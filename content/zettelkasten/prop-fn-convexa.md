@@ -2,7 +2,7 @@
 title: 'Propiedades de las funciones convexas'
 filename: 'prop-fn-convexa'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
+last_edit_date: '2026-09-03T09:44:22.696683739+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.407830114+00:00'
 labels:
   - prop:fn-convexa
@@ -13,7 +13,9 @@ references:
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

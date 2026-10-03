@@ -2,8 +2,8 @@
 title: 'Teo cerrado convexo hilbert imp exists min norma'
 filename: 'teo-cerrado-convexo-hilbert-imp-exists-min-norma'
 created: '2025-10-26 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.241662332+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.304890446+00:00'
+last_edit_date: '2026-10-03T00:04:37.320486383+00:00'
+last_build_date_pdf: '2026-10-03T00:05:15.639920875+00:00'
 labels:
   - teo:cerrado-convexo-hilbert-imp-exists-min-norma
 references:

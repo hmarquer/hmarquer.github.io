@@ -2,13 +2,14 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-09-29T20:07:01.976046762+00:00'
-last_build_date_pdf: '2026-09-29T20:07:12.599605146+00:00'
+last_edit_date: '2026-10-02T16:01:55.861549304+00:00'
+last_build_date_pdf: '2026-10-03T01:21:55.876292528+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
   - filtracion
   - lem-carac-tiempo-parada
+  - lem-norma-lp-integral-fn-distribucion
   - m.1-procesos-estocasticos-entrega-1
   - martingala
   - proceso-estocastico-adaptado
@@ -38,6 +39,7 @@ tags:
 ### tema1
 - [filtracion](./filtracion.md)
 - [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
+- [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
 - [martingala](./martingala.md)
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 - [submartingala](./submartingala.md)
@@ -46,6 +48,12 @@ tags:
 
 ## Etiquetas
 #REVISAR 
+#COMPLETAR y REVISAR
+#EJERCICIO : comprobarlo.
+#COMPLETAR con la foto, no he entendido nada.
+#REVISAR y COMPLETAR con la foto, no he entendido nada.
+#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
+#EJERCICIO :
 #REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
 #REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
 #EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
@@ -55,9 +63,5 @@ tags:
 #REVISAR : No lo ha escrito igual, lo ha hecho así:
 #COMPLETAR : falta ver que se cumplen las condiciones
 #REVISAR : no sé si es un "ya que" o qué coño es
-#COMPLETAR y REVISAR
-#EJERCICIO : comprobarlo.
-#COMPLETAR con la foto, no he entendido nada.
-#REVISAR y COMPLETAR con la foto, no he entendido nada.
-#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
-#EJERCICIO :
+#REVISAR : no entiendo
+#ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio

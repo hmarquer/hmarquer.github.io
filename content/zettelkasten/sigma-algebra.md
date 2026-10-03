@@ -2,7 +2,7 @@
 title: '$\sigma$-álgebra'
 filename: 'sigma-algebra'
 created: '2025-01-17 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
+last_edit_date: '2026-09-03T09:44:22.721981343+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.035077185+00:00'
 labels:
   - defn:sigma-algebra
@@ -31,9 +31,11 @@ backlinks:
   - sigma-algebra-cola
   - sigma-algebra-fn
   - sigma-algebra-generada
+  - sigma-algebra-producto
   - sigma-algebra-tiempo-parada
   - teo-caratheodory-i
   - teo-caratheodory-ii
+  - teo-esp-medible-producto-imp-secciones-medibles
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real
