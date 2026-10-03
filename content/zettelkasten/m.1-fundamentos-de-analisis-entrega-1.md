@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis entrega 1'
 filename: 'm.1-fundamentos-de-analisis-entrega-1'
 created: '2026-09-27T18:20:49.249754525+00:00'
-last_edit_date: '2026-10-03T01:16:28.024609090+00:00'
-last_build_date_pdf: '2026-10-03T01:16:34.682693440+00:00'
+last_edit_date: '2026-10-03T15:07:21.009412545+00:00'
+last_build_date_pdf: '2026-10-03T15:07:27.927297419+00:00'
 labels:
   - h1e12
   - h1e9
@@ -24,3 +24,4 @@ references:
 
 ## Etiquetas
 #ORDENAR : referenciar resultado
+#COMPLETAR 
