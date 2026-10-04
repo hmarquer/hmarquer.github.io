@@ -13,6 +13,7 @@ backlinks:
   - ejer-medida-hausdorff-dim-0-contar
   - ejer-medida-hausdorff-sigma-finita
   - lem-medida-hausdorff-invariante-isometrias
+  - m.1-fda-h1-e19
   - prop-homogeneidad-medida-hausdorff
 projects:
   - m.1-fundamentos-de-analisis-matematico

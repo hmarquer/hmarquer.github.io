@@ -14,6 +14,7 @@ backlinks:
   - cor-dimension-hausdorff-fn-gamma-holder
   - ejems-dim-hausdorff
   - lem-dim-hausdorff-con-cantor-cota-superior
+  - m.1-fda-h1-e19
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

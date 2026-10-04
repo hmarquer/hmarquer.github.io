@@ -22,6 +22,7 @@ backlinks:
   - fn-suave-soporte-compacto
   - lem-aprox-indicatriz-compacto-abierto-continua
   - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
+  - m.1-fda-h1-e19
   - obs-cerrado-imp-compacto-iff-precompacto
   - obs-comparacion-metricas-pseudohiperbolica-euclidea
   - precompacidad

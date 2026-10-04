@@ -16,6 +16,7 @@ backlinks:
   - esp-topologico-regular
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-separacion-punto-conjunto-convexo-abierto
+  - m.1-fda-h1-e19
   - obs-cerrado-imp-compacto-iff-precompacto
   - precompacidad
   - prop-dim-infinita-imp-clausura-debil-esfera-bola
