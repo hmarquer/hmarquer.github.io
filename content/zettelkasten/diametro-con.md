@@ -10,6 +10,7 @@ references:
   - esp-metrico
   - relacion-orden
 backlinks:
+  - ejer-desigualdad-isodiametrica-r2
   - lem-medida-hausdorff-invariante-isometrias
   - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-hausdorff-precision

@@ -10,6 +10,7 @@ references:
   - esp-metrico
 backlinks:
   - con-autosemejante
+  - lem-operador-hutchinson-lipschitz
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

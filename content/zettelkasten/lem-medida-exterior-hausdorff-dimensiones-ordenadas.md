@@ -3,7 +3,7 @@ title: 'Medida exterior de Hausdorff con dimensiones ordenadas'
 filename: 'lem-medida-exterior-hausdorff-dimensiones-ordenadas'
 created: '2026-09-13T15:31:54.518379614+00:00'
 last_edit_date: '2026-10-01T17:59:40.882139668+00:00'
-last_build_date_pdf: '2026-10-01T17:59:50.220156963+00:00'
+last_build_date_pdf: '2026-10-03T01:21:42.251683730+00:00'
 labels:
   - lem:medida-exterior-hausdorff-dimensiones-ordenadas
   - lem:medida-exterior-hausdorff-dimensiones-ordenadas:1

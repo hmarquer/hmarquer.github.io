@@ -3,7 +3,7 @@ title: '$\sigma$-álgebra producto'
 filename: 'sigma-algebra-producto'
 created: '2026-09-30T09:56:23.898163959+00:00'
 last_edit_date: '2026-09-30T09:56:56.516677294+00:00'
-last_build_date_pdf: '2026-09-30T09:57:03.902305226+00:00'
+last_build_date_pdf: '2026-10-03T01:21:36.301401928+00:00'
 labels:
   - defn:sigma-algebra-producto
 references:

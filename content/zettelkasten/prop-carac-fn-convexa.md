@@ -3,7 +3,7 @@ title: 'Caracterizaciones de una función convexa'
 filename: 'prop-carac-fn-convexa'
 created: '2025-11-01 00:00:00'
 last_edit_date: '2026-09-30T14:03:48.404498110+00:00'
-last_build_date_pdf: '2026-09-30T14:03:53.581465857+00:00'
+last_build_date_pdf: '2026-10-03T01:21:42.696838783+00:00'
 labels:
   - fig:secantes-fn-convexa
   - prop:carac-fn-convexa

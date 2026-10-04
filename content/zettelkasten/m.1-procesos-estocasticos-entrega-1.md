@@ -3,7 +3,7 @@ title: 'Procesos estocásticos - Entrega 1: Martingalas y funciones armónicas'
 filename: 'm.1-procesos-estocasticos-entrega-1'
 created: '2026-09-30T10:43:21.327548024+00:00'
 last_edit_date: '2026-10-01T17:40:53.021827129+00:00'
-last_build_date_pdf: '2026-10-01T17:40:59.380249491+00:00'
+last_build_date_pdf: '2026-10-02T16:02:41.721202696+00:00'
 references:
   - esp-probabilidad
   - esperanza

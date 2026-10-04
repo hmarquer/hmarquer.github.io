@@ -2,14 +2,13 @@
 title: 'Prop proyeccion ortogonal convexo cerrado'
 filename: 'prop-proyeccion-ortogonal-convexo-cerrado'
 created: '2025-10-26 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.820671906+00:00'
+last_edit_date: '2026-10-03T16:27:51.045514769+00:00'
+last_build_date_pdf: '2026-10-04T00:41:32.840173718+00:00'
 labels:
   - prop:proyeccion-ortogonal-convexo-cerrado
 references:
   - con-convexo
   - esp-hilbert
-  - norma
   - teo-cerrado-convexo-hilbert-imp-exists-min-norma
 backlinks:
   - prop-carac-proyeccion-ortogonal-convexo-cerrado
@@ -30,6 +29,5 @@ tags:
 ## Referencias
 - [con-convexo](./con-convexo.md)
 - [esp-hilbert](./esp-hilbert.md)
-- [norma](./norma.md)
 - [teo-cerrado-convexo-hilbert-imp-exists-min-norma](./teo-cerrado-convexo-hilbert-imp-exists-min-norma.md)
 

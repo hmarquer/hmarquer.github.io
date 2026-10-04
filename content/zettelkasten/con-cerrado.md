@@ -10,9 +10,11 @@ references:
   - esp-topologico
   - topologia
 backlinks:
+  - ejer-desigualdad-isodiametrica-r2
   - esp-topologico-secuencial
   - obs-cerrado-imp-compacto-iff-precompacto
   - prop-con-cerrado-imp-secuencialmente-cerrado
+  - teo-con-convexo-rn-imp-hiperplano-soporte
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-medibilidad-borel-medida-exterior-metrica
 ---

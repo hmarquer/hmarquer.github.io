@@ -10,6 +10,7 @@ references:
   - esp-metrico
 backlinks:
   - fn-lipschitz-local
+  - lem-operador-hutchinson-lipschitz
 ---
 
 [[fn-lipschitz.pdf]]

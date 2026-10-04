@@ -35,6 +35,7 @@ backlinks:
   - prop-suma-fn-medibles
   - sigma-algebra-fn
   - supremo-esencial
+  - teo-cambio-variables-integral-rn
   - teo-convergencia-dominada
   - teo-convergencia-monotona
   - teo-hardy-littlewood

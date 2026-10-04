@@ -33,6 +33,7 @@ backlinks:
   - lem-carac-precompacidad-subsucesion-esp-metrico
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-imp-ctp
+  - lem-operador-hutchinson-lipschitz
   - medida-exterior-metrica
   - prop-carac-con-abiertos-esp-metrico
   - prop-con-abiertos-esp-metrico

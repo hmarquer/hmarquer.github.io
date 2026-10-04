@@ -2,8 +2,8 @@
 title: 'La distancia de Hausdorff implica una métrica en el espacio de cerrados acotados'
 filename: 'teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados'
 created: '2026-09-27T18:59:14.216237514+00:00'
-last_edit_date: '2026-09-27T18:59:30.525098631+00:00'
-last_build_date_pdf: '2026-09-27T18:59:36.163921533+00:00'
+last_edit_date: '2026-10-03T22:17:15.901015847+00:00'
+last_build_date_pdf: '2026-10-03T22:17:22.262794836+00:00'
 labels:
   - teo:distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
 references:
@@ -12,6 +12,8 @@ references:
   - distancia-hausdorff
   - esp-metrico
   - metrica
+backlinks:
+  - lem-operador-hutchinson-lipschitz
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

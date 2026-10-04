@@ -3,7 +3,7 @@ title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
 last_edit_date: '2026-10-01T17:40:53.021827129+00:00'
-last_build_date_pdf: '2026-10-01T17:43:46.194690461+00:00'
+last_build_date_pdf: '2026-10-03T01:21:55.876292528+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra

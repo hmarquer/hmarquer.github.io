@@ -18,6 +18,7 @@ backlinks:
   - distancia-conjuntos
   - distancia-pnt-con
   - estructura-diferenciable
+  - lem-operador-hutchinson-lipschitz
   - lem-zorn
   - obs-consecuencia-semantica-orden-parcial
   - prop-carac-anillo-noetheriano

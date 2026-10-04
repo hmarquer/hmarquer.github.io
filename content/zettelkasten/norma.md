@@ -60,7 +60,6 @@ backlinks:
   - prop-esp-dual-banach
   - prop-funcional-lineal-continuo-prod-interno
   - prop-norma-continua
-  - prop-proyeccion-ortogonal-convexo-cerrado
   - seminorma
   - teo-abiertos-topologia-debil
   - teo-banach-alaoglu
