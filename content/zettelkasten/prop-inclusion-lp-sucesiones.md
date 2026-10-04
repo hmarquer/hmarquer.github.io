@@ -2,7 +2,7 @@
 title: 'Inclusión de espacios $\ell^p$'
 filename: 'prop-inclusion-lp-sucesiones'
 created: '2025-10-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.701899716+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.289564043+00:00'
 labels:
   - prop:inclusion-lp-sucesiones

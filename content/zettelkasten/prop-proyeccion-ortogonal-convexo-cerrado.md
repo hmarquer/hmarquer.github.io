@@ -11,7 +11,6 @@ references:
   - esp-hilbert
   - teo-cerrado-convexo-hilbert-imp-exists-min-norma
 backlinks:
-  - m.1-fundamentos-de-analisis-entrega-1
   - prop-carac-proyeccion-ortogonal-convexo-cerrado
   - teo-carac-proyeccion-ortogonal-subespacio-cerrado
   - teo-con-fundamental-iff-sistema-ortogonal-completo

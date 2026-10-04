@@ -2,7 +2,7 @@
 title: 'La propiedad de segundo numerable es hereditaria'
 filename: 'herencia-segundo-numerable'
 created: '2025-02-24 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.609488787+00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.580800946+00:00'
 labels:
   - prop:herencia-segundo-numerable

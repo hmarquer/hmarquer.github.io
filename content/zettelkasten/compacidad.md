@@ -2,7 +2,7 @@
 title: 'Compacidad'
 filename: 'compacidad'
 created: '2025-02-05 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.542918706+00:00'
+last_edit_date: '2026-09-06T15:26:21.212658208+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.188845543+00:00'
 labels:
   - defn:compacidad
@@ -15,7 +15,6 @@ backlinks:
   - convergencia-localmente-uniforme
   - cor-fn-holomorfa-compacto-imp-finitud-ceros
   - cor-inmersion-inyectiva-imp-embebimiento
-  - cuerpo-convexo
   - fn-continua-soporte-compacto
   - fn-integrable-localmente
   - fn-lipschitz-local

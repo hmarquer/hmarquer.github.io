@@ -2,7 +2,7 @@
 title: 'Probabilidad total'
 filename: 'probabilidad-total'
 created: '2025-03-18 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.678443150+00:00'
+last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.649532465+00:00'
 labels:
   - teo:probabilidad-total

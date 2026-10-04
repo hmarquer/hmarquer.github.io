@@ -2,7 +2,7 @@
 title: 'Substitución en fórmulas'
 filename: 'substitucion-formulas'
 created: '2026-02-09 16:52:28.713583'
-last_edit_date: '2026-09-03T09:44:22.727883968+00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.970645085+00:00'
 labels:
   - defn:substitucion-formulas

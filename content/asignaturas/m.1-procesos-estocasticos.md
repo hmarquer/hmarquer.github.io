@@ -48,12 +48,6 @@ tags:
 
 ## Etiquetas
 #REVISAR 
-#COMPLETAR y REVISAR
-#EJERCICIO : comprobarlo.
-#COMPLETAR con la foto, no he entendido nada.
-#REVISAR y COMPLETAR con la foto, no he entendido nada.
-#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
-#EJERCICIO :
 #REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
 #REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
 #EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
@@ -65,3 +59,9 @@ tags:
 #REVISAR : no sé si es un "ya que" o qué coño es
 #REVISAR : no entiendo
 #ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
+#COMPLETAR y REVISAR
+#EJERCICIO : comprobarlo.
+#COMPLETAR con la foto, no he entendido nada.
+#REVISAR y COMPLETAR con la foto, no he entendido nada.
+#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
+#EJERCICIO :
