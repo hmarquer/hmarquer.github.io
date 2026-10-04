@@ -10,8 +10,17 @@ labels:
   - h1e9b
   - h1e9c
   - h1e9d
+  - teo:con-convexo-rn-imp-hiperplano-soporte
+references:
+  - prop-proyeccion-ortogonal-convexo-cerrado
 ---
 
 [[m.1-fundamentos-de-analisis-entrega-1.pdf]]
 ![[m.1-fundamentos-de-analisis-entrega-1.pdf]]
 
+## Referencias
+- [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
+
+## Etiquetas
+#ORDENAR : referenciar resultado
+#COMPLETAR 
