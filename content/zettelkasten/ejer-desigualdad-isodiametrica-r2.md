@@ -2,9 +2,12 @@
 title: 'Ejercicio de demostración de la desigualdad isodiamétrica en $\R^2$'
 filename: 'ejer-desigualdad-isodiametrica-r2'
 created: '2026-10-03T23:13:09.732084332+00:00'
-last_edit_date: '2026-10-04T01:38:41.208982462+00:00'
-last_build_date_pdf: '2026-10-04T01:38:50.304085932+00:00'
+last_edit_date: '2026-10-04T13:19:04.671832405+00:00'
+last_build_date_pdf: '2026-10-04T13:19:11.900685454+00:00'
 labels:
+  - ejer-desigualdad-isodiametrica-r2-fig:grafica-f
+  - ejer-desigualdad-isodiametrica-r2-fig:k-hat-polar
+  - ejer-desigualdad-isodiametrica-r2-fig:reduccion-parametrizacion-polar
   - ejer:desigualdad-isodiametrica-r2
   - fig:conjunto-a
   - fig:envolvente-convexa

@@ -1,9 +1,9 @@
 ---
-title: 'Procesos estocásticos - Entrega 1: Martingalas y funciones armónicas'
+title: 'Procesos estocásticos. Entrega 1: martingalas y funciones armónicas'
 filename: 'm.1-procesos-estocasticos-entrega-1'
 created: '2026-09-30T10:43:21.327548024+00:00'
-last_edit_date: '2026-10-01T17:40:53.021827129+00:00'
-last_build_date_pdf: '2026-10-02T16:02:41.721202696+00:00'
+last_edit_date: '2026-10-04T16:48:00.559640256+00:00'
+last_build_date_pdf: '2026-10-04T16:48:10.812819640+00:00'
 references:
   - esp-probabilidad
   - esperanza
@@ -44,5 +44,3 @@ tags:
 - [teo-propiedad-media-fn-armonica](./teo-propiedad-media-fn-armonica.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#ORDENAR : corolario innecesario
