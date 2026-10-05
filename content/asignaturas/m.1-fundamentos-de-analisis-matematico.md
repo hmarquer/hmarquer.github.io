@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-04T16:58:06.244472201+00:00'
-last_build_date_pdf: '2026-10-04T16:58:13.751934025+00:00'
+last_edit_date: '2026-10-05T13:45:43.139768692+00:00'
+last_build_date_pdf: '2026-10-05T13:46:01.705748705+00:00'
 inclusions:
   - algebra-conjuntos
   - con-autosemejante
@@ -25,7 +25,6 @@ inclusions:
   - ejer-gamma-holder-imp-continuidad
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - ejer-medida-hausdorff-dim-0-contar
-  - ejer-medida-hausdorff-sigma-finita
   - esp-banach
   - esp-hilbert
   - esp-lp
@@ -60,6 +59,7 @@ inclusions:
   - prod-escalar
   - prod-hermitico
   - prod-interno
+  - prop-carac-fn-convexa
   - prop-con-borel-imp-medible-hausdorff
   - prop-fn-convexa
   - prop-homogeneidad-medida-hausdorff
@@ -93,7 +93,6 @@ tags:
 
 ### hoja1
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
-- [ejer-medida-hausdorff-sigma-finita](./ejer-medida-hausdorff-sigma-finita.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 
@@ -177,6 +176,7 @@ tags:
 - [prod-escalar](./prod-escalar.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
+- [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
@@ -200,3 +200,7 @@ tags:
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
 #REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa?
 #REVISAR : está totalmente mal, fumada del profesor
+#COMPLETAR : terminar la demostración
+#DEMOSTRACIÓN : es aplicar la proposición anterior
+#DEMOSTRACIÓN : por contradicción
+#REVISAR : está mal

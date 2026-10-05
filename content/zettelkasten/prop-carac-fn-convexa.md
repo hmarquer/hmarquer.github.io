@@ -2,8 +2,8 @@
 title: 'Caracterizaciones de una función convexa'
 filename: 'prop-carac-fn-convexa'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-09-30T14:03:48.404498110+00:00'
-last_build_date_pdf: '2026-10-03T01:21:42.696838783+00:00'
+last_edit_date: '2026-10-05T12:33:42.522282076+00:00'
+last_build_date_pdf: '2026-10-05T12:33:50.827160089+00:00'
 labels:
   - fig:secantes-fn-convexa
   - prop:carac-fn-convexa
@@ -13,7 +13,9 @@ backlinks:
   - desigualdad-jensen
 projects:
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - variable-real/tema1
 ---
 
@@ -24,4 +26,4 @@ tags:
 - [fn-convexa](./fn-convexa.md)
 
 ## Etiquetas
-#EJERCICIO 
+#COMPLETAR : terminar demostración

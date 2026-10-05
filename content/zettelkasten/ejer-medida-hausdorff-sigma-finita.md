@@ -12,10 +12,6 @@ references:
   - medida-hausdorff
   - medida-sigma-finita
   - teo-medibilidad-borel-medida-exterior-metrica
-projects:
-  - m.1-fundamentos-de-analisis-matematico
-tags:
-  - m.1-fundamentos-de-analisis-matematico/hoja1
 ---
 
 [[ejer-medida-hausdorff-sigma-finita.pdf]]
