@@ -9,8 +9,6 @@ labels:
 references:
   - esp-metrico
   - semejanza
-backlinks:
-  - m.1-fda-h1-e19
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
