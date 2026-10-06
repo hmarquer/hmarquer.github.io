@@ -2,8 +2,8 @@
 title: 'Dimensión de Hausdorff'
 filename: 'cor-dim-hausdorff'
 created: '2026-09-13T15:40:34.700343971+00:00'
-last_edit_date: '2026-09-14T10:51:39.709138334+00:00'
-last_build_date_pdf: '2026-09-20T16:34:47.046389746+00:00'
+last_edit_date: '2026-10-06T14:03:26.943250423+00:00'
+last_build_date_pdf: '2026-10-06T14:03:33.038781584+00:00'
 labels:
   - cor:dim-hausdorff
 references:
@@ -14,6 +14,8 @@ backlinks:
   - cor-dimension-hausdorff-fn-gamma-holder
   - ejems-dim-hausdorff
   - lem-dim-hausdorff-con-cantor-cota-superior
+  - lem-estabilidad-numerable-dim-hausdorff
+  - lem-monotonia-dim-hausdorff
   - m.1-fda-h1-e19
 projects:
   - m.1-fundamentos-de-analisis-matematico

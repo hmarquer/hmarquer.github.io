@@ -10,10 +10,6 @@ labels:
   - h1e9b
   - h1e9c
   - h1e9d
-projects:
-  - m.1-fundamentos-de-analisis-matematico
-tags:
-  - m.1-fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
 ---
 
 [[m.1-fundamentos-de-analisis-entrega-1.pdf]]
