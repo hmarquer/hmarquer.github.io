@@ -20,7 +20,6 @@ backlinks:
   - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
   - lem-monotonia-dim-hausdorff
-  - m.1-fda-h1-e19
   - medida-hausdorff
   - prop-homogeneidad-medida-hausdorff
   - prop-medida-exterior-hausdorff-metrica
