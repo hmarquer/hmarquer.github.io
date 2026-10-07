@@ -13,8 +13,10 @@ backlinks:
   - lem-esp-banach-funcionales-lineales-dependientes
 projects:
   - 4.1-analisis-funcional
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema2
+  - m.1-fundamentos-de-analisis-matematico/tema2
 ---
 
 [[dual-algebraico.pdf]]

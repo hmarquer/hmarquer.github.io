@@ -2,10 +2,11 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-07T01:26:53.719101377+00:00'
-last_build_date_pdf: '2026-10-07T01:27:04.913744173+00:00'
+last_edit_date: '2026-10-07T13:20:40.086704973+00:00'
+last_build_date_pdf: '2026-10-07T13:20:50.787849103+00:00'
 inclusions:
   - algebra-conjuntos
+  - apl-lineal
   - con-autosemejante
   - con-cantor
   - con-caratheodory-medible
@@ -19,12 +20,15 @@ inclusions:
   - distancia-conjuntos
   - distancia-hausdorff
   - distancia-pnt-con
+  - dual-algebraico
+  - dual-topologico
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
   - ejer-gamma-holder-imp-continuidad
   - ejer-medida-hausdorff-comparacion-medida-lebesgue
   - ejer-medida-hausdorff-dim-0-contar
+  - esp-apl-lineales-continuas
   - esp-banach
   - esp-hilbert
   - esp-lp
@@ -59,10 +63,14 @@ inclusions:
   - prod-escalar
   - prod-hermitico
   - prod-interno
+  - prop-apl-lineales-continuas-esp-vectorial
+  - prop-apl-lineales-continuas-norma
   - prop-carac-fn-convexa
   - prop-con-borel-imp-medible-hausdorff
+  - prop-esp-dual-banach
   - prop-fn-convexa
   - prop-homogeneidad-medida-hausdorff
+  - prop-inclusion-lp-esp-finito
   - prop-medida-exterior-asociada
   - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-metrica
@@ -74,6 +82,7 @@ inclusions:
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
+  - teo-carac-continuidad-apl-lineal
   - teo-caratheodory-i
   - teo-caratheodory-ii
   - teo-convergencia-dominada
@@ -160,9 +169,13 @@ tags:
 - [teo-medibilidad-borel-medida-exterior-metrica](./teo-medibilidad-borel-medida-exterior-metrica.md)
 
 ### tema2
+- [apl-lineal](./apl-lineal.md)
 - [desigualdad-holder](./desigualdad-holder.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
+- [dual-algebraico](./dual-algebraico.md)
+- [dual-topologico](./dual-topologico.md)
 - [ejem-norma-lp-p01-imp-no-norma](./ejem-norma-lp-p01-imp-no-norma.md)
+- [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [esp-banach](./esp-banach.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [esp-lp](./esp-lp.md)
@@ -176,8 +189,13 @@ tags:
 - [prod-escalar](./prod-escalar.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
+- [prop-apl-lineales-continuas-esp-vectorial](./prop-apl-lineales-continuas-esp-vectorial.md)
+- [prop-apl-lineales-continuas-norma](./prop-apl-lineales-continuas-norma.md)
 - [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
+- [prop-esp-dual-banach](./prop-esp-dual-banach.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
+- [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
+- [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
@@ -198,9 +216,11 @@ tags:
 #COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
-#REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa?
+#ORDENAR : incluir caso p=1 y p=\infty
+#REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa? %ORDENAR: incluir caso p=1 y p=\infty
 #REVISAR : está totalmente mal, fumada del profesor
 #COMPLETAR : terminar la demostración
 #DEMOSTRACIÓN : es aplicar la proposición anterior
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal
+#COMPLETAR incluir ejemplos de variable real para ver que $\mathcal{L}^p \not\subset \mathcal{L}^q$ y $\mathcal{L}^q \not\subset \mathcal{L}^p$ para $p < q$ en un espacio de medida no finito.
