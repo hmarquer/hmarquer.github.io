@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-04T16:48:00.559640256+00:00'
-last_build_date_pdf: '2026-10-04T16:49:33.050225479+00:00'
+last_edit_date: '2026-10-08T16:59:09.831117571+00:00'
+last_build_date_pdf: '2026-10-08T16:59:15.306179637+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
@@ -59,9 +59,15 @@ tags:
 #REVISAR : no sé si es un "ya que" o qué coño es
 #REVISAR : no entiendo
 #ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
+#FALTA 
 #COMPLETAR y REVISAR
 #EJERCICIO : comprobarlo.
 #COMPLETAR con la foto, no he entendido nada.
 #REVISAR y COMPLETAR con la foto, no he entendido nada.
 #EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
 #EJERCICIO :
+#COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
+#ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
+#DEMOSTRACIÓN 
+#EJERCICIO : terminar demostración
+#COMPLETAR el argumento por densidad
