@@ -15,7 +15,7 @@ backlinks:
   - conjugada-armonica
   - cor-min-fn-armonica
   - lem-unicidad-armonica
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - prop-fn-armonica-imp-derivada-holomorfa
   - prop-fn-armonica-simplemente-conexo-imp-holomorfa
   - teo-max-fn-armonica

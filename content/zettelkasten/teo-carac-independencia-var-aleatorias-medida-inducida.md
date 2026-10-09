@@ -11,7 +11,7 @@ references:
   - medida-inducida
   - var-aleatoria
 backlinks:
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
 ---
 
 [[teo-carac-independencia-var-aleatorias-medida-inducida.pdf]]

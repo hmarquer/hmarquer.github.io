@@ -19,7 +19,7 @@ backlinks:
   - independencia-sigma-algebras
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - medida
   - medida-signo
   - mindependencia-sigma-algebras

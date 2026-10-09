@@ -17,7 +17,7 @@ backlinks:
   - ley-0-1-kolmogorov
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - prop-varianza-sum-var-aleatorias-indep
   - quijote-infinito
   - teo-central-limite

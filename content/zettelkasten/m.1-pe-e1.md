@@ -1,9 +1,9 @@
 ---
 title: 'Procesos estocásticos. Entrega 1: martingalas y funciones armónicas'
-filename: 'm.1-procesos-estocasticos-entrega-1'
+filename: 'm.1-pe-e1'
 created: '2026-09-30T10:43:21.327548024+00:00'
 last_edit_date: '2026-10-04T16:48:00.559640256+00:00'
-last_build_date_pdf: '2026-10-04T16:48:10.812819640+00:00'
+last_build_date_pdf: '2026-10-09T12:43:21.449847949+00:00'
 references:
   - esp-probabilidad
   - esperanza
@@ -25,8 +25,8 @@ tags:
   - m.1-procesos-estocasticos/m.1-procesos-estocasticos
 ---
 
-[[m.1-procesos-estocasticos-entrega-1.pdf]]
-![[m.1-procesos-estocasticos-entrega-1.pdf]]
+[[m.1-pe-e1.pdf]]
+![[m.1-pe-e1.pdf]]
 
 ## Referencias
 - [esp-probabilidad](./esp-probabilidad.md)

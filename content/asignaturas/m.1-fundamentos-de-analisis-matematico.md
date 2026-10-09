@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-07T13:20:40.086704973+00:00'
-last_build_date_pdf: '2026-10-07T13:20:50.787849103+00:00'
+last_edit_date: '2026-10-09T11:36:39.386350070+00:00'
+last_build_date_pdf: '2026-10-09T16:14:33.999607958+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -50,7 +50,7 @@ inclusions:
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
-  - m.1-fundamentos-de-analisis-entrega-1
+  - m.1-fda-e1
   - medida
   - medida-exterior
   - medida-exterior-metrica
@@ -106,7 +106,7 @@ tags:
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
 
 ### m.1-fundamentos-de-analisis-matematico
-- [m.1-fundamentos-de-analisis-entrega-1](./m.1-fundamentos-de-analisis-entrega-1.md)
+- [m.1-fda-e1](./m.1-fda-e1.md)
 
 ### tema0
 - [algebra-conjuntos](./algebra-conjuntos.md)
