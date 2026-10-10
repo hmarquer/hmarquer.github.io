@@ -21,7 +21,7 @@ references:
   - teo-convergencia-monotona
   - var-aleatoria
 backlinks:
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
 ---
 
 [[teo-medida-inducida-integral-fn-medible.pdf]]

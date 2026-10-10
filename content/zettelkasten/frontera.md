@@ -9,6 +9,8 @@ labels:
 references:
   - esp-topologico
 backlinks:
+  - ejer-desigualdad-isodiametrica-r2
+  - teo-con-convexo-rn-imp-hiperplano-soporte
   - teo-curva-jordan
 ---
 

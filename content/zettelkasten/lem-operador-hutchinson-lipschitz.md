@@ -3,7 +3,7 @@ title: 'Lem operador hutchinson lipschitz'
 filename: 'lem-operador-hutchinson-lipschitz'
 created: '2026-10-02T16:31:30.479228060+00:00'
 last_edit_date: '2026-10-02T16:31:38.382339943+00:00'
-last_build_date_pdf: '2026-10-02T16:31:44.701022076+00:00'
+last_build_date_pdf: '2026-10-04T00:41:32.839080419+00:00'
 labels:
   - lem:operador-hutchinson-lipschitz
 references:

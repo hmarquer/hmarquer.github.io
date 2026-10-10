@@ -12,7 +12,7 @@ references:
   - dominio
   - fn-armonica
 backlinks:
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
 ---
 
 [[teo-propiedad-media-fn-armonica.pdf]]

@@ -17,7 +17,9 @@ references:
   - norma-lp
 projects:
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - m.1-fundamentos-de-analisis-matematico/tema2
   - variable-real/parcial
   - variable-real/tema1
 ---

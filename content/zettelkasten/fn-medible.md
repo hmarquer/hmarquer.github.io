@@ -27,7 +27,7 @@ backlinks:
   - lem-fatou
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - norma-lp
   - proceso-estocastico-adaptado
   - prop-convergencia-puntual-dominada-imp-lp
@@ -35,6 +35,7 @@ backlinks:
   - prop-suma-fn-medibles
   - sigma-algebra-fn
   - supremo-esencial
+  - teo-cambio-variables-integral-rn
   - teo-convergencia-dominada
   - teo-convergencia-monotona
   - teo-hardy-littlewood

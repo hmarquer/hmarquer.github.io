@@ -2,8 +2,8 @@
 title: 'Medida de Hausdorff'
 filename: 'medida-hausdorff'
 created: '2026-09-12T21:17:22.757300970+00:00'
-last_edit_date: '2026-09-20T15:23:19.056373507+00:00'
-last_build_date_pdf: '2026-09-20T16:33:47.374883791+00:00'
+last_edit_date: '2026-10-06T01:26:01.012585037+00:00'
+last_build_date_pdf: '2026-10-10T04:37:11.297992731+00:00'
 labels:
   - defn:medida-hausdorff
 references:

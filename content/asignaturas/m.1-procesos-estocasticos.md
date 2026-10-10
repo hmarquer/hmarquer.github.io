@@ -2,15 +2,15 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-02T16:01:55.861549304+00:00'
-last_build_date_pdf: '2026-10-03T01:21:55.876292528+00:00'
+last_edit_date: '2026-10-09T16:25:45.764142751+00:00'
+last_build_date_pdf: '2026-10-10T04:37:53.668397877+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esperanza-condicionada-sigma-algebra
   - filtracion
   - lem-carac-tiempo-parada
   - lem-norma-lp-integral-fn-distribucion
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - martingala
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
@@ -28,7 +28,7 @@ tags:
 ## Notas incluidas
 
 ### m.1-procesos-estocasticos
-- [m.1-procesos-estocasticos-entrega-1](./m.1-procesos-estocasticos-entrega-1.md)
+- [m.1-pe-e1](./m.1-pe-e1.md)
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
@@ -65,3 +65,9 @@ tags:
 #REVISAR : no sé si es un "ya que" o qué coño es
 #REVISAR : no entiendo
 #ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
+#FALTA 
+#COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
+#ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
+#DEMOSTRACIÓN 
+#EJERCICIO : terminar demostración
+#COMPLETAR el argumento por densidad

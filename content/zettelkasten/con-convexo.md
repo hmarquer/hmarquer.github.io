@@ -18,6 +18,7 @@ backlinks:
   - prop-proyeccion-ortogonal-convexo-cerrado
   - teo-cauchy-goursat-convexo
   - teo-cerrado-convexo-hilbert-imp-exists-min-norma
+  - teo-con-convexo-rn-imp-hiperplano-soporte
   - teo-convexo-imp-cerrado-debil-iff-fuerte
   - teo-densidad-induce-metrica
   - teo-esp-banach-uniformemente-convexo-reflexivo-fn-convexa-coercitiva-semicontinua-inferior-minimo

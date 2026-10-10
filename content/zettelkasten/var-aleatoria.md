@@ -30,7 +30,7 @@ backlinks:
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - lem-var-aleatoria-fn-distribucion-c1
   - ley-0-1-kolmogorov
-  - m.1-procesos-estocasticos-entrega-1
+  - m.1-pe-e1
   - medida-inducida
   - mindependencia-var-aleatorias
   - momento-p

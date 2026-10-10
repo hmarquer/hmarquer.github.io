@@ -35,6 +35,7 @@ backlinks:
   - prop-integral-linea-compleja-reparametrizacion
   - prop-regla-cadena-wirtinger
   - prop-transformada-fourier-derivada-n
+  - teo-cambio-variables-integral-rn
   - teo-fn-implicita
   - teo-fn-inversa
   - teo-fn-inversa-holomorfas
