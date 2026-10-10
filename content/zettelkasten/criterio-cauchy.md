@@ -2,7 +2,7 @@
 title: 'Criterio cauchy'
 filename: 'criterio-cauchy'
 created: '2025-04-23 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
+last_edit_date: '2026-09-03T09:44:22.564757591+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.154303304+00:00'
 labels:
   - teo:criterio-cauchy

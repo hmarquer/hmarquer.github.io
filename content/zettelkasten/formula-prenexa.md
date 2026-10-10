@@ -2,7 +2,7 @@
 title: 'Formula prenexa'
 filename: 'formula-prenexa'
 created: '2026-03-26 11:41:05.264237'
-last_edit_date: '2026-09-06T15:26:21.222659630+00:00'
+last_edit_date: '2026-09-03T09:44:22.605059478+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.309190308+00:00'
 labels:
   - defn:formula-prenexa

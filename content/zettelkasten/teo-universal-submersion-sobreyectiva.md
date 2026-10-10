@@ -2,7 +2,7 @@
 title: 'Propiedad universal de las submersiones sobreyectivas'
 filename: 'teo-universal-submersion-sobreyectiva'
 created: '2025-06-08 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
+last_edit_date: '2026-09-03T09:44:22.769408956+00:00'
 last_build_date_pdf: '2026-09-15T23:12:44.890992120+00:00'
 labels:
   - teo:universal-submersion-sobreyectiva

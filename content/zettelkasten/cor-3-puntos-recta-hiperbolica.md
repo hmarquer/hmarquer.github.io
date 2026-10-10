@@ -2,7 +2,7 @@
 title: 'Cor 3 Puntos Recta Hiperbolica'
 filename: 'cor-3-puntos-recta-hiperbolica'
 created: '2026-06-13T17:27:04.647329959+00:00'
-last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
+last_edit_date: '2026-09-03T09:44:22.553610725+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.735337371+00:00'
 labels:
   - cor:3-puntos-recta-hiperbolica

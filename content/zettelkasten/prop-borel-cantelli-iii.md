@@ -2,7 +2,7 @@
 title: 'Prop borel cantelli iii'
 filename: 'prop-borel-cantelli-iii'
 created: '2025-06-19 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_edit_date: '2026-09-03T09:44:22.683991600+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.535350716+00:00'
 labels:
   - dem:borel-cantelli-iii-1

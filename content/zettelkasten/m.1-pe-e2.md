@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos. Entrega 2: Procesos de ramificación'
 filename: 'm.1-pe-e2'
 created: '2026-10-09T11:32:58.927716941+00:00'
-last_edit_date: '2026-10-10T03:32:43.304109302+00:00'
-last_build_date_pdf: '2026-10-10T03:32:50.409285916+00:00'
+last_edit_date: '2026-10-10T05:09:17.055564260+00:00'
+last_build_date_pdf: '2026-10-10T05:09:23.687060557+00:00'
 labels:
   - eq:Xn-constante-cs
   - eq:esperanza-Xn
