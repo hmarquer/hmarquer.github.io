@@ -2,7 +2,7 @@
 title: 'Teo propiedad media fn armonica'
 filename: 'teo-propiedad-media-fn-armonica'
 created: '2026-10-01T17:33:06.417392097+00:00'
-last_edit_date: '2026-10-02T16:01:55.860608125+00:00'
+last_edit_date: '2026-10-01T17:33:06.429535344+00:00'
 last_build_date_pdf: '2026-10-03T01:21:29.890121949+00:00'
 labels:
   - teo:propiedad-media-fn-armonica
