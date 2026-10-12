@@ -27,6 +27,7 @@ backlinks:
   - prop-clase-ck-velocidad-convergencia-uniforme-fourier
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convolucion-exp-conjugados
+  - prop-desigualdad-chebyshev-general
   - prop-inclusion-lp-esp-finito
   - prop-inclusion-lp-general
   - teo-aproximacion-identidad-convolucion
@@ -34,6 +35,7 @@ backlinks:
   - teo-esp-l2-hilbert
   - teo-esp-lp-banach
   - teo-hardy-littlewood
+  - teo-inclusion-lp-lp-debil
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-probabilidad-ii

@@ -18,6 +18,7 @@ backlinks:
   - integral-linea-compleja-longitud
   - lem-dubois-reymond
   - longitud-camino
+  - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral
 projects:
   - 3.2-probabilidad-ii

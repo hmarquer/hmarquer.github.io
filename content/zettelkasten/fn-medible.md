@@ -12,11 +12,13 @@ backlinks:
   - convergencia-lp
   - convergencia-medida
   - convolucion
+  - cor-desigualdad-markov-general
   - cor-indep-var-aleatorias-fn-medibles
   - cor-integral-suma-infinita
   - desigualdad-chebyshev
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - esp-lp
+  - esp-lp-debil
   - fn-distribucion
   - fn-integrable
   - integral
@@ -31,6 +33,7 @@ backlinks:
   - norma-lp
   - proceso-estocastico-adaptado
   - prop-convergencia-puntual-dominada-imp-lp
+  - prop-desigualdad-chebyshev-general
   - prop-esperanza-fn
   - prop-suma-fn-medibles
   - sigma-algebra-fn

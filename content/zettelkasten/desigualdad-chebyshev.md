@@ -2,8 +2,8 @@
 title: 'Desigualdad de Chebyshev'
 filename: 'desigualdad-chebyshev'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.567968838+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.409147975+00:00'
+last_edit_date: '2026-10-12T22:34:54.944763034+00:00'
+last_build_date_pdf: '2026-10-12T22:35:01.762745283+00:00'
 labels:
   - prop:desigualdad-chebyshev
 references:

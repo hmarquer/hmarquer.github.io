@@ -28,7 +28,9 @@ backlinks:
 projects:
   - 3.1-topologia
   - 4-teoria-descriptiva-de-conjuntos
+  - m-trabajo-de-fin-de-master
 tags:
+  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
   - teoria-descriptiva-de-conjuntos/tema1
   - topologia/tema1-1
 ---

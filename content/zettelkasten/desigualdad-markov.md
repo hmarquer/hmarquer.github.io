@@ -2,8 +2,8 @@
 title: 'Desigualdad de Markov'
 filename: 'desigualdad-markov'
 created: '2025-06-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.569156461+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.346853073+00:00'
+last_edit_date: '2026-10-12T22:37:42.615173154+00:00'
+last_build_date_pdf: '2026-10-12T22:37:49.533547593+00:00'
 labels:
   - cor:desigualdad-markov
 references:

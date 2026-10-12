@@ -11,6 +11,7 @@ references:
   - fn-medible
 backlinks:
   - lem-norma-lp-integral-fn-distribucion
+  - norma-lp-debil
 projects:
   - m-trabajo-de-fin-de-master
 tags:

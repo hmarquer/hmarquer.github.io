@@ -20,6 +20,7 @@ backlinks:
   - estructura-diferenciable
   - lem-operador-hutchinson-lipschitz
   - lem-zorn
+  - norma-lp-debil
   - obs-consecuencia-semantica-orden-parcial
   - prop-carac-anillo-noetheriano
   - prop-medida-exterior-hausdorff
