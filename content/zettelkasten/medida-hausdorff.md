@@ -3,7 +3,7 @@ title: 'Medida de Hausdorff'
 filename: 'medida-hausdorff'
 created: '2026-09-12T21:17:22.757300970+00:00'
 last_edit_date: '2026-10-03T22:35:29.640046722+00:00'
-last_build_date_pdf: '2026-10-03T22:35:36.640726942+00:00'
+last_build_date_pdf: '2026-10-10T04:37:11.297992731+00:00'
 labels:
   - defn:medida-hausdorff
 references:

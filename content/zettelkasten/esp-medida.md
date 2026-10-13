@@ -16,12 +16,14 @@ backlinks:
   - convergencia-lp
   - convergencia-medida
   - convolucion
+  - cor-desigualdad-markov-general
   - cor-integral-suma-infinita
   - desigualdad-jensen
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-filtros
   - esp-conteo
   - esp-lp
+  - esp-lp-debil
   - esp-medida-finito
   - esp-probabilidad
   - fn-distribucion
@@ -37,9 +39,11 @@ backlinks:
   - medida-completa
   - medida-sigma-finita
   - norma-lp
+  - norma-lp-debil
   - principio-inclusion-exclusion
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convergencia-puntual-dominada-imp-lp
+  - prop-desigualdad-chebyshev-general
   - prop-fn-simples-denso-lp
   - supremo-esencial
   - teo-convergencia-dominada
@@ -48,6 +52,7 @@ backlinks:
   - teo-esp-l2-hilbert
   - teo-esp-lp-banach
   - teo-fubini
+  - teo-inclusion-lp-lp-debil
   - teo-metrica-lp-0-1
 projects:
   - 3.2-probabilidad-ii

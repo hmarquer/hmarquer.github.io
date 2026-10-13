@@ -3,7 +3,7 @@ title: 'Cuerpo convexo'
 filename: 'cuerpo-convexo'
 created: '2026-10-02T18:02:03.428642924+00:00'
 last_edit_date: '2026-10-03T18:43:43.745253872+00:00'
-last_build_date_pdf: '2026-10-03T18:43:51.703751601+00:00'
+last_build_date_pdf: '2026-10-10T04:37:46.453950638+00:00'
 labels:
   - defn:cuerpo-convexo
 references:

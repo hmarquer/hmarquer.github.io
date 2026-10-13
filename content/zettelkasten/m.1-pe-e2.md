@@ -2,26 +2,37 @@
 title: 'Procesos estocásticos. Entrega 2: Procesos de ramificación'
 filename: 'm.1-pe-e2'
 created: '2026-10-09T11:32:58.927716941+00:00'
-last_edit_date: '2026-10-09T16:08:06.537095213+00:00'
-last_build_date_pdf: '2026-10-09T16:08:12.868142262+00:00'
+last_edit_date: '2026-10-13T10:08:08.644840198+00:00'
+last_build_date_pdf: '2026-10-13T16:52:33.685920173+00:00'
 labels:
-  - teo:ley-esperanza-total-var-no-negativa
+  - eq:Xn-constante-cs
+  - eq:esperanza-Xn
+  - eq:esperanza-condicionada-Xn-Fn-1
+  - eq:prob-Xn-positivo
+  - m.1-pe-e2:e1
+  - m.1-pe-e2:e2
+  - m.1-pe-e2:e3
+  - m.1-pe-e2:e3:paso1
+  - m.1-pe-e2:e3:paso2
+  - m.1-pe-e2:e3:paso3
+  - m.1-pe-e2:e3:paso4
+  - m.1-pe-e2:e4
+  - m.1-pe-e2:e4:a
+  - m.1-pe-e2:e4:b
+  - m.1-pe-e2:e4:c
 references:
-  - esperanza-condicionada-sigma-algebra
   - teo-convergencia-martingalas
-  - teo-convergencia-monotona
   - teo-ley-esperanza-total-var-no-negativa
+projects:
+  - m.1-procesos-estocasticos
+tags:
+  - m.1-procesos-estocasticos/m.1-procesos-estocasticos
 ---
 
 [[m.1-pe-e2.pdf]]
 ![[m.1-pe-e2.pdf]]
 
 ## Referencias
-- [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [teo-convergencia-martingalas](./teo-convergencia-martingalas.md)
-- [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [teo-ley-esperanza-total-var-no-negativa](./teo-ley-esperanza-total-var-no-negativa.md)
 
-## Etiquetas
-#REVISAR : última igualdad
-#ORDENAR : referenciar resultados

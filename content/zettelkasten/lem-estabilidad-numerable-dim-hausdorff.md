@@ -3,7 +3,7 @@ title: 'Estabilidad numerable de la dimensión de Hausdorff'
 filename: 'lem-estabilidad-numerable-dim-hausdorff'
 created: '2026-10-06T14:10:53.729331610+00:00'
 last_edit_date: '2026-10-06T14:11:05.903371088+00:00'
-last_build_date_pdf: '2026-10-06T14:11:13.007217989+00:00'
+last_build_date_pdf: '2026-10-10T04:37:18.073019687+00:00'
 labels:
   - lem:estabilidad-numerable-dim-hausdorff
 references:
