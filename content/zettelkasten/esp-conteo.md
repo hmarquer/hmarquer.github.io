@@ -2,7 +2,7 @@
 title: 'Espacio conteo'
 filename: 'esp-conteo'
 created: '2025-10-17 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
+last_edit_date: '2026-09-03T09:44:22.583823422+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.196756572+00:00'
 labels:
   - defn:esp-conteo

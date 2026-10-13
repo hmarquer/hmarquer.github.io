@@ -111,6 +111,6 @@ tags:
 - [dim-krull](./dim-krull.md)
 
 ## Etiquetas
-#REVISAR 
-#ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
 #EJERCICIO 
+#ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
+#REVISAR 
