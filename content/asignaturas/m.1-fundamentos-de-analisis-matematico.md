@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-09T11:36:39.386350070+00:00'
-last_build_date_pdf: '2026-10-10T04:37:57.123193494+00:00'
+last_edit_date: '2026-10-14T13:22:21.158738537+00:00'
+last_build_date_pdf: '2026-10-14T13:22:28.974056588+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -199,9 +199,9 @@ tags:
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
-#EJERCICIO 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR 
+#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -224,3 +224,5 @@ tags:
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal
 #COMPLETAR incluir ejemplos de variable real para ver que $\mathcal{L}^p \not\subset \mathcal{L}^q$ y $\mathcal{L}^q \not\subset \mathcal{L}^p$ para $p < q$ en un espacio de medida no finito.
+#DEMOSTRACIÓN :
+#COMPLETAR 
