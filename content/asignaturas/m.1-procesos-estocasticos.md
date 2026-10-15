@@ -2,21 +2,25 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-15T11:59:58.428584982+00:00'
-last_build_date_pdf: '2026-10-15T12:00:04.203028869+00:00'
+last_edit_date: '2026-10-15T16:57:47.072400157+00:00'
+last_build_date_pdf: '2026-10-15T16:58:03.381237393+00:00'
 inclusions:
   - desigualdad-jensen-condicional
+  - esp-polaco
   - esperanza-condicionada-sigma-algebra
   - filtracion
+  - lambda-sistema
   - lem-carac-tiempo-parada
   - lem-norma-lp-integral-fn-distribucion
   - m.1-pe-e1
   - m.1-pe-e2
   - martingala
+  - pi-sistema
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
   - submartingala
   - supermartingala
+  - teo-pi-sistema-subset-lambda-sistema
   - teo-radon-nikodym
   - tiempo-parada
 tags:
@@ -48,6 +52,12 @@ tags:
 - [supermartingala](./supermartingala.md)
 - [tiempo-parada](./tiempo-parada.md)
 
+### tema2
+- [esp-polaco](./esp-polaco.md)
+- [lambda-sistema](./lambda-sistema.md)
+- [pi-sistema](./pi-sistema.md)
+- [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
+
 ## Etiquetas
 #REVISAR 
 #REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
@@ -73,4 +83,3 @@ tags:
 #DEMOSTRACIÓN 
 #EJERCICIO : terminar demostración
 #COMPLETAR el argumento por densidad
-#COMPLETAR : lo mismo para el complementario
