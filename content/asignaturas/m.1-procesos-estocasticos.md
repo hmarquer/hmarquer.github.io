@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-15T16:57:47.072400157+00:00'
-last_build_date_pdf: '2026-10-15T16:58:03.381237393+00:00'
+last_edit_date: '2026-10-15T17:02:05.983253476+00:00'
+last_build_date_pdf: '2026-10-15T17:02:15.533316981+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esp-polaco
@@ -83,3 +83,4 @@ tags:
 #DEMOSTRACIÓN 
 #EJERCICIO : terminar demostración
 #COMPLETAR el argumento por densidad
+#DEMOSTRACIÓN : completar esta parte
