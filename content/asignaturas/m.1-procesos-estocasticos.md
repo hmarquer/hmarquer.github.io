@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-15T17:02:05.983253476+00:00'
-last_build_date_pdf: '2026-10-15T17:02:15.533316981+00:00'
+last_edit_date: '2026-10-15T18:25:33.221932435+00:00'
+last_build_date_pdf: '2026-10-15T18:25:43.057386056+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esp-polaco

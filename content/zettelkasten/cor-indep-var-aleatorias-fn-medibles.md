@@ -14,6 +14,10 @@ references:
   - fn-medible
   - mindependencia-var-aleatorias
   - vec-aleatorio
+projects:
+  - 3.2-probabilidad-ii
+tags:
+  - probabilidad-ii/tema1
 ---
 
 [[cor-indep-var-aleatorias-fn-medibles.pdf]]

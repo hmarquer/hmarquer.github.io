@@ -2,14 +2,13 @@
 title: 'Teorema $\pi$-$\lambda$'
 filename: 'teo-pi-sistema-subset-lambda-sistema'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-10-15T16:47:33.524422785+00:00'
-last_build_date_pdf: '2026-10-15T16:47:40.009915872+00:00'
+last_edit_date: '2026-10-15T17:54:00.808995468+00:00'
+last_build_date_pdf: '2026-10-15T17:54:09.808484582+00:00'
 labels:
-  - lem:lambda-sistema-cerrado-intersecciones-finita-imp-sigma-algebra
   - teo:pi-sistema-subset-lambda-sistema
 references:
   - lambda-sistema
-  - lem-lambda-sistema-cerrado-intersecciones-finita-imp-sigma-algebra
+  - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - pi-sistema
   - sigma-algebra-generada
 backlinks:
@@ -27,9 +26,7 @@ tags:
 
 ## Referencias
 - [lambda-sistema](./lambda-sistema.md)
-- [lem-lambda-sistema-cerrado-intersecciones-finita-imp-sigma-algebra](./lem-lambda-sistema-cerrado-intersecciones-finita-imp-sigma-algebra.md)
+- [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
 - [pi-sistema](./pi-sistema.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 
-## Etiquetas
-#DEMOSTRACIÓN : completarla
