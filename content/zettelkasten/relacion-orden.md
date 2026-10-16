@@ -18,6 +18,8 @@ backlinks:
   - distancia-conjuntos
   - distancia-pnt-con
   - estructura-diferenciable
+  - integrabilidad-uniforme
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-operador-hutchinson-lipschitz
   - lem-zorn
   - norma-lp-debil

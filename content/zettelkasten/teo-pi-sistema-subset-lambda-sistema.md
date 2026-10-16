@@ -2,21 +2,22 @@
 title: 'Teorema $\pi$-$\lambda$'
 filename: 'teo-pi-sistema-subset-lambda-sistema'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.761730258+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.083252113+00:00'
+last_edit_date: '2026-10-16T11:30:39.422295543+00:00'
+last_build_date_pdf: '2026-10-16T18:14:30.462883393+00:00'
 labels:
   - teo:pi-sistema-subset-lambda-sistema
 references:
   - lambda-sistema
+  - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - pi-sistema
   - sigma-algebra-generada
 backlinks:
   - prop-indep-pi-sistemas-imp-indep-sigma-algebras
-citations:
-  - durrettProbabilityTheoryExamples2019
 projects:
   - 3.2-probabilidad-ii
+  - m.1-procesos-estocasticos
 tags:
+  - m.1-procesos-estocasticos/tema2
   - probabilidad-ii/tema1
 ---
 
@@ -25,6 +26,7 @@ tags:
 
 ## Referencias
 - [lambda-sistema](./lambda-sistema.md)
+- [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
 - [pi-sistema](./pi-sistema.md)
 - [sigma-algebra-generada](./sigma-algebra-generada.md)
 

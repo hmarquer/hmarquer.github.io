@@ -3,7 +3,7 @@ title: 'Esp lp debil'
 filename: 'esp-lp-debil'
 created: '2026-10-12T22:58:26.357153986+00:00'
 last_edit_date: '2026-10-12T22:58:26.360342524+00:00'
-last_build_date_pdf: '2026-10-12T23:07:29.634460308+00:00'
+last_build_date_pdf: '2026-10-13T16:52:39.171458496+00:00'
 labels:
   - defn:esp-lp-debil
 references:

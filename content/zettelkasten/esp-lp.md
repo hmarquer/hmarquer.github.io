@@ -36,6 +36,7 @@ backlinks:
   - lem-esp-lp-vectorial
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-riemann-lebesgue-l1
   - lem-riemann-lebesgue-r
   - lem-transformada-fourier-conmutativa-integral

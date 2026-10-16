@@ -13,6 +13,7 @@ backlinks:
   - acotacion-uniforme-compactos
   - interior-curva
   - lem-acotado-dual-imp-acotado
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - prop-convergencia-uniforme-borde-imp-convergencia-uniforme-interior
   - teo-curva-jordan
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados

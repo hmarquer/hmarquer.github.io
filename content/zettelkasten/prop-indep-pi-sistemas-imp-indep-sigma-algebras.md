@@ -2,8 +2,8 @@
 title: 'La independencia de $\pi$-sistemas implica la independencia de las $\sigma$-álgebras generadas'
 filename: 'prop-indep-pi-sistemas-imp-indep-sigma-algebras'
 created: '2025-02-22 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.702094146+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.505248224+00:00'
+last_edit_date: '2026-10-16T11:30:39.422219711+00:00'
+last_build_date_pdf: '2026-10-16T18:14:30.367866481+00:00'
 labels:
   - prop:indep-pi-sistemas-imp-indep-sigma-algebras
 references:

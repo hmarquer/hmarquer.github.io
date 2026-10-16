@@ -19,6 +19,7 @@ backlinks:
   - independencia-sigma-algebras
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - m.1-pe-e1
   - medida
   - medida-signo

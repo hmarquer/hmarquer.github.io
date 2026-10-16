@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-09T16:25:45.763704052+00:00'
-last_build_date_pdf: '2026-10-10T04:37:57.123193494+00:00'
+last_edit_date: '2026-10-16T11:30:39.422576561+00:00'
+last_build_date_pdf: '2026-10-16T18:14:46.998592520+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -224,3 +224,5 @@ tags:
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal
 #COMPLETAR incluir ejemplos de variable real para ver que $\mathcal{L}^p \not\subset \mathcal{L}^q$ y $\mathcal{L}^q \not\subset \mathcal{L}^p$ para $p < q$ en un espacio de medida no finito.
+#DEMOSTRACIÓN :
+#COMPLETAR 

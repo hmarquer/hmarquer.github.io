@@ -2,21 +2,27 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-12T12:31:44.212898770+00:00'
-last_build_date_pdf: '2026-10-12T12:31:51.658303173+00:00'
+last_edit_date: '2026-10-16T18:14:10.702839560+00:00'
+last_build_date_pdf: '2026-10-16T18:14:43.695231105+00:00'
 inclusions:
   - desigualdad-jensen-condicional
+  - esp-polaco
   - esperanza-condicionada-sigma-algebra
   - filtracion
+  - integrabilidad-uniforme
+  - lambda-sistema
   - lem-carac-tiempo-parada
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - m.1-pe-e1
   - m.1-pe-e2
   - martingala
+  - pi-sistema
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
   - submartingala
   - supermartingala
+  - teo-pi-sistema-subset-lambda-sistema
   - teo-radon-nikodym
   - tiempo-parada
 tags:
@@ -40,13 +46,21 @@ tags:
 
 ### tema1
 - [filtracion](./filtracion.md)
+- [integrabilidad-uniforme](./integrabilidad-uniforme.md)
 - [lem-carac-tiempo-parada](./lem-carac-tiempo-parada.md)
+- [lem-integrabilidad-uniforme-imp-acotacion-l1](./lem-integrabilidad-uniforme-imp-acotacion-l1.md)
 - [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
 - [martingala](./martingala.md)
 - [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 - [submartingala](./submartingala.md)
 - [supermartingala](./supermartingala.md)
 - [tiempo-parada](./tiempo-parada.md)
+
+### tema2
+- [esp-polaco](./esp-polaco.md)
+- [lambda-sistema](./lambda-sistema.md)
+- [pi-sistema](./pi-sistema.md)
+- [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
 
 ## Etiquetas
 #REVISAR 
@@ -68,8 +82,11 @@ tags:
 #REVISAR : no entiendo
 #ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
 #FALTA 
+#COMPLETAR : incluir gráfica de la función
+#COMPLETAR : mirar apuntes de jacobo
+#DEMOSTRACIÓN 
 #COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
 #ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
-#DEMOSTRACIÓN 
 #EJERCICIO : terminar demostración
 #COMPLETAR el argumento por densidad
+#DEMOSTRACIÓN : completar esta parte

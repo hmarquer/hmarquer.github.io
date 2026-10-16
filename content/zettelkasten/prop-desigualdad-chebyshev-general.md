@@ -3,7 +3,7 @@ title: 'Desigualdad de Chebyshev general'
 filename: 'prop-desigualdad-chebyshev-general'
 created: '2026-10-12T22:34:26.365075182+00:00'
 last_edit_date: '2026-10-12T22:34:44.960399800+00:00'
-last_build_date_pdf: '2026-10-12T22:34:51.688676091+00:00'
+last_build_date_pdf: '2026-10-13T16:52:33.417530480+00:00'
 labels:
   - prop:desigualdad-chebyshev-general
 references:
