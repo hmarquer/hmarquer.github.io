@@ -2,7 +2,7 @@
 title: 'Toda subvariedad diferenciable es una variedad diferenciable'
 filename: 'lem-subvariedad-diferenciable-imp-variedad-diferenciable'
 created: '2025-06-06 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.649561067+00:00'
+last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.342165899+00:00'
 labels:
   - lem:subvariedad-diferenciable-imp-variedad-diferenciable

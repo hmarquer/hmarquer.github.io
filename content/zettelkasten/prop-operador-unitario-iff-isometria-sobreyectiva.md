@@ -2,7 +2,7 @@
 title: 'Prop operador unitario iff isometria sobreyectiva'
 filename: 'prop-operador-unitario-iff-isometria-sobreyectiva'
 created: '2026-03-11 21:45:39.068585'
-last_edit_date: '2026-09-03T09:44:22.704484370+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.806303340+00:00'
 labels:
   - prop:operador-unitario-iff-isometria-sobreyectiva

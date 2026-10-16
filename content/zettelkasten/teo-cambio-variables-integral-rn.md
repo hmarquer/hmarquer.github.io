@@ -2,7 +2,7 @@
 title: 'Teo cambio variables integral rn'
 filename: 'teo-cambio-variables-integral-rn'
 created: '2026-10-03T23:11:52.972968675+00:00'
-last_edit_date: '2026-10-06T01:26:01.012893757+00:00'
+last_edit_date: '2026-10-03T23:11:52.994031108+00:00'
 last_build_date_pdf: '2026-10-10T04:37:05.106100892+00:00'
 labels:
   - teo:cambio-variables-integral-rn

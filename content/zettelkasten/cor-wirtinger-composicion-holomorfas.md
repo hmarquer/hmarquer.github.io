@@ -2,7 +2,7 @@
 title: 'Derivada de Wirtinger para la composición de funciones'
 filename: 'cor-wirtinger-composicion-holomorfas'
 created: '2025-11-12 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.564562569+00:00'
+last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.536342594+00:00'
 labels:
   - cor:wirtinger-composicion-holomorfas

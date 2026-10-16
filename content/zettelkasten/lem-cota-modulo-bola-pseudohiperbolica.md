@@ -2,7 +2,7 @@
 title: 'Lem Cota Modulo Bola Pseudohiperbolica'
 filename: 'lem-cota-modulo-bola-pseudohiperbolica'
 created: '2026-06-12T11:18:27.282289727+00:00'
-last_edit_date: '2026-09-03T09:44:22.627283567+00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.637731938+00:00'
 labels:
   - lem:cota-modulo-bola-pseudohiperbolica
