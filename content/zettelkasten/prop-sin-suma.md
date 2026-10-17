@@ -2,7 +2,7 @@
 title: 'Fórmula del seno de la suma'
 filename: 'prop-sin-suma'
 created: '2026-01-12 18:20:20.015208'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_edit_date: '2026-09-03T09:44:22.707163564+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.596327220+00:00'
 labels:
   - prop:sin-suma

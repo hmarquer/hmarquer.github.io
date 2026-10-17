@@ -2,7 +2,7 @@
 title: 'Lem transformada fourier convolucion'
 filename: 'lem-transformada-fourier-convolucion'
 created: '2026-01-13 10:34:19.440372'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_edit_date: '2026-09-03T09:44:22.651062818+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.783597522+00:00'
 labels:
   - lem:transformada-fourier-convolucion

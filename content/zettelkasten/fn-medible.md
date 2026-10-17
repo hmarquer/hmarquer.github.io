@@ -2,7 +2,7 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.222659630+00:00'
+last_edit_date: '2026-09-03T09:44:22.600376798+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.014205460+00:00'
 labels:
   - defn:fn-medible
@@ -28,6 +28,7 @@ backlinks:
   - lem-convolucion
   - lem-esperanza-condicionada-mejor-aprox
   - lem-fatou
+  - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada

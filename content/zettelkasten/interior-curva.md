@@ -2,7 +2,7 @@
 title: 'Interior de una curva'
 filename: 'interior-curva'
 created: '2026-03-18 18:12:08.756692'
-last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
+last_edit_date: '2026-09-03T09:44:22.615558710+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.918400782+00:00'
 labels:
   - defn:interior-curva

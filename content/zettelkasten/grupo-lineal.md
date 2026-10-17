@@ -2,7 +2,7 @@
 title: 'Grupo lineal'
 filename: 'grupo-lineal'
 created: '2026-04-29T15:50:10.047798525+00:00'
-last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_edit_date: '2026-09-03T09:44:22.608533807+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.053382278+00:00'
 labels:
   - prop:grupo-lineal
