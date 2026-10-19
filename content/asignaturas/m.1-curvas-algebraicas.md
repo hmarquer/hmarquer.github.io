@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-10-19T14:53:13.986684912+00:00'
-last_build_date_pdf: '2026-10-19T14:57:22.167942500+00:00'
+last_edit_date: '2026-10-19T19:04:29.469558855+00:00'
+last_build_date_pdf: '2026-10-19T22:56:15.681998236+00:00'
 inclusions:
   - anillo-coordenadas-con-algebraico-afin
   - anillo-noetheriano
