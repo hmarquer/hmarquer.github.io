@@ -2,7 +2,7 @@
 title: 'Dimensión de Hausdorff'
 filename: 'cor-dim-hausdorff'
 created: '2026-09-13T15:40:34.700343971+00:00'
-last_edit_date: '2026-10-06T14:03:26.943250423+00:00'
+last_edit_date: '2026-10-09T16:25:45.760985333+00:00'
 last_build_date_pdf: '2026-10-10T04:37:28.189560689+00:00'
 labels:
   - cor:dim-hausdorff

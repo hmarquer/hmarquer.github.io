@@ -2,7 +2,7 @@
 title: 'Los automorfismos que fijan un subconjunto forman un subgrupo'
 filename: 'lem-subgrupo-automorfismos-fijan'
 created: '2026-02-10 17:56:15.312236'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_edit_date: '2026-09-03T09:44:22.648382371+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.786992279+00:00'
 labels:
   - lem:subgrupo-automorfismos-fijan
