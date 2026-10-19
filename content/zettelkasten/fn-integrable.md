@@ -15,6 +15,7 @@ backlinks:
   - desigualdad-jensen-condicional
   - esperanza
   - fn-densidad
+  - lem-fn-integrable-iff-lim-colas-0
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-transformada-fourier-convolucion
   - ley-debil-grandes-numeros

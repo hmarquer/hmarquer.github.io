@@ -12,6 +12,7 @@ backlinks:
   - desigualdad-jensen
   - esp-probabilidad
   - lem-convergencia-uniforme-esp-finito-imp-lp
+  - lem-fn-integrable-iff-lim-colas-0
   - prop-inclusion-lp-esp-finito
 projects:
   - 4.1-variable-real

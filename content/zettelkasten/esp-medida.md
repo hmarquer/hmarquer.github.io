@@ -28,11 +28,14 @@ backlinks:
   - esp-probabilidad
   - fn-distribucion
   - fn-integrable
+  - integrabilidad-uniforme
   - integral
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-fatou
+  - lem-fn-integrable-iff-lim-colas-0
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral

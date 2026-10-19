@@ -3,7 +3,7 @@ title: 'Todo $\lambda$-sistema cerrado bajo intersecciones finitas es una $\sigm
 filename: 'lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra'
 created: '2026-10-15T17:53:28.502230135+00:00'
 last_edit_date: '2026-10-15T17:53:36.615992170+00:00'
-last_build_date_pdf: '2026-10-15T17:53:42.667587876+00:00'
+last_build_date_pdf: '2026-10-16T18:14:30.313631814+00:00'
 labels:
   - lem:lambda-sistema-cerrado-interseccion-imp-sigma-algebra
 references:

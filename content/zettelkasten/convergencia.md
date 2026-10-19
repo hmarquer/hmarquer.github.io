@@ -18,6 +18,7 @@ backlinks:
   - convergencia-puntual
   - convergencia-serie
   - convergencia-uniforme
+  - integrabilidad-uniforme
   - lem-carac-convergencia-uniforme-compactos-convergencia-localmente-uniforme
   - lem-carac-precompacidad-subsucesion-esp-metrico
   - lem-continuidad-creciente-medida-exterior-metrica

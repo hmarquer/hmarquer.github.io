@@ -16,6 +16,7 @@ backlinks:
   - esperanza-condicionada-sigma-algebra
   - lem-convergencia-lp-traslacion
   - lem-convergencia-uniforme-esp-finito-imp-lp
+  - lem-fn-integrable-iff-lim-colas-0
   - lem-transformada-fourier-continua
   - ley-debil-grandes-numeros
   - obs-propiedades-dilatacion-isotropica

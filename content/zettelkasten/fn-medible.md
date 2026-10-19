@@ -21,12 +21,15 @@ backlinks:
   - esp-lp-debil
   - fn-distribucion
   - fn-integrable
+  - integrabilidad-uniforme
   - integral
   - lem-aprox-fn-simple
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-convolucion
   - lem-esperanza-condicionada-mejor-aprox
   - lem-fatou
+  - lem-fn-integrable-iff-lim-colas-0
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1

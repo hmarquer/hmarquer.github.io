@@ -14,9 +14,11 @@ references:
   - fn-simple
 backlinks:
   - convolucion
+  - integrabilidad-uniforme
   - integral-linea-compleja
   - integral-linea-compleja-longitud
   - lem-dubois-reymond
+  - lem-integrabilidad-uniforme-imp-acotacion-l1
   - longitud-camino
   - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral
