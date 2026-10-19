@@ -2,7 +2,7 @@
 title: 'La norma en el espacio de aplicaciones lineales continuas'
 filename: 'prop-apl-lineales-continuas-norma'
 created: '2025-10-29 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.681963346+00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.050941939+00:00'
 labels:
   - prop:apl-lineales-continuas-norma

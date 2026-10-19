@@ -2,7 +2,7 @@
 title: 'Teorema de Liouville'
 filename: 'teo-liouville'
 created: '2025-05-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.758777322+00:00'
+last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.868087768+00:00'
 labels:
   - teo:liouville

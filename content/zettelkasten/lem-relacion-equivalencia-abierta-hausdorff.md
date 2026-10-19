@@ -2,7 +2,7 @@
 title: 'Relación de equivalencia abierta y espacio cociente de Hausdorff'
 filename: 'lem-relacion-equivalencia-abierta-hausdorff'
 created: '2025-02-28 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.644637497+00:00'
+last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.364014405+00:00'
 labels:
   - lem:relacion-equivalencia-abierta-hausdorff
