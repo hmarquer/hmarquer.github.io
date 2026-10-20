@@ -46,6 +46,7 @@ backlinks:
   - esp-segundo-numerable
   - esp-separable
   - esp-topologico-completamente-metrizable
+  - esp-topologico-hausdorff
   - esp-topologico-metrizable
   - esp-topologico-regular
   - esp-topologico-secuencial
@@ -54,7 +55,6 @@ backlinks:
   - fn-semicontinua-inferior
   - frechet-topologia
   - frontera
-  - hausdorff-topologia
   - homeomorfismo
   - homotopia
   - homotopia-arcos

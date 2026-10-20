@@ -2,14 +2,14 @@
 title: 'Toda subvariedad diferenciable es una variedad diferenciable'
 filename: 'lem-subvariedad-diferenciable-imp-variedad-diferenciable'
 created: '2025-06-06 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.342165899+00:00'
+last_edit_date: '2026-10-20T18:17:44.482133119+00:00'
+last_build_date_pdf: '2026-10-20T18:26:50.497449353+00:00'
 labels:
   - lem:subvariedad-diferenciable-imp-variedad-diferenciable
 references:
   - embebimiento
+  - esp-topologico-hausdorff
   - estructura-diferenciable
-  - hausdorff-topologia
   - herencia-segundo-numerable
   - prop-estructura-diferenciable-inducida-homeomorfismo
   - subvariedad-diferenciable
@@ -26,8 +26,8 @@ tags:
 
 ## Referencias
 - [embebimiento](./embebimiento.md)
+- [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
 - [herencia-segundo-numerable](./herencia-segundo-numerable.md)
 - [prop-estructura-diferenciable-inducida-homeomorfismo](./prop-estructura-diferenciable-inducida-homeomorfismo.md)
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)

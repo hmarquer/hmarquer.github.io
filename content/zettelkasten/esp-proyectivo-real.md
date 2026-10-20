@@ -2,8 +2,8 @@
 title: 'Espacio proyectivo real'
 filename: 'esp-proyectivo-real'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.183937372+00:00'
+last_edit_date: '2026-10-20T18:17:44.483133119+00:00'
+last_build_date_pdf: '2026-10-20T18:26:50.946133945+00:00'
 labels:
   - defn:esp-proyectivo-real
 references:
@@ -15,9 +15,9 @@ references:
   - esp-proyectivo
   - esp-segundo-numerable
   - esp-topologico
+  - esp-topologico-hausdorff
   - esp-vectorial
   - estructura-diferenciable
-  - hausdorff-topologia
   - homeomorfismo
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-relacion-equivalencia-abierta-segundo-numerable
@@ -46,9 +46,9 @@ tags:
 - [esp-proyectivo](./esp-proyectivo.md)
 - [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
+- [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
 - [homeomorfismo](./homeomorfismo.md)
 - [lem-relacion-equivalencia-abierta-hausdorff](./lem-relacion-equivalencia-abierta-hausdorff.md)
 - [lem-relacion-equivalencia-abierta-segundo-numerable](./lem-relacion-equivalencia-abierta-segundo-numerable.md)
