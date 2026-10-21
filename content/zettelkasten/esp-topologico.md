@@ -64,6 +64,7 @@ backlinks:
   - lazo
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
   - lem-carac-continuidad-topologia-inicial
+  - lem-carac-densidad-esp-metrizable
   - lem-sim-abierta-iff-pi-abierta
   - pnt-acumulacion
   - precompacidad

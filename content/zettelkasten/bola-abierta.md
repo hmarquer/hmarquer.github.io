@@ -16,6 +16,7 @@ backlinks:
   - cor-principio-subordinacion-invariante
   - cor-subordinacion-dominio-simplemente-conexo
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
+  - lem-carac-densidad-esp-metrizable
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa

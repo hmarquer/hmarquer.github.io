@@ -10,6 +10,7 @@ references:
   - con-denso
   - esp-topologico
 backlinks:
+  - m.1-pe-e4
   - prop-con-denso-iff-interior-comp-vacio
   - teo-baire
   - teo-dual-separable-imp-separable
