@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-19T13:21:36.707161235+00:00'
-last_build_date_pdf: '2026-10-19T13:26:06.543874673+00:00'
+last_edit_date: '2026-10-21T13:21:17.346131767+00:00'
+last_build_date_pdf: '2026-10-21T14:53:40.679839554+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -227,5 +227,6 @@ tags:
 #DEMOSTRACIÓN :
 #REVISAR : no entiendo nada
 #ORDENAR : escribir bien todo esto
-#ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon
-#COMPLETAR : DEMOSTRACIÓN
+#ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
+#REVISAR y referenciar lemas anteriores
+#ORDENAR : referenciar
