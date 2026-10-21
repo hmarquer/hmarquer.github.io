@@ -40,6 +40,7 @@ backlinks:
   - convergencia-localmente-uniforme
   - curva-topologica
   - ejems-filtros
+  - entorno
   - esp-metrizable
   - esp-polaco
   - esp-proyectivo-real
@@ -48,6 +49,7 @@ backlinks:
   - esp-topologico-completamente-metrizable
   - esp-topologico-hausdorff
   - esp-topologico-metrizable
+  - esp-topologico-primero-numerable
   - esp-topologico-regular
   - esp-topologico-secuencial
   - esp-topologico-separable

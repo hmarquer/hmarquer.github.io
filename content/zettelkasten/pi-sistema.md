@@ -1,9 +1,9 @@
 ---
-title: '$\Pi$-sistema'
+title: '$\pi$-sistema'
 filename: 'pi-sistema'
 created: '2025-02-10 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.772166148+00:00'
+last_edit_date: '2026-10-21T10:51:37.592168551+00:00'
+last_build_date_pdf: '2026-10-21T10:51:42.736445302+00:00'
 labels:
   - defn:pi-sistema
 backlinks:
