@@ -14,6 +14,7 @@ backlinks:
   - bola-cerrada
   - con-abierto-esp-metrico
   - con-autosemejante
+  - con-totalmente-acotado
   - continuidad-uniforme
   - convergencia-localmente-uniforme
   - convergencia-puntual

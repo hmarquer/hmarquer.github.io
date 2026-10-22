@@ -12,6 +12,7 @@ backlinks:
   - acotacion-uniforme-compactos
   - con-abierto-esp-metrico
   - con-acotado
+  - con-totalmente-acotado
   - cor-cubrimiento-landau-debil
   - cor-principio-subordinacion-invariante
   - cor-subordinacion-dominio-simplemente-conexo
