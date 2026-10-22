@@ -65,14 +65,15 @@ backlinks:
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
   - lem-carac-continuidad-topologia-inicial
   - lem-carac-densidad-esp-metrizable
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - lem-sim-abierta-iff-pi-abierta
-  - m.1-pe-e4
   - pnt-acumulacion
   - precompacidad
   - primer-grupo-fundamental
   - prop-base-topologia
   - prop-base-topologia-inicial
   - prop-clases-homotopia-arcos
+  - prop-compacidad-subespacio
   - prop-con-cerrado-imp-secuencialmente-cerrado
   - prop-con-denso
   - prop-con-denso-iff-interior-comp-vacio
@@ -87,6 +88,7 @@ backlinks:
   - sigma-algebra-borel
   - soporte-cerrado
   - teo-abiertos-topologia-inicial
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-existencia-unicidad-estructura-diferenciable
   - teo-universal-apl-cociente
   - topologia-cociente

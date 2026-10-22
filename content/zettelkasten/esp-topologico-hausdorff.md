@@ -12,10 +12,12 @@ backlinks:
   - axm-separacion
   - esp-proyectivo-real
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-subvariedad-diferenciable-imp-variedad-diferenciable
   - m.1-pe-e4
   - prop-topologia-producto-hausdorff
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-grafica-cerrada
   - variedad-diferenciable
   - variedad-topologica

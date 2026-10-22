@@ -9,6 +9,7 @@ labels:
 backlinks:
   - compacidad
   - cor-subvariedad-diferenciable-cubrimiento
+  - prop-compacidad-subespacio
 projects:
   - 3.1-topologia
 tags:

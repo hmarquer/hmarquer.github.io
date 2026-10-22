@@ -10,9 +10,11 @@ references:
   - convergencia
   - esp-topologico
 projects:
+  - 3.1-topologia
   - 4.1-analisis-funcional
 tags:
   - analisis-funcional/tema5
+  - topologia/tema3
 ---
 
 [[con-secuencialmente-compacto.pdf]]

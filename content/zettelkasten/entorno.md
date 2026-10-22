@@ -11,6 +11,7 @@ references:
 backlinks:
   - base-entornos-topologia
   - esp-topologico-primero-numerable
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
 ---
 
 [[entorno.pdf]]
