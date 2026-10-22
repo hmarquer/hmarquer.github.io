@@ -9,6 +9,10 @@ labels:
 backlinks:
   - compacidad
   - cor-subvariedad-diferenciable-cubrimiento
+projects:
+  - 3.1-topologia
+tags:
+  - topologia/tema3
 ---
 
 [[cubrimiento.pdf]]

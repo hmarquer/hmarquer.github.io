@@ -2,8 +2,8 @@
 title: 'Teorema $\pi$-$\lambda$'
 filename: 'teo-pi-sistema-subset-lambda-sistema'
 created: '2025-03-27 00:00:00'
-last_edit_date: '2026-10-15T17:54:00.808995468+00:00'
-last_build_date_pdf: '2026-10-16T18:14:30.462883393+00:00'
+last_edit_date: '2026-10-22T15:18:52.041647200+00:00'
+last_build_date_pdf: '2026-10-22T15:18:53.401537383+00:00'
 labels:
   - teo:pi-sistema-subset-lambda-sistema
 references:

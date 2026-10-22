@@ -32,9 +32,11 @@ backlinks:
   - teo-heine-borel
   - teo-separacion-estricta-convexos-cerrado-compacto
 projects:
+  - 3.1-topologia
   - 3.2-variable-compleja-i
   - 4.2-variable-compleja-ii
 tags:
+  - topologia/tema3
   - variable-compleja-i/tema1
   - variable-compleja-ii/tema6
 ---
