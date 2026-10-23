@@ -2,7 +2,7 @@
 title: 'Distancia de Hausdorff'
 filename: 'distancia-hausdorff'
 created: '2026-09-27T18:54:31.429348719+00:00'
-last_edit_date: '2026-09-29T18:22:31.139887255+00:00'
+last_edit_date: '2026-09-27T18:54:40.430090442+00:00'
 last_build_date_pdf: '2026-10-03T01:21:48.463217914+00:00'
 labels:
   - defn:distancia-hausdorff

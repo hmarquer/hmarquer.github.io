@@ -2,7 +2,7 @@
 title: '\textit{Quijote} infinito'
 filename: 'quijote-infinito'
 created: '2025-03-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.713635704+00:00'
+last_edit_date: '2026-09-06T15:26:21.238661905+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.028166591+00:00'
 labels:
   - indep

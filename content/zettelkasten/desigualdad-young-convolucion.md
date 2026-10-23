@@ -2,7 +2,7 @@
 title: 'Desigualdad de Young para convoluciones'
 filename: 'desigualdad-young-convolucion'
 created: '2025-11-04 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.569846325+00:00'
+last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.269479224+00:00'
 labels:
   - dem:desigualdad-young-convolucion:eq1
