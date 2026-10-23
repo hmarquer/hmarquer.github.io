@@ -2,8 +2,8 @@
 title: 'Procesos Estocásticos. Entrega 4: Espacios polacos y el Teorema de Extensión de Kolmogorov'
 filename: 'm.1-pe-e4'
 created: '2026-10-20T18:08:14.995573281+00:00'
-last_edit_date: '2026-10-22T18:22:53.573581322+00:00'
-last_build_date_pdf: '2026-10-22T18:23:06.165114306+00:00'
+last_edit_date: '2026-10-23T09:53:24.457010928+00:00'
+last_build_date_pdf: '2026-10-23T09:54:20.246100237+00:00'
 labels:
   - m.1-pe-e4:e1
   - m.1-pe-e4:e2
