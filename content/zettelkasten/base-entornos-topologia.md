@@ -2,12 +2,15 @@
 title: 'Base de entornos de una topología'
 filename: 'base-entornos-topologia'
 created: '2025-05-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.536556065+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.103872689+00:00'
+last_edit_date: '2026-10-23T09:57:56.174927+00:00'
+last_build_date_pdf: '2026-10-23T10:00:36.842347968+00:00'
 labels:
   - defn:base-entornos-topologia
 references:
+  - entorno
   - esp-topologico
+backlinks:
+  - esp-topologico-primero-numerable
 projects:
   - 4-teoria-descriptiva-de-conjuntos
 tags:
@@ -18,5 +21,6 @@ tags:
 ![[base-entornos-topologia.pdf]]
 
 ## Referencias
+- [entorno](./entorno.md)
 - [esp-topologico](./esp-topologico.md)
 

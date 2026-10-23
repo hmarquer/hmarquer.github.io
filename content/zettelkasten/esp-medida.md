@@ -43,6 +43,7 @@ backlinks:
   - medida-sigma-finita
   - norma-lp
   - norma-lp-debil
+  - operador-maximal
   - principio-inclusion-exclusion
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convergencia-puntual-dominada-imp-lp

@@ -40,13 +40,16 @@ backlinks:
   - convergencia-localmente-uniforme
   - curva-topologica
   - ejems-filtros
+  - entorno
   - esp-metrizable
   - esp-polaco
   - esp-proyectivo-real
   - esp-segundo-numerable
   - esp-separable
   - esp-topologico-completamente-metrizable
+  - esp-topologico-hausdorff
   - esp-topologico-metrizable
+  - esp-topologico-primero-numerable
   - esp-topologico-regular
   - esp-topologico-secuencial
   - esp-topologico-separable
@@ -54,7 +57,6 @@ backlinks:
   - fn-semicontinua-inferior
   - frechet-topologia
   - frontera
-  - hausdorff-topologia
   - homeomorfismo
   - homotopia
   - homotopia-arcos
@@ -62,6 +64,8 @@ backlinks:
   - lazo
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
   - lem-carac-continuidad-topologia-inicial
+  - lem-carac-densidad-esp-metrizable
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - lem-sim-abierta-iff-pi-abierta
   - pnt-acumulacion
   - precompacidad
@@ -69,6 +73,7 @@ backlinks:
   - prop-base-topologia
   - prop-base-topologia-inicial
   - prop-clases-homotopia-arcos
+  - prop-compacidad-subespacio
   - prop-con-cerrado-imp-secuencialmente-cerrado
   - prop-con-denso
   - prop-con-denso-iff-interior-comp-vacio
@@ -83,6 +88,7 @@ backlinks:
   - sigma-algebra-borel
   - soporte-cerrado
   - teo-abiertos-topologia-inicial
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-existencia-unicidad-estructura-diferenciable
   - teo-universal-apl-cociente
   - topologia-cociente

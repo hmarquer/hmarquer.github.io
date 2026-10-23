@@ -1,20 +1,23 @@
 ---
 title: 'Topología de Hausdorff'
-filename: 'hausdorff-topologia'
+filename: 'esp-topologico-hausdorff'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.609300829+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.590318415+00:00'
+last_edit_date: '2026-10-23T09:57:56.175098483+00:00'
+last_build_date_pdf: '2026-10-23T10:00:30.662958815+00:00'
 labels:
-  - defn:hausdorff-topologia
+  - defn:esp-topologico-hausdorff
 references:
   - esp-topologico
 backlinks:
   - axm-separacion
   - esp-proyectivo-real
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-subvariedad-diferenciable-imp-variedad-diferenciable
+  - m.1-pe-e4
   - prop-topologia-producto-hausdorff
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-grafica-cerrada
   - variedad-diferenciable
   - variedad-topologica
@@ -24,8 +27,8 @@ tags:
   - geometria-diferencial/tema1
 ---
 
-[[hausdorff-topologia.pdf]]
-![[hausdorff-topologia.pdf]]
+[[esp-topologico-hausdorff.pdf]]
+![[esp-topologico-hausdorff.pdf]]
 
 ## Referencias
 - [esp-topologico](./esp-topologico.md)

@@ -12,10 +12,12 @@ references:
 backlinks:
   - ejer-desigualdad-isodiametrica-r2
   - esp-topologico-secuencial
+  - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
   - obs-cerrado-imp-compacto-iff-precompacto
   - prop-con-cerrado-imp-secuencialmente-cerrado
   - teo-con-convexo-rn-imp-hiperplano-soporte
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-medibilidad-borel-medida-exterior-metrica
 ---
 

@@ -2,15 +2,15 @@
 title: 'Variedad diferenciable'
 filename: 'variedad-diferenciable'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.776535573+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.651902509+00:00'
+last_edit_date: '2026-10-23T09:57:56.176197749+00:00'
+last_build_date_pdf: '2026-10-23T10:00:04.473775977+00:00'
 labels:
   - defn:variedad-diferenciable
 references:
   - esp-segundo-numerable
   - esp-topologico
+  - esp-topologico-hausdorff
   - estructura-diferenciable
-  - hausdorff-topologia
   - variedad-diferenciable
   - variedad-topologica
 backlinks:
@@ -64,8 +64,8 @@ tags:
 ## Referencias
 - [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
+- [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-topologica](./variedad-topologica.md)
 

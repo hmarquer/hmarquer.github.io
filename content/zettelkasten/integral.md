@@ -20,6 +20,7 @@ backlinks:
   - lem-dubois-reymond
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - longitud-camino
+  - operador-maximal
   - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral
 projects:

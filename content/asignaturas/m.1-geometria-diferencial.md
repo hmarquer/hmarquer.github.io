@@ -2,8 +2,8 @@
 title: 'Geometría diferencial'
 name: 'm.1-geometria-diferencial'
 created: '2026-09-07T15:21:29.778041462+00:00'
-last_edit_date: '2026-09-20T15:23:19.062809293+00:00'
-last_build_date_pdf: '2026-09-20T16:35:11.376940023+00:00'
+last_edit_date: '2026-10-23T09:57:56.176268115+00:00'
+last_build_date_pdf: '2026-10-23T10:00:43.952429385+00:00'
 inclusions:
   - apl-diferenciable
   - atlas

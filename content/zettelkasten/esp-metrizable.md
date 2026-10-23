@@ -15,6 +15,7 @@ references:
 backlinks:
   - esp-topologico-completamente-metrizable
   - lem-urysohn
+  - m.1-pe-e4
   - prop-esp-metrizable-imp-separable-iff-segundo-numerable
   - teo-extension-tietze
   - teo-metrizacion-urysohn

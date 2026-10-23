@@ -34,6 +34,7 @@ backlinks:
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1
   - norma-lp
+  - operador-maximal
   - proceso-estocastico-adaptado
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general

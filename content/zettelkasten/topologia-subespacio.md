@@ -15,6 +15,7 @@ backlinks:
   - herencia-segundo-numerable
   - lem-subvariedad-diferenciable
   - lem-subvariedad-diferenciable-imp-variedad-diferenciable
+  - prop-compacidad-subespacio
 projects:
   - 4-teoria-descriptiva-de-conjuntos
 tags:

@@ -24,6 +24,7 @@ backlinks:
   - lem-zorn
   - norma-lp-debil
   - obs-consecuencia-semantica-orden-parcial
+  - operador-maximal
   - prop-carac-anillo-noetheriano
   - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-precision

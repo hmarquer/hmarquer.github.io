@@ -18,7 +18,7 @@ projects:
   - m-trabajo-de-fin-de-master
   - m.1-procesos-estocasticos
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
   - m.1-procesos-estocasticos/tema1
 ---
 

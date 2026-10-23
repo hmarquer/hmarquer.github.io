@@ -22,19 +22,24 @@ backlinks:
   - fn-suave-soporte-compacto
   - lem-aprox-indicatriz-compacto-abierto-continua
   - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
+  - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - m.1-fda-h1-e19
   - obs-cerrado-imp-compacto-iff-precompacto
   - obs-comparacion-metricas-pseudohiperbolica-euclidea
   - precompacidad
+  - prop-compacidad-subespacio
   - teo-banach-alaoglu
   - teo-bola-cerrada-compacta-imp-dim-finita
+  - teo-esp-hausdorff-imp-compacto-imp-cerrado
   - teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta
   - teo-heine-borel
   - teo-separacion-estricta-convexos-cerrado-compacto
 projects:
+  - 3.1-topologia
   - 3.2-variable-compleja-i
   - 4.2-variable-compleja-ii
 tags:
+  - topologia/tema3
   - variable-compleja-i/tema1
   - variable-compleja-ii/tema6
 ---

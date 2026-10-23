@@ -2,14 +2,14 @@
 title: 'Toda aplicación continua de un espacio topológico a un espacio de Hausdorff tiene gráfica cerrada'
 filename: 'lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada'
 created: '2025-12-13 13:18:32.169972'
-last_edit_date: '2026-09-03T09:44:22.619798838+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.904292277+00:00'
+last_edit_date: '2026-10-23T09:57:56.175256500+00:00'
+last_build_date_pdf: '2026-10-23T10:00:24.351968224+00:00'
 labels:
   - lem:apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
 references:
   - continuidad
   - esp-topologico
-  - hausdorff-topologia
+  - esp-topologico-hausdorff
   - topologia-producto
 backlinks:
   - teo-grafica-cerrada
@@ -25,6 +25,6 @@ tags:
 ## Referencias
 - [continuidad](./continuidad.md)
 - [esp-topologico](./esp-topologico.md)
-- [hausdorff-topologia](./hausdorff-topologia.md)
+- [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
 - [topologia-producto](./topologia-producto.md)
 

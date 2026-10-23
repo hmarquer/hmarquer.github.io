@@ -15,7 +15,7 @@ backlinks:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[esp-lp-debil.pdf]]

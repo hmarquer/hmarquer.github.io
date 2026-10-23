@@ -9,6 +9,10 @@ labels:
 references:
   - compacidad
   - topologia
+projects:
+  - 3.1-topologia
+tags:
+  - topologia/tema3
 ---
 
 [[teo-heine-borel.pdf]]

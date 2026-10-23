@@ -10,6 +10,9 @@ references:
   - ejem-topologia-metrica
   - esp-topologico
   - metrica
+backlinks:
+  - lem-carac-densidad-esp-metrizable
+  - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
 projects:
   - 3.1-topologia
 tags:
