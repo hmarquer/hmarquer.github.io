@@ -66,6 +66,12 @@ tags:
 
 ## Etiquetas
 #REVISAR 
+#COMPLETAR y REVISAR
+#EJERCICIO : comprobarlo.
+#COMPLETAR con la foto, no he entendido nada.
+#REVISAR y COMPLETAR con la foto, no he entendido nada.
+#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
+#EJERCICIO :
 #REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
 #REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
 #EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
@@ -83,12 +89,6 @@ tags:
 #COMPLETAR : incluir gráfica de la función
 #ORDENAR : referenciar
 #DEMOSTRACIÓN 
-#COMPLETAR y REVISAR
-#EJERCICIO : comprobarlo.
-#COMPLETAR con la foto, no he entendido nada.
-#REVISAR y COMPLETAR con la foto, no he entendido nada.
-#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
-#EJERCICIO :
 #COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
 #ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
 #EJERCICIO : terminar demostración

@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-10-23T14:02:47.087547713+00:00'
-last_build_date_pdf: '2026-10-23T14:02:53.713085963+00:00'
+last_edit_date: '2026-10-25T15:54:17.604325653+00:00'
+last_build_date_pdf: '2026-10-25T15:54:24.473043887+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -46,3 +46,5 @@ tags:
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR 
 #ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
+#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
+#ORDENAR : explicar esto
