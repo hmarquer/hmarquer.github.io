@@ -3,7 +3,7 @@ title: 'Axiomas de separación'
 filename: 'axm-separacion'
 created: '2025-01-30 00:00:00'
 last_edit_date: '2026-10-20T18:17:44.480133120+00:00'
-last_build_date_pdf: '2026-10-20T18:26:55.166667558+00:00'
+last_build_date_pdf: '2026-10-23T10:00:36.935478650+00:00'
 references:
   - esp-topologico-hausdorff
   - frechet-topologia

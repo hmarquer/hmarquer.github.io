@@ -3,7 +3,7 @@ title: 'Toda aplicación continua de un espacio topológico a un espacio de Haus
 filename: 'lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada'
 created: '2025-12-13 13:18:32.169972'
 last_edit_date: '2026-10-20T18:17:44.484133118+00:00'
-last_build_date_pdf: '2026-10-20T18:26:50.660414978+00:00'
+last_build_date_pdf: '2026-10-23T10:00:24.351968224+00:00'
 labels:
   - lem:apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
 references:

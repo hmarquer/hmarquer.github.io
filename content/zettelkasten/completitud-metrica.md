@@ -20,6 +20,7 @@ backlinks:
   - teo-completitud-metrica-poincare
   - teo-completitud-metrica-pseudohiperbolica
   - teo-esp-lp-banach
+  - teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado
 projects:
   - 4-teoria-descriptiva-de-conjuntos
   - 4.1-analisis-funcional

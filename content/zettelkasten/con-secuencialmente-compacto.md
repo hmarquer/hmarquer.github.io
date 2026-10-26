@@ -9,6 +9,8 @@ labels:
 references:
   - convergencia
   - esp-topologico
+backlinks:
+  - prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto
 projects:
   - 3.1-topologia
   - 4.1-analisis-funcional

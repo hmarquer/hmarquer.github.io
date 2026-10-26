@@ -22,8 +22,10 @@ backlinks:
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-operador-hutchinson-lipschitz
   - lem-zorn
+  - medida-interiormente-regular
   - norma-lp-debil
   - obs-consecuencia-semantica-orden-parcial
+  - operador-maximal
   - prop-carac-anillo-noetheriano
   - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-precision

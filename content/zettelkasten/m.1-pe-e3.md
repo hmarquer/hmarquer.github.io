@@ -15,6 +15,10 @@ labels:
   - teo:parada-opcional-ui
 references:
   - lem-fn-integrable-iff-lim-colas-0
+projects:
+  - m.1-procesos-estocasticos
+tags:
+  - m.1-procesos-estocasticos/m.1-procesos-estocasticos
 ---
 
 [[m.1-pe-e3.pdf]]

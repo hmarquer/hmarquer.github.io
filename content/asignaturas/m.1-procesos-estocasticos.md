@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-22T16:29:00.145942824+00:00'
-last_build_date_pdf: '2026-10-22T16:29:08.823979172+00:00'
+last_edit_date: '2026-10-26T19:01:47.227550300+00:00'
+last_build_date_pdf: '2026-10-26T19:02:18.397181666+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esp-polaco
@@ -17,6 +17,8 @@ inclusions:
   - lem-norma-lp-integral-fn-distribucion
   - m.1-pe-e1
   - m.1-pe-e2
+  - m.1-pe-e3
+  - m.1-pe-e4
   - martingala
   - pi-sistema
   - proceso-estocastico-adaptado
@@ -38,6 +40,8 @@ tags:
 ### m.1-procesos-estocasticos
 - [m.1-pe-e1](./m.1-pe-e1.md)
 - [m.1-pe-e2](./m.1-pe-e2.md)
+- [m.1-pe-e3](./m.1-pe-e3.md)
+- [m.1-pe-e4](./m.1-pe-e4.md)
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)

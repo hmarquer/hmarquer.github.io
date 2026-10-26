@@ -3,7 +3,7 @@ title: 'En un espacio topológico metrizable, todo abierto es unión numerable d
 filename: 'lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados'
 created: '2026-10-21T10:42:57.357664483+00:00'
 last_edit_date: '2026-10-21T10:43:27.746109448+00:00'
-last_build_date_pdf: '2026-10-21T10:43:33.407820395+00:00'
+last_build_date_pdf: '2026-10-23T10:00:17.893252338+00:00'
 labels:
   - lem:esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
 references:

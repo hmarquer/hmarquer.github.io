@@ -40,11 +40,13 @@ backlinks:
   - prop-con-abiertos-esp-metrico
   - prop-convergencia-imp-cauchy
   - prop-convergencia-uniforme-continuidad-uniforme
+  - prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto
   - semejanza
   - teo-baire
   - teo-compleccion-esp-metrico
   - teo-completitud-metrica-pseudohiperbolica
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
+  - teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado
   - teo-medibilidad-borel-medida-exterior-metrica
   - topologia-metrica
 projects:

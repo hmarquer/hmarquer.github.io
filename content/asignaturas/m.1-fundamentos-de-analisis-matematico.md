@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-21T13:21:17.346131767+00:00'
-last_build_date_pdf: '2026-10-21T14:53:40.679839554+00:00'
+last_edit_date: '2026-10-26T19:03:21.746286167+00:00'
+last_build_date_pdf: '2026-10-26T19:03:32.312876894+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -69,6 +69,7 @@ inclusions:
   - prop-con-borel-imp-medible-hausdorff
   - prop-esp-dual-banach
   - prop-fn-convexa
+  - prop-fn-simples-denso-lp
   - prop-homogeneidad-medida-hausdorff
   - prop-inclusion-lp-esp-finito
   - prop-medida-exterior-asociada
@@ -194,6 +195,7 @@ tags:
 - [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
 - [prop-esp-dual-banach](./prop-esp-dual-banach.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
+- [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
@@ -230,3 +232,12 @@ tags:
 #ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
 #REVISAR y referenciar lemas anteriores
 #ORDENAR : referenciar
+#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio normado.
+#COMPLETAR : ver el caso $p >1$ (es igual)
+#COMPLETAR : no he entendido nada
+#REVISAR : no sé qué se ejemplifica aquí
+#COMPLETAR : no me entero
+#EJERCICIO :
+#ORDENAR : esta proposición puede ir antes, creo que se podría usar en otras demostraciones
+#REVISAR : no entiendo la definición
+#COMPLETAR con foto

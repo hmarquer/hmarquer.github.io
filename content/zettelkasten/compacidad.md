@@ -24,13 +24,18 @@ backlinks:
   - lem-convergencia-uniforme-compactos-imp-convergencia-sucesion
   - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - m.1-fda-h1-e19
+  - m.1-pe-e4
+  - medida-interiormente-regular
+  - medida-tensa
   - obs-cerrado-imp-compacto-iff-precompacto
   - obs-comparacion-metricas-pseudohiperbolica-euclidea
   - precompacidad
   - prop-compacidad-subespacio
+  - prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto
   - teo-banach-alaoglu
   - teo-bola-cerrada-compacta-imp-dim-finita
   - teo-esp-hausdorff-imp-compacto-imp-cerrado
+  - teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado
   - teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta
   - teo-heine-borel
   - teo-separacion-estricta-convexos-cerrado-compacto

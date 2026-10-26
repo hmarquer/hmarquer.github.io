@@ -3,7 +3,7 @@ title: 'Variedad diferenciable'
 filename: 'variedad-diferenciable'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-10-20T18:17:44.484133118+00:00'
-last_build_date_pdf: '2026-10-20T18:26:43.202663375+00:00'
+last_build_date_pdf: '2026-10-23T10:00:04.473775977+00:00'
 labels:
   - defn:variedad-diferenciable
 references:

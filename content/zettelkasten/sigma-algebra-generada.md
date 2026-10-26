@@ -9,6 +9,7 @@ labels:
 references:
   - sigma-algebra
 backlinks:
+  - m.1-pe-e4
   - prop-sigma-algebra-generada
   - sigma-algebra-borel
   - sigma-algebra-tiempo-parada

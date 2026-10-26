@@ -17,6 +17,7 @@ backlinks:
   - fn-suave-soporte-compacto
   - lem-aprox-fn-simple
   - lem-descomposicion-jordan-continuidad-absoluta
+  - m.1-pe-e4
   - medida-inducida
   - prop-suma-fn-medibles
   - sigma-algebra-producto

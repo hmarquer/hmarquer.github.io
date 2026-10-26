@@ -18,6 +18,7 @@ backlinks:
   - cor-subordinacion-dominio-simplemente-conexo
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-carac-densidad-esp-metrizable
+  - m.1-pe-e4
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa
@@ -32,7 +33,7 @@ projects:
   - 4-teoria-descriptiva-de-conjuntos
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
   - teoria-descriptiva-de-conjuntos/tema1
   - topologia/tema1-1
 ---
