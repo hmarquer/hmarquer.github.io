@@ -2,7 +2,7 @@
 title: 'Aproximación en norma $\mathcal{L}^p$ de la indicatriz por funciones continuas con soporte compacto'
 filename: 'lem-aprox-indicatriz-continua-norma-lp'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
+last_edit_date: '2026-09-03T09:44:22.621259711+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.029717300+00:00'
 labels:
   - lem:aprox-indicatriz-continua-norma-lp

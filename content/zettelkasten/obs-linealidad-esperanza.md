@@ -2,7 +2,7 @@
 title: 'Linealidad de la esperanza'
 filename: 'obs-linealidad-esperanza'
 created: '2025-06-11 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.232661052+00:00'
+last_edit_date: '2026-09-03T09:44:22.670990372+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.756484190+00:00'
 labels:
   - obs:linealidad-esperanza

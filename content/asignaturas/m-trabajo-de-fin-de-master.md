@@ -48,3 +48,5 @@ tags:
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
 #ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
+#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
+#ORDENAR : explicar esto

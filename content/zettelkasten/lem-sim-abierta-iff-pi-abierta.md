@@ -2,7 +2,7 @@
 title: 'Lema de equivalencia abierta'
 filename: 'lem-sim-abierta-iff-pi-abierta'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_edit_date: '2026-09-03T09:44:22.647754796+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.445992621+00:00'
 labels:
   - lem:sim-abierta-iff-pi-abierta
