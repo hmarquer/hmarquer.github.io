@@ -2,7 +2,7 @@
 title: 'Conjunto medible'
 filename: 'con-caratheodory-medible'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.054019887+00:00'
+last_edit_date: '2026-09-09T18:03:04.386000082+00:00'
 last_build_date_pdf: '2026-09-20T16:34:47.514402123+00:00'
 labels:
   - defn:con-caratheodory-medible

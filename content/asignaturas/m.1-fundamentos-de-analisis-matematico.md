@@ -3,7 +3,7 @@ title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
 last_edit_date: '2026-10-26T19:03:21.746286167+00:00'
-last_build_date_pdf: '2026-10-26T19:03:32.312876894+00:00'
+last_build_date_pdf: '2026-10-27T09:30:13.231010315+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -201,9 +201,9 @@ tags:
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
 ## Etiquetas
-#EJERCICIO 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR 
+#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien

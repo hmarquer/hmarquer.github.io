@@ -2,7 +2,7 @@
 title: 'Teorema de aproximación por un núcleo de sumabilidad'
 filename: 'teo-aproximacion-nucleos-sumabilidad'
 created: '2026-01-12 19:07:44.065652'
-last_edit_date: '2026-09-03T09:44:22.731253367+00:00'
+last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.686558911+00:00'
 labels:
   - teo:aproximacion-nucleos-sumabilidad

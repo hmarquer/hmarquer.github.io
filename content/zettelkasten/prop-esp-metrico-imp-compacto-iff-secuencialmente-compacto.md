@@ -3,7 +3,7 @@ title: 'Equivalencia entre compacidad y compacidad secuencial en espacios métri
 filename: 'prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto'
 created: '2026-10-26T18:49:47.179838217+00:00'
 last_edit_date: '2026-10-26T18:54:24.058576821+00:00'
-last_build_date_pdf: '2026-10-26T19:02:13.164614928+00:00'
+last_build_date_pdf: '2026-10-27T09:29:56.986753658+00:00'
 labels:
   - prop:esp-metrico-imp-compacto-iff-secuencialmente-compacto
 references:

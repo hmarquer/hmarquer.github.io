@@ -2,7 +2,7 @@
 title: 'Medida exterior de Hausdorff con precisión'
 filename: 'prop-medida-exterior-hausdorff-precision'
 created: '2026-09-11T09:25:16.497316874+00:00'
-last_edit_date: '2026-10-06T01:26:01.012765847+00:00'
+last_edit_date: '2026-10-03T22:36:35.883048592+00:00'
 last_build_date_pdf: '2026-10-10T04:37:05.106501948+00:00'
 labels:
   - prop:medida-exterior-hausdorff-precision
