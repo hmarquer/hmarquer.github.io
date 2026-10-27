@@ -47,11 +47,14 @@ backlinks:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - principio-inclusion-exclusion
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general
   - prop-fn-simples-denso-lp
+  - propiedad-cubridora-vq
   - supremo-esencial
   - teo-convergencia-dominada
   - teo-convergencia-monotona

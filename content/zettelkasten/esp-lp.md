@@ -49,6 +49,8 @@ backlinks:
   - obs-propiedades-dilatacion-isotropica
   - obs-propiedades-transformada-fourier-l1
   - obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-convolucion-exp-conjugados
   - prop-criterio-dini

@@ -12,6 +12,7 @@ references:
   - relacion-orden
 backlinks:
   - esp-lp-debil
+  - operador-tipo-debil
   - teo-inclusion-lp-lp-debil
 projects:
   - m-trabajo-de-fin-de-master

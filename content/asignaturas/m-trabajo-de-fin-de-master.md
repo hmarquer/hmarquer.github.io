@@ -2,19 +2,24 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-10-27T13:27:39.620084457+00:00'
-last_build_date_pdf: '2026-10-27T13:27:45.406171386+00:00'
+last_edit_date: '2026-10-27T18:21:02.627420967+00:00'
+last_build_date_pdf: '2026-10-27T18:21:09.384999288+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
   - cubo-n-adico
   - cubo-n-adico-grado-k
+  - d-prisma-coordenado
   - esp-lp-debil
   - fn-distribucion
   - lem-norma-lp-integral-fn-distribucion
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-fuerte
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - prop-desigualdad-chebyshev-general
+  - propiedad-cubridora-vq
   - teo-inclusion-lp-lp-debil
 tags:
   - m-trabajo-de-fin-de-master
@@ -27,7 +32,12 @@ tags:
 
 ### m-trabajo-de-fin-de-master
 - [cor-desigualdad-markov-general](./cor-desigualdad-markov-general.md)
+- [d-prisma-coordenado](./d-prisma-coordenado.md)
+- [operador-maximal-fuerte](./operador-maximal-fuerte.md)
+- [operador-tipo-debil](./operador-tipo-debil.md)
+- [operador-tipo-fuerte](./operador-tipo-fuerte.md)
 - [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
+- [propiedad-cubridora-vq](./propiedad-cubridora-vq.md)
 
 ### operador-maximal-cubos-n-adicos-bolas
 - [bola-abierta](./bola-abierta.md)
@@ -45,6 +55,7 @@ tags:
 #COMPLETAR 
 #REVISAR 
 #ORDENAR : explicar esto
+#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
 #REVISAR : mirar fotos para simplificar y completar
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.

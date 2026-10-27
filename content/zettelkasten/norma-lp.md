@@ -24,12 +24,15 @@ backlinks:
   - lem-aprox-indicatriz-continua-norma-lp
   - lem-esp-lp-normado
   - lem-norma-lp-integral-fn-distribucion
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - prop-clase-ck-velocidad-convergencia-uniforme-fourier
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convolucion-exp-conjugados
   - prop-desigualdad-chebyshev-general
   - prop-inclusion-lp-esp-finito
   - prop-inclusion-lp-general
+  - propiedad-cubridora-vq
   - teo-aproximacion-identidad-convolucion
   - teo-convergencia-martingalas
   - teo-esp-l2-hilbert

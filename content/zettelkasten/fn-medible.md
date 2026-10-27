@@ -35,6 +35,8 @@ backlinks:
   - m.1-pe-e1
   - norma-lp
   - operador-maximal
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - proceso-estocastico-adaptado
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general

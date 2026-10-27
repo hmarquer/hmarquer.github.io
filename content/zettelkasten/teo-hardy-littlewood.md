@@ -2,11 +2,15 @@
 title: 'Teorema de Hardy-Littlewood'
 filename: 'teo-hardy-littlewood'
 created: '2026-01-12 10:26:08.762242'
-last_edit_date: '2026-09-06T15:26:21.245662901+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.562206454+00:00'
+last_edit_date: '2026-10-27T17:45:45.063186352+00:00'
+last_build_date_pdf: '2026-10-27T17:45:50.591011344+00:00'
 labels:
-  - dem:teo-hardy-littlewood:eq1
+  - dem:teo-hardy-littlewood:intervalo
+  - dem:teo-hardy-littlewood:intervalo-maximal
   - teo:hardy-littlewood
+  - teo:hardy-littlewood:finito
+  - teo:hardy-littlewood:medibilidad
+  - teo:hardy-littlewood:tipo-debil
 references:
   - esp-lp
   - fn-medible
@@ -30,4 +34,4 @@ tags:
 - [operador-hardy-littlewood](./operador-hardy-littlewood.md)
 
 ## Etiquetas
-#ORDENAR : arreglar referencias y formato
+#REVISAR 
