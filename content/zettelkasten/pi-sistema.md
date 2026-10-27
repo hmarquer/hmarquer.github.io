@@ -10,6 +10,7 @@ backlinks:
   - cor-indep-var-aleatorias-iff-indep-fn-distribucion
   - independencia-pi-sistemas
   - ley-0-1-kolmogorov
+  - m.1-pe-e4
   - teo-pi-sistema-subset-lambda-sistema
 projects:
   - 3.2-probabilidad-ii

@@ -18,6 +18,9 @@ backlinks:
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-relacion-equivalencia-abierta-segundo-numerable
+  - medida-interiormente-regular
+  - medida-regular
+  - medida-tensa
   - prop-base-alguna-topologia
   - prop-comparacion-topologias-bases
   - prop-fn-continua-cociente-iff-composicion-continua

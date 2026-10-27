@@ -12,6 +12,7 @@ references:
   - pi-sistema
   - sigma-algebra-generada
 backlinks:
+  - m.1-pe-e4
   - prop-indep-pi-sistemas-imp-indep-sigma-algebras
 projects:
   - 3.2-probabilidad-ii

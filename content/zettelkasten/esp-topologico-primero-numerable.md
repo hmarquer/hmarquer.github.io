@@ -10,6 +10,8 @@ references:
   - base-entornos-topologia
   - entorno
   - esp-topologico
+backlinks:
+  - m.1-pe-e4
 ---
 
 [[esp-topologico-primero-numerable.pdf]]

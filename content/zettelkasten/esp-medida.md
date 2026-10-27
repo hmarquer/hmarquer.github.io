@@ -40,7 +40,10 @@ backlinks:
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
   - medida-completa
+  - medida-interiormente-regular
+  - medida-regular
   - medida-sigma-finita
+  - medida-tensa
   - norma-lp
   - norma-lp-debil
   - operador-maximal

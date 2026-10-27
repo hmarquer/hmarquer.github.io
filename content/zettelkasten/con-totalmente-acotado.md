@@ -9,6 +9,9 @@ labels:
 references:
   - bola-abierta
   - esp-metrico
+backlinks:
+  - m.1-pe-e4
+  - teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado
 ---
 
 [[con-totalmente-acotado.pdf]]

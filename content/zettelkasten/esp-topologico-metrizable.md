@@ -13,6 +13,7 @@ references:
 backlinks:
   - lem-carac-densidad-esp-metrizable
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
+  - m.1-pe-e4
 projects:
   - 3.1-topologia
 tags:

@@ -11,6 +11,7 @@ labels:
   - defn:lambda-sistema:iii
 backlinks:
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
+  - m.1-pe-e4
   - prop-indep-pi-sistemas-imp-indep-sigma-algebras
   - teo-pi-sistema-subset-lambda-sistema
 projects:
