@@ -2,8 +2,8 @@
 title: 'Ideal de anulación'
 filename: 'ideal-anulacion'
 created: '2025-12-14 22:06:47.356167'
-last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.995197529+00:00'
+last_edit_date: '2026-10-28T17:44:47.143167585+00:00'
+last_build_date_pdf: '2026-10-28T17:44:53.098942193+00:00'
 labels:
   - defn:ideal-anulacion
 references:
@@ -12,8 +12,10 @@ references:
 backlinks:
   - anillo-coordenadas-con-algebraico-afin
   - con-algebraico-afin-definido-subcuerpo
+  - ideal-anulacion-subcuerpo
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines

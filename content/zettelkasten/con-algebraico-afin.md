@@ -18,10 +18,12 @@ backlinks:
   - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
   - dim-con-algebraico-afin
   - fn-regular-con-algebraico-afin
+  - ideal-anulacion-subcuerpo
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines

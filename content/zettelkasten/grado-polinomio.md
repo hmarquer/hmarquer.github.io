@@ -10,6 +10,7 @@ references:
   - anillo-polinomios
 backlinks:
   - cuerpo-algebraicamente-cerrado
+  - polinomio-homogeneo
   - prop-grado-polinomio
   - teo-base-hilbert
 projects:

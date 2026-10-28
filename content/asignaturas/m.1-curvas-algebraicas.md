@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-10-26T15:39:24.306741591+00:00'
-last_build_date_pdf: '2026-10-27T09:32:43.707965458+00:00'
+last_edit_date: '2026-10-28T19:12:00.154614874+00:00'
+last_build_date_pdf: '2026-10-28T19:12:08.756906006+00:00'
 inclusions:
   - anillo-coordenadas-con-algebraico-afin
   - anillo-noetheriano
@@ -24,6 +24,7 @@ inclusions:
   - esp-afin
   - fn-regular-con-algebraico-afin
   - ideal-anulacion
+  - ideal-anulacion-subcuerpo
   - isomorfismo-con-algebraicos-afines
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
@@ -32,8 +33,12 @@ inclusions:
   - morfismo-con-algebraicos-afines
   - morfismo-con-algebraicos-afines-dominante
   - morfismo-inducido-variedades-algebraicas-afines
+  - pnts-racionales-con-algebraico-afin-definido-subcuerpo
+  - pnts-racionales-esp-afin
+  - polinomio-homogeneo
   - prop-anillo-noetheriano-imp-cociente-noetheriano
   - prop-carac-anillo-noetheriano
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
@@ -73,9 +78,14 @@ tags:
 - [con-ceros-polinomios-esp-afin](./con-ceros-polinomios-esp-afin.md)
 - [esp-afin](./esp-afin.md)
 - [ideal-anulacion](./ideal-anulacion.md)
+- [ideal-anulacion-subcuerpo](./ideal-anulacion-subcuerpo.md)
 - [lem-clausura-zariski-con-ceros-ideal-anulacion](./lem-clausura-zariski-con-ceros-ideal-anulacion.md)
 - [lem-con-algebraico-afin-ideal-anulacion](./lem-con-algebraico-afin-ideal-anulacion.md)
 - [lem-con-ceros-ideal-generado](./lem-con-ceros-ideal-generado.md)
+- [pnts-racionales-con-algebraico-afin-definido-subcuerpo](./pnts-racionales-con-algebraico-afin-definido-subcuerpo.md)
+- [pnts-racionales-esp-afin](./pnts-racionales-esp-afin.md)
+- [polinomio-homogeneo](./polinomio-homogeneo.md)
+- [prop-con-algebraico-afin-carac-definido-subcuerpo](./prop-con-algebraico-afin-carac-definido-subcuerpo.md)
 - [prop-ideal-anulacion-ideal-radical](./prop-ideal-anulacion-ideal-radical.md)
 - [prop-topologia-zariski](./prop-topologia-zariski.md)
 
@@ -112,5 +122,7 @@ tags:
 
 ## Etiquetas
 #REVISAR 
+#ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano
 #ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
 #EJERCICIO 
+#COMPLETAR : incluir apéndice sobre álgebra del profesor

@@ -22,11 +22,14 @@ backlinks:
   - fn-regular-con-algebraico-afin
   - grado-polinomio
   - ideal-anulacion
+  - ideal-anulacion-subcuerpo
   - independencia-algebraica
   - lem-anillo-polinomios-variables-cuerpo-ideal-maximal-extension-algebraica-grado-finito
   - lem-con-ceros-ideal-generado
+  - monomio
   - obs-con-ceros-ideal-generado-contenido-trivial
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
   - prop-di-imp-anillo-polinomios-di
   - prop-grado-polinomio

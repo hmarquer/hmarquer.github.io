@@ -25,6 +25,7 @@ backlinks:
   - extension
   - forma-bilineal
   - grupo-especial-lineal
+  - ideal-anulacion-subcuerpo
   - isomorfismo-esp-vec
   - lem-anillo-polinomios-variables-cuerpo-ideal-maximal-extension-algebraica-grado-finito
   - lem-caracteristica-cuerpo-0-o-primo
@@ -34,7 +35,10 @@ backlinks:
   - lem-morfismo-anillos-cuerpo-anillo-imp-inyectivo
   - lem-normalizacion-noether
   - num-complejos
+  - pnts-racionales-con-algebraico-afin-definido-subcuerpo
+  - pnts-racionales-esp-afin
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
   - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-cuerpo-fracciones-racionales

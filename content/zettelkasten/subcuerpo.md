@@ -9,6 +9,11 @@ labels:
 references:
   - cuerpo
 backlinks:
+  - con-algebraico-afin-definido-subcuerpo
+  - ideal-anulacion-subcuerpo
+  - pnts-racionales-con-algebraico-afin-definido-subcuerpo
+  - pnts-racionales-esp-afin
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - subcuerpo-generado
 projects:
   - 4.1-algebra-conmutativa

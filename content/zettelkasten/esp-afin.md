@@ -17,6 +17,7 @@ backlinks:
   - con-ceros-polinomios-esp-afin
   - ideal-anulacion
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - pnts-racionales-esp-afin
   - prop-con-algebraico-afin-ideal
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
