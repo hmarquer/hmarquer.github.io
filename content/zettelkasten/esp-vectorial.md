@@ -20,6 +20,7 @@ backlinks:
   - cor-base-hamel-r-q
   - cor-dim-esp-tangente-variedad
   - cor-esp-vectorial-normado-dim-finita-imp-banach
+  - cuasinorma
   - desigualdad-cauchy-schwarz
   - dual-algebraico
   - dual-topologico
