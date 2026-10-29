@@ -16,10 +16,10 @@ backlinks:
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - prop-con-algebraico-afin-carac-definido-subcuerpo
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-ceros-hilbert
 projects:
   - 4.1-algebra-conmutativa

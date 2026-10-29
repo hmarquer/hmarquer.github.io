@@ -11,6 +11,8 @@ references:
   - esp-afin
   - subcuerpo
 backlinks:
+  - con-ceros-polinomios-pnts-racionales-esp-afin
+  - con-cerrado-subcuerpo
   - pnts-racionales-con-algebraico-afin-definido-subcuerpo
 projects:
   - m.1-curvas-algebraicas

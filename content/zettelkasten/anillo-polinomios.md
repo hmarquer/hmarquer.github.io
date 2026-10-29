@@ -13,6 +13,8 @@ backlinks:
   - con-algebraico-afin
   - con-algebraico-afin-definido-subcuerpo
   - con-ceros-polinomios-esp-afin
+  - con-ceros-polinomios-pnts-racionales-esp-afin
+  - con-cerrado-subcuerpo
   - cor-base-hilbert-n-var
   - cuerpo-algebraicamente-cerrado
   - ejems-anillos-noetherianos
@@ -21,6 +23,7 @@ backlinks:
   - elemento-entero-sobre-anillo
   - fn-regular-con-algebraico-afin
   - grado-polinomio
+  - hipersuperficie-algebrica-afin
   - ideal-anulacion
   - ideal-anulacion-subcuerpo
   - independencia-algebraica

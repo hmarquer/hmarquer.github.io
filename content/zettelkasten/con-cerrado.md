@@ -11,6 +11,7 @@ references:
   - topologia
 backlinks:
   - ejer-desigualdad-isodiametrica-r2
+  - esp-topologico-noetheriano
   - esp-topologico-secuencial
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
   - m.1-pe-e4

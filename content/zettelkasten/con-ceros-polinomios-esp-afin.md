@@ -12,7 +12,9 @@ references:
   - esp-afin
 backlinks:
   - con-algebraico-afin
+  - con-ceros-polinomios-pnts-racionales-esp-afin
   - ejer-con-algebraico-afin-ideal-radical
+  - hipersuperficie-algebrica-afin
   - lem-clausura-zariski-con-ceros-ideal-anulacion
   - lem-con-algebraico-afin-ideal-anulacion
   - lem-con-ceros-ideal-generado

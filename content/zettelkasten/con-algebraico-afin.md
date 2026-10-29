@@ -25,10 +25,10 @@ backlinks:
   - morfismo-inducido-variedades-algebraicas-afines
   - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
   - prop-topologia-zariski
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-descomposicion-con-algebraico-afin-irreducibles
   - teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines
   - teo-unicidad-descomposicion-con-algebraico-afin-irreducibles

@@ -17,12 +17,12 @@ backlinks:
   - ejer-con-algebraico-afin-ideal-radical
   - lem-cuerpo-imp-di
   - lem-di-localizacion-relacion-equivalencia
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - prop-di-imp-anillo-polinomios-di
   - prop-di-imp-primo-imp-irreducible
   - prop-grado-polinomio
   - prop-ideal-anulacion-ideal-radical
   - prop-ideal-primo-iff-cociente-di-integridad
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-di-finito-imp-cuerpo
   - teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo
 projects:
