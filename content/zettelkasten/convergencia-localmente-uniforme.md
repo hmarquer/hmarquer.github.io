@@ -2,7 +2,7 @@
 title: 'Convergencia localmente uniforme de funciones'
 filename: 'convergencia-localmente-uniforme'
 created: '2025-04-24 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.551167180+00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.550415044+00:00'
 labels:
   - defn:convergencia-localmente-uniforme

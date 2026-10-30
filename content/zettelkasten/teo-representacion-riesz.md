@@ -2,7 +2,7 @@
 title: 'Teorema de Representación de Riesz'
 filename: 'teo-representacion-riesz'
 created: '2025-11-13 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.763896334+00:00'
+last_edit_date: '2026-09-06T15:26:21.246663043+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.232193808+00:00'
 labels:
   - teo:representacion-riesz

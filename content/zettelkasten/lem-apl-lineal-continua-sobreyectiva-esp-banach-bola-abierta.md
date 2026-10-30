@@ -2,7 +2,7 @@
 title: 'Lema técnico sobre una aplicación lineal continua y sobreyectiva entre espacios de Banach'
 filename: 'lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta'
 created: '2025-12-09 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.620174303+00:00'
+last_edit_date: '2026-09-06T15:26:21.224659914+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.040089615+00:00'
 labels:
   - lem:apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
