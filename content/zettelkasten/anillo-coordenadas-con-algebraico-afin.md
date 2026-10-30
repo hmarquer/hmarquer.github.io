@@ -12,7 +12,7 @@ references:
   - ideal-anulacion
 backlinks:
   - dim-con-algebraico-afin
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
 projects:
   - 4.1-algebra-conmutativa
   - m.1-curvas-algebraicas

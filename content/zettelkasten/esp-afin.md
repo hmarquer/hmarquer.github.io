@@ -15,8 +15,11 @@ backlinks:
   - con-algebraico-afin
   - con-algebraico-afin-irreducible
   - con-ceros-polinomios-esp-afin
+  - curva-plana-afin
+  - hipersuperficie-algebrica-afin
   - ideal-anulacion
   - lem-clausura-zariski-con-ceros-ideal-anulacion
+  - pnts-racionales-esp-afin
   - prop-con-algebraico-afin-ideal
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
   - prop-ideal-anulacion-ideal-radical

@@ -48,11 +48,13 @@ backlinks:
   - lem-suma-ideales
   - long-cadena-ideales-primos
   - modulo
+  - monomio
   - morfismo-anillos
   - nilpotencia-anillos
   - num-complejos
   - obs-anillo-cociente-morfismo-canonico
   - parte-multiplicativa-anillo
+  - polinomio-homogeneo
   - producto-ideales
   - prop-anillo-z-dominio-ideales-principales
   - prop-carac-anillo-noetheriano

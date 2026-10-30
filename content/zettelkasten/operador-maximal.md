@@ -11,6 +11,8 @@ references:
   - fn-medible
   - integral
   - relacion-orden
+backlinks:
+  - operador-maximal-fuerte
 projects:
   - m-trabajo-de-fin-de-master
 tags:

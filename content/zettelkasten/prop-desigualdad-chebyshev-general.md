@@ -15,8 +15,10 @@ backlinks:
   - teo-inclusion-lp-lp-debil
 projects:
   - m-trabajo-de-fin-de-master
+  - m.1-fundamentos-de-analisis-matematico
 tags:
   - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - m.1-fundamentos-de-analisis-matematico/tema2
 ---
 
 [[prop-desigualdad-chebyshev-general.pdf]]

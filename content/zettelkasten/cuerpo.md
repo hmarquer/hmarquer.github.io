@@ -16,8 +16,11 @@ backlinks:
   - caracteristica-cuerpo
   - con-algebraico-afin-definido-subcuerpo
   - con-ceros-polinomios-esp-afin
+  - con-ceros-polinomios-pnts-racionales-esp-afin
+  - con-cerrado-subcuerpo
   - cuerpo
   - cuerpo-algebraicamente-cerrado
+  - curva-plana-afin
   - ejems-anillos-noetherianos
   - esp-afin
   - esp-secuencial
@@ -25,6 +28,8 @@ backlinks:
   - extension
   - forma-bilineal
   - grupo-especial-lineal
+  - hipersuperficie-algebrica-afin
+  - ideal-anulacion-subcuerpo
   - isomorfismo-esp-vec
   - lem-anillo-polinomios-variables-cuerpo-ideal-maximal-extension-algebraica-grado-finito
   - lem-caracteristica-cuerpo-0-o-primo
@@ -34,7 +39,10 @@ backlinks:
   - lem-morfismo-anillos-cuerpo-anillo-imp-inyectivo
   - lem-normalizacion-noether
   - num-complejos
+  - pnts-racionales-con-algebraico-afin-definido-subcuerpo
+  - pnts-racionales-esp-afin
   - polinomio-monico-variable
+  - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
   - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-cuerpo-fracciones-racionales

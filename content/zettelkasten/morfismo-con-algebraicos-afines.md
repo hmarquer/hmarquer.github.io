@@ -2,8 +2,8 @@
 title: 'Morfismo de variedades algebraicas afines'
 filename: 'morfismo-con-algebraicos-afines'
 created: '2026-01-05 09:46:56.499735'
-last_edit_date: '2026-09-20T15:23:19.056373507+00:00'
-last_build_date_pdf: '2026-09-20T16:33:47.167741491+00:00'
+last_edit_date: '2026-10-30T09:20:47.089232248+00:00'
+last_build_date_pdf: '2026-10-30T21:27:33.979449942+00:00'
 labels:
   - defn:morfismo-con-algebraicos-afines
 references:

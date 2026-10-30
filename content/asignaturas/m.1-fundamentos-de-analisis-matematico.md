@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-27T09:03:14.615563160+00:00'
-last_build_date_pdf: '2026-10-27T09:30:13.231010315+00:00'
+last_edit_date: '2026-10-30T09:20:47.092893233+00:00'
+last_build_date_pdf: '2026-10-30T21:28:10.297041088+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -14,6 +14,7 @@ inclusions:
   - continuidad-absoluta
   - cor-dim-hausdorff
   - cor-dimension-hausdorff-fn-gamma-holder
+  - cuasinorma
   - desigualdad-holder
   - desigualdad-minkowski
   - diametro-con
@@ -32,11 +33,13 @@ inclusions:
   - esp-banach
   - esp-hilbert
   - esp-lp
+  - esp-lp-debil
   - esp-medible
   - esp-medida
   - esp-prehilbert
   - exponente-conjugado
   - fn-convexa
+  - fn-distribucion
   - fn-gamma-holder
   - fn-medible
   - fn-simple
@@ -50,6 +53,7 @@ inclusions:
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
+  - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e1
   - medida
   - medida-exterior
@@ -59,6 +63,9 @@ inclusions:
   - medida-signo
   - norma
   - norma-lp
+  - norma-lp-debil
+  - operador-tipo-debil
+  - operador-tipo-fuerte
   - premedida
   - prod-escalar
   - prod-hermitico
@@ -67,6 +74,7 @@ inclusions:
   - prop-apl-lineales-continuas-norma
   - prop-carac-fn-convexa
   - prop-con-borel-imp-medible-hausdorff
+  - prop-desigualdad-chebyshev-general
   - prop-esp-dual-banach
   - prop-fn-convexa
   - prop-fn-simples-denso-lp
@@ -90,6 +98,7 @@ inclusions:
   - teo-convergencia-monotona
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-esp-lp-banach
+  - teo-inclusion-lp-lp-debil
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
 tags:
@@ -171,6 +180,7 @@ tags:
 
 ### tema2
 - [apl-lineal](./apl-lineal.md)
+- [cuasinorma](./cuasinorma.md)
 - [desigualdad-holder](./desigualdad-holder.md)
 - [desigualdad-minkowski](./desigualdad-minkowski.md)
 - [dual-algebraico](./dual-algebraico.md)
@@ -180,25 +190,33 @@ tags:
 - [esp-banach](./esp-banach.md)
 - [esp-hilbert](./esp-hilbert.md)
 - [esp-lp](./esp-lp.md)
+- [esp-lp-debil](./esp-lp-debil.md)
 - [esp-prehilbert](./esp-prehilbert.md)
 - [exponente-conjugado](./exponente-conjugado.md)
 - [fn-convexa](./fn-convexa.md)
+- [fn-distribucion](./fn-distribucion.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
+- [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
+- [norma-lp-debil](./norma-lp-debil.md)
+- [operador-tipo-debil](./operador-tipo-debil.md)
+- [operador-tipo-fuerte](./operador-tipo-fuerte.md)
 - [prod-escalar](./prod-escalar.md)
 - [prod-hermitico](./prod-hermitico.md)
 - [prod-interno](./prod-interno.md)
 - [prop-apl-lineales-continuas-esp-vectorial](./prop-apl-lineales-continuas-esp-vectorial.md)
 - [prop-apl-lineales-continuas-norma](./prop-apl-lineales-continuas-norma.md)
 - [prop-carac-fn-convexa](./prop-carac-fn-convexa.md)
+- [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
 - [prop-esp-dual-banach](./prop-esp-dual-banach.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
 - [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
+- [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ## Etiquetas
 #EJERCICIO 
@@ -241,3 +259,7 @@ tags:
 #ORDENAR : esta proposición puede ir antes, creo que se podría usar en otras demostraciones
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
+#COMPLETAR 
+#DEMOSTRACIÓN : trivial
+#COMPLETAR : ver que no es un espacio normado
+#COMPLETAR : añadir definición de función sublineal

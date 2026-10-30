@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-10-27T09:03:14.615679709+00:00'
-last_build_date_pdf: '2026-10-27T09:30:10.521224642+00:00'
+last_edit_date: '2026-10-30T09:20:47.093825572+00:00'
+last_build_date_pdf: '2026-10-30T21:28:06.791068184+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esp-polaco
@@ -101,3 +101,6 @@ tags:
 #REVISAR : no entiendo nada
 #EJERCICIO : demostrar esto
 #REVISAR : yo creo que está mal
+#REVISAR : esto no se si es cierto
+#REVISAR : y esto por qué? no entiendo nada
+#COMPLETAR la prueba aplicando el ejercicio 5 de la hoja 2

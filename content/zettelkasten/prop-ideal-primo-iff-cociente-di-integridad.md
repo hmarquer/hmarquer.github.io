@@ -12,7 +12,7 @@ references:
   - ideal-primo
 backlinks:
   - cor-ideal-maximal-imp-primo
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-extension-entera-ideal-primo-maximal-iff-maximal
 projects:
   - 4.1-algebra-conmutativa

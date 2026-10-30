@@ -10,6 +10,7 @@ references:
   - relacion-orden
 backlinks:
   - dim-krull
+  - esp-topologico-noetheriano
   - long-cadena-ideales-primos
   - prop-carac-anillo-noetheriano
 ---

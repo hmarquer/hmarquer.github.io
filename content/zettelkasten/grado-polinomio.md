@@ -10,6 +10,8 @@ references:
   - anillo-polinomios
 backlinks:
   - cuerpo-algebraicamente-cerrado
+  - curva-plana-afin
+  - polinomio-homogeneo
   - prop-grado-polinomio
   - teo-base-hilbert
 projects:

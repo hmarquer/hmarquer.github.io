@@ -11,8 +11,8 @@ references:
   - esp-afin
 backlinks:
   - dim-con-algebraico-afin
+  - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
-  - prop-variedad-irreducible-iff-anillo-coordenadas-dominio-integridad
   - teo-descomposicion-con-algebraico-afin-irreducibles
   - teo-unicidad-descomposicion-con-algebraico-afin-irreducibles
 projects:

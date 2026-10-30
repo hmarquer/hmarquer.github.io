@@ -14,6 +14,7 @@ backlinks:
   - fn-densidad
   - lem-aprox-indicatriz-continua-norma-lp
   - lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte
+  - operador-maximal-fuerte
   - teo-l2-unico-esp-hilbert
   - var-aleatoria-absolutamente-continua
 ---

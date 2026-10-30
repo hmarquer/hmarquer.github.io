@@ -2,8 +2,8 @@
 title: 'La localización de un anillo noetheriano es noetheriana'
 filename: 'ejer-anillo-noetheriano-imp-localizacion-noetheriana'
 created: '2026-09-17T10:24:20.181607668+00:00'
-last_edit_date: '2026-09-20T15:23:19.054742830+00:00'
-last_build_date_pdf: '2026-09-20T16:34:29.169496939+00:00'
+last_edit_date: '2026-10-30T10:29:38.071826375+00:00'
+last_build_date_pdf: '2026-10-30T10:29:44.846821231+00:00'
 labels:
   - ejer:anillo-noetheriano-imp-localizacion-noetheriana
 references:
@@ -17,6 +17,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/hoja1
   - m.1-curvas-algebraicas/tema1-ZK-1
 ---
 
