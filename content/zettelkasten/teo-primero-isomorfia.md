@@ -2,7 +2,7 @@
 title: 'Primer teorema de isomorfía'
 filename: 'teo-primero-isomorfia'
 created: '2026-09-14T16:44:36.288439144+00:00'
-last_edit_date: '2026-09-15T17:16:33.704252533+00:00'
+last_edit_date: '2026-09-20T15:23:19.058975194+00:00'
 last_build_date_pdf: '2026-09-20T16:32:42.074696276+00:00'
 labels:
   - teo:primero-isomorfia
