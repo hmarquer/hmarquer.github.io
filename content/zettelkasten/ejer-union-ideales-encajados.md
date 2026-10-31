@@ -11,6 +11,7 @@ references:
   - ideal
 backlinks:
   - prop-carac-anillo-noetheriano
+  - teo-radical-ideal-es-interseccion-primos
 projects:
   - 4.1-algebra-conmutativa
 tags:

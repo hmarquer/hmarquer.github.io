@@ -16,8 +16,10 @@ backlinks:
   - teo-extension-entera-ideal-primo-maximal-iff-maximal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
 ---
 
 [[prop-ideal-primo-iff-cociente-di-integridad.pdf]]

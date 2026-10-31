@@ -15,8 +15,10 @@ references:
   - prop-ideal-primo-iff-cociente-di-integridad
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
 ---
 
 [[cor-ideal-maximal-imp-primo.pdf]]

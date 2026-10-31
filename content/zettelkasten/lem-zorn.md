@@ -12,6 +12,7 @@ backlinks:
   - teo-base-hamel-exists
   - teo-extension-apl-lineal-minkowski
   - teo-ideal-imp-exists-ideal-maximal-contiene
+  - teo-radical-ideal-es-interseccion-primos
 projects:
   - 4.1-analisis-funcional
 tags:

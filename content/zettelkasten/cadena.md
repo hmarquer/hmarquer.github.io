@@ -13,6 +13,7 @@ backlinks:
   - esp-topologico-noetheriano
   - long-cadena-ideales-primos
   - prop-carac-anillo-noetheriano
+  - teo-radical-ideal-es-interseccion-primos
 ---
 
 [[cadena.pdf]]

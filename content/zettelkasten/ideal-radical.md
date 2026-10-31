@@ -11,12 +11,15 @@ references:
   - ideal
   - radical-ideal
 backlinks:
+  - lem-ideal-primo-imp-radical
   - prop-ideal-anulacion-ideal-radical
   - prop-ideal-radical-iff-cociente-reducido
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
 ---
 
 [[ideal-radical.pdf]]
