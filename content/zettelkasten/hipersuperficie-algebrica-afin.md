@@ -2,7 +2,7 @@
 title: 'Hipersuperficie algebrica afin'
 filename: 'hipersuperficie-algebrica-afin'
 created: '2026-10-29T12:01:26.604830993+00:00'
-last_edit_date: '2026-10-30T09:20:47.088663401+00:00'
+last_edit_date: '2026-10-29T12:01:26.628558669+00:00'
 last_build_date_pdf: '2026-10-30T17:29:04.159475659+00:00'
 labels:
   - defn:hipersuperficie-algebrica-afin
