@@ -3,7 +3,7 @@ title: 'Norma'
 filename: 'norma'
 created: '2025-01-23 00:00:00'
 last_edit_date: '2026-10-28T13:34:43.250340863+00:00'
-last_build_date_pdf: '2026-10-28T13:34:53.857016357+00:00'
+last_build_date_pdf: '2026-10-30T21:27:33.895259382+00:00'
 labels:
   - defn:norma
   - defn:norma:i

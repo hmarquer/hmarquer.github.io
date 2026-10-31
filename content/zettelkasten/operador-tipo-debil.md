@@ -3,7 +3,7 @@ title: 'Operador tipo débil'
 filename: 'operador-tipo-debil'
 created: '2026-10-27T17:26:58.053739540+00:00'
 last_edit_date: '2026-10-27T17:31:24.101253095+00:00'
-last_build_date_pdf: '2026-10-27T17:31:31.597163075+00:00'
+last_build_date_pdf: '2026-10-30T21:27:33.518731091+00:00'
 labels:
   - defn:operador-tipo-debil
 references:

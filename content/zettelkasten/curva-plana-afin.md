@@ -3,7 +3,7 @@ title: 'Curva plana afin'
 filename: 'curva-plana-afin'
 created: '2026-10-29T12:01:36.049675157+00:00'
 last_edit_date: '2026-10-29T12:01:36.078551788+00:00'
-last_build_date_pdf: '2026-10-29T17:30:54.019114662+00:00'
+last_build_date_pdf: '2026-10-30T21:27:46.656649797+00:00'
 labels:
   - defn:curva-plana-afin
 references:

@@ -3,7 +3,7 @@ title: 'Monomio'
 filename: 'monomio'
 created: '2026-10-28T17:34:44.679860980+00:00'
 last_edit_date: '2026-10-28T17:34:47.559150466+00:00'
-last_build_date_pdf: '2026-10-28T17:34:54.101869448+00:00'
+last_build_date_pdf: '2026-10-30T21:27:39.869892107+00:00'
 labels:
   - defn:monomio
 references:

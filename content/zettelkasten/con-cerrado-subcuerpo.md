@@ -3,7 +3,7 @@ title: 'Con cerrado subcuerpo'
 filename: 'con-cerrado-subcuerpo'
 created: '2026-10-29T10:58:30.300349646+00:00'
 last_edit_date: '2026-10-29T10:59:36.566140390+00:00'
-last_build_date_pdf: '2026-10-29T10:59:42.063802406+00:00'
+last_build_date_pdf: '2026-10-30T21:27:52.605887863+00:00'
 labels:
   - defn:con-cerrado-subcuerpo
 references:

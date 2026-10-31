@@ -3,7 +3,7 @@ title: 'Ideal de anulación'
 filename: 'ideal-anulacion'
 created: '2025-12-14 22:06:47.356167'
 last_edit_date: '2026-10-28T17:44:47.143167585+00:00'
-last_build_date_pdf: '2026-10-28T17:44:53.098942193+00:00'
+last_build_date_pdf: '2026-10-30T21:27:46.210305261+00:00'
 labels:
   - defn:ideal-anulacion
 references:

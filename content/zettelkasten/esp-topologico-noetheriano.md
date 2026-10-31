@@ -3,7 +3,7 @@ title: 'Espacio topológico noetheriano'
 filename: 'esp-topologico-noetheriano'
 created: '2026-10-29T15:15:34.758920616+00:00'
 last_edit_date: '2026-10-29T15:15:45.732523129+00:00'
-last_build_date_pdf: '2026-10-29T15:15:53.799639706+00:00'
+last_build_date_pdf: '2026-10-30T21:27:46.290173851+00:00'
 labels:
   - defn:esp-topologico-noetheriano
 references:

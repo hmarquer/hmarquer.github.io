@@ -3,7 +3,7 @@ title: 'Ideal de anulación sobre un subcuerpo'
 filename: 'ideal-anulacion-subcuerpo'
 created: '2026-10-28T17:58:16.120597562+00:00'
 last_edit_date: '2026-10-28T17:58:25.316396173+00:00'
-last_build_date_pdf: '2026-10-28T17:58:32.674134534+00:00'
+last_build_date_pdf: '2026-10-30T21:27:40.292567890+00:00'
 labels:
   - defn:ideal-anulacion-subcuerpo
 references:

@@ -3,7 +3,7 @@ title: 'Polinomio homogéneo'
 filename: 'polinomio-homogeneo'
 created: '2026-10-28T17:37:58.529091985+00:00'
 last_edit_date: '2026-10-28T17:38:05.821128648+00:00'
-last_build_date_pdf: '2026-10-28T17:38:13.842066803+00:00'
+last_build_date_pdf: '2026-10-30T21:27:27.167829020+00:00'
 labels:
   - defn:polinomio-homogeneo
 references:

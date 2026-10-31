@@ -3,7 +3,7 @@ title: 'Prop con algebraico afin carac definido subcuerpo'
 filename: 'prop-con-algebraico-afin-carac-definido-subcuerpo'
 created: '2026-10-28T19:11:09.010142065+00:00'
 last_edit_date: '2026-10-28T19:11:09.022648131+00:00'
-last_build_date_pdf: '2026-10-28T19:12:42.950755872+00:00'
+last_build_date_pdf: '2026-10-30T21:27:20.761826251+00:00'
 labels:
   - prop:con-algebraico-afin-carac-definido-subcuerpo
 references:

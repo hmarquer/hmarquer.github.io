@@ -3,7 +3,7 @@ title: 'Pnts racionales con algebraico afin definido subcuerpo'
 filename: 'pnts-racionales-con-algebraico-afin-definido-subcuerpo'
 created: '2026-10-28T17:51:52.625906776+00:00'
 last_edit_date: '2026-10-28T17:51:52.651272753+00:00'
-last_build_date_pdf: '2026-10-28T19:12:42.896587614+00:00'
+last_build_date_pdf: '2026-10-30T21:27:27.421742502+00:00'
 labels:
   - defn:pnts-racionales-con-algebraico-afin-definido-subcuerpo
 references:

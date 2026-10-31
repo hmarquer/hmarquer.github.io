@@ -3,7 +3,7 @@ title: 'Pnts racionales esp afin'
 filename: 'pnts-racionales-esp-afin'
 created: '2026-10-28T17:24:25.088253039+00:00'
 last_edit_date: '2026-10-28T17:24:25.101614506+00:00'
-last_build_date_pdf: '2026-10-28T19:12:42.896683840+00:00'
+last_build_date_pdf: '2026-10-30T21:27:27.374927494+00:00'
 labels:
   - defn:pnts-racionales-esp-afin
 references:

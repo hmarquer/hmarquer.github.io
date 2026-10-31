@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-10-29T15:48:55.480977608+00:00'
-last_build_date_pdf: '2026-10-29T15:49:03.423543659+00:00'
+last_edit_date: '2026-10-31T18:05:41.409899369+00:00'
+last_build_date_pdf: '2026-10-31T18:05:52.094644881+00:00'
 inclusions:
   - anillo-coordenadas-con-algebraico-afin
   - anillo-noetheriano
@@ -65,6 +65,9 @@ tags:
 ![[m.1-curvas-algebraicas.pdf]]
 
 ## Notas incluidas
+
+### hoja1
+- [ejer-anillo-noetheriano-imp-localizacion-noetheriana](./ejer-anillo-noetheriano-imp-localizacion-noetheriana.md)
 
 ### tema1-ZK-1
 - [anillo-noetheriano](./anillo-noetheriano.md)
@@ -140,3 +143,4 @@ tags:
 #ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
 #EJERCICIO 
 #COMPLETAR : incluir apéndice sobre álgebra del profesor
+#REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
