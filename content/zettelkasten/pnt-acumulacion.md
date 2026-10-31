@@ -2,7 +2,7 @@
 title: 'Punto de acumulación'
 filename: 'pnt-acumulacion'
 created: '2025-12-11 19:31:56.722057'
-last_edit_date: '2026-09-06T15:26:21.233661194+00:00'
+last_edit_date: '2026-09-03T09:44:22.675851923+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.525833908+00:00'
 labels:
   - defn:pnt-acumulacion

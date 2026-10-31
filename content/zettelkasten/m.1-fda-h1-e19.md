@@ -2,7 +2,7 @@
 title: 'Fundamentos de análisis: Ejercicio 19 de la hoja 1'
 filename: 'm.1-fda-h1-e19'
 created: '2026-10-04T19:13:09.502431239+00:00'
-last_edit_date: '2026-10-07T07:49:10.900036031+00:00'
+last_edit_date: '2026-10-09T16:25:45.762820632+00:00'
 last_build_date_pdf: '2026-10-10T04:37:21.986315965+00:00'
 labels:
   - ejer:cantor-simetrico-generalizado

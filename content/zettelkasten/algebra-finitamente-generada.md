@@ -2,7 +2,7 @@
 title: 'Ralgebra finitamente generada'
 filename: 'algebra-finitamente-generada'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-09-14T16:29:45.076165574+00:00'
+last_edit_date: '2026-09-20T15:23:19.053438856+00:00'
 last_build_date_pdf: '2026-09-20T16:34:59.433366689+00:00'
 labels:
   - defn:algebra-finitamente-generada

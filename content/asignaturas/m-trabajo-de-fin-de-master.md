@@ -51,12 +51,12 @@ tags:
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ## Etiquetas
-#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
-#COMPLETAR 
-#REVISAR 
-#ORDENAR : explicar esto
-#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
 #REVISAR : mirar fotos para simplificar y completar
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
+#REVISAR 
 #ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
+#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
+#COMPLETAR 
+#ORDENAR : explicar esto
+#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real

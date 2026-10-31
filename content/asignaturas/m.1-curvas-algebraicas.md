@@ -134,13 +134,12 @@ tags:
 - [dim-krull](./dim-krull.md)
 
 ## Etiquetas
+#EJERCICIO 
+#REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
 #REVISAR : esto no lo entiendo
+#ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
 #ORDENAR : revisar y hacer nota
 #COMPLETAR con las curvas de Fermat y Weierstrass
-#REVISAR 
-#ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano
 #ORDENAR : lo he metido antes (creo)
-#ORDENAR : el hecho del compuesto es el Lema A.35(3) del apéndice
-#EJERCICIO 
 #COMPLETAR : incluir apéndice sobre álgebra del profesor
 #REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)

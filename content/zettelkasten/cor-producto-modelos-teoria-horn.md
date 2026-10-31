@@ -2,7 +2,7 @@
 title: 'Cor producto modelos teoria horn'
 filename: 'cor-producto-modelos-teoria-horn'
 created: '2026-03-26 19:27:53.907397'
-last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_edit_date: '2026-09-03T09:44:22.561340721+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.737687717+00:00'
 labels:
   - cor:producto-modelos-teoria-horn
