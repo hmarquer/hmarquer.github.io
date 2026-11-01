@@ -13,6 +13,7 @@ references:
 backlinks:
   - desigualdad-young-convolucion
   - lem-convolucion
+  - lem-norma-lp-integral-fn-distribucion
   - lem-transformada-fourier-conmutativa-integral
   - lem-transformada-fourier-convolucion
   - ley-fuerte-grandes-numeros

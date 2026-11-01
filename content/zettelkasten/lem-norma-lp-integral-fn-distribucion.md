@@ -2,8 +2,8 @@
 title: 'Lem norma lp integral fn distribucion'
 filename: 'lem-norma-lp-integral-fn-distribucion'
 created: '2026-09-27T11:51:31.733155741+00:00'
-last_edit_date: '2026-09-27T11:51:31.735285956+00:00'
-last_build_date_pdf: '2026-09-27T19:16:57.912126597+00:00'
+last_edit_date: '2026-11-01T16:36:06.500070887+00:00'
+last_build_date_pdf: '2026-11-01T16:36:08.226623916+00:00'
 labels:
   - lem:norma-lp-integral-fn-distribucion
 references:
@@ -13,6 +13,7 @@ references:
   - fn-medible
   - medida-sigma-finita
   - norma-lp
+  - teo-fubini
   - teo-fundamental-calculo
 projects:
   - m-trabajo-de-fin-de-master
@@ -34,5 +35,6 @@ tags:
 - [fn-medible](./fn-medible.md)
 - [medida-sigma-finita](./medida-sigma-finita.md)
 - [norma-lp](./norma-lp.md)
+- [teo-fubini](./teo-fubini.md)
 - [teo-fundamental-calculo](./teo-fundamental-calculo.md)
 

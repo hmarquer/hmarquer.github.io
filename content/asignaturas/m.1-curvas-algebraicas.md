@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-01T12:16:07.648879020+00:00'
-last_build_date_pdf: '2026-11-01T12:16:17.584596140+00:00'
+last_edit_date: '2026-11-01T17:47:03.540169087+00:00'
+last_build_date_pdf: '2026-11-01T18:25:19.483431508+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
