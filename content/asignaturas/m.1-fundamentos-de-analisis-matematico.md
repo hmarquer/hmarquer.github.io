@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-10-28T16:51:09.924526827+00:00'
-last_build_date_pdf: '2026-10-30T21:28:10.297041088+00:00'
+last_edit_date: '2026-11-01T13:09:59.936842465+00:00'
+last_build_date_pdf: '2026-11-01T13:10:15.522305599+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -48,13 +48,16 @@ inclusions:
   - lem-dim-hausdorff-con-cantor-cota-superior
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
+  - lem-estabilidad-numerable-dim-hausdorff
   - lem-fatou
   - lem-medida-exterior-hausdorff-anulacion
   - lem-medida-exterior-hausdorff-dimensiones-ordenadas
   - lem-medida-exterior-hausdorff-fn-gamma-holder
   - lem-medida-hausdorff-invariante-isometrias
+  - lem-monotonia-dim-hausdorff
   - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e1
+  - m.1-fda-h1-e19
   - medida
   - medida-exterior
   - medida-exterior-metrica
@@ -117,6 +120,9 @@ tags:
 
 ### m.1-fundamentos-de-analisis-matematico
 - [m.1-fda-e1](./m.1-fda-e1.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 
 ### tema0
 - [algebra-conjuntos](./algebra-conjuntos.md)
@@ -163,10 +169,12 @@ tags:
 - [fn-gamma-holder](./fn-gamma-holder.md)
 - [lem-continuidad-creciente-medida-exterior-metrica](./lem-continuidad-creciente-medida-exterior-metrica.md)
 - [lem-dim-hausdorff-con-cantor-cota-superior](./lem-dim-hausdorff-con-cantor-cota-superior.md)
+- [lem-estabilidad-numerable-dim-hausdorff](./lem-estabilidad-numerable-dim-hausdorff.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [lem-medida-exterior-hausdorff-dimensiones-ordenadas](./lem-medida-exterior-hausdorff-dimensiones-ordenadas.md)
 - [lem-medida-exterior-hausdorff-fn-gamma-holder](./lem-medida-exterior-hausdorff-fn-gamma-holder.md)
 - [lem-medida-hausdorff-invariante-isometrias](./lem-medida-hausdorff-invariante-isometrias.md)
+- [lem-monotonia-dim-hausdorff](./lem-monotonia-dim-hausdorff.md)
 - [medida-exterior-metrica](./medida-exterior-metrica.md)
 - [medida-hausdorff](./medida-hausdorff.md)
 - [prop-con-borel-imp-medible-hausdorff](./prop-con-borel-imp-medible-hausdorff.md)
@@ -263,3 +271,5 @@ tags:
 #DEMOSTRACIÓN : trivial
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
+#EJERCICIO a entregar
+#EJERCICIO a enrtegar

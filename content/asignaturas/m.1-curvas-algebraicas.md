@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-10-31T23:27:31.221164925+00:00'
-last_build_date_pdf: '2026-10-31T23:27:37.511282473+00:00'
+last_edit_date: '2026-11-01T12:16:07.648879020+00:00'
+last_build_date_pdf: '2026-11-01T12:16:17.584596140+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -236,10 +236,11 @@ tags:
 ## Etiquetas
 #EJERCICIO 
 #REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
+#REVISAR 
 #REVISAR : esto no lo entiendo
+#DEMOSTRACIÓN :
 #ORDENAR : revisar y hacer nota
 #COMPLETAR con las curvas de Fermat y Weierstrass
-#REVISAR 
 #ORDENAR : referenciar bien
 #ORDENAR : lo he metido antes (creo)
 #COMPLETAR : integrar §A.4–§A.7 de notas-profesor-tema0.tex

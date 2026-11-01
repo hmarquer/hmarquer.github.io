@@ -9,6 +9,10 @@ labels:
 references:
   - cor-dim-hausdorff
   - lem-monotonia-dim-hausdorff
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema1
 ---
 
 [[lem-estabilidad-numerable-dim-hausdorff.pdf]]

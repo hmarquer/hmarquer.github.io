@@ -11,6 +11,10 @@ references:
   - prop-medida-exterior-hausdorff
 backlinks:
   - lem-estabilidad-numerable-dim-hausdorff
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema1
 ---
 
 [[lem-monotonia-dim-hausdorff.pdf]]
