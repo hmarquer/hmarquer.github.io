@@ -2,7 +2,7 @@
 title: 'Embebimiento'
 filename: 'embebimiento'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.581804786+00:00'
+last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.776978379+00:00'
 labels:
   - defn:embebimiento

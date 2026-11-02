@@ -2,7 +2,7 @@
 title: 'Conmutador anillo'
 filename: 'conmutador-anillo'
 created: '2026-03-23 19:32:50.957558'
-last_edit_date: '2026-09-03T09:44:22.547476960+00:00'
+last_edit_date: '2026-09-06T15:26:21.213658350+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.762644681+00:00'
 labels:
   - defn:conmutador-anillo

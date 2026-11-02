@@ -2,7 +2,7 @@
 title: 'Toda extensión que sea un módulo finitamente generado, es entera'
 filename: 'teo-extension-modulo-finitamente-generado-imp-entera'
 created: '2025-12-31 06:06:23.518267'
-last_edit_date: '2026-09-03T09:44:22.749891815+00:00'
+last_edit_date: '2026-09-06T15:26:21.243662616+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.331194422+00:00'
 labels:
   - teo:extension-modulo-finitamente-generado-imp-entera
@@ -14,8 +14,10 @@ backlinks:
   - cor-extension-entera-anillos-transitiva
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema0-ZK-5
 ---
 
 [[teo-extension-modulo-finitamente-generado-imp-entera.pdf]]

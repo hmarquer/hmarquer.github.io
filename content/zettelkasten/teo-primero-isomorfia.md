@@ -2,8 +2,8 @@
 title: 'Primer teorema de isomorfía'
 filename: 'teo-primero-isomorfia'
 created: '2026-09-14T16:44:36.288439144+00:00'
-last_edit_date: '2026-09-20T15:23:19.058975194+00:00'
-last_build_date_pdf: '2026-09-20T16:32:42.074696276+00:00'
+last_edit_date: '2026-11-02T15:39:50.687647530+00:00'
+last_build_date_pdf: '2026-11-02T19:35:41.727760661+00:00'
 labels:
   - teo:primero-isomorfia
 references:
@@ -16,8 +16,10 @@ references:
   - teo-universal-anillo-cociente
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-1
 ---
 
 [[teo-primero-isomorfia.pdf]]

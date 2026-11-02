@@ -2,7 +2,7 @@
 title: 'Propiedad universal del anillo cociente'
 filename: 'teo-universal-anillo-cociente'
 created: '2026-09-15T10:35:33.571452703+00:00'
-last_edit_date: '2026-09-20T15:23:19.059172948+00:00'
+last_edit_date: '2026-09-15T17:16:37.889975990+00:00'
 last_build_date_pdf: '2026-09-20T16:32:42.074659096+00:00'
 labels:
   - teo:universal-anillo-cociente
@@ -16,8 +16,10 @@ backlinks:
   - teo-primero-isomorfia
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-1
 ---
 
 [[teo-universal-anillo-cociente.pdf]]

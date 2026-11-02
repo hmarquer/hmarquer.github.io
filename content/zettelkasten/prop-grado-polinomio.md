@@ -2,7 +2,7 @@
 title: 'Prop grado polinomio'
 filename: 'prop-grado-polinomio'
 created: '2025-09-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.699069885+00:00'
+last_edit_date: '2026-09-06T15:26:21.236661621+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.659623924+00:00'
 labels:
   - prop:grado-polinomio

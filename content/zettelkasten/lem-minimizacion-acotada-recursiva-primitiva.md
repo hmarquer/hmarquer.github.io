@@ -2,7 +2,7 @@
 title: 'Lema de minimización acotada'
 filename: 'lem-minimizacion-acotada-recursiva-primitiva'
 created: '2026-05-03T14:25:32.201771085+00:00'
-last_edit_date: '2026-09-03T09:44:22.639632232+00:00'
+last_edit_date: '2026-09-06T15:26:21.229660626+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.198228903+00:00'
 labels:
   - lem:minimizacion-acotada-recursiva-primitiva

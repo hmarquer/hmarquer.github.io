@@ -2,8 +2,8 @@
 title: 'Todo ideal propio está contenido en un ideal maximal'
 filename: 'teo-ideal-imp-exists-ideal-maximal-contiene'
 created: '2025-09-23 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.756383532+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.653894071+00:00'
+last_edit_date: '2026-11-02T15:39:50.687647530+00:00'
+last_build_date_pdf: '2026-11-02T19:35:41.676756667+00:00'
 labels:
   - teo:ideal-imp-exists-ideal-maximal-contiene
 references:
@@ -15,8 +15,10 @@ backlinks:
   - cor-exists-ideal-maximal
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
 ---
 
 [[teo-ideal-imp-exists-ideal-maximal-contiene.pdf]]

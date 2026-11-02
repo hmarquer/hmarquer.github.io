@@ -2,7 +2,7 @@
 title: 'Anillo'
 filename: 'anillo'
 created: '2025-01-18 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.532323281+00:00'
+last_edit_date: '2026-09-06T15:26:21.202656786+00:00'
 last_build_date_pdf: '2026-10-22T11:12:16.640873285+00:00'
 last_build_date_html: '2026-05-07T00:51:10.597131329+00:00'
 labels:
@@ -68,12 +68,15 @@ backlinks:
   - suma-ideales
   - teo-correspondencia-ideales-cociente
   - teo-ideal-imp-exists-ideal-maximal-contiene
+  - teo-radical-ideal-es-interseccion-primos
   - teo-universal-localizacion
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-1
   - teoria-de-galois/tema1
 ---
 

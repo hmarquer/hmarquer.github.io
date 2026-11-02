@@ -2,7 +2,7 @@
 title: 'Extensión de anillos algebraica'
 filename: 'extension-anillos-algebraica'
 created: '2025-12-31 06:15:29.293230'
-last_edit_date: '2026-09-03T09:44:22.591354169+00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.484243233+00:00'
 labels:
   - defn:extension-anillos-algebraica
@@ -14,8 +14,10 @@ backlinks:
   - lem-normalizacion-noether
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema0-ZK-6
 ---
 
 [[extension-anillos-algebraica.pdf]]

@@ -2,7 +2,7 @@
 title: 'Ejer Morfismo Inducido Identidad Variedad Algebraica Afin'
 filename: 'ejer-morfismo-inducido-identidad-con-algebraico-afin'
 created: '2026-06-24T18:37:11.774905898+00:00'
-last_edit_date: '2026-09-20T15:23:19.055027846+00:00'
+last_edit_date: '2026-09-17T17:59:10.737327544+00:00'
 last_build_date_pdf: '2026-09-20T16:34:23.005735099+00:00'
 labels:
   - ejer:morfismo-inducido-identidad-con-algebraico-afin

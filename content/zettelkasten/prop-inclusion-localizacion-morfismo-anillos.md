@@ -2,8 +2,8 @@
 title: 'La inclusión en una localización es un morfismo de anillos'
 filename: 'prop-inclusion-localizacion-morfismo-anillos'
 created: '2025-12-14 14:46:17.356285'
-last_edit_date: '2026-09-03T09:44:22.701280597+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.730951098+00:00'
+last_edit_date: '2026-11-02T15:39:50.687647530+00:00'
+last_build_date_pdf: '2026-11-02T19:35:46.156936763+00:00'
 labels:
   - prop:inclusion-localizacion-morfismo-anillos
 references:
@@ -14,8 +14,10 @@ backlinks:
   - ejer-anillo-noetheriano-imp-localizacion-noetheriana
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema0-ZK-4
 ---
 
 [[prop-inclusion-localizacion-morfismo-anillos.pdf]]

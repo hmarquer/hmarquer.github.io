@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-10-28T15:25:31.857308386+00:00'
-last_build_date_pdf: '2026-10-30T21:28:05.640556531+00:00'
+last_edit_date: '2026-11-02T15:39:50.686647250+00:00'
+last_build_date_pdf: '2026-11-02T19:35:55.863837750+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -51,12 +51,12 @@ tags:
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ## Etiquetas
+#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
+#COMPLETAR 
+#REVISAR 
+#ORDENAR : explicar esto
+#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
 #REVISAR : mirar fotos para simplificar y completar
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
-#REVISAR 
 #ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
-#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
-#COMPLETAR 
-#ORDENAR : explicar esto
-#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real

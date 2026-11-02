@@ -2,7 +2,7 @@
 title: 'Desigualdad de Hölder'
 filename: 'desigualdad-holder'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-29T18:22:31.139698649+00:00'
+last_edit_date: '2026-09-28T13:23:49.545983442+00:00'
 last_build_date_pdf: '2026-10-03T01:21:48.907637290+00:00'
 labels:
   - teo:desigualdad-holder

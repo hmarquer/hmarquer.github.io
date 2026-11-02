@@ -2,7 +2,7 @@
 title: 'Extensión de anillos'
 filename: 'extension-anillos'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.591738902+00:00'
+last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.963045582+00:00'
 labels:
   - defn:extension-anillos
@@ -21,8 +21,10 @@ backlinks:
   - teo-extension-modulo-finitamente-generado-imp-entera
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema0-ZK-5
 ---
 
 [[extension-anillos.pdf]]

@@ -2,7 +2,7 @@
 title: 'Obs anillo cociente morfismo canonico'
 filename: 'obs-anillo-cociente-morfismo-canonico'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.667962143+00:00'
+last_edit_date: '2026-09-06T15:26:21.232661052+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.370283641+00:00'
 labels:
   - obs:anillo-cociente-morfismo-canonico
@@ -17,8 +17,10 @@ backlinks:
   - teo-universal-anillo-cociente
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-1
 ---
 
 [[obs-anillo-cociente-morfismo-canonico.pdf]]

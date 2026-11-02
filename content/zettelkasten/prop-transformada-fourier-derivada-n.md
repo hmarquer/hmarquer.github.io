@@ -2,7 +2,7 @@
 title: 'Prop transformada fourier derivada n'
 filename: 'prop-transformada-fourier-derivada-n'
 created: '2026-01-13 12:07:34.860816'
-last_edit_date: '2026-09-03T09:44:22.711118488+00:00'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.973645497+00:00'
 labels:
   - prop:transformada-fourier-derivada-n

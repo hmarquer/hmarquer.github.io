@@ -2,7 +2,7 @@
 title: 'Ideal maximal'
 filename: 'ideal-maximal'
 created: '2025-09-16 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.611016407+00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.498113886+00:00'
 labels:
   - defn:ideal-maximal
@@ -24,8 +24,10 @@ backlinks:
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
   - teoria-de-galois/tema1
 ---
 

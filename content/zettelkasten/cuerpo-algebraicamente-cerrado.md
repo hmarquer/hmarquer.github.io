@@ -2,7 +2,7 @@
 title: 'Cuerpo algebraicamente cerrado'
 filename: 'cuerpo-algebraicamente-cerrado'
 created: '2025-05-18 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.054313128+00:00'
+last_edit_date: '2026-09-09T14:04:31.410844473+00:00'
 last_build_date_pdf: '2026-09-20T16:34:41.086187163+00:00'
 labels:
   - defn:cuerpo-algebraicamente-cerrado
@@ -18,8 +18,10 @@ backlinks:
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
+  - m.1-curvas-algebraicas/tema0-ZK-6
 ---
 
 [[cuerpo-algebraicamente-cerrado.pdf]]

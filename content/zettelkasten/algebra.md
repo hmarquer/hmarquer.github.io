@@ -2,7 +2,7 @@
 title: 'Álgebra'
 filename: 'algebra'
 created: '2025-10-21 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.053575347+00:00'
+last_edit_date: '2026-09-14T16:31:09.646893622+00:00'
 last_build_date_pdf: '2026-10-22T11:12:33.929660601+00:00'
 labels:
   - defn:algebra
@@ -16,8 +16,10 @@ backlinks:
   - morfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema0-ZK-3
 ---
 
 [[algebra.pdf]]

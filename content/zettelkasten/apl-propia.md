@@ -2,7 +2,7 @@
 title: 'Aplicación propia'
 filename: 'apl-propia'
 created: '2025-03-17 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.534166452+00:00'
+last_edit_date: '2026-09-06T15:26:21.202656786+00:00'
 last_build_date_pdf: '2026-09-15T23:12:44.898938085+00:00'
 labels:
   - defn:apl-propia

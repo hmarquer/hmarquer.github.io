@@ -2,7 +2,7 @@
 title: 'Lem ideal total'
 filename: 'lem-ideal-total'
 created: '2025-09-22 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.636351883+00:00'
+last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
 last_build_date_pdf: '2026-09-15T23:12:50.991222534+00:00'
 labels:
   - dem:ideal-total:1
@@ -15,8 +15,10 @@ backlinks:
   - lem-cuerpo-iff-ideales-triviales
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
 ---
 
 [[lem-ideal-total.pdf]]

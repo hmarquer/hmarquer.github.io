@@ -2,7 +2,7 @@
 title: 'Ideal primo'
 filename: 'ideal-primo'
 created: '2025-09-16 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.611410658+00:00'
+last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.527842709+00:00'
 labels:
   - defn:ideal-primo
@@ -14,6 +14,7 @@ backlinks:
   - cor-ideal-primo-localizacion-extendido
   - dim-krull
   - ejer-localizacion-ideal-primo-anillo-local
+  - lem-ideal-primo-imp-radical
   - long-cadena-ideales-primos
   - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
   - prop-con-algebraico-afin-irreducible-iff-ideal-primo
@@ -22,11 +23,14 @@ backlinks:
   - prop-ideales-primos-dominio-ideales-principales
   - teo-extension-entera-ideal-primo-imp-exists-ideal-primo-contrae
   - teo-extension-entera-ideal-primo-maximal-iff-maximal
+  - teo-radical-ideal-es-interseccion-primos
 projects:
   - 3.1-teoria-de-galois
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
+  - m.1-curvas-algebraicas/tema0-ZK-2
   - teoria-de-galois/tema1
 ---
 
