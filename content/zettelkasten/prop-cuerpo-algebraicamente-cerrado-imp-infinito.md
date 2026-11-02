@@ -9,6 +9,10 @@ labels:
 references:
   - cuerpo
   - cuerpo-algebraicamente-cerrado
+projects:
+  - m.1-curvas-algebraicas
+tags:
+  - m.1-curvas-algebraicas/tema0-ZK-6
 ---
 
 [[prop-cuerpo-algebraicamente-cerrado-imp-infinito.pdf]]

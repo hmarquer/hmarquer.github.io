@@ -14,7 +14,9 @@ backlinks:
   - num-complejos
 projects:
   - 3.1-teoria-de-galois
+  - m.1-curvas-algebraicas
 tags:
+  - m.1-curvas-algebraicas/tema0-ZK-6
   - teoria-de-galois/tema2
 ---
 

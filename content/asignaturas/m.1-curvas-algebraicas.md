@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-01T17:47:03.540169087+00:00'
-last_build_date_pdf: '2026-11-01T18:25:19.483431508+00:00'
+last_edit_date: '2026-11-02T14:32:48.813948557+00:00'
+last_build_date_pdf: '2026-11-02T14:33:10.394607372+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -22,11 +22,13 @@ inclusions:
   - con-ceros-polinomios-pnts-racionales-esp-afin
   - con-cerrado-subcuerpo
   - cor-base-hilbert-n-var
+  - cor-extension-entera-anillos-transitiva
   - cor-extension-entera-dim-krull-igualdad
   - cor-ideal-maximal-imp-primo
   - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
   - cor-morfismo-variedades-algebraicas-afines-dominante-iff-morfismo-inducido-inyectivo
   - cuerpo
+  - cuerpo-algebraicamente-cerrado
   - curva-plana-afin
   - dim-con-algebraico-afin
   - dim-krull
@@ -39,11 +41,17 @@ inclusions:
   - ejer-anillo-noetheriano-subanillo-no-noetheriano
   - ejer-morfismo-anillos-inverso
   - ejer-nucleo-morfismo-imp-ideal
+  - elemento-algebraico-sobre-anillo
+  - elemento-entero-sobre-anillo
   - elemento-irreducible
   - elemento-primo
   - elemento-unidad
   - esp-afin
   - esp-topologico-noetheriano
+  - extension
+  - extension-anillos
+  - extension-anillos-algebraica
+  - extension-anillos-entera
   - fn-regular-con-algebraico-afin
   - hipersuperficie-algebrica-afin
   - ideal
@@ -55,6 +63,7 @@ inclusions:
   - ideal-primo
   - ideal-principal
   - ideal-radical
+  - independencia-algebraica
   - isomorfismo-anillos
   - isomorfismo-con-algebraicos-afines
   - lem-clausura-zariski-con-ceros-ideal-anulacion
@@ -76,6 +85,7 @@ inclusions:
   - nilpotencia-anillos
   - nucleo-morfismo-anillos
   - obs-anillo-cociente-morfismo-canonico
+  - parte-multiplicativa-anillo
   - pnts-racionales-con-algebraico-afin-definido-subcuerpo
   - pnts-racionales-esp-afin
   - polinomio-homogeneo
@@ -84,10 +94,13 @@ inclusions:
   - prop-con-algebraico-afin-carac-definido-subcuerpo
   - prop-con-algebraico-afin-ideal
   - prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
+  - prop-cuerpo-algebraicamente-cerrado-imp-infinito
   - prop-ideal-anulacion-ideal-radical
   - prop-ideal-maximal-iff-cociente-cuerpo
   - prop-ideal-primo-iff-cociente-di-integridad
   - prop-ideal-radical-iff-cociente-reducido
+  - prop-inclusion-localizacion-morfismo-anillos
+  - prop-localizacion-anillo
   - prop-preimagen-subvariedad-morfismo-variedades-algebraicas-afines
   - prop-topologia-zariski
   - radical-ideal
@@ -97,6 +110,9 @@ inclusions:
   - teo-con-ceros-polinomios-esp-afin-ideal-propio-cuerpo-alg-cerrado-no-vacio
   - teo-correspondencia-ideales-cociente
   - teo-descomposicion-con-algebraico-afin-irreducibles
+  - teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo
+  - teo-extension-entero-modulo-finitamente-generado
+  - teo-extension-modulo-finitamente-generado-imp-entera
   - teo-ideal-imp-exists-ideal-maximal-contiene
   - teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado
   - teo-morfismo-anillos-coordenadas-imp-morfismo-variedades-algebraicas-afines
@@ -168,6 +184,28 @@ tags:
 - [algebra](./algebra.md)
 - [algebra-finitamente-generada](./algebra-finitamente-generada.md)
 - [morfismo-ralgebras](./morfismo-ralgebras.md)
+
+### tema0-ZK-4
+- [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
+- [prop-inclusion-localizacion-morfismo-anillos](./prop-inclusion-localizacion-morfismo-anillos.md)
+- [prop-localizacion-anillo](./prop-localizacion-anillo.md)
+
+### tema0-ZK-5
+- [cor-extension-entera-anillos-transitiva](./cor-extension-entera-anillos-transitiva.md)
+- [elemento-entero-sobre-anillo](./elemento-entero-sobre-anillo.md)
+- [extension-anillos](./extension-anillos.md)
+- [extension-anillos-entera](./extension-anillos-entera.md)
+- [teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo](./teo-extension-entera-dominios-integridad-imp-cuerpo-iff-cuerpo.md)
+- [teo-extension-entero-modulo-finitamente-generado](./teo-extension-entero-modulo-finitamente-generado.md)
+- [teo-extension-modulo-finitamente-generado-imp-entera](./teo-extension-modulo-finitamente-generado-imp-entera.md)
+
+### tema0-ZK-6
+- [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
+- [elemento-algebraico-sobre-anillo](./elemento-algebraico-sobre-anillo.md)
+- [extension](./extension.md)
+- [extension-anillos-algebraica](./extension-anillos-algebraica.md)
+- [independencia-algebraica](./independencia-algebraica.md)
+- [prop-cuerpo-algebraicamente-cerrado-imp-infinito](./prop-cuerpo-algebraicamente-cerrado-imp-infinito.md)
 
 ### tema1-ZK-1
 - [anillo-noetheriano](./anillo-noetheriano.md)
@@ -243,5 +281,4 @@ tags:
 #COMPLETAR con las curvas de Fermat y Weierstrass
 #ORDENAR : referenciar bien
 #ORDENAR : lo he metido antes (creo)
-#COMPLETAR : integrar §A.4–§A.7 de notas-profesor-tema0.tex
 #ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano

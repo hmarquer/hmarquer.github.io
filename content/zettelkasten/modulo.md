@@ -11,7 +11,6 @@ references:
   - grupo
 backlinks:
   - algebra
-  - cor-extension-entera-anillos-transitiva
   - modulo-finitamente-generado
   - morfismo-modulos
   - teo-extension-entero-modulo-finitamente-generado

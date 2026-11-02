@@ -2,8 +2,8 @@
 title: 'Prop localizacion anillo'
 filename: 'prop-localizacion-anillo'
 created: '2025-11-30 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.703067781+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.525832733+00:00'
+last_edit_date: '2026-11-02T12:10:34.027553666+00:00'
+last_build_date_pdf: '2026-11-02T14:30:25.595641478+00:00'
 labels:
   - prop:localizacion-anillo
 references:
@@ -19,8 +19,10 @@ backlinks:
   - ejer-localizacion-ideal-primo-anillo-local
 projects:
   - 4.1-algebra-conmutativa
+  - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
+  - m.1-curvas-algebraicas/tema0-ZK-4
 ---
 
 [[prop-localizacion-anillo.pdf]]
@@ -33,5 +35,3 @@ tags:
 - [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
 
-## Etiquetas
-#COMPLETAR 

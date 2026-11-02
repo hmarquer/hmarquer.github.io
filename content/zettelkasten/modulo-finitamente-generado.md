@@ -9,7 +9,6 @@ labels:
 references:
   - modulo
 backlinks:
-  - cor-extension-entera-anillos-transitiva
   - extension-finita-anillos
   - teo-extension-entero-modulo-finitamente-generado
   - teo-extension-modulo-finitamente-generado-imp-entera
