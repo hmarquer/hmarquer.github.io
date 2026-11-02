@@ -273,3 +273,5 @@ tags:
 #DEMOSTRACIÓN : trivial
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
+#EJERCICIO a entregar
+#EJERCICIO a enrtegar
