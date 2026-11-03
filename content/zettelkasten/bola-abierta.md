@@ -18,6 +18,7 @@ backlinks:
   - cor-subordinacion-dominio-simplemente-conexo
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-carac-densidad-esp-metrizable
+  - lem-cubrimiento-vitali
   - m.1-pe-e4
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
   - prop-carac-con-abiertos-esp-metrico

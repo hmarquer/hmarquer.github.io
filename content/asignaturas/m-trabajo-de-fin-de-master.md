@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-02T15:39:50.686647250+00:00'
-last_build_date_pdf: '2026-11-02T19:35:55.863837750+00:00'
+last_edit_date: '2026-11-03T14:13:32.800396373+00:00'
+last_build_date_pdf: '2026-11-03T14:26:38.797327346+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -12,6 +12,7 @@ inclusions:
   - d-prisma-coordenado
   - esp-lp-debil
   - fn-distribucion
+  - lem-cubrimiento-vitali
   - lem-norma-lp-integral-fn-distribucion
   - norma-lp-debil
   - operador-maximal
@@ -20,6 +21,7 @@ inclusions:
   - operador-tipo-fuerte
   - prop-desigualdad-chebyshev-general
   - propiedad-cubridora-vq
+  - teo-acotacion-operador-maximal-bolas
   - teo-inclusion-lp-lp-debil
 tags:
   - m-trabajo-de-fin-de-master
@@ -45,9 +47,11 @@ tags:
 - [cubo-n-adico-grado-k](./cubo-n-adico-grado-k.md)
 - [esp-lp-debil](./esp-lp-debil.md)
 - [fn-distribucion](./fn-distribucion.md)
+- [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
 - [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
 - [norma-lp-debil](./norma-lp-debil.md)
 - [operador-maximal](./operador-maximal.md)
+- [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ## Etiquetas

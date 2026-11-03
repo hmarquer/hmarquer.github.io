@@ -22,6 +22,7 @@ backlinks:
   - esp-metrico
   - esp-metrizable
   - esp-topologico-metrizable
+  - lem-cubrimiento-vitali
   - limite-fn
   - metrica-cordal
   - metrica-inducida

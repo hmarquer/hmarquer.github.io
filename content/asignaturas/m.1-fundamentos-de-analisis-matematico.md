@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-02T15:39:50.689648089+00:00'
-last_build_date_pdf: '2026-11-02T19:36:02.191488164+00:00'
+last_edit_date: '2026-11-03T14:26:19.040756229+00:00'
+last_build_date_pdf: '2026-11-03T14:26:45.086441086+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -45,6 +45,7 @@ inclusions:
   - fn-simple
   - integral
   - lem-continuidad-creciente-medida-exterior-metrica
+  - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
@@ -57,6 +58,7 @@ inclusions:
   - lem-monotonia-dim-hausdorff
   - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e1
+  - m.1-fda-e2
   - m.1-fda-h1-e19
   - medida
   - medida-exterior
@@ -67,6 +69,7 @@ inclusions:
   - norma
   - norma-lp
   - norma-lp-debil
+  - operador-maximal
   - operador-tipo-debil
   - operador-tipo-fuerte
   - premedida
@@ -94,6 +97,7 @@ inclusions:
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
+  - teo-acotacion-operador-maximal-bolas
   - teo-carac-continuidad-apl-lineal
   - teo-caratheodory-i
   - teo-caratheodory-ii
@@ -120,6 +124,7 @@ tags:
 
 ### m.1-fundamentos-de-analisis-matematico
 - [m.1-fda-e1](./m.1-fda-e1.md)
+- [m.1-fda-e2](./m.1-fda-e2.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
@@ -226,9 +231,14 @@ tags:
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
+### tema3
+- [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
+- [operador-maximal](./operador-maximal.md)
+- [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
+
 ## Etiquetas
-#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR 
+#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
@@ -273,3 +283,4 @@ tags:
 #DEMOSTRACIÓN : trivial
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
+#COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.

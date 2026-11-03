@@ -15,6 +15,8 @@ references:
   - norma-lp
   - teo-fubini
   - teo-fundamental-calculo
+backlinks:
+  - teo-acotacion-operador-maximal-bolas
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
