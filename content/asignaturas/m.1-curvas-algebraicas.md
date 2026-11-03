@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-02T15:39:50.689648089+00:00'
-last_build_date_pdf: '2026-11-02T18:29:17.592808766+00:00'
+last_edit_date: '2026-11-03T11:27:37.945657798+00:00'
+last_build_date_pdf: '2026-11-03T11:28:50.147609434+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -279,6 +279,5 @@ tags:
 #REVISAR 
 #ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano
 #ORDENAR : lo he metido antes (creo)
-#ORDENAR : referenciar bien
 #EJERCICIO 
 #REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)

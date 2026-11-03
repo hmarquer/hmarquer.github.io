@@ -9,6 +9,8 @@ labels:
 references:
   - morfismo-con-algebraicos-afines
   - morfismo-inducido-variedades-algebraicas-afines
+backlinks:
+  - cor-isomorfismo-con-algebraicos-afines-iff-isomorfismo-ralgebras
 projects:
   - 4.1-algebra-conmutativa
 tags:
