@@ -2,8 +2,8 @@
 title: 'Solución clásica de una EDP'
 filename: 'sol-clasica-edp'
 created: '2025-03-12 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.873241075+00:00'
+last_edit_date: '2026-11-03T17:30:26.206786875+00:00'
+last_build_date_pdf: '2026-11-04T11:10:57.684186717+00:00'
 labels:
   - defn:sol-clasica-edp
 references:

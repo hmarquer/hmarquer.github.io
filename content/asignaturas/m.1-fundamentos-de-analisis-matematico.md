@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-03T14:26:19.040756229+00:00'
-last_build_date_pdf: '2026-11-03T14:26:45.086441086+00:00'
+last_edit_date: '2026-11-04T11:17:11.995480951+00:00'
+last_build_date_pdf: '2026-11-04T11:20:15.618882933+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -256,8 +256,6 @@ tags:
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
 #EJERCICIO a entregar
 #EJERCICIO a enrtegar
-#ORDENAR : incluir caso p=1 y p=\infty
-#REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa? %ORDENAR: incluir caso p=1 y p=\infty
 #REVISAR : está totalmente mal, fumada del profesor
 #COMPLETAR : terminar la demostración
 #DEMOSTRACIÓN : es aplicar la proposición anterior

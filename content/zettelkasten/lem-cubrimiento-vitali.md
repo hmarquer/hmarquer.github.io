@@ -2,13 +2,13 @@
 title: 'Lema del cubrimiento de Vitali'
 filename: 'lem-cubrimiento-vitali'
 created: '2026-11-03T13:58:36.336425573+00:00'
-last_edit_date: '2026-11-03T14:09:37.545503214+00:00'
-last_build_date_pdf: '2026-11-03T14:26:34.321387911+00:00'
+last_edit_date: '2026-11-03T19:34:09.526088125+00:00'
+last_build_date_pdf: '2026-11-03T19:34:15.766538565+00:00'
 labels:
   - lem:cubrimiento-vitali
 references:
   - bola-abierta
-  - metrica
+  - esp-metrico
 backlinks:
   - teo-acotacion-operador-maximal-bolas
 projects:
@@ -24,7 +24,5 @@ tags:
 
 ## Referencias
 - [bola-abierta](./bola-abierta.md)
-- [metrica](./metrica.md)
+- [esp-metrico](./esp-metrico.md)
 
-## Etiquetas
-#ORDENAR : reescribir mejor

@@ -2,8 +2,8 @@
 title: 'Desigualdad jensen condicional'
 filename: 'desigualdad-jensen-condicional'
 created: '2025-06-14 00:00:00'
-last_edit_date: '2026-09-10T17:11:20.823168687+00:00'
-last_build_date_pdf: '2026-09-20T16:34:40.783712497+00:00'
+last_edit_date: '2026-11-03T17:30:26.161786844+00:00'
+last_build_date_pdf: '2026-11-04T11:13:38.217070394+00:00'
 labels:
   - lem:desigualdad-jensen-condicional
 references:

@@ -2,8 +2,8 @@
 title: 'Grupo'
 filename: 'grupo'
 created: '2025-01-18 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.033386734+00:00'
+last_edit_date: '2026-11-03T17:30:26.177786855+00:00'
+last_build_date_pdf: '2026-11-04T11:12:21.074245783+00:00'
 last_build_date_html: '2026-05-07T00:51:33.172164321+00:00'
 labels:
   - defn:grupo

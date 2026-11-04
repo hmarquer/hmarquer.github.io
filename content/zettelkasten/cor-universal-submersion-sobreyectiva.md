@@ -2,8 +2,8 @@
 title: 'Corolario de la propiedad universal de las submersiones sobreyectivas'
 filename: 'cor-universal-submersion-sobreyectiva'
 created: '2025-06-09 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.296457981+00:00'
+last_edit_date: '2026-11-03T17:30:26.158786842+00:00'
+last_build_date_pdf: '2026-11-04T11:13:55.863725826+00:00'
 labels:
   - cor:universal-submersion-sobreyectiva
 references:

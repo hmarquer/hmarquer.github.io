@@ -2,8 +2,8 @@
 title: 'Varianza'
 filename: 'varianza'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.601303225+00:00'
+last_edit_date: '2026-11-03T17:30:26.216786882+00:00'
+last_build_date_pdf: '2026-11-04T11:10:20.598036569+00:00'
 labels:
   - defn:varianza
 references:

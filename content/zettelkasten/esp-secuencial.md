@@ -2,8 +2,8 @@
 title: 'Espacio secuencial (de sucesiones)'
 filename: 'esp-secuencial'
 created: '2025-03-18 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.183642830+00:00'
+last_edit_date: '2026-11-03T17:30:26.167786848+00:00'
+last_build_date_pdf: '2026-11-04T11:13:13.519558150+00:00'
 labels:
   - prop:esp-secuencial
 references:

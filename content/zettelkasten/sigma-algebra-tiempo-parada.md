@@ -2,8 +2,8 @@
 title: '$\sigma$-álgebra de parada'
 filename: 'sigma-algebra-tiempo-parada'
 created: '2025-06-15 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.239662048+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.738219807+00:00'
+last_edit_date: '2026-11-03T17:30:26.206786875+00:00'
+last_build_date_pdf: '2026-11-04T11:10:58.109421174+00:00'
 labels:
   - obs:sigma-algebra-tiempo-parada
   - prop:sigma-algebra-tiempo-parada

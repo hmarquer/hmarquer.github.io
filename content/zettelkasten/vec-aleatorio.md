@@ -2,8 +2,8 @@
 title: 'Vector aleatorio'
 filename: 'vec-aleatorio'
 created: '2025-12-11 19:31:56.759052'
-last_edit_date: '2026-09-06T15:26:21.248663327+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.905641524+00:00'
+last_edit_date: '2026-11-03T17:30:26.217786883+00:00'
+last_build_date_pdf: '2026-11-04T11:10:14.548425582+00:00'
 labels:
   - defn:vec-aleatorio
 references:

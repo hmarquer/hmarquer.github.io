@@ -2,8 +2,8 @@
 title: 'Función potencia compleja'
 filename: 'fn-potencia-compleja'
 created: '2025-03-04 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.222659630+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.661139694+00:00'
+last_edit_date: '2026-11-03T17:30:26.174786853+00:00'
+last_build_date_pdf: '2026-11-04T11:12:29.847564636+00:00'
 labels:
   - defn:potencia-compleja
 references:

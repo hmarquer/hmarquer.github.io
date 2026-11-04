@@ -2,13 +2,14 @@
 title: 'Desigualdad de Hölder'
 filename: 'desigualdad-holder'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-28T13:23:49.545983442+00:00'
-last_build_date_pdf: '2026-10-03T01:21:48.907637290+00:00'
+last_edit_date: '2026-11-03T18:08:16.210051357+00:00'
+last_build_date_pdf: '2026-11-03T18:08:21.649400825+00:00'
 labels:
   - teo:desigualdad-holder
 references:
   - desigualdad-young
   - exponente-conjugado
+  - linealidad-integral
   - norma-lp
 backlinks:
   - desigualdad-minkowski
@@ -32,7 +33,6 @@ tags:
 ## Referencias
 - [desigualdad-young](./desigualdad-young.md)
 - [exponente-conjugado](./exponente-conjugado.md)
+- [linealidad-integral](./linealidad-integral.md)
 - [norma-lp](./norma-lp.md)
 
-## Etiquetas
-#REVISAR : qué pasa si uno es cero y el otro infinito?

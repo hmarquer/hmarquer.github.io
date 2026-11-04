@@ -2,8 +2,8 @@
 title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 filename: 'esp-lp'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-09-07T12:18:19.260444342+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.407004197+00:00'
+last_edit_date: '2026-11-03T17:30:26.165786846+00:00'
+last_build_date_pdf: '2026-11-04T11:13:22.241362534+00:00'
 labels:
   - defn:esp-lp
 references:

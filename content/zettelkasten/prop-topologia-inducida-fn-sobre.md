@@ -2,8 +2,8 @@
 title: 'Topología inducida por función sobreyectiva'
 filename: 'prop-topologia-inducida-fn-sobre'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.728523643+00:00'
+last_edit_date: '2026-11-03T17:30:26.203786873+00:00'
+last_build_date_pdf: '2026-11-04T11:11:15.884339921+00:00'
 labels:
   - prop:topologia-inducida-fn-sobre
 references:

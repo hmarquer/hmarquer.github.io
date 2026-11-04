@@ -2,8 +2,8 @@
 title: 'Si dos funciones diferenciables coinciden en un entorno de $p$, sus derivadas coinciden en $p$'
 filename: 'lem-fn-diferenciable-igual-en-entorno-imp-derivacion-igual'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.528646898+00:00'
+last_edit_date: '2026-11-03T17:30:26.182786858+00:00'
+last_build_date_pdf: '2026-11-04T11:12:05.389951313+00:00'
 labels:
   - lem:fn-diferenciable-igual-en-entorno-imp-derivacion-igual
 references:
