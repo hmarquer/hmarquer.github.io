@@ -8,6 +8,8 @@ labels:
   - defn:cubo-n-adico
 references:
   - cubo-n-adico-grado-k
+backlinks:
+  - ejem-propiedad-vq-cubos-n-adicos
 projects:
   - m-trabajo-de-fin-de-master
 tags:

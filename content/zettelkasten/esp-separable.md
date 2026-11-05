@@ -14,6 +14,7 @@ backlinks:
   - post-sistema-cuantico
   - prop-esp-c0-separable
   - prop-esp-linfty-sucesiones-no-separable
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - teo-base-schauder-imp-separable
   - teo-dual-separable-imp-separable
 projects:

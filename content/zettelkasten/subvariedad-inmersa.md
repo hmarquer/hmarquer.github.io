@@ -2,8 +2,8 @@
 title: 'Subvariedad inmersa'
 filename: 'subvariedad-inmersa'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.728640078+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.746383563+00:00'
+last_edit_date: '2026-11-04T11:31:16.869046284+00:00'
+last_build_date_pdf: '2026-11-05T04:06:23.396558377+00:00'
 labels:
   - defn:subvariedad-inmersa
 references:

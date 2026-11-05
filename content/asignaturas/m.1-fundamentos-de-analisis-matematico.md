@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-01T16:39:36.832031978+00:00'
-last_build_date_pdf: '2026-11-01T16:39:52.279988086+00:00'
+last_edit_date: '2026-11-04T17:18:05.147398613+00:00'
+last_build_date_pdf: '2026-11-04T17:18:22.345344913+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -44,7 +44,9 @@ inclusions:
   - fn-medible
   - fn-simple
   - integral
+  - lem-carac-linfty-esp-sigma-finito
   - lem-continuidad-creciente-medida-exterior-metrica
+  - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
@@ -57,7 +59,9 @@ inclusions:
   - lem-monotonia-dim-hausdorff
   - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e1
+  - m.1-fda-e2
   - m.1-fda-h1-e19
+  - media-integral
   - medida
   - medida-exterior
   - medida-exterior-metrica
@@ -67,6 +71,7 @@ inclusions:
   - norma
   - norma-lp
   - norma-lp-debil
+  - operador-maximal
   - operador-tipo-debil
   - operador-tipo-fuerte
   - premedida
@@ -90,10 +95,12 @@ inclusions:
   - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
   - prop-subaditividad-medida-exterior
+  - recta-soporte-fn
   - semejanza
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
+  - teo-acotacion-operador-maximal-bolas
   - teo-carac-continuidad-apl-lineal
   - teo-caratheodory-i
   - teo-caratheodory-ii
@@ -120,6 +127,7 @@ tags:
 
 ### m.1-fundamentos-de-analisis-matematico
 - [m.1-fda-e1](./m.1-fda-e1.md)
+- [m.1-fda-e2](./m.1-fda-e2.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 - [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
@@ -203,9 +211,11 @@ tags:
 - [exponente-conjugado](./exponente-conjugado.md)
 - [fn-convexa](./fn-convexa.md)
 - [fn-distribucion](./fn-distribucion.md)
+- [lem-carac-linfty-esp-sigma-finito](./lem-carac-linfty-esp-sigma-finito.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
 - [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
+- [media-integral](./media-integral.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
@@ -222,14 +232,20 @@ tags:
 - [prop-fn-convexa](./prop-fn-convexa.md)
 - [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
+- [recta-soporte-fn](./recta-soporte-fn.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
+### tema3
+- [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
+- [operador-maximal](./operador-maximal.md)
+- [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
+
 ## Etiquetas
 #EJERCICIO 
-#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR 
+#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -244,10 +260,6 @@ tags:
 #COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
-#ORDENAR : incluir caso p=1 y p=\infty
-#REVISAR : que pasa si $\norm{f}_p=0$ y $\norm{g}_q=\infty$ o viceversa? %ORDENAR: incluir caso p=1 y p=\infty
-#REVISAR : está totalmente mal, fumada del profesor
-#COMPLETAR : terminar la demostración
 #DEMOSTRACIÓN : es aplicar la proposición anterior
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal
@@ -271,5 +283,6 @@ tags:
 #DEMOSTRACIÓN : trivial
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
+#COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.
 #EJERCICIO a entregar
 #EJERCICIO a enrtegar

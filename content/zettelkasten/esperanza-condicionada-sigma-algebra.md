@@ -2,8 +2,8 @@
 title: 'Esperanza condicionada a una $\sigma$-álgebra'
 filename: 'esperanza-condicionada-sigma-algebra'
 created: '2025-03-24 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.055158056+00:00'
-last_build_date_pdf: '2026-09-20T16:34:17.452279415+00:00'
+last_edit_date: '2026-11-04T11:31:16.861630176+00:00'
+last_build_date_pdf: '2026-11-05T04:08:58.570568121+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebra
 references:

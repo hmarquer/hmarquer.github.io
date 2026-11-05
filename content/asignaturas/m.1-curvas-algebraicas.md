@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-02T14:32:48.813948557+00:00'
-last_build_date_pdf: '2026-11-02T14:33:10.394607372+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
+last_build_date_pdf: '2026-11-05T04:13:00.919144642+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -279,6 +279,5 @@ tags:
 #DEMOSTRACIÓN :
 #ORDENAR : revisar y hacer nota
 #COMPLETAR con las curvas de Fermat y Weierstrass
-#ORDENAR : referenciar bien
 #ORDENAR : lo he metido antes (creo)
 #ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano

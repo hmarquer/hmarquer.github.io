@@ -2,8 +2,8 @@
 title: 'Norma'
 filename: 'norma'
 created: '2025-01-23 00:00:00'
-last_edit_date: '2026-10-30T09:20:47.089316175+00:00'
-last_build_date_pdf: '2026-10-30T21:27:33.895259382+00:00'
+last_edit_date: '2026-11-04T11:31:16.866081409+00:00'
+last_build_date_pdf: '2026-11-05T04:07:25.517958882+00:00'
 labels:
   - defn:norma
   - defn:norma:i

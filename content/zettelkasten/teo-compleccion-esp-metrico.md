@@ -2,8 +2,8 @@
 title: 'Teorema de completación de espacios métricos'
 filename: 'teo-compleccion-esp-metrico'
 created: '2025-05-30 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.738351299+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.000385034+00:00'
+last_edit_date: '2026-11-04T11:31:16.869836819+00:00'
+last_build_date_pdf: '2026-11-05T04:06:17.130075958+00:00'
 labels:
   - dem:compleccion-esp-metrico:1
   - dem:compleccion-esp-metrico:2

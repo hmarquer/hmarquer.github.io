@@ -2,8 +2,8 @@
 title: 'Propiedad local'
 filename: 'propiedad-local'
 created: '2025-03-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.701071188+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.055585119+00:00'
+last_edit_date: '2026-11-04T11:31:16.868033868+00:00'
+last_build_date_pdf: '2026-11-05T04:06:42.213032570+00:00'
 labels:
   - defn:propiedad-local
 references:

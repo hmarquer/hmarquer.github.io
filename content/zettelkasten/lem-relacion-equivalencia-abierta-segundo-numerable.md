@@ -2,12 +2,12 @@
 title: 'Lem-relacion-equivalencia-abierta-segundo-numerable'
 filename: 'lem-relacion-equivalencia-abierta-segundo-numerable'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.645118554+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.599403490+00:00'
+last_edit_date: '2026-11-04T21:12:22.805535617+00:00'
+last_build_date_pdf: '2026-11-05T04:07:49.938625774+00:00'
 labels:
   - lem:relacion-equivalencia-abierta-segundo-numerable
 references:
-  - esp-segundo-numerable
+  - esp-topologico-segundo-numerable
   - relacion-equivalencia-abierta
   - topologia
   - topologia-cociente
@@ -23,7 +23,7 @@ tags:
 ![[lem-relacion-equivalencia-abierta-segundo-numerable.pdf]]
 
 ## Referencias
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
 - [topologia](./topologia.md)
 - [topologia-cociente](./topologia-cociente.md)

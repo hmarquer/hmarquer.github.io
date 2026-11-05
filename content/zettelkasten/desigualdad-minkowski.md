@@ -2,8 +2,8 @@
 title: 'Desigualdad de Minkowski'
 filename: 'desigualdad-minkowski'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-09-29T18:22:31.139816799+00:00'
-last_build_date_pdf: '2026-10-03T01:21:49.062656806+00:00'
+last_edit_date: '2026-11-04T11:47:53.253405596+00:00'
+last_build_date_pdf: '2026-11-04T11:48:00.096619965+00:00'
 labels:
   - dem:desigualdad-minkowsi:i
   - dem:desigualdad-minkowsi:ii
@@ -15,6 +15,7 @@ labels:
 references:
   - desigualdad-holder
   - esp-lp
+  - esp-medida
   - linealidad-integral
   - norma
   - norma-lp
@@ -41,6 +42,7 @@ tags:
 ## Referencias
 - [desigualdad-holder](./desigualdad-holder.md)
 - [esp-lp](./esp-lp.md)
+- [esp-medida](./esp-medida.md)
 - [linealidad-integral](./linealidad-integral.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)

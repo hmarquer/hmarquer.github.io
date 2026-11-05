@@ -11,6 +11,7 @@ references:
   - fn-medible
   - norma-lp-debil
 backlinks:
+  - lem-desigualdad-integral-norma-lp-debil
   - teo-inclusion-lp-lp-debil
 projects:
   - m-trabajo-de-fin-de-master

@@ -9,7 +9,9 @@ labels:
 backlinks:
   - compacidad
   - cor-subvariedad-diferenciable-cubrimiento
+  - esp-topologico-lindelof
   - prop-compacidad-subespacio
+  - prop-segundo-numerable-imp-lindelof
 projects:
   - 3.1-topologia
 tags:

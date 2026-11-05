@@ -2,8 +2,8 @@
 title: 'Función holomorfa'
 filename: 'fn-holomorfa'
 created: '2025-02-12 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.598887150+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.227773039+00:00'
+last_edit_date: '2026-11-04T11:31:16.862033778+00:00'
+last_build_date_pdf: '2026-11-05T04:08:33.464610320+00:00'
 labels:
   - defn:fn-holomorfa
 references:

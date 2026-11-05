@@ -3,7 +3,7 @@ title: 'Todo ideal primo es radical'
 filename: 'lem-ideal-primo-imp-radical'
 created: '2026-10-31T21:23:09.622657144+00:00'
 last_edit_date: '2026-10-31T21:23:20.556791273+00:00'
-last_build_date_pdf: '2026-10-31T21:23:27.244684673+00:00'
+last_build_date_pdf: '2026-11-02T19:35:50.717952289+00:00'
 labels:
   - lem:ideal-primo-imp-radical
 references:

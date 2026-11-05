@@ -2,8 +2,8 @@
 title: 'Números complejos'
 filename: 'num-complejos'
 created: '2025-01-29 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.666687324+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.677090174+00:00'
+last_edit_date: '2026-11-04T11:31:16.866533314+00:00'
+last_build_date_pdf: '2026-11-05T04:07:18.855314968+00:00'
 labels:
   - defn:num-complejos
 references:

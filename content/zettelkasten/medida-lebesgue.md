@@ -2,8 +2,8 @@
 title: 'Medida de Lebesgue'
 filename: 'medida-lebesgue'
 created: '2025-06-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.658099574+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.475092866+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
+last_build_date_pdf: '2026-11-05T04:07:37.647812043+00:00'
 labels:
   - prop:medida-lebesgue
 references:

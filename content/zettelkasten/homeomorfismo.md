@@ -2,8 +2,8 @@
 title: 'Homeomorfismo'
 filename: 'homeomorfismo'
 created: '2025-12-11 19:31:56.702060'
-last_edit_date: '2026-09-03T09:44:22.609672917+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.824949157+00:00'
+last_edit_date: '2026-11-04T11:31:16.864033808+00:00'
+last_build_date_pdf: '2026-11-05T04:08:08.469498700+00:00'
 labels:
   - defn:homeomorfismo
 references:

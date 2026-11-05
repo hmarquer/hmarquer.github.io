@@ -2,8 +2,8 @@
 title: 'Fibra'
 filename: 'fibra'
 created: '2025-02-26 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.593398604+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.340594028+00:00'
+last_edit_date: '2026-11-04T11:31:16.862023259+00:00'
+last_build_date_pdf: '2026-11-05T04:08:52.561991687+00:00'
 labels:
   - defn:fibra
 backlinks:

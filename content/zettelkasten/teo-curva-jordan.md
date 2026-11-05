@@ -2,8 +2,8 @@
 title: 'Teorema de la curva de Jordan'
 filename: 'teo-curva-jordan'
 created: '2025-04-30 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.742758264+00:00'
-last_build_date_pdf: '2026-09-15T23:12:56.944445701+00:00'
+last_edit_date: '2026-11-04T11:31:16.869836819+00:00'
+last_build_date_pdf: '2026-11-05T04:06:16.516906535+00:00'
 labels:
   - teo:curva-jordan
 references:

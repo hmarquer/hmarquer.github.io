@@ -2,8 +2,8 @@
 title: 'Integral'
 filename: 'integral'
 created: '2025-12-11 19:31:56.705059'
-last_edit_date: '2026-09-20T15:23:19.055389352+00:00'
-last_build_date_pdf: '2026-09-20T16:34:11.415653255+00:00'
+last_edit_date: '2026-11-04T11:31:16.864033808+00:00'
+last_build_date_pdf: '2026-11-05T04:08:02.605781111+00:00'
 labels:
   - defn:int-fn-no-negativa
   - defn:int-fn-simple
@@ -17,9 +17,11 @@ backlinks:
   - integrabilidad-uniforme
   - integral-linea-compleja
   - integral-linea-compleja-longitud
+  - lem-desigualdad-integral-norma-lp-debil
   - lem-dubois-reymond
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - longitud-camino
+  - media-integral
   - operador-maximal
   - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral

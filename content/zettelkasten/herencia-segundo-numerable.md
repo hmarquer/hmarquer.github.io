@@ -2,14 +2,14 @@
 title: 'La propiedad de segundo numerable es hereditaria'
 filename: 'herencia-segundo-numerable'
 created: '2025-02-24 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.609488787+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.580800946+00:00'
+last_edit_date: '2026-11-04T21:12:22.803535603+00:00'
+last_build_date_pdf: '2026-11-05T04:08:08.801652134+00:00'
 labels:
   - prop:herencia-segundo-numerable
 references:
   - base-topologia
   - base-topologia-subespacio
-  - esp-segundo-numerable
+  - esp-topologico-segundo-numerable
   - topologia-subespacio
 backlinks:
   - lem-subvariedad-diferenciable-imp-variedad-diferenciable
@@ -25,6 +25,6 @@ tags:
 ## Referencias
 - [base-topologia](./base-topologia.md)
 - [base-topologia-subespacio](./base-topologia-subespacio.md)
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [topologia-subespacio](./topologia-subespacio.md)
 

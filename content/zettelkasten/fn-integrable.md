@@ -2,8 +2,8 @@
 title: 'Función integrable'
 filename: 'fn-integrable'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.599262745+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.064911741+00:00'
+last_edit_date: '2026-11-04T11:31:16.863033793+00:00'
+last_build_date_pdf: '2026-11-05T04:08:27.829871711+00:00'
 labels:
   - defn:fn-integrable
 references:
@@ -21,6 +21,7 @@ backlinks:
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
   - linealidad-integral
+  - media-integral
   - prop-esperanza-prod-var-aleatorias-indep
   - prop-formula-varianza
   - teo-convergencia-dominada

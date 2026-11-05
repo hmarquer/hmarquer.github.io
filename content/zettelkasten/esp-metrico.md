@@ -2,8 +2,8 @@
 title: 'Espacio métrico'
 filename: 'esp-metrico'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.585817080+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.925459255+00:00'
+last_edit_date: '2026-11-04T11:31:16.861227665+00:00'
+last_build_date_pdf: '2026-11-05T04:09:10.926319581+00:00'
 labels:
   - defn:esp-metrico
 references:
@@ -34,6 +34,7 @@ backlinks:
   - lem-carac-precompacidad-subsucesion-esp-metrico
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-convergencia-uniforme-imp-ctp
+  - lem-cubrimiento-vitali
   - lem-operador-hutchinson-lipschitz
   - medida-exterior-metrica
   - prop-carac-con-abiertos-esp-metrico
@@ -41,6 +42,7 @@ backlinks:
   - prop-convergencia-imp-cauchy
   - prop-convergencia-uniforme-continuidad-uniforme
   - prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - semejanza
   - teo-baire
   - teo-compleccion-esp-metrico

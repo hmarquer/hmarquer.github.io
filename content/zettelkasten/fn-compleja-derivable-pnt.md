@@ -2,8 +2,8 @@
 title: '$\C$-derivabilidad en un punto'
 filename: 'fn-compleja-derivable-pnt'
 created: '2025-03-07 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.595274237+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.205320899+00:00'
+last_edit_date: '2026-11-04T11:31:16.862033778+00:00'
+last_build_date_pdf: '2026-11-05T04:08:52.128390901+00:00'
 labels:
   - defn:fn-compleja-derivable-pnt
 references:

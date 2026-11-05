@@ -2,11 +2,14 @@
 title: 'Caracterizaciones de una función convexa'
 filename: 'prop-carac-fn-convexa'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-10-06T01:26:01.012679922+00:00'
-last_build_date_pdf: '2026-10-10T04:37:11.872356678+00:00'
+last_edit_date: '2026-11-04T13:39:31.833836569+00:00'
+last_build_date_pdf: '2026-11-04T13:39:38.937369351+00:00'
 labels:
-  - fig:secantes-fn-convexa
   - prop:carac-fn-convexa
+  - prop:carac-fn-convexa:a
+  - prop:carac-fn-convexa:b
+  - prop:carac-fn-convexa:c
+  - prop:carac-fn-convexa:d
 references:
   - fn-convexa
 backlinks:
@@ -25,5 +28,3 @@ tags:
 ## Referencias
 - [fn-convexa](./fn-convexa.md)
 
-## Etiquetas
-#COMPLETAR : terminar demostración

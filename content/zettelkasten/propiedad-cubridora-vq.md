@@ -2,8 +2,8 @@
 title: 'Propiedad cubridora $V_q$'
 filename: 'propiedad-cubridora-vq'
 created: '2026-10-27T18:20:25.802360745+00:00'
-last_edit_date: '2026-10-30T09:20:47.089835239+00:00'
-last_build_date_pdf: '2026-10-30T21:27:21.106921890+00:00'
+last_edit_date: '2026-11-05T01:05:39.173042146+00:00'
+last_build_date_pdf: '2026-11-05T01:05:45.706646843+00:00'
 labels:
   - defn:propiedad-cubridora-vq
   - defn:propiedad-cubridora-vq:i
@@ -11,6 +11,10 @@ labels:
 references:
   - esp-medida
   - norma-lp
+backlinks:
+  - ejem-propiedad-vq-bolas
+  - ejem-propiedad-vq-cubos-n-adicos
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
 projects:
   - m-trabajo-de-fin-de-master
 tags:

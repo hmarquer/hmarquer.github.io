@@ -2,8 +2,8 @@
 title: 'Cadena de Markov'
 filename: 'cadena-markov'
 created: '2025-03-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.538770253+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.892449900+00:00'
+last_edit_date: '2026-11-04T11:31:16.858421229+00:00'
+last_build_date_pdf: '2026-11-05T04:10:07.361825698+00:00'
 labels:
   - defn:cadena-markov
 references:

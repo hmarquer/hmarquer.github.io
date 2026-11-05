@@ -2,8 +2,8 @@
 title: 'Aplicación diferenciable'
 filename: 'apl-diferenciable'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.533542032+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.064268989+00:00'
+last_edit_date: '2026-11-04T11:31:16.858421229+00:00'
+last_build_date_pdf: '2026-11-05T04:10:13.930565754+00:00'
 labels:
   - defn:apl-diferenciable
 references:

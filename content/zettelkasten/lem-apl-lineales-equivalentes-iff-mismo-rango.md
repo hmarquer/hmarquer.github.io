@@ -2,8 +2,8 @@
 title: 'Dos aplicaciones lineales son equivalentes si y solo si tienen el mismo rango'
 filename: 'lem-apl-lineales-equivalentes-iff-mismo-rango'
 created: '2025-06-06 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.620352623+00:00'
-last_build_date_pdf: '2026-09-15T23:12:56.562009222+00:00'
+last_edit_date: '2026-11-04T11:31:16.864033808+00:00'
+last_build_date_pdf: '2026-11-05T04:07:56.440210118+00:00'
 labels:
   - lem:apl-lineales-equivalentes-iff-mismo-rango
 references:

@@ -2,8 +2,8 @@
 title: 'Espacio tangente a una variedad diferenciable'
 filename: 'esp-tangente-variedad'
 created: '2025-02-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.587947960+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.185040305+00:00'
+last_edit_date: '2026-11-04T11:31:16.861630176+00:00'
+last_build_date_pdf: '2026-11-05T04:09:04.732732273+00:00'
 labels:
   - defn:esp-tangente-variedad
 references:

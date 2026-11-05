@@ -2,8 +2,8 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.600376798+00:00'
-last_build_date_pdf: '2026-09-15T23:12:56.014205460+00:00'
+last_edit_date: '2026-11-04T11:31:16.863585001+00:00'
+last_build_date_pdf: '2026-11-05T04:08:21.127933268+00:00'
 labels:
   - defn:fn-medible
 references:
@@ -26,6 +26,7 @@ backlinks:
   - lem-aprox-fn-simple
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-convolucion
+  - lem-desigualdad-integral-norma-lp-debil
   - lem-esperanza-condicionada-mejor-aprox
   - lem-fatou
   - lem-fn-integrable-iff-lim-colas-0
@@ -33,6 +34,7 @@ backlinks:
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1
+  - media-integral
   - norma-lp
   - operador-maximal
   - operador-tipo-debil

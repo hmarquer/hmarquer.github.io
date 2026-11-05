@@ -2,8 +2,8 @@
 title: 'Carta'
 filename: 'carta'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.053782519+00:00'
-last_build_date_pdf: '2026-09-20T16:34:58.913778184+00:00'
+last_edit_date: '2026-11-04T11:31:16.858920924+00:00'
+last_build_date_pdf: '2026-11-05T04:10:01.657233759+00:00'
 labels:
   - defn:carta
 references:

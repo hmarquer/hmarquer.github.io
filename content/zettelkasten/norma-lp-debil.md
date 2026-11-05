@@ -12,6 +12,7 @@ references:
   - relacion-orden
 backlinks:
   - esp-lp-debil
+  - lem-desigualdad-integral-norma-lp-debil
   - operador-tipo-debil
   - teo-inclusion-lp-lp-debil
 projects:

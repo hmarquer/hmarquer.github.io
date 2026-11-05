@@ -2,8 +2,8 @@
 title: 'Curva cerrada'
 filename: 'curva-cerrada'
 created: '2025-04-01 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.565536825+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.443448747+00:00'
+last_edit_date: '2026-11-04T11:31:16.859322563+00:00'
+last_build_date_pdf: '2026-11-05T04:09:47.989880669+00:00'
 labels:
   - defn:curva-cerrada
 references:

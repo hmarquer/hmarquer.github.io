@@ -2,8 +2,8 @@
 title: 'Producto interno'
 filename: 'prod-interno'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.679889475+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.589687934+00:00'
+last_edit_date: '2026-11-04T11:31:16.866685962+00:00'
+last_build_date_pdf: '2026-11-05T04:07:06.916887309+00:00'
 labels:
   - defn:prod-interno
 references:

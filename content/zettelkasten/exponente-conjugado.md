@@ -11,8 +11,10 @@ backlinks:
   - desigualdad-holder-condicional
   - desigualdad-holder-generalizada
   - desigualdad-young
+  - lem-desigualdad-integral-norma-lp-debil
   - prop-convolucion-exp-conjugados
   - prop-inclusion-lp-general
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

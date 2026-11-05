@@ -32,6 +32,7 @@ backlinks:
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-var-aleatorias-indep-iff-sigma-algebras-indep
   - m.1-pe-e1
+  - m.1-pe-e4
   - medida-inducida
   - mindependencia-sigma-algebras
   - mindependencia-sucesos

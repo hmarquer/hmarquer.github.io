@@ -2,8 +2,8 @@
 title: 'Camino opuesto'
 filename: 'camino-opuesto'
 created: '2025-05-01 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.539242232+00:00'
-last_build_date_pdf: '2026-09-15T23:12:52.124855586+00:00'
+last_edit_date: '2026-11-04T11:31:16.858421229+00:00'
+last_build_date_pdf: '2026-11-05T04:10:06.632979763+00:00'
 labels:
   - defn:camino-opuesto
 references:

@@ -2,8 +2,8 @@
 title: 'Compatibilidad $\mathcal{C}^\infty$ entre cartas'
 filename: 'c-infty-compatibilidad'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.540366744+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.248680499+00:00'
+last_edit_date: '2026-11-04T11:31:16.858421229+00:00'
+last_build_date_pdf: '2026-11-05T04:10:07.922819761+00:00'
 labels:
   - defn:c-infty-compatibilidad
 references:

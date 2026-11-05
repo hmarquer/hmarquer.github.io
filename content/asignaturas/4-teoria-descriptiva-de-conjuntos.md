@@ -2,8 +2,8 @@
 title: 'Teoría descriptiva de conjuntos'
 name: '4-teoria-descriptiva-de-conjuntos'
 created: '2025-12-11 19:31:56.814044'
-last_edit_date: '2026-10-23T09:57:56.174927+00:00'
-last_build_date_pdf: '2026-10-23T10:00:51.623767420+00:00'
+last_edit_date: '2026-11-04T21:12:22.819535709+00:00'
+last_build_date_pdf: '2026-11-05T04:10:53.577216468+00:00'
 inclusions:
   - apl-abierta
   - apl-cerrada
@@ -18,10 +18,10 @@ inclusions:
   - esp-metrico
   - esp-metrizable
   - esp-polaco
-  - esp-segundo-numerable
   - esp-topologico
   - esp-topologico-completamente-metrizable
   - esp-topologico-regular
+  - esp-topologico-segundo-numerable
   - esp-topologico-separable
   - frechet-topologia
   - homeomorfismo
@@ -66,10 +66,10 @@ tags:
 - [esp-metrico](./esp-metrico.md)
 - [esp-metrizable](./esp-metrizable.md)
 - [esp-polaco](./esp-polaco.md)
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico-completamente-metrizable](./esp-topologico-completamente-metrizable.md)
 - [esp-topologico-regular](./esp-topologico-regular.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
 - [frechet-topologia](./frechet-topologia.md)
 - [homeomorfismo](./homeomorfismo.md)

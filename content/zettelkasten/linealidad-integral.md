@@ -2,14 +2,15 @@
 title: 'Linealidad de la integral'
 filename: 'linealidad-integral'
 created: '2025-12-11 19:31:56.714058'
-last_edit_date: '2026-09-03T09:44:22.655290452+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.635583184+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
+last_build_date_pdf: '2026-11-05T04:07:43.963604359+00:00'
 labels:
   - teo:linealidad-integral
 references:
   - esp-medida
   - fn-integrable
 backlinks:
+  - desigualdad-holder
   - desigualdad-minkowski
   - lem-esp-lp-vectorial
   - lem-esperanza-condicionada

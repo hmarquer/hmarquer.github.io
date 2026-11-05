@@ -2,8 +2,8 @@
 title: 'Espacio topológico metrizable'
 filename: 'esp-metrizable'
 created: '2025-05-29 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.585983487+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.929096975+00:00'
+last_edit_date: '2026-11-04T11:31:16.861227665+00:00'
+last_build_date_pdf: '2026-11-05T04:09:10.933987798+00:00'
 labels:
   - defn:esp-metrizable
 references:

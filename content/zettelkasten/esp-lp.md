@@ -2,8 +2,8 @@
 title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 filename: 'esp-lp'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.585176370+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.407004197+00:00'
+last_edit_date: '2026-11-04T11:31:16.861227665+00:00'
+last_build_date_pdf: '2026-11-05T04:09:11.493111415+00:00'
 labels:
   - defn:esp-lp
 references:
@@ -29,6 +29,7 @@ backlinks:
   - esperanza-condicionada-sigma-algebra
   - fn-integrable
   - fn-integrable-localmente
+  - lem-carac-linfty-esp-sigma-finito
   - lem-convergencia-lp-traslacion
   - lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte
   - lem-diferenciacion-lebesgue-l1-imp-loc-l1

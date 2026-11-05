@@ -2,8 +2,8 @@
 title: 'Difeomorfismo local'
 filename: 'difeomorfismo-local'
 created: '2025-03-10 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.570562419+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.593435208+00:00'
+last_edit_date: '2026-11-04T11:31:16.860367118+00:00'
+last_build_date_pdf: '2026-11-05T04:09:29.466746883+00:00'
 labels:
   - defn:difeomorfismo-local
 references:

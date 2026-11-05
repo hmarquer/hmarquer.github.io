@@ -2,8 +2,8 @@
 title: 'Isomorfismo entre espacios vectoriales'
 filename: 'isomorfismo-esp-vec'
 created: '2025-02-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.616707509+00:00'
-last_build_date_pdf: '2026-09-15T23:12:46.963833372+00:00'
+last_edit_date: '2026-11-04T11:31:16.864033808+00:00'
+last_build_date_pdf: '2026-11-05T04:08:02.306166928+00:00'
 labels:
   - defn:isomorfismo-esp-vec
 references:

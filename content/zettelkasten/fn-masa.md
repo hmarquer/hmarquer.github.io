@@ -2,8 +2,8 @@
 title: 'Función de masa'
 filename: 'fn-masa'
 created: '2025-02-21 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.600189932+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.946765369+00:00'
+last_edit_date: '2026-11-04T11:31:16.863585001+00:00'
+last_build_date_pdf: '2026-11-05T04:08:21.521802205+00:00'
 labels:
   - defn:fn-masa
 references:

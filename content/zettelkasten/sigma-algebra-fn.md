@@ -2,8 +2,8 @@
 title: '$\sigma$-álgebra generada por una función'
 filename: 'sigma-algebra-fn'
 created: '2025-02-21 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.721368997+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.083261048+00:00'
+last_edit_date: '2026-11-04T11:31:16.868613095+00:00'
+last_build_date_pdf: '2026-11-05T04:06:35.797803924+00:00'
 labels:
   - defn:sigma-algebra-fn
 references:

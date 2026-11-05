@@ -2,8 +2,8 @@
 title: 'Topología cociente'
 filename: 'topologia-cociente'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.770228628+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.740651076+00:00'
+last_edit_date: '2026-11-04T11:31:16.871062465+00:00'
+last_build_date_pdf: '2026-11-05T04:05:52.150558967+00:00'
 labels:
   - defn:topologia-cociente
 references:

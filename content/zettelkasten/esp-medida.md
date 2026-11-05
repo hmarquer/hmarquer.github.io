@@ -2,8 +2,8 @@
 title: 'Espacio de medida'
 filename: 'esp-medida'
 created: '2025-02-21 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.585669048+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.804974645+00:00'
+last_edit_date: '2026-11-04T11:31:16.861227665+00:00'
+last_build_date_pdf: '2026-11-05T04:09:11.202553958+00:00'
 labels:
   - defn:esp-medida
 references:
@@ -19,6 +19,7 @@ backlinks:
   - cor-desigualdad-markov-general
   - cor-integral-suma-infinita
   - desigualdad-jensen
+  - desigualdad-minkowski
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-filtros
   - esp-conteo
@@ -30,7 +31,9 @@ backlinks:
   - fn-integrable
   - integrabilidad-uniforme
   - integral
+  - lem-carac-linfty-esp-sigma-finito
   - lem-convergencia-uniforme-esp-finito-imp-lp
+  - lem-desigualdad-integral-norma-lp-debil
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-fatou
@@ -39,6 +42,7 @@ backlinks:
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
+  - media-integral
   - medida-completa
   - medida-interiormente-regular
   - medida-regular

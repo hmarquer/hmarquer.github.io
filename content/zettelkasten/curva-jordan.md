@@ -2,8 +2,8 @@
 title: 'Curva jordan'
 filename: 'curva-jordan'
 created: '2025-04-30 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.565895568+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.682894896+00:00'
+last_edit_date: '2026-11-04T11:31:16.859322563+00:00'
+last_build_date_pdf: '2026-11-05T04:09:42.304698815+00:00'
 labels:
   - defn:curva-jordan
 references:

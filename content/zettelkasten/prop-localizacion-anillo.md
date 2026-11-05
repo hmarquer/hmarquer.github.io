@@ -3,7 +3,7 @@ title: 'Prop localizacion anillo'
 filename: 'prop-localizacion-anillo'
 created: '2025-11-30 00:00:00'
 last_edit_date: '2026-11-02T12:10:34.027553666+00:00'
-last_build_date_pdf: '2026-11-02T14:30:25.595641478+00:00'
+last_build_date_pdf: '2026-11-02T19:35:41.730504761+00:00'
 labels:
   - prop:localizacion-anillo
 references:

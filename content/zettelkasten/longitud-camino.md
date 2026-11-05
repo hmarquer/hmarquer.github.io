@@ -2,8 +2,8 @@
 title: 'Longitud de un camino'
 filename: 'longitud-camino'
 created: '2025-05-01 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.655936573+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.012025198+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
+last_build_date_pdf: '2026-11-05T04:07:43.799026549+00:00'
 labels:
   - defn:longitud-camino
 references:

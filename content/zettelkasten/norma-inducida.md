@@ -2,8 +2,8 @@
 title: 'Norma inducida por producto interno'
 filename: 'norma-inducida'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.662877195+00:00'
-last_build_date_pdf: '2026-09-15T23:12:51.447215404+00:00'
+last_edit_date: '2026-11-04T11:31:16.866081409+00:00'
+last_build_date_pdf: '2026-11-05T04:07:25.258197896+00:00'
 labels:
   - prop:norma-inducida
 references:

@@ -2,8 +2,8 @@
 title: 'Espacio proyectivo real'
 filename: 'esp-proyectivo-real'
 created: '2025-03-06 00:00:00'
-last_edit_date: '2026-10-23T09:57:56.175098483+00:00'
-last_build_date_pdf: '2026-10-23T10:00:30.760571332+00:00'
+last_edit_date: '2026-11-04T21:12:22.815535683+00:00'
+last_build_date_pdf: '2026-11-05T04:09:04.888011256+00:00'
 labels:
   - defn:esp-proyectivo-real
 references:
@@ -13,9 +13,9 @@ references:
   - c-infty-compatibilidad
   - carta
   - esp-proyectivo
-  - esp-segundo-numerable
   - esp-topologico
   - esp-topologico-hausdorff
+  - esp-topologico-segundo-numerable
   - esp-vectorial
   - estructura-diferenciable
   - homeomorfismo
@@ -44,9 +44,9 @@ tags:
 - [c-infty-compatibilidad](./c-infty-compatibilidad.md)
 - [carta](./carta.md)
 - [esp-proyectivo](./esp-proyectivo.md)
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [esp-vectorial](./esp-vectorial.md)
 - [estructura-diferenciable](./estructura-diferenciable.md)
 - [homeomorfismo](./homeomorfismo.md)

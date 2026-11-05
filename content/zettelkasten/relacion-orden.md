@@ -17,6 +17,7 @@ backlinks:
   - diametro-con
   - distancia-conjuntos
   - distancia-pnt-con
+  - ejem-propiedad-vq-cubos-n-adicos
   - estructura-diferenciable
   - integrabilidad-uniforme
   - lem-integrabilidad-uniforme-imp-acotacion-l1

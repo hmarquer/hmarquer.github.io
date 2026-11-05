@@ -2,8 +2,8 @@
 title: 'Ecuación en derivadas parciales'
 filename: 'ecu-derivadas-parciales'
 created: '2025-03-12 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.573254578+00:00'
-last_build_date_pdf: '2026-09-15T23:12:48.984771624+00:00'
+last_edit_date: '2026-11-04T11:31:16.860367118+00:00'
+last_build_date_pdf: '2026-11-05T04:09:23.663754243+00:00'
 labels:
   - defn:ecu-derivadas-parciales
   - ecu:edp

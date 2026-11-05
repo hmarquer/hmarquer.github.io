@@ -2,8 +2,8 @@
 title: 'Espacio afín'
 filename: 'esp-afin'
 created: '2025-02-19 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.582980326+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.372950982+00:00'
+last_edit_date: '2026-11-04T11:31:16.861131553+00:00'
+last_build_date_pdf: '2026-11-05T04:09:17.139572878+00:00'
 labels:
   - defn:esp-afin
   - ejem:esp-afin
