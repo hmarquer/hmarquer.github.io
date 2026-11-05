@@ -2,7 +2,7 @@
 title: '$\pi$-sistema'
 filename: 'pi-sistema'
 created: '2025-02-10 00:00:00'
-last_edit_date: '2026-10-23T09:57:56.175823491+00:00'
+last_edit_date: '2026-10-21T10:51:37.592168551+00:00'
 last_build_date_pdf: '2026-10-23T10:00:11.074776407+00:00'
 labels:
   - defn:pi-sistema

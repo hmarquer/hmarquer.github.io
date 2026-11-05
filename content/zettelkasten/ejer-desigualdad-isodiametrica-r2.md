@@ -2,7 +2,7 @@
 title: 'Ejercicio de demostración de la desigualdad isodiamétrica en $\R^2$'
 filename: 'ejer-desigualdad-isodiametrica-r2'
 created: '2026-10-03T23:13:09.732084332+00:00'
-last_edit_date: '2026-10-06T01:26:01.011321784+00:00'
+last_edit_date: '2026-10-04T13:19:04.671832405+00:00'
 last_build_date_pdf: '2026-10-10T04:37:25.104278222+00:00'
 labels:
   - ejer-desigualdad-isodiametrica-r2-fig:grafica-f

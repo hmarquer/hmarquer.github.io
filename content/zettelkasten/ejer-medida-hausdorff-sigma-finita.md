@@ -2,7 +2,7 @@
 title: 'La medida de Hausdorff es $\sigma$-finita dependiendo de la dimensión'
 filename: 'ejer-medida-hausdorff-sigma-finita'
 created: '2026-09-27T18:48:08.841100039+00:00'
-last_edit_date: '2026-10-06T01:26:01.011465851+00:00'
+last_edit_date: '2026-10-03T23:05:16.765019923+00:00'
 last_build_date_pdf: '2026-10-10T04:37:24.336472839+00:00'
 labels:
   - ejer:medida-hausdorff-sigma-finita

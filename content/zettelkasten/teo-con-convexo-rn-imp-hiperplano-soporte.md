@@ -2,7 +2,7 @@
 title: 'Teo con convexo rn imp hiperplano soporte'
 filename: 'teo-con-convexo-rn-imp-hiperplano-soporte'
 created: '2026-10-03T23:10:05.838918996+00:00'
-last_edit_date: '2026-10-06T01:26:01.012935862+00:00'
+last_edit_date: '2026-10-03T23:10:15.635028360+00:00'
 last_build_date_pdf: '2026-10-10T04:37:05.008446345+00:00'
 labels:
   - teo:con-convexo-rn-imp-hiperplano-soporte

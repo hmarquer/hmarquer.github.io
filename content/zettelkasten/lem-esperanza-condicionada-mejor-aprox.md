@@ -2,7 +2,7 @@
 title: 'Lem espacioeranza condicionada mejor aprox'
 filename: 'lem-esperanza-condicionada-mejor-aprox'
 created: '2025-06-14 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.631559363+00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.168695133+00:00'
 labels:
   - lem:esperanza-condicionada-mejor-aprox

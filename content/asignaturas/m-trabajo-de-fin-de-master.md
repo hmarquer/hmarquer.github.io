@@ -73,3 +73,7 @@ tags:
 #ORDENAR : hacer nota
 #REVISAR : Creo que está mal
 #REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
+#REVISAR : mirar fotos para simplificar y completar
+#ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
+#REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
+#ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
