@@ -2,7 +2,7 @@
 title: 'Lem Fn Cubrimiento Landau Cota'
 filename: 'lem-fn-cubrimiento-landau-cota'
 created: '2026-06-15T11:07:50.620428016+00:00'
-last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
+last_edit_date: '2026-09-03T09:44:22.633752992+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.199958766+00:00'
 labels:
   - lem:fn-cubrimiento-landau-cota

@@ -2,8 +2,8 @@
 title: 'Prop operador maximal tipo debil iff propiedad vq'
 filename: 'prop-operador-maximal-tipo-debil-iff-propiedad-vq'
 created: '2026-11-05T02:48:12.212862489+00:00'
-last_edit_date: '2026-11-05T03:21:58.177297230+00:00'
-last_build_date_pdf: '2026-11-05T03:22:05.691839492+00:00'
+last_edit_date: '2026-11-05T15:18:23.296069442+00:00'
+last_build_date_pdf: '2026-11-05T15:18:30.327281352+00:00'
 labels:
   - prop:operador-maximal-tipo-debil-iff-propiedad-vq
 references:
@@ -13,6 +13,7 @@ references:
   - esp-separable
   - exponente-conjugado
   - lem-desigualdad-integral-norma-lp-debil
+  - lem-seleccion-cordoba-fefferman
   - medida-borel
   - operador-maximal
   - operador-tipo-debil
@@ -33,6 +34,7 @@ tags:
 - [esp-separable](./esp-separable.md)
 - [exponente-conjugado](./exponente-conjugado.md)
 - [lem-desigualdad-integral-norma-lp-debil](./lem-desigualdad-integral-norma-lp-debil.md)
+- [lem-seleccion-cordoba-fefferman](./lem-seleccion-cordoba-fefferman.md)
 - [medida-borel](./medida-borel.md)
 - [operador-maximal](./operador-maximal.md)
 - [operador-tipo-debil](./operador-tipo-debil.md)

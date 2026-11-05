@@ -2,7 +2,7 @@
 title: 'El dual de $c_0$ es $\ell^1$'
 filename: 'prop-dual-c0-l1-sucesiones'
 created: '2026-01-07 21:06:42.026963'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_edit_date: '2026-09-03T09:44:22.692307693+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.143415135+00:00'
 labels:
   - dem:dual-lc0-l1-sucesiones-continua

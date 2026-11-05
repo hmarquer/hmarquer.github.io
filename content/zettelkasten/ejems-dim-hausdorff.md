@@ -2,7 +2,7 @@
 title: 'Ejemplos de cálculo de dimensión de Hausdorff'
 filename: 'ejems-dim-hausdorff'
 created: '2026-09-16T16:46:05.330541014+00:00'
-last_edit_date: '2026-09-16T16:46:24.077826670+00:00'
+last_edit_date: '2026-09-20T15:23:19.054694181+00:00'
 last_build_date_pdf: '2026-09-20T16:34:29.401568349+00:00'
 labels:
   - ejems:dim-hausdorff

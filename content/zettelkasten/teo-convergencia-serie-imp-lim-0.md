@@ -2,7 +2,7 @@
 title: 'Teo convergencia serie imp lim 0'
 filename: 'teo-convergencia-serie-imp-lim-0'
 created: '2025-04-24 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.242662474+00:00'
+last_edit_date: '2026-09-03T09:44:22.741239611+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.625626808+00:00'
 labels:
   - teo:convergencia-serie-imp-lim-0

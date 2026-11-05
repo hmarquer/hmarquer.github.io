@@ -2,7 +2,7 @@
 title: 'Teorema de Caratheodory I'
 filename: 'teo-caratheodory-i'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-09-10T12:10:55.837568779+00:00'
+last_edit_date: '2026-09-20T15:23:19.058186409+00:00'
 last_build_date_pdf: '2026-09-20T16:32:59.893891411+00:00'
 labels:
   - teo:caratheodory-i

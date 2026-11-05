@@ -40,6 +40,7 @@ backlinks:
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
+  - lem-seleccion-cordoba-fefferman
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
   - media-integral
@@ -59,6 +60,7 @@ backlinks:
   - prop-desigualdad-chebyshev-general
   - prop-fn-simples-denso-lp
   - propiedad-cubridora-vq
+  - propiedad-escasez-p1
   - supremo-esencial
   - teo-convergencia-dominada
   - teo-convergencia-monotona

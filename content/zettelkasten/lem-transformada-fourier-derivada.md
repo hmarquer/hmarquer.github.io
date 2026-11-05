@@ -2,7 +2,7 @@
 title: 'Lem transformada fourier derivada'
 filename: 'lem-transformada-fourier-derivada'
 created: '2026-01-13 12:05:23.403388'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_edit_date: '2026-09-03T09:44:22.651291123+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.050850272+00:00'
 labels:
   - lem:transformada-fourier-derivada

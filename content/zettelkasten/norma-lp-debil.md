@@ -2,7 +2,7 @@
 title: 'Norma lp debil'
 filename: 'norma-lp-debil'
 created: '2026-10-12T22:58:05.019396721+00:00'
-last_edit_date: '2026-10-13T10:08:08.644840198+00:00'
+last_edit_date: '2026-10-12T22:58:05.023038786+00:00'
 last_build_date_pdf: '2026-10-13T16:52:33.207936890+00:00'
 labels:
   - defn:norma-lp-debil

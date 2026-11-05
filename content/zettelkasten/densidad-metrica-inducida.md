@@ -2,7 +2,7 @@
 title: 'Densidad metrica inducida'
 filename: 'densidad-metrica-inducida'
 created: '2026-01-22 13:10:32.145306'
-last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
+last_edit_date: '2026-09-03T09:44:22.566839136+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.901398649+00:00'
 labels:
   - defn:densidad-metrica-inducida

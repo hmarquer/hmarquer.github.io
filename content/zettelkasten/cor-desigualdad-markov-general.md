@@ -2,7 +2,7 @@
 title: 'Desigualdad de Markov general'
 filename: 'cor-desigualdad-markov-general'
 created: '2026-10-12T22:37:39.294213457+00:00'
-last_edit_date: '2026-10-13T10:08:08.644840198+00:00'
+last_edit_date: '2026-10-12T22:37:54.269407543+00:00'
 last_build_date_pdf: '2026-10-13T16:52:39.163356316+00:00'
 labels:
   - cor:desigualdad-markov-general
