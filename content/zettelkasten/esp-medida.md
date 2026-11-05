@@ -60,6 +60,7 @@ backlinks:
   - prop-desigualdad-chebyshev-general
   - prop-fn-simples-denso-lp
   - propiedad-cubridora-vq
+  - propiedad-escasez-bilateral-p2
   - propiedad-escasez-p1
   - supremo-esencial
   - teo-convergencia-dominada

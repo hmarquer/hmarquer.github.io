@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-05T15:20:26.792742635+00:00'
-last_build_date_pdf: '2026-11-05T15:20:34.277232588+00:00'
+last_edit_date: '2026-11-05T23:48:12.833865846+00:00'
+last_build_date_pdf: '2026-11-05T23:48:19.956674364+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -26,6 +26,7 @@ inclusions:
   - prop-desigualdad-chebyshev-general
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - propiedad-cubridora-vq
+  - propiedad-escasez-bilateral-p2
   - propiedad-escasez-p1
   - teo-acotacion-operador-maximal-bolas
   - teo-inclusion-lp-lp-debil
@@ -51,6 +52,7 @@ tags:
 - [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
 - [prop-operador-maximal-tipo-debil-iff-propiedad-vq](./prop-operador-maximal-tipo-debil-iff-propiedad-vq.md)
 - [propiedad-cubridora-vq](./propiedad-cubridora-vq.md)
+- [propiedad-escasez-bilateral-p2](./propiedad-escasez-bilateral-p2.md)
 - [propiedad-escasez-p1](./propiedad-escasez-p1.md)
 
 ### operador-maximal-cubos-n-adicos-bolas
