@@ -2,8 +2,8 @@
 title: 'Desigualdad de Minkowski'
 filename: 'desigualdad-minkowski'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-11-04T11:47:53.253405596+00:00'
-last_build_date_pdf: '2026-11-04T11:48:00.096619965+00:00'
+last_edit_date: '2026-11-06T16:33:57.198638944+00:00'
+last_build_date_pdf: '2026-11-06T16:34:03.702898595+00:00'
 labels:
   - dem:desigualdad-minkowsi:i
   - dem:desigualdad-minkowsi:ii

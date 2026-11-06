@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-05T23:48:12.833865846+00:00'
-last_build_date_pdf: '2026-11-05T23:48:19.956674364+00:00'
+last_edit_date: '2026-11-06T15:35:30.916939345+00:00'
+last_build_date_pdf: '2026-11-06T15:35:38.033646753+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -18,6 +18,7 @@ inclusions:
   - lem-desigualdad-integral-norma-lp-debil
   - lem-norma-lp-integral-fn-distribucion
   - lem-seleccion-cordoba-fefferman
+  - lem-seleccion-cordoba-fefferman-bilateral
   - norma-lp-debil
   - operador-maximal
   - operador-maximal-fuerte
@@ -46,6 +47,7 @@ tags:
 - [ejem-propiedad-vq-cubos-n-adicos](./ejem-propiedad-vq-cubos-n-adicos.md)
 - [lem-desigualdad-integral-norma-lp-debil](./lem-desigualdad-integral-norma-lp-debil.md)
 - [lem-seleccion-cordoba-fefferman](./lem-seleccion-cordoba-fefferman.md)
+- [lem-seleccion-cordoba-fefferman-bilateral](./lem-seleccion-cordoba-fefferman-bilateral.md)
 - [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [operador-tipo-debil](./operador-tipo-debil.md)
 - [operador-tipo-fuerte](./operador-tipo-fuerte.md)

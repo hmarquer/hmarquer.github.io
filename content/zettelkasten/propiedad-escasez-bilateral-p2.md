@@ -2,13 +2,15 @@
 title: 'Propiedad escasez bilateral p2'
 filename: 'propiedad-escasez-bilateral-p2'
 created: '2026-11-05T23:36:15.176670655+00:00'
-last_edit_date: '2026-11-05T23:36:23.197044180+00:00'
-last_build_date_pdf: '2026-11-05T23:36:29.633500143+00:00'
+last_edit_date: '2026-11-06T15:16:23.035310031+00:00'
+last_build_date_pdf: '2026-11-06T15:16:29.671790882+00:00'
 labels:
   - defn:propiedad-escasez-bilateral-p2
-  - defn:propiedad-escasez-p2:eq
+  - defn:propiedad-escasez-bilateral-p2:eq
 references:
   - esp-medida
+backlinks:
+  - lem-seleccion-cordoba-fefferman-bilateral
 projects:
   - m-trabajo-de-fin-de-master
 tags:

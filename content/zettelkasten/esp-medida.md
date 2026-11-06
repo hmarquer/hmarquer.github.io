@@ -41,6 +41,7 @@ backlinks:
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-seleccion-cordoba-fefferman
+  - lem-seleccion-cordoba-fefferman-bilateral
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
   - media-integral

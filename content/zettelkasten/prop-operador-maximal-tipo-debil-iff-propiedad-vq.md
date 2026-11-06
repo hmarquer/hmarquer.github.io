@@ -2,8 +2,8 @@
 title: 'Prop operador maximal tipo debil iff propiedad vq'
 filename: 'prop-operador-maximal-tipo-debil-iff-propiedad-vq'
 created: '2026-11-05T02:48:12.212862489+00:00'
-last_edit_date: '2026-11-05T15:18:23.296069442+00:00'
-last_build_date_pdf: '2026-11-05T15:18:30.327281352+00:00'
+last_edit_date: '2026-11-06T15:07:32.595247574+00:00'
+last_build_date_pdf: '2026-11-06T16:41:16.585946392+00:00'
 labels:
   - prop:operador-maximal-tipo-debil-iff-propiedad-vq
 references:
