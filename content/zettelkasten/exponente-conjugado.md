@@ -11,6 +11,7 @@ backlinks:
   - desigualdad-holder-condicional
   - desigualdad-holder-generalizada
   - desigualdad-young
+  - ejem-fn-young-conjugadas
   - lem-desigualdad-integral-norma-lp-debil
   - prop-convolucion-exp-conjugados
   - prop-inclusion-lp-general

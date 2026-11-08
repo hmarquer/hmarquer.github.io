@@ -13,6 +13,7 @@ backlinks:
   - desigualdad-jensen-condicional
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - ejer-homogeneidad-imp-subaditividad-iff-convexidad
+  - fn-young
   - prop-carac-fn-convexa
   - prop-fn-convexa
   - prop-inclusion-lp-esp-finito

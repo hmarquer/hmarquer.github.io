@@ -2,18 +2,22 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-06T16:51:22.133187220+00:00'
-last_build_date_pdf: '2026-11-06T16:51:29.543831855+00:00'
+last_edit_date: '2026-11-08T04:06:49.230802739+00:00'
+last_build_date_pdf: '2026-11-08T04:06:58.460498881+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
   - cubo-n-adico
   - cubo-n-adico-grado-k
   - d-prisma-coordenado
+  - ejem-fn-young
+  - ejem-fn-young-conjugadas
   - ejem-propiedad-vq-bolas
   - ejem-propiedad-vq-cubos-n-adicos
   - esp-lp-debil
   - fn-distribucion
+  - fn-orlicz
+  - fn-young
   - lem-cubrimiento-vitali
   - lem-desigualdad-integral-norma-lp-debil
   - lem-norma-lp-integral-fn-distribucion
@@ -30,7 +34,9 @@ inclusions:
   - propiedad-escasez-bilateral-p2
   - propiedad-escasez-p1
   - teo-acotacion-operador-maximal-bolas
+  - teo-desigualdad-young-generalizada
   - teo-inclusion-lp-lp-debil
+  - transformada-legendre
 tags:
   - m-trabajo-de-fin-de-master
 ---
@@ -40,11 +46,19 @@ tags:
 
 ## Notas incluidas
 
+### fn-young-transformada-legendre
+- [ejem-fn-young](./ejem-fn-young.md)
+- [ejem-fn-young-conjugadas](./ejem-fn-young-conjugadas.md)
+- [fn-young](./fn-young.md)
+- [teo-desigualdad-young-generalizada](./teo-desigualdad-young-generalizada.md)
+- [transformada-legendre](./transformada-legendre.md)
+
 ### m-trabajo-de-fin-de-master
 - [cor-desigualdad-markov-general](./cor-desigualdad-markov-general.md)
 - [d-prisma-coordenado](./d-prisma-coordenado.md)
 - [ejem-propiedad-vq-bolas](./ejem-propiedad-vq-bolas.md)
 - [ejem-propiedad-vq-cubos-n-adicos](./ejem-propiedad-vq-cubos-n-adicos.md)
+- [fn-orlicz](./fn-orlicz.md)
 - [lem-desigualdad-integral-norma-lp-debil](./lem-desigualdad-integral-norma-lp-debil.md)
 - [lem-seleccion-cordoba-fefferman](./lem-seleccion-cordoba-fefferman.md)
 - [lem-seleccion-cordoba-fefferman-bilateral](./lem-seleccion-cordoba-fefferman-bilateral.md)
@@ -71,6 +85,9 @@ tags:
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ## Etiquetas
+#REVISAR : está escrito por IA.
+#ORDENAR :puede que convenga escribir cada apartado como un lema independiente
+#ORDENAR : demostrar resultados similares para funciones convexas y aplicarlos aquí referenciandolos.
 #REVISAR : mirar fotos para simplificar y completar
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.

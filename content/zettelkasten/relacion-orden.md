@@ -34,6 +34,7 @@ backlinks:
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas
   - teo-descomposicion-con-algebraico-afin-irreducibles
+  - transformada-legendre
 ---
 
 [[relacion-orden.pdf]]
