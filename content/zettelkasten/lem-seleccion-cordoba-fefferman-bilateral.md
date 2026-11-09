@@ -13,10 +13,6 @@ references:
   - lem-seleccion-cordoba-fefferman
   - propiedad-escasez-bilateral-p2
   - propiedad-escasez-p1
-projects:
-  - m-trabajo-de-fin-de-master
-tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[lem-seleccion-cordoba-fefferman-bilateral.pdf]]

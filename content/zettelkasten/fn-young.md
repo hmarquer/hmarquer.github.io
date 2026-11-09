@@ -15,6 +15,7 @@ references:
 backlinks:
   - ejem-fn-young
   - ejem-fn-young-conjugadas
+  - lem-fn-orlicz-fn-young
   - teo-desigualdad-young-generalizada
 projects:
   - m-trabajo-de-fin-de-master

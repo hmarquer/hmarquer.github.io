@@ -7,6 +7,9 @@ last_build_date_pdf: '2026-11-08T04:08:11.731955908+00:00'
 labels:
   - defn:fn-orlicz
   - fig:funciones-orlicz
+backlinks:
+  - lem-fn-orlicz-fn-young
+  - prop-tranformada-legendre-fn-orlicz-cota-exponencial
 projects:
   - m-trabajo-de-fin-de-master
 tags:

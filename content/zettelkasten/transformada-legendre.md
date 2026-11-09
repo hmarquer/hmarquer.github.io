@@ -10,6 +10,7 @@ references:
   - relacion-orden
 backlinks:
   - ejem-fn-young-conjugadas
+  - prop-tranformada-legendre-fn-orlicz-cota-exponencial
   - teo-desigualdad-young-generalizada
 projects:
   - m-trabajo-de-fin-de-master
