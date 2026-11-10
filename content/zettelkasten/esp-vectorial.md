@@ -3,7 +3,7 @@ title: 'Espacio vectorial'
 filename: 'esp-vectorial'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.168786848+00:00'
-last_build_date_pdf: '2026-11-04T11:13:09.862880647+00:00'
+last_build_date_pdf: '2026-11-05T04:08:58.597257479+00:00'
 last_build_date_html: '2026-05-07T11:26:43.884655450+00:00'
 labels:
   - defn:esp-vectorial
@@ -49,6 +49,7 @@ backlinks:
   - lem-aditividad-continuidad-imp-homogeneidad
   - lem-apl-lineal-complejo-reduccion-real
   - lem-apl-lineal-iff-grafica-subesp-vectorial
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-vectorial
   - lem-funcional-minkowski-conjunto-convexo
   - lem-norma-uniformemente-convexa

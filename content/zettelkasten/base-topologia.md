@@ -11,12 +11,13 @@ references:
 backlinks:
   - base-topologia-subespacio
   - esp-metrizable
-  - esp-segundo-numerable
+  - esp-topologico-segundo-numerable
   - herencia-segundo-numerable
   - prop-base-alguna-topologia
   - prop-base-topologia
   - prop-base-topologia-inicial
   - prop-comparacion-topologias-bases
+  - prop-segundo-numerable-imp-lindelof
   - topologia-metrica
   - topologia-producto
 projects:

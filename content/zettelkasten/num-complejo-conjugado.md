@@ -3,7 +3,7 @@ title: 'Conjugado de un número complejo'
 filename: 'num-complejo-conjugado'
 created: '2025-03-14 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.192786865+00:00'
-last_build_date_pdf: '2026-11-04T11:11:40.462537100+00:00'
+last_build_date_pdf: '2026-11-05T04:07:18.992076832+00:00'
 labels:
   - defn:num-complejo-conjugado
 references:

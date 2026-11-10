@@ -3,7 +3,7 @@ title: 'Homeomorfismo'
 filename: 'homeomorfismo'
 created: '2025-12-11 19:31:56.702060'
 last_edit_date: '2026-11-03T17:30:26.177786855+00:00'
-last_build_date_pdf: '2026-11-04T11:12:18.118216909+00:00'
+last_build_date_pdf: '2026-11-05T04:08:08.469498700+00:00'
 labels:
   - defn:homeomorfismo
 references:

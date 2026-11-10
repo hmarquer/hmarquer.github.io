@@ -2,8 +2,8 @@
 title: 'Esp lp debil'
 filename: 'esp-lp-debil'
 created: '2026-10-12T22:58:26.357153986+00:00'
-last_edit_date: '2026-10-13T10:08:08.644840198+00:00'
-last_build_date_pdf: '2026-10-13T16:52:39.171458496+00:00'
+last_edit_date: '2026-11-10T17:14:37.901968287+00:00'
+last_build_date_pdf: '2026-11-10T17:14:44.502659534+00:00'
 labels:
   - defn:esp-lp-debil
 references:
@@ -11,6 +11,9 @@ references:
   - fn-medible
   - norma-lp-debil
 backlinks:
+  - lem-desigualdad-integral-norma-lp-debil
+  - lem-esp-lp-debil-esp-vectorial
+  - teo-esp-lp-debil-esp-cuasinormado
   - teo-inclusion-lp-lp-debil
 projects:
   - m-trabajo-de-fin-de-master

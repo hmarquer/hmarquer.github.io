@@ -3,7 +3,7 @@ title: 'Toda inmersión es localmente un embebimiento'
 filename: 'cor-inmersion-imp-localmente-embebimiento'
 created: '2025-06-06 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.157786841+00:00'
-last_build_date_pdf: '2026-11-04T11:13:59.819366209+00:00'
+last_build_date_pdf: '2026-11-05T04:09:54.732676130+00:00'
 labels:
   - cor:inmersion-imp-localmente-embebimiento
 references:

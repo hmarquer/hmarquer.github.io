@@ -3,7 +3,7 @@ title: 'Función entera'
 filename: 'fn-entera'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.172786851+00:00'
-last_build_date_pdf: '2026-11-04T11:12:51.426811794+00:00'
+last_build_date_pdf: '2026-11-05T04:08:39.999994535+00:00'
 labels:
   - defn:fn-entera
 references:

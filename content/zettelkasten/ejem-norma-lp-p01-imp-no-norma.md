@@ -2,8 +2,8 @@
 title: 'Ejem norma lp p01 imp no norma'
 filename: 'ejem-norma-lp-p01-imp-no-norma'
 created: '2026-09-30T12:41:02.339104925+00:00'
-last_edit_date: '2026-09-30T12:41:02.351976469+00:00'
-last_build_date_pdf: '2026-10-03T01:21:48.358554362+00:00'
+last_edit_date: '2026-11-10T11:35:37.544079190+00:00'
+last_build_date_pdf: '2026-11-10T19:09:17.673746529+00:00'
 labels:
   - ejem:norma-lp-p01-imp-no-norma
 references:

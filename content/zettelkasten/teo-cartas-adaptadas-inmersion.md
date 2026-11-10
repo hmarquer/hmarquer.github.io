@@ -3,7 +3,7 @@ title: 'Existencia de cartas adaptadas a una inmersion'
 filename: 'teo-cartas-adaptadas-inmersion'
 created: '2025-03-13 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.209786877+00:00'
-last_build_date_pdf: '2026-11-04T11:10:51.924859870+00:00'
+last_build_date_pdf: '2026-11-05T04:06:23.186204090+00:00'
 labels:
   - teo:cartas-adaptadas-inmersion
 references:

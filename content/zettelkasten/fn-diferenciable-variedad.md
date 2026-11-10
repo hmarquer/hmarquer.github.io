@@ -3,7 +3,7 @@ title: 'Función diferenciable en una variedad'
 filename: 'fn-diferenciable-variedad'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.171786851+00:00'
-last_build_date_pdf: '2026-11-04T11:12:54.747991588+00:00'
+last_build_date_pdf: '2026-11-05T04:08:45.864069013+00:00'
 labels:
   - defn:fn-diferenciable-variedad
 references:

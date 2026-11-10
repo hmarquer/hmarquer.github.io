@@ -2,8 +2,8 @@
 title: 'Procesos Estocásticos. Entrega 4: Espacios polacos y el Teorema de Extensión de Kolmogorov'
 filename: 'm.1-pe-e4'
 created: '2026-10-20T18:08:14.995573281+00:00'
-last_edit_date: '2026-10-26T19:01:47.227550300+00:00'
-last_build_date_pdf: '2026-10-27T09:03:44.683795108+00:00'
+last_edit_date: '2026-11-10T11:35:37.546079190+00:00'
+last_build_date_pdf: '2026-11-10T19:08:41.406319348+00:00'
 labels:
   - m.1-pe-e4:e1
   - m.1-pe-e4:e2
@@ -18,6 +18,7 @@ references:
   - esp-medible
   - esp-metrizable
   - esp-polaco
+  - esp-probabilidad
   - esp-separable
   - esp-topologico-completamente-metrizable
   - esp-topologico-hausdorff
@@ -25,6 +26,7 @@ references:
   - esp-topologico-primero-numerable
   - lambda-sistema
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
+  - medida-borel
   - medida-interiormente-regular
   - medida-regular
   - medida-tensa
@@ -53,6 +55,7 @@ tags:
 - [esp-medible](./esp-medible.md)
 - [esp-metrizable](./esp-metrizable.md)
 - [esp-polaco](./esp-polaco.md)
+- [esp-probabilidad](./esp-probabilidad.md)
 - [esp-separable](./esp-separable.md)
 - [esp-topologico-completamente-metrizable](./esp-topologico-completamente-metrizable.md)
 - [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
@@ -60,6 +63,7 @@ tags:
 - [esp-topologico-primero-numerable](./esp-topologico-primero-numerable.md)
 - [lambda-sistema](./lambda-sistema.md)
 - [lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados](./lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados.md)
+- [medida-borel](./medida-borel.md)
 - [medida-interiormente-regular](./medida-interiormente-regular.md)
 - [medida-regular](./medida-regular.md)
 - [medida-tensa](./medida-tensa.md)

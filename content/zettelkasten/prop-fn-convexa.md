@@ -3,7 +3,7 @@ title: 'Propiedades de las funciones convexas'
 filename: 'prop-fn-convexa'
 created: '2025-03-27 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.199786870+00:00'
-last_build_date_pdf: '2026-11-04T11:11:16.460689661+00:00'
+last_build_date_pdf: '2026-11-05T04:06:54.287931678+00:00'
 labels:
   - prop:fn-convexa
 references:

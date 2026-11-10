@@ -3,7 +3,7 @@ title: 'Teorema de la función inversa para funciones holomorfas'
 filename: 'teo-fn-inversa-holomorfas'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.212786879+00:00'
-last_build_date_pdf: '2026-11-04T11:10:38.982294565+00:00'
+last_build_date_pdf: '2026-11-05T04:06:04.631828966+00:00'
 labels:
   - teo:fn-inversa-holomorfas
 references:

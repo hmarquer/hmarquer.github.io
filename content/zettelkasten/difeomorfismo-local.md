@@ -3,7 +3,7 @@ title: 'Difeomorfismo local'
 filename: 'difeomorfismo-local'
 created: '2025-03-10 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.161786844+00:00'
-last_build_date_pdf: '2026-11-04T11:13:37.207899880+00:00'
+last_build_date_pdf: '2026-11-05T04:09:29.466746883+00:00'
 labels:
   - defn:difeomorfismo-local
 references:

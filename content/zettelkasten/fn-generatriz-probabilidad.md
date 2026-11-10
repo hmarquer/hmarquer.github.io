@@ -3,7 +3,7 @@ title: 'Función generatriz de probabilidad'
 filename: 'fn-generatriz-probabilidad'
 created: '2025-03-19 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.173786852+00:00'
-last_build_date_pdf: '2026-11-04T11:12:48.013860058+00:00'
+last_build_date_pdf: '2026-11-05T04:08:33.968293819+00:00'
 labels:
   - defn:fn-generatriz-probabilidad
 references:

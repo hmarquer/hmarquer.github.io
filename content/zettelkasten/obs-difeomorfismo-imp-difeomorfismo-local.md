@@ -3,7 +3,7 @@ title: 'Todo difeomorfismo es un difeomorfismo local'
 filename: 'obs-difeomorfismo-imp-difeomorfismo-local'
 created: '2025-04-07 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.194786867+00:00'
-last_build_date_pdf: '2026-11-04T11:11:34.706651261+00:00'
+last_build_date_pdf: '2026-11-05T04:07:13.211438187+00:00'
 labels:
   - obs:difeomorfismo-imp-difeomorfismo-local
 references:

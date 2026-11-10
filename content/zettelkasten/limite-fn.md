@@ -3,7 +3,7 @@ title: 'Límite de una función'
 filename: 'limite-fn'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.187786862+00:00'
-last_build_date_pdf: '2026-11-04T11:11:59.641275356+00:00'
+last_build_date_pdf: '2026-11-05T04:07:44.156991962+00:00'
 labels:
   - defn:limite-metrico-fn
 references:

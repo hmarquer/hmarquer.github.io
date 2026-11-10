@@ -44,15 +44,16 @@ backlinks:
   - esp-metrizable
   - esp-polaco
   - esp-proyectivo-real
-  - esp-segundo-numerable
   - esp-separable
   - esp-topologico-completamente-metrizable
   - esp-topologico-hausdorff
+  - esp-topologico-lindelof
   - esp-topologico-metrizable
   - esp-topologico-noetheriano
   - esp-topologico-primero-numerable
   - esp-topologico-regular
   - esp-topologico-secuencial
+  - esp-topologico-segundo-numerable
   - esp-topologico-separable
   - esp-topologicos-homotopicamente-equivalentes
   - fn-semicontinua-inferior
@@ -68,6 +69,7 @@ backlinks:
   - lem-carac-densidad-esp-metrizable
   - lem-esp-hausdorff-imp-separacion-compacto-pnt
   - lem-sim-abierta-iff-pi-abierta
+  - medida-borel
   - pnt-acumulacion
   - precompacidad
   - primer-grupo-fundamental
@@ -82,6 +84,7 @@ backlinks:
   - prop-continuidad-imp-continuidad-secuencial
   - prop-estructura-diferenciable-inducida-homeomorfismo
   - prop-primer-grupo-fundamental-conexion-arcos
+  - prop-segundo-numerable-imp-lindelof
   - prop-segundo-numerable-imp-separable
   - prop-subbase-topologia-inicial
   - prop-topologia-inducida-fn-sobre

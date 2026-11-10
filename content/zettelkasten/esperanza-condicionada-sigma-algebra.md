@@ -3,7 +3,7 @@ title: 'Esperanza condicionada a una $\sigma$-álgebra'
 filename: 'esperanza-condicionada-sigma-algebra'
 created: '2025-03-24 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.168786848+00:00'
-last_build_date_pdf: '2026-11-04T11:13:07.592072560+00:00'
+last_build_date_pdf: '2026-11-05T04:08:58.570568121+00:00'
 labels:
   - prop:esperanza-condicionada-sigma-algebra
 references:

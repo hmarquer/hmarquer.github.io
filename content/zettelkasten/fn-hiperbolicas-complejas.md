@@ -3,7 +3,7 @@ title: 'Funciones hiperbólicas complejas'
 filename: 'fn-hiperbolicas-complejas'
 created: '2025-03-07 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.173786852+00:00'
-last_build_date_pdf: '2026-11-04T11:12:45.323783842+00:00'
+last_build_date_pdf: '2026-11-05T04:08:33.836304364+00:00'
 labels:
   - defn:fn-hiperbolicas-complejas
 references:

@@ -10,6 +10,8 @@ references:
   - prop-interseccion-sigma-algebra
   - sigma-algebra
   - sigma-algebra-generada
+backlinks:
+  - medida-borel
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

@@ -1,0 +1,17 @@
+---
+title: 'Recta soporte fn'
+filename: 'recta-soporte-fn'
+created: '2026-11-04T13:50:24.506521918+00:00'
+last_edit_date: '2026-11-10T11:35:37.548079190+00:00'
+last_build_date_pdf: '2026-11-10T19:08:18.816987732+00:00'
+labels:
+  - defn:recta-soporte-fn
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - m.1-fundamentos-de-analisis-matematico/tema2
+---
+
+[[recta-soporte-fn.pdf]]
+![[recta-soporte-fn.pdf]]
+

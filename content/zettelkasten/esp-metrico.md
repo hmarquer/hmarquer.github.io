@@ -3,7 +3,7 @@ title: 'Espacio métrico'
 filename: 'esp-metrico'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.166786847+00:00'
-last_build_date_pdf: '2026-11-04T11:13:19.637634727+00:00'
+last_build_date_pdf: '2026-11-05T04:09:10.926319581+00:00'
 labels:
   - defn:esp-metrico
 references:
@@ -42,6 +42,7 @@ backlinks:
   - prop-convergencia-imp-cauchy
   - prop-convergencia-uniforme-continuidad-uniforme
   - prop-esp-metrico-imp-compacto-iff-secuencialmente-compacto
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - semejanza
   - teo-baire
   - teo-compleccion-esp-metrico

@@ -13,6 +13,7 @@ references:
   - relacion-orden
 backlinks:
   - operador-maximal-fuerte
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

@@ -3,7 +3,7 @@ title: 'Derivación'
 filename: 'derivacion'
 created: '2025-02-19 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.160786843+00:00'
-last_build_date_pdf: '2026-11-04T11:13:44.278238577+00:00'
+last_build_date_pdf: '2026-11-05T04:09:36.597445657+00:00'
 labels:
   - defn:derivacion
 references:

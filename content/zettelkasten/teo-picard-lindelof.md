@@ -3,7 +3,7 @@ title: 'Teorema de Picard-Lindelöf'
 filename: 'teo-picard-lindelof'
 created: '2025-02-13 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.213786880+00:00'
-last_build_date_pdf: '2026-11-04T11:10:26.887796966+00:00'
+last_build_date_pdf: '2026-11-05T04:05:58.196187754+00:00'
 labels:
   - teo:picard-lindelof
 references:

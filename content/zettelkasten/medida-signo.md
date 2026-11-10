@@ -3,7 +3,7 @@ title: 'Medida con signo'
 filename: 'medida-signo'
 created: '2025-02-11 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.189786863+00:00'
-last_build_date_pdf: '2026-11-04T11:11:53.090401259+00:00'
+last_build_date_pdf: '2026-11-05T04:07:32.081231507+00:00'
 labels:
   - defn:medida-signo
 references:

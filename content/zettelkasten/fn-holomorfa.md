@@ -3,7 +3,7 @@ title: 'Función holomorfa'
 filename: 'fn-holomorfa'
 created: '2025-02-12 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.173786852+00:00'
-last_build_date_pdf: '2026-11-04T11:12:42.680275151+00:00'
+last_build_date_pdf: '2026-11-05T04:08:33.464610320+00:00'
 labels:
   - defn:fn-holomorfa
 references:

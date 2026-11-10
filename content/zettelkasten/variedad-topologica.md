@@ -2,8 +2,8 @@
 title: 'Variedad topológica'
 filename: 'variedad-topologica'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.216786882+00:00'
-last_build_date_pdf: '2026-11-04T11:10:14.702452513+00:00'
+last_edit_date: '2026-11-10T11:35:37.548079190+00:00'
+last_build_date_pdf: '2026-11-10T19:08:11.407767759+00:00'
 labels:
   - defn:variedad-topologica
   - defn:variedad-topologica-iii'
@@ -11,9 +11,9 @@ labels:
   - defn:variedad-topologica:ii
   - defn:variedad-topologica:iii
 references:
-  - esp-segundo-numerable
   - esp-topologico
   - esp-topologico-hausdorff
+  - esp-topologico-segundo-numerable
   - homeomorfismo
 backlinks:
   - lem-estructuras-diferenciables-iguales
@@ -30,8 +30,8 @@ tags:
 ![[variedad-topologica.pdf]]
 
 ## Referencias
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
 - [esp-topologico](./esp-topologico.md)
 - [esp-topologico-hausdorff](./esp-topologico-hausdorff.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [homeomorfismo](./homeomorfismo.md)
 

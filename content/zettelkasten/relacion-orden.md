@@ -17,6 +17,7 @@ backlinks:
   - diametro-con
   - distancia-conjuntos
   - distancia-pnt-con
+  - ejem-propiedad-vq-cubos-n-adicos
   - estructura-diferenciable
   - integrabilidad-uniforme
   - lem-integrabilidad-uniforme-imp-acotacion-l1
@@ -33,6 +34,7 @@ backlinks:
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas
   - teo-descomposicion-con-algebraico-afin-irreducibles
+  - transformada-legendre
 ---
 
 [[relacion-orden.pdf]]

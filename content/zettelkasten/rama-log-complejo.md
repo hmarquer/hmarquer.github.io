@@ -3,7 +3,7 @@ title: 'Rama del logaritmo complejo'
 filename: 'rama-log-complejo'
 created: '2025-02-27 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.204786874+00:00'
-last_build_date_pdf: '2026-11-04T11:11:09.696253454+00:00'
+last_build_date_pdf: '2026-11-05T04:06:41.776502906+00:00'
 labels:
   - defn:rama-log-complejo
 references:

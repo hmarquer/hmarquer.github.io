@@ -3,7 +3,7 @@ title: 'Cor inmersion inyectiva imp embebimiento'
 filename: 'cor-inmersion-inyectiva-imp-embebimiento'
 created: '2025-06-21 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.157786841+00:00'
-last_build_date_pdf: '2026-11-04T11:13:56.891173611+00:00'
+last_build_date_pdf: '2026-11-05T04:09:54.277749696+00:00'
 labels:
   - cor:inmersion-inyectiva-imp-embebimiento
   - cor:inmersion-inyectiva-imp-embebimiento:I

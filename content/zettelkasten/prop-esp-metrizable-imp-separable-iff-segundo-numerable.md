@@ -2,13 +2,13 @@
 title: 'En espacios metrizables, separable es equivalente a segundo numerable'
 filename: 'prop-esp-metrizable-imp-separable-iff-segundo-numerable'
 created: '2025-05-29 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
-last_build_date_pdf: '2026-09-15T23:12:45.927786230+00:00'
+last_edit_date: '2026-11-10T11:35:37.547079190+00:00'
+last_build_date_pdf: '2026-11-10T19:08:33.481456346+00:00'
 labels:
   - prop:esp-metrizable-imp-separable-iff-segundo-numerable
 references:
   - esp-metrizable
-  - esp-segundo-numerable
+  - esp-topologico-segundo-numerable
   - esp-topologico-separable
 projects:
   - 4-teoria-descriptiva-de-conjuntos
@@ -21,7 +21,7 @@ tags:
 
 ## Referencias
 - [esp-metrizable](./esp-metrizable.md)
-- [esp-segundo-numerable](./esp-segundo-numerable.md)
+- [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
 
 ## Etiquetas

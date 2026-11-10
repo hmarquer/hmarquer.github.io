@@ -16,6 +16,7 @@ references:
   - teo-fubini
   - teo-fundamental-calculo
 backlinks:
+  - lem-desigualdad-integral-norma-lp-debil
   - teo-acotacion-operador-maximal-bolas
 projects:
   - m-trabajo-de-fin-de-master

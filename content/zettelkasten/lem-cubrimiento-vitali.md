@@ -3,13 +3,14 @@ title: 'Lema del cubrimiento de Vitali'
 filename: 'lem-cubrimiento-vitali'
 created: '2026-11-03T13:58:36.336425573+00:00'
 last_edit_date: '2026-11-03T19:34:09.526088125+00:00'
-last_build_date_pdf: '2026-11-03T19:34:15.766538565+00:00'
+last_build_date_pdf: '2026-11-05T04:07:50.699052714+00:00'
 labels:
   - lem:cubrimiento-vitali
 references:
   - bola-abierta
   - esp-metrico
 backlinks:
+  - ejem-propiedad-vq-bolas
   - teo-acotacion-operador-maximal-bolas
 projects:
   - m-trabajo-de-fin-de-master

@@ -3,7 +3,7 @@ title: 'Medida'
 filename: 'medida'
 created: '2025-01-17 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.190786864+00:00'
-last_build_date_pdf: '2026-11-04T11:11:59.035533870+00:00'
+last_build_date_pdf: '2026-11-05T04:07:38.270270651+00:00'
 labels:
   - defn:medida
   - defn:medida:i
@@ -14,6 +14,7 @@ backlinks:
   - continuidad-absoluta
   - esp-medida
   - lem-descomposicion-jordan-continuidad-absoluta
+  - medida-borel
   - medida-inducida
   - probabilidad-total
   - teo-caratheodory-i

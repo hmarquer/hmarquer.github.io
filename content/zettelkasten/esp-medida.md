@@ -3,7 +3,7 @@ title: 'Espacio de medida'
 filename: 'esp-medida'
 created: '2025-02-21 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.166786847+00:00'
-last_build_date_pdf: '2026-11-04T11:13:19.862277189+00:00'
+last_build_date_pdf: '2026-11-05T04:09:11.202553958+00:00'
 labels:
   - defn:esp-medida
 references:
@@ -19,6 +19,7 @@ backlinks:
   - cor-desigualdad-markov-general
   - cor-integral-suma-infinita
   - desigualdad-jensen
+  - desigualdad-minkowski
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-filtros
   - esp-conteo
@@ -30,15 +31,21 @@ backlinks:
   - fn-integrable
   - integrabilidad-uniforme
   - integral
+  - lem-carac-linfty-esp-sigma-finito
   - lem-convergencia-uniforme-esp-finito-imp-lp
+  - lem-desigualdad-integral-norma-lp-debil
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-fatou
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
+  - lem-seleccion-cordoba-fefferman
+  - lem-seleccion-cordoba-fefferman-bilateral
   - lem-sigma-algebras-indep-imp-var-aleatorias-indep
   - linealidad-integral
+  - media-integral
   - medida-completa
   - medida-interiormente-regular
   - medida-regular
@@ -55,12 +62,15 @@ backlinks:
   - prop-desigualdad-chebyshev-general
   - prop-fn-simples-denso-lp
   - propiedad-cubridora-vq
+  - propiedad-escasez-bilateral-p2
+  - propiedad-escasez-p1
   - supremo-esencial
   - teo-convergencia-dominada
   - teo-convergencia-monotona
   - teo-derivacion-bajo-el-signo-integral
   - teo-esp-l2-hilbert
   - teo-esp-lp-banach
+  - teo-esp-lp-debil-esp-cuasinormado
   - teo-fubini
   - teo-inclusion-lp-lp-debil
   - teo-metrica-lp-0-1

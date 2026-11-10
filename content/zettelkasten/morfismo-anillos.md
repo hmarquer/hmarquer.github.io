@@ -3,7 +3,7 @@ title: 'Morfismo de anillos'
 filename: 'morfismo-anillos'
 created: '2026-01-03 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.190786864+00:00'
-last_build_date_pdf: '2026-11-04T11:11:46.673405200+00:00'
+last_build_date_pdf: '2026-11-05T04:07:31.435456474+00:00'
 labels:
   - defn:morfismo-anillos
 references:

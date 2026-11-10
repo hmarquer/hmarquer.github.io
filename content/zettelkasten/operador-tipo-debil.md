@@ -12,6 +12,8 @@ references:
   - fn-medible
   - norma-lp
   - norma-lp-debil
+backlinks:
+  - prop-operador-maximal-tipo-debil-iff-propiedad-vq
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

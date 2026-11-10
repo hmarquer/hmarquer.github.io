@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-04T11:17:11.995480951+00:00'
-last_build_date_pdf: '2026-11-04T11:20:15.618882933+00:00'
+last_edit_date: '2026-11-10T19:07:01.232545572+00:00'
+last_build_date_pdf: '2026-11-10T19:09:41.394621285+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -44,9 +44,11 @@ inclusions:
   - fn-medible
   - fn-simple
   - integral
+  - lem-carac-linfty-esp-sigma-finito
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-estabilidad-numerable-dim-hausdorff
@@ -60,6 +62,7 @@ inclusions:
   - m.1-fda-e1
   - m.1-fda-e2
   - m.1-fda-h1-e19
+  - media-integral
   - medida
   - medida-exterior
   - medida-exterior-metrica
@@ -93,6 +96,7 @@ inclusions:
   - prop-sigma-algebra-caratheodory
   - prop-sigma-algebra-generada
   - prop-subaditividad-medida-exterior
+  - recta-soporte-fn
   - semejanza
   - sigma-algebra
   - sigma-algebra-generada
@@ -105,6 +109,7 @@ inclusions:
   - teo-convergencia-monotona
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-esp-lp-banach
+  - teo-esp-lp-debil-esp-cuasinormado
   - teo-inclusion-lp-lp-debil
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
@@ -208,9 +213,12 @@ tags:
 - [exponente-conjugado](./exponente-conjugado.md)
 - [fn-convexa](./fn-convexa.md)
 - [fn-distribucion](./fn-distribucion.md)
+- [lem-carac-linfty-esp-sigma-finito](./lem-carac-linfty-esp-sigma-finito.md)
+- [lem-esp-lp-debil-esp-vectorial](./lem-esp-lp-debil-esp-vectorial.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
 - [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
+- [media-integral](./media-integral.md)
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
@@ -227,8 +235,10 @@ tags:
 - [prop-fn-convexa](./prop-fn-convexa.md)
 - [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
+- [recta-soporte-fn](./recta-soporte-fn.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
+- [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ### tema3
@@ -256,8 +266,6 @@ tags:
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
 #EJERCICIO a entregar
 #EJERCICIO a enrtegar
-#REVISAR : está totalmente mal, fumada del profesor
-#COMPLETAR : terminar la demostración
 #DEMOSTRACIÓN : es aplicar la proposición anterior
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal
@@ -268,7 +276,7 @@ tags:
 #ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
 #REVISAR y referenciar lemas anteriores
 #ORDENAR : referenciar
-#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio normado.
+#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio cuasi normado.
 #COMPLETAR : ver el caso $p >1$ (es igual)
 #COMPLETAR : no he entendido nada
 #REVISAR : no sé qué se ejemplifica aquí
@@ -278,7 +286,6 @@ tags:
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
 #COMPLETAR 
-#DEMOSTRACIÓN : trivial
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
 #COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.

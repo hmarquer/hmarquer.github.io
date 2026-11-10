@@ -3,7 +3,7 @@ title: 'Aplicación cociente'
 filename: 'apl-cociente'
 created: '2025-02-11 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.149786835+00:00'
-last_build_date_pdf: '2026-11-04T11:14:23.750227958+00:00'
+last_build_date_pdf: '2026-11-05T04:10:14.087684119+00:00'
 labels:
   - defn:apl-cociente
 references:

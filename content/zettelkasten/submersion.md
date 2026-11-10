@@ -3,7 +3,7 @@ title: 'Submersión'
 filename: 'submersion'
 created: '2025-03-10 00:00:00'
 last_edit_date: '2026-11-03T17:30:26.207786876+00:00'
-last_build_date_pdf: '2026-11-04T11:10:57.459507999+00:00'
+last_build_date_pdf: '2026-11-05T04:06:29.349628796+00:00'
 labels:
   - defn:submersion
 references:

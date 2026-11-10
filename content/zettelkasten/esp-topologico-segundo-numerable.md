@@ -1,11 +1,11 @@
 ---
 title: 'Espacio segundo numerable'
-filename: 'esp-segundo-numerable'
+filename: 'esp-topologico-segundo-numerable'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.220659346+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.117205842+00:00'
+last_edit_date: '2026-11-10T11:35:37.544079190+00:00'
+last_build_date_pdf: '2026-11-10T19:09:03.743537445+00:00'
 labels:
-  - defn:esp-segundo-numerable
+  - defn:esp-topologico-segundo-numerable
 references:
   - base-topologia
   - esp-topologico
@@ -14,6 +14,7 @@ backlinks:
   - herencia-segundo-numerable
   - lem-relacion-equivalencia-abierta-segundo-numerable
   - prop-esp-metrizable-imp-separable-iff-segundo-numerable
+  - prop-segundo-numerable-imp-lindelof
   - prop-segundo-numerable-imp-separable
   - prop-topologia-producto-segundo-numerable
   - teo-metrizacion-urysohn
@@ -27,8 +28,8 @@ tags:
   - teoria-descriptiva-de-conjuntos/tema1
 ---
 
-[[esp-segundo-numerable.pdf]]
-![[esp-segundo-numerable.pdf]]
+[[esp-topologico-segundo-numerable.pdf]]
+![[esp-topologico-segundo-numerable.pdf]]
 
 ## Referencias
 - [base-topologia](./base-topologia.md)
