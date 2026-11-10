@@ -2,7 +2,7 @@
 title: 'Independencia de más de dos variables aleatorias'
 filename: 'mindependencia-var-aleatorias'
 created: '2025-02-21 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
+last_edit_date: '2026-09-03T09:44:22.659713969+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.947402125+00:00'
 labels:
   - defn:mindependencia-var-aleatorias

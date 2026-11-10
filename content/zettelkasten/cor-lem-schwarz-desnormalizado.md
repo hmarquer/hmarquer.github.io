@@ -2,7 +2,7 @@
 title: 'Lema de Schwarz desnormalizado'
 filename: 'cor-lem-schwarz-desnormalizado'
 created: '2026-03-19 19:55:08.703336'
-last_edit_date: '2026-09-06T15:26:21.215658635+00:00'
+last_edit_date: '2026-09-03T09:44:22.559689505+00:00'
 last_build_date_pdf: '2026-09-15T23:12:55.883179724+00:00'
 labels:
   - cor:lem-schwarz-desnormalizado

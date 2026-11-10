@@ -2,7 +2,7 @@
 title: 'La inclusión en una localización es un morfismo de anillos'
 filename: 'prop-inclusion-localizacion-morfismo-anillos'
 created: '2025-12-14 14:46:17.356285'
-last_edit_date: '2026-11-02T15:39:50.687647530+00:00'
+last_edit_date: '2026-11-02T14:31:56.211027082+00:00'
 last_build_date_pdf: '2026-11-02T19:35:46.156936763+00:00'
 labels:
   - prop:inclusion-localizacion-morfismo-anillos

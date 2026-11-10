@@ -247,9 +247,9 @@ tags:
 - [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
 
 ## Etiquetas
+#EJERCICIO 
 #REVISAR 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
-#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -289,3 +289,5 @@ tags:
 #COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
 #COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.
+#EJERCICIO a entregar
+#EJERCICIO a enrtegar

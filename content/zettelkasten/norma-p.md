@@ -2,7 +2,7 @@
 title: 'Norma $p$'
 filename: 'norma-p'
 created: '2025-09-17 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.231660910+00:00'
+last_edit_date: '2026-09-03T09:44:22.663356999+00:00'
 last_build_date_pdf: '2026-09-15T23:12:57.362926046+00:00'
 labels:
   - defn:norma-p

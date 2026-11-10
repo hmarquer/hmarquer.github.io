@@ -2,7 +2,7 @@
 title: 'Ideal nilradical'
 filename: 'ideal-nilradical'
 created: '2025-09-12 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.223659772+00:00'
+last_edit_date: '2026-09-03T09:44:22.611223732+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.194433925+00:00'
 labels:
   - lem:ideal-nilradical

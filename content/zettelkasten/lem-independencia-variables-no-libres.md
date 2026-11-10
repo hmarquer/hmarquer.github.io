@@ -2,7 +2,7 @@
 title: 'Lema de independencia de variables no libres'
 filename: 'lem-independencia-variables-no-libres'
 created: '2026-03-26 09:57:40.562375'
-last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
+last_edit_date: '2026-09-03T09:44:22.636794325+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.066170159+00:00'
 labels:
   - lem:independencia-variables-no-libres

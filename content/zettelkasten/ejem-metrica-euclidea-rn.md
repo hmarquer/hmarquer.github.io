@@ -2,7 +2,7 @@
 title: 'Métrica euclídea en $\R^n$'
 filename: 'ejem-metrica-euclidea-rn'
 created: '2026-07-17T23:31:00.241689763+00:00'
-last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
+last_edit_date: '2026-09-03T09:44:22.575150680+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.821456273+00:00'
 labels:
   - ejem:metrica-euclidea-rn
