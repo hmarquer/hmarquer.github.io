@@ -270,6 +270,8 @@ tags:
 #COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
+#EJERCICIO a entregar
+#EJERCICIO a enrtegar
 #DEMOSTRACIÓN : es aplicar la proposición anterior
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal

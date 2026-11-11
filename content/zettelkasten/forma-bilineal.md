@@ -2,7 +2,7 @@
 title: 'Forma bilineal'
 filename: 'forma-bilineal'
 created: '2025-02-08 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.863585001+00:00'
+last_edit_date: '2026-11-03T17:30:26.175786853+00:00'
 last_build_date_pdf: '2026-11-05T04:08:15.355425615+00:00'
 labels:
   - defn:forma-bilineal

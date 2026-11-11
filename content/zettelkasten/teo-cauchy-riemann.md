@@ -2,7 +2,7 @@
 title: 'Teorema de Cauchy-Riemann'
 filename: 'teo-cauchy-riemann'
 created: '2025-03-07 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.869729285+00:00'
+last_edit_date: '2026-11-03T17:30:26.209786877+00:00'
 last_build_date_pdf: '2026-11-05T04:06:17.251002304+00:00'
 labels:
   - eq-cauchy-riemann

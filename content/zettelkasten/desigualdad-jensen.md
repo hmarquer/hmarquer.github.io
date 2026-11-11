@@ -2,7 +2,7 @@
 title: 'Desigualdad de Jensen'
 filename: 'desigualdad-jensen'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.860367118+00:00'
+last_edit_date: '2026-11-03T17:30:26.161786844+00:00'
 last_build_date_pdf: '2026-11-05T04:09:35.735660924+00:00'
 labels:
   - dem:desigualdad-jensen:i

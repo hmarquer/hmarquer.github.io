@@ -2,7 +2,7 @@
 title: 'Las variedades difeomorfas tienen la misma dimensión'
 filename: 'cor-variedades-difeomorfas-misma-dimension'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.859322563+00:00'
+last_edit_date: '2026-11-03T17:30:26.158786842+00:00'
 last_build_date_pdf: '2026-11-05T04:09:48.064450535+00:00'
 labels:
   - cor:variedades-difeomorfas-misma-dimension
