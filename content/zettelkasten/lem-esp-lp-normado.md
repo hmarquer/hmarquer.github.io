@@ -3,7 +3,7 @@ title: 'Todo espacio $L^p$ es un espacio normado'
 filename: 'lem-esp-lp-normado'
 created: '2025-03-14 00:00:00'
 last_edit_date: '2026-11-04T11:43:20.221185157+00:00'
-last_build_date_pdf: '2026-11-04T11:43:26.899677091+00:00'
+last_build_date_pdf: '2026-11-10T19:08:55.835585654+00:00'
 labels:
   - lem:esp-lp-normado
 references:

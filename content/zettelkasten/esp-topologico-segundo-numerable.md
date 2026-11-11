@@ -3,7 +3,7 @@ title: 'Espacio segundo numerable'
 filename: 'esp-topologico-segundo-numerable'
 created: '2025-02-03 00:00:00'
 last_edit_date: '2026-11-04T21:12:22.799535577+00:00'
-last_build_date_pdf: '2026-11-05T04:08:58.919577+00:00'
+last_build_date_pdf: '2026-11-10T19:09:03.743537445+00:00'
 labels:
   - defn:esp-topologico-segundo-numerable
 references:

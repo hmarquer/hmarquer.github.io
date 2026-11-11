@@ -3,7 +3,7 @@ title: 'Medida de Borel'
 filename: 'medida-borel'
 created: '2026-11-05T02:50:07.034459151+00:00'
 last_edit_date: '2026-11-05T02:52:33.452958619+00:00'
-last_build_date_pdf: '2026-11-05T02:52:39.990741132+00:00'
+last_build_date_pdf: '2026-11-10T19:08:40.843090111+00:00'
 labels:
   - defn:medida-borel
 references:

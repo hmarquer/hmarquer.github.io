@@ -25,6 +25,7 @@ backlinks:
   - lem-carac-linfty-esp-sigma-finito
   - lem-esp-lp-normado
   - lem-norma-lp-integral-fn-distribucion
+  - norma-lp-debil
   - operador-tipo-debil
   - operador-tipo-fuerte
   - prop-clase-ck-velocidad-convergencia-uniforme-fourier

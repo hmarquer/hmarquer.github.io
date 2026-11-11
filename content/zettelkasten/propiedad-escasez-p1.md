@@ -3,7 +3,7 @@ title: 'Propiedad escasez p1'
 filename: 'propiedad-escasez-p1'
 created: '2026-11-05T14:45:22.835851222+00:00'
 last_edit_date: '2026-11-06T12:42:24.746185843+00:00'
-last_build_date_pdf: '2026-11-06T12:42:31.273392135+00:00'
+last_build_date_pdf: '2026-11-10T19:08:18.890245653+00:00'
 labels:
   - defn:propiedad-escasez-p1
   - defn:propiedad-escasez-p1:eq

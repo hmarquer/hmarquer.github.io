@@ -10,8 +10,11 @@ references:
   - esp-medida
   - fn-medible
 backlinks:
+  - lem-esp-lp-debil-esp-vectorial
   - lem-norma-lp-integral-fn-distribucion
   - norma-lp-debil
+  - prop-fn-distribucion
+  - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

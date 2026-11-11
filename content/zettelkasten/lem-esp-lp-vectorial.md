@@ -13,7 +13,9 @@ references:
   - linealidad-integral
   - norma
 backlinks:
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
+  - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 4.1-variable-real

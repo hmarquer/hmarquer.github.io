@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-06T16:33:57.198638944+00:00'
-last_build_date_pdf: '2026-11-06T16:41:32.064031352+00:00'
+last_edit_date: '2026-11-11T15:23:14.305248712+00:00'
+last_build_date_pdf: '2026-11-11T15:23:30.204382788+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -23,6 +23,7 @@ inclusions:
   - distancia-pnt-con
   - dual-algebraico
   - dual-topologico
+  - ejem-esp-lp-debil-esp-no-normado
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
@@ -48,6 +49,7 @@ inclusions:
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-estabilidad-numerable-dim-hausdorff
@@ -85,6 +87,7 @@ inclusions:
   - prop-desigualdad-chebyshev-general
   - prop-esp-dual-banach
   - prop-fn-convexa
+  - prop-fn-distribucion
   - prop-fn-simples-denso-lp
   - prop-homogeneidad-medida-hausdorff
   - prop-inclusion-lp-esp-finito
@@ -108,6 +111,7 @@ inclusions:
   - teo-convergencia-monotona
   - teo-distancia-hausdorff-imp-metrica-esp-con-cerrados-acotados
   - teo-esp-lp-banach
+  - teo-esp-lp-debil-esp-cuasinormado
   - teo-inclusion-lp-lp-debil
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
@@ -124,6 +128,9 @@ tags:
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
+
+### hoja2
+- [ejem-esp-lp-debil-esp-no-normado](./ejem-esp-lp-debil-esp-no-normado.md)
 
 ### m.1-fundamentos-de-analisis-matematico
 - [m.1-fda-e1](./m.1-fda-e1.md)
@@ -212,6 +219,7 @@ tags:
 - [fn-convexa](./fn-convexa.md)
 - [fn-distribucion](./fn-distribucion.md)
 - [lem-carac-linfty-esp-sigma-finito](./lem-carac-linfty-esp-sigma-finito.md)
+- [lem-esp-lp-debil-esp-vectorial](./lem-esp-lp-debil-esp-vectorial.md)
 - [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
 - [lem-norma-lp-integral-fn-distribucion](./lem-norma-lp-integral-fn-distribucion.md)
@@ -230,11 +238,13 @@ tags:
 - [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
 - [prop-esp-dual-banach](./prop-esp-dual-banach.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
 - [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
 - [recta-soporte-fn](./recta-soporte-fn.md)
 - [teo-carac-continuidad-apl-lineal](./teo-carac-continuidad-apl-lineal.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
+- [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
 ### tema3
@@ -270,7 +280,7 @@ tags:
 #ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
 #REVISAR y referenciar lemas anteriores
 #ORDENAR : referenciar
-#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio normado.
+#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio cuasi normado.
 #COMPLETAR : ver el caso $p >1$ (es igual)
 #COMPLETAR : no he entendido nada
 #REVISAR : no sé qué se ejemplifica aquí
@@ -280,8 +290,6 @@ tags:
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
 #COMPLETAR 
-#DEMOSTRACIÓN : trivial
-#COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
 #COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.
 #EJERCICIO a entregar

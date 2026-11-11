@@ -49,6 +49,7 @@ backlinks:
   - lem-aditividad-continuidad-imp-homogeneidad
   - lem-apl-lineal-complejo-reduccion-real
   - lem-apl-lineal-iff-grafica-subesp-vectorial
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-vectorial
   - lem-funcional-minkowski-conjunto-convexo
   - lem-norma-uniformemente-convexa

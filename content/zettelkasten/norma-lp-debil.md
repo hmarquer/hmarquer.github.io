@@ -1,14 +1,15 @@
 ---
-title: 'Norma lp debil'
+title: 'Norma $\mathcal{L}^{p, \infty}$'
 filename: 'norma-lp-debil'
 created: '2026-10-12T22:58:05.019396721+00:00'
-last_edit_date: '2026-10-12T22:58:05.023038786+00:00'
-last_build_date_pdf: '2026-10-13T16:52:33.207936890+00:00'
+last_edit_date: '2026-11-11T12:53:41.794126389+00:00'
+last_build_date_pdf: '2026-11-11T15:25:18.806094692+00:00'
 labels:
   - defn:norma-lp-debil
 references:
   - esp-medida
   - fn-distribucion
+  - norma-lp
   - relacion-orden
 backlinks:
   - esp-lp-debil
@@ -29,6 +30,7 @@ tags:
 ## Referencias
 - [esp-medida](./esp-medida.md)
 - [fn-distribucion](./fn-distribucion.md)
+- [norma-lp](./norma-lp.md)
 - [relacion-orden](./relacion-orden.md)
 
 ## Etiquetas

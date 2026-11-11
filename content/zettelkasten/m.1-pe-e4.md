@@ -3,7 +3,7 @@ title: 'Procesos Estocásticos. Entrega 4: Espacios polacos y el Teorema de Exte
 filename: 'm.1-pe-e4'
 created: '2026-10-20T18:08:14.995573281+00:00'
 last_edit_date: '2026-11-05T02:53:45.273777888+00:00'
-last_build_date_pdf: '2026-11-05T02:53:52.420019785+00:00'
+last_build_date_pdf: '2026-11-10T19:08:41.406319348+00:00'
 labels:
   - m.1-pe-e4:e1
   - m.1-pe-e4:e2

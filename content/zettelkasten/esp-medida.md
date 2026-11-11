@@ -34,6 +34,7 @@ backlinks:
   - lem-carac-linfty-esp-sigma-finito
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-desigualdad-integral-norma-lp-debil
+  - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
   - lem-esp-lp-vectorial
   - lem-fatou
@@ -59,6 +60,7 @@ backlinks:
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general
+  - prop-fn-distribucion
   - prop-fn-simples-denso-lp
   - propiedad-cubridora-vq
   - propiedad-escasez-bilateral-p2
@@ -69,6 +71,7 @@ backlinks:
   - teo-derivacion-bajo-el-signo-integral
   - teo-esp-l2-hilbert
   - teo-esp-lp-banach
+  - teo-esp-lp-debil-esp-cuasinormado
   - teo-fubini
   - teo-inclusion-lp-lp-debil
   - teo-metrica-lp-0-1
