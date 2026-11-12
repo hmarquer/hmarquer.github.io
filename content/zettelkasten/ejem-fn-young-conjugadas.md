@@ -2,7 +2,7 @@
 title: 'Ejemplo clásico de funciones de Young conjugadas'
 filename: 'ejem-fn-young-conjugadas'
 created: '2026-11-07T21:12:15.422902729+00:00'
-last_edit_date: '2026-11-10T11:35:37.543079190+00:00'
+last_edit_date: '2026-11-07T21:12:28.977442926+00:00'
 last_build_date_pdf: '2026-11-10T19:09:18.000944928+00:00'
 labels:
   - ejem:fn-young-conjugadas

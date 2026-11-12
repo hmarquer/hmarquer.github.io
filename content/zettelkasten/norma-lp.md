@@ -2,7 +2,7 @@
 title: 'Norma $\mathcal{L}^p$'
 filename: 'norma-lp'
 created: '2025-03-05 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.191786865+00:00'
+last_edit_date: '2026-11-04T11:31:16.866081409+00:00'
 last_build_date_pdf: '2026-11-05T04:07:25.170988856+00:00'
 labels:
   - defn:norma-lp

@@ -2,7 +2,7 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-03T17:30:26.191786865+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
 last_build_date_pdf: '2026-11-05T04:13:00.919144642+00:00'
 inclusions:
   - algebra

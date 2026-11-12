@@ -2,7 +2,7 @@
 title: 'Lem desigualdad integral norma lp debil'
 filename: 'lem-desigualdad-integral-norma-lp-debil'
 created: '2026-11-04T18:21:27.698349838+00:00'
-last_edit_date: '2026-11-10T11:35:37.545079190+00:00'
+last_edit_date: '2026-11-05T02:56:38.172388439+00:00'
 last_build_date_pdf: '2026-11-10T19:08:56.193054036+00:00'
 labels:
   - lem:desigualdad-integral-norma-lp-debil

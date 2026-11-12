@@ -2,7 +2,7 @@
 title: 'Ejem propiedad vq cubos n adicos'
 filename: 'ejem-propiedad-vq-cubos-n-adicos'
 created: '2026-11-05T03:25:31.642928810+00:00'
-last_edit_date: '2026-11-10T11:35:37.544079190+00:00'
+last_edit_date: '2026-11-05T03:25:31.645598937+00:00'
 last_build_date_pdf: '2026-11-10T19:09:11.159383271+00:00'
 labels:
   - ejem:propiedad-vq-cubos-n-adicos

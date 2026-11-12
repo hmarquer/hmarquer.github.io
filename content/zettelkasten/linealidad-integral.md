@@ -2,7 +2,7 @@
 title: 'Linealidad de la integral'
 filename: 'linealidad-integral'
 created: '2025-12-11 19:31:56.714058'
-last_edit_date: '2026-11-03T17:30:26.187786862+00:00'
+last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
 last_build_date_pdf: '2026-11-05T04:07:43.963604359+00:00'
 labels:
   - teo:linealidad-integral
