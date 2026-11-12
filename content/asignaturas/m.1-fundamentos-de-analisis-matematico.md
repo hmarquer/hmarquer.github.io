@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-11T15:23:14.305248712+00:00'
-last_build_date_pdf: '2026-11-11T15:23:30.204382788+00:00'
+last_edit_date: '2026-11-12T14:03:45.420771662+00:00'
+last_build_date_pdf: '2026-11-12T14:04:01.428265019+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -270,8 +270,6 @@ tags:
 #COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
 #DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
-#EJERCICIO a entregar
-#EJERCICIO a enrtegar
 #DEMOSTRACIÓN : es aplicar la proposición anterior
 #DEMOSTRACIÓN : por contradicción
 #REVISAR : está mal

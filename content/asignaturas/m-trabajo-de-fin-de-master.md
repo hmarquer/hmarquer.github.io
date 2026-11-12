@@ -90,15 +90,15 @@ tags:
 #REVISAR : está escrito por IA.
 #ORDENAR :puede que convenga escribir cada apartado como un lema independiente
 #ORDENAR : demostrar resultados similares para funciones convexas y aplicarlos aquí referenciandolos.
-#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
-#ORDENAR : hacer nota
-#REVISAR : Creo que está mal
-#ORDENAR : escribir demostrar y referenciar
-#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
-#REVISAR : lo ha escrito la IA
 #REVISAR : mirar fotos para simplificar y completar
 #ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
 #REVISAR 
 #ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
 #COMPLETAR 
+#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
+#ORDENAR : hacer nota
+#REVISAR : Creo que está mal
+#ORDENAR : escribir demostrar y referenciar
+#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
+#REVISAR : lo ha escrito la IA

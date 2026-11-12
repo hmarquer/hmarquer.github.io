@@ -2,7 +2,7 @@
 title: 'Laplaciano'
 filename: 'laplaciano'
 created: '2025-12-11 19:31:56.705059'
-last_edit_date: '2026-11-03T17:30:26.180786857+00:00'
+last_edit_date: '2026-11-04T11:31:16.864033808+00:00'
 last_build_date_pdf: '2026-11-05T04:07:56.727503576+00:00'
 labels:
   - defn:laplaciano
