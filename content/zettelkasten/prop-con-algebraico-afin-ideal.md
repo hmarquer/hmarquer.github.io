@@ -2,7 +2,7 @@
 title: 'Todo conjunto algebraico afín es el conjunto de ceros de un ideal'
 filename: 'prop-con-algebraico-afin-ideal'
 created: '2025-12-14 16:48:41.533352'
-last_edit_date: '2026-09-20T15:23:19.056373507+00:00'
+last_edit_date: '2026-09-17T10:49:30.917540094+00:00'
 last_build_date_pdf: '2026-09-20T16:33:29.449942102+00:00'
 labels:
   - prop:con-algebraico-afin-ideal

@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-10T19:07:01.232545572+00:00'
-last_build_date_pdf: '2026-11-10T19:09:41.394621285+00:00'
+last_edit_date: '2026-11-12T16:18:03.844375372+00:00'
+last_build_date_pdf: '2026-11-12T17:32:20.040184594+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -23,6 +23,7 @@ inclusions:
   - distancia-pnt-con
   - dual-algebraico
   - dual-topologico
+  - ejem-esp-lp-debil-esp-no-normado
   - ejem-norma-lp-p01-imp-no-norma
   - ejems-dim-hausdorff
   - ejer-fn-continuas-no-gamma-holder
@@ -86,6 +87,7 @@ inclusions:
   - prop-desigualdad-chebyshev-general
   - prop-esp-dual-banach
   - prop-fn-convexa
+  - prop-fn-distribucion
   - prop-fn-simples-denso-lp
   - prop-homogeneidad-medida-hausdorff
   - prop-inclusion-lp-esp-finito
@@ -126,6 +128,9 @@ tags:
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
+
+### hoja2
+- [ejem-esp-lp-debil-esp-no-normado](./ejem-esp-lp-debil-esp-no-normado.md)
 
 ### m.1-fundamentos-de-analisis-matematico
 - [m.1-fda-e1](./m.1-fda-e1.md)
@@ -233,6 +238,7 @@ tags:
 - [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
 - [prop-esp-dual-banach](./prop-esp-dual-banach.md)
 - [prop-fn-convexa](./prop-fn-convexa.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
 - [prop-fn-simples-denso-lp](./prop-fn-simples-denso-lp.md)
 - [prop-inclusion-lp-esp-finito](./prop-inclusion-lp-esp-finito.md)
 - [recta-soporte-fn](./recta-soporte-fn.md)
@@ -247,9 +253,9 @@ tags:
 - [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
 
 ## Etiquetas
-#EJERCICIO 
 #REVISAR 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
+#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -286,8 +292,5 @@ tags:
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
 #COMPLETAR 
-#COMPLETAR : ver que no es un espacio normado
 #COMPLETAR : añadir definición de función sublineal
 #COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.
-#EJERCICIO a entregar
-#EJERCICIO a enrtegar

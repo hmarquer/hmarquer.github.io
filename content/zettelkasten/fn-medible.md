@@ -43,6 +43,7 @@ backlinks:
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general
   - prop-esperanza-fn
+  - prop-fn-distribucion
   - prop-suma-fn-medibles
   - sigma-algebra-fn
   - supremo-esencial

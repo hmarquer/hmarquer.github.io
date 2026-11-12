@@ -2,7 +2,7 @@
 title: 'Ejemplos de filtro'
 filename: 'ejems-filtros'
 created: '2026-05-15T19:28:45.396985454+00:00'
-last_edit_date: '2026-09-03T09:44:22.575954742+00:00'
+last_edit_date: '2026-09-06T15:26:21.218659061+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.513527673+00:00'
 labels:
   - ejems:filtros

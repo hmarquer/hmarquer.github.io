@@ -2,15 +2,21 @@
 title: 'Teo esp lp debil esp cuasinormado'
 filename: 'teo-esp-lp-debil-esp-cuasinormado'
 created: '2026-11-10T18:19:46.531189229+00:00'
-last_edit_date: '2026-11-10T18:19:46.544519687+00:00'
-last_build_date_pdf: '2026-11-10T19:08:18.544741632+00:00'
+last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
+last_build_date_pdf: '2026-11-12T17:31:33.329598671+00:00'
 labels:
+  - dem:esp-lp-debil-esp-cuasinormado:i
+  - dem:esp-lp-debil-esp-cuasinormado:ii
+  - dem:esp-lp-debil-esp-cuasinormado:iii
   - teo:esp-lp-debil-esp-cuasinormado
 references:
   - cuasinorma
   - esp-lp-debil
   - esp-medida
-  - lem-esp-lp-debil-vectorial
+  - fn-distribucion
+  - lem-esp-lp-debil-esp-vectorial
+  - lem-esp-lp-vectorial
+  - prop-fn-distribucion
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
@@ -24,7 +30,8 @@ tags:
 - [cuasinorma](./cuasinorma.md)
 - [esp-lp-debil](./esp-lp-debil.md)
 - [esp-medida](./esp-medida.md)
-- [lem-esp-lp-debil-vectorial](./lem-esp-lp-debil-vectorial.md)
+- [fn-distribucion](./fn-distribucion.md)
+- [lem-esp-lp-debil-esp-vectorial](./lem-esp-lp-debil-esp-vectorial.md)
+- [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
+- [prop-fn-distribucion](./prop-fn-distribucion.md)
 
-## Etiquetas
-#COMPLETAR 

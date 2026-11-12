@@ -60,6 +60,7 @@ backlinks:
   - prop-convergencia-lp-imp-subsucesion-ctp
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-desigualdad-chebyshev-general
+  - prop-fn-distribucion
   - prop-fn-simples-denso-lp
   - propiedad-cubridora-vq
   - propiedad-escasez-bilateral-p2

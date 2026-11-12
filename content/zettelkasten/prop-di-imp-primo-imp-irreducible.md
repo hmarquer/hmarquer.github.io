@@ -2,7 +2,7 @@
 title: 'Prop di imp primo imp irreducible'
 filename: 'prop-di-imp-primo-imp-irreducible'
 created: '2026-01-10 18:48:41.505133'
-last_edit_date: '2026-09-03T09:44:22.691098148+00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
 last_build_date_pdf: '2026-09-15T23:12:52.072469227+00:00'
 labels:
   - prop:di-imp-primo-imp-irreducible
