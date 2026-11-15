@@ -2,7 +2,7 @@
 title: 'Acción diferenciable propiamente discontinua'
 filename: 'accion-diferenciable-propiamente-discontinua'
 created: '2025-06-21 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.529178399+00:00'
+last_edit_date: '2026-09-06T15:26:21.200656502+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.587197553+00:00'
 labels:
   - defn:accion-diferenciable-propiamente-discontinua
