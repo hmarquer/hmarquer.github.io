@@ -17,6 +17,8 @@ references:
   - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-vectorial
   - prop-fn-distribucion
+backlinks:
+  - m.1-fda-e2
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

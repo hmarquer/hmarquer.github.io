@@ -2,8 +2,8 @@
 title: 'Prop carac espacio banach convergencia series'
 filename: 'prop-carac-esp-banach-convergencia-series'
 created: '2025-09-23 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.684921281+00:00'
-last_build_date_pdf: '2026-09-15T23:12:55.712915365+00:00'
+last_edit_date: '2026-11-15T00:21:31.813218899+00:00'
+last_build_date_pdf: '2026-11-15T00:24:25.352254392+00:00'
 labels:
   - prop:carac-esp-banach-convergencia-series
 references:
@@ -28,6 +28,3 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 
-## Etiquetas
-#DEMOSTRACIÓN EJERCICIO
-#EJERCICIO 

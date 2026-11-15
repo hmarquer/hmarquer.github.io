@@ -12,6 +12,7 @@ references:
   - norma
   - serie
 backlinks:
+  - m.1-fda-e2
   - prop-carac-esp-banach-convergencia-series
   - teo-cauchy-hadamard
   - teo-cociente-dalembert

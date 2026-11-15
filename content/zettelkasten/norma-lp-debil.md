@@ -14,6 +14,7 @@ references:
 backlinks:
   - esp-lp-debil
   - lem-desigualdad-integral-norma-lp-debil
+  - m.1-fda-e2
   - operador-tipo-debil
   - teo-inclusion-lp-lp-debil
 projects:

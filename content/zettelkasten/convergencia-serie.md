@@ -18,6 +18,7 @@ backlinks:
   - cor-convergencia-serie-cualquier-n0
   - criterio-cauchy
   - fn-analitica
+  - m.1-fda-e2
   - prop-carac-esp-banach-convergencia-series
   - serie-formal-potencias-radio-convergencia
   - teo-abel

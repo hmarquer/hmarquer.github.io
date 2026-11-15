@@ -47,6 +47,7 @@ backlinks:
   - lem-transformada-fourier-gaussiana
   - lem-unicidad-series-fourier
   - ley-debil-grandes-numeros
+  - m.1-fda-e2
   - obs-propiedades-dilatacion-isotropica
   - obs-propiedades-transformada-fourier-l1
   - obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet

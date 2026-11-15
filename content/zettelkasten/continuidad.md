@@ -47,6 +47,7 @@ backlinks:
   - lem-primer-grupo-fundamental-morfismo-inducido
   - lem-transformada-fourier-continua
   - lem-urysohn
+  - m.1-fda-e2
   - obs-carac-continuidad-operador-lineal-esp-banach-dual
   - prop-apl-adjunta-lineal-continua-norma
   - prop-carac-convergencia-debil

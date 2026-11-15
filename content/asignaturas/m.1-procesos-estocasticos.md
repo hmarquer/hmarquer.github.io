@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-05T02:53:45.273777888+00:00'
-last_build_date_pdf: '2026-11-10T19:09:31.774665314+00:00'
+last_edit_date: '2026-11-15T00:21:31.748297988+00:00'
+last_build_date_pdf: '2026-11-15T00:24:34.440551012+00:00'
 inclusions:
   - desigualdad-jensen-condicional
   - esp-polaco
@@ -104,3 +104,7 @@ tags:
 #REVISAR : esto no se si es cierto
 #REVISAR : y esto por qué? no entiendo nada
 #COMPLETAR la prueba aplicando el ejercicio 5 de la hoja 2
+#COMPLETAR : he llegado tarde, pedir a jacobo
+#ORDENAR : referenciar caracterización del principio de la clase que me falta
+#COMPLETAR 
+#COMPLETAR con ejemplo de cadena 2 periódica de dos estados donde no se tiene convergencia, sino oscilación

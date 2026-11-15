@@ -14,6 +14,7 @@ references:
   - lem-esp-lp-vectorial
   - prop-fn-distribucion
 backlinks:
+  - m.1-fda-e2
   - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - m.1-fundamentos-de-analisis-matematico

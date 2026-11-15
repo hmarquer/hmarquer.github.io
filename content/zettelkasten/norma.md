@@ -42,6 +42,7 @@ backlinks:
   - lem-normas-kn-equivalentes
   - lem-riesz
   - lem-separacion-punto-conjunto-convexo-abierto
+  - m.1-fda-e2
   - metrica-inducida
   - norma-inducida
   - norma-uniformemente-convexa

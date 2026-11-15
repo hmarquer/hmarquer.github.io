@@ -12,6 +12,7 @@ labels:
 references:
   - esp-vectorial
 backlinks:
+  - m.1-fda-e2
   - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - m.1-fundamentos-de-analisis-matematico

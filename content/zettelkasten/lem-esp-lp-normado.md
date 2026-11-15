@@ -14,6 +14,7 @@ references:
   - norma
   - norma-lp
 backlinks:
+  - m.1-fda-e2
   - teo-esp-lp-banach
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales

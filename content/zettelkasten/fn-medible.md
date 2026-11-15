@@ -33,6 +33,7 @@ backlinks:
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
+  - m.1-fda-e2
   - m.1-pe-e1
   - media-integral
   - norma-lp
