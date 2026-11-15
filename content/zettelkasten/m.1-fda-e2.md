@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis: Entrega 2'
 filename: 'm.1-fda-e2'
 created: '2026-11-01T13:06:16.553653223+00:00'
-last_edit_date: '2026-11-15T00:21:31.813063799+00:00'
-last_build_date_pdf: '2026-11-15T00:24:25.674138715+00:00'
+last_edit_date: '2026-11-15T04:30:55.361286504+00:00'
+last_build_date_pdf: '2026-11-15T15:06:11.208861919+00:00'
 labels:
   - h2e10
   - h2e12
@@ -64,3 +64,4 @@ tags:
 ## Etiquetas
 #ORDENAR : referenciar el resultado
 #ORDENAR : meter figura con dibujo de E, p_0 y la sucesión p_n y q y p_N
+#COMPLETAR : mirar solución de Miguel

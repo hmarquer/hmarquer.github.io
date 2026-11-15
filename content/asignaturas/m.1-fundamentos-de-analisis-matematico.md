@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-15T00:21:31.813987297+00:00'
-last_build_date_pdf: '2026-11-15T00:24:42.252914035+00:00'
+last_edit_date: '2026-11-15T08:28:44.986952359+00:00'
+last_build_date_pdf: '2026-11-15T15:06:26.588277474+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
