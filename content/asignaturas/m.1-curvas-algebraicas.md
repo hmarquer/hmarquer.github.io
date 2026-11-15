@@ -272,12 +272,12 @@ tags:
 - [dim-krull](./dim-krull.md)
 
 ## Etiquetas
-#REVISAR : esto no lo entiendo
-#ORDENAR : revisar y hacer nota
-#COMPLETAR con las curvas de Fermat y Weierstrass
-#DEMOSTRACIÓN :
-#REVISAR 
-#ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano
-#ORDENAR : lo he metido antes (creo)
 #EJERCICIO 
 #REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
+#REVISAR 
+#REVISAR : esto no lo entiendo
+#DEMOSTRACIÓN :
+#ORDENAR : revisar y hacer nota
+#COMPLETAR con las curvas de Fermat y Weierstrass
+#ORDENAR : lo he metido antes (creo)
+#ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano

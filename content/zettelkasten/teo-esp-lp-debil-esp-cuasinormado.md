@@ -2,8 +2,8 @@
 title: 'Teo esp lp debil esp cuasinormado'
 filename: 'teo-esp-lp-debil-esp-cuasinormado'
 created: '2026-11-10T18:19:46.531189229+00:00'
-last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
-last_build_date_pdf: '2026-11-12T17:31:33.329598671+00:00'
+last_edit_date: '2026-11-11T15:21:49.398169999+00:00'
+last_build_date_pdf: '2026-11-11T15:21:56.110479148+00:00'
 labels:
   - dem:esp-lp-debil-esp-cuasinormado:i
   - dem:esp-lp-debil-esp-cuasinormado:ii

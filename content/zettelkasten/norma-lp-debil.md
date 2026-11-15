@@ -2,7 +2,7 @@
 title: 'Norma $\mathcal{L}^{p, \infty}$'
 filename: 'norma-lp-debil'
 created: '2026-10-12T22:58:05.019396721+00:00'
-last_edit_date: '2026-11-10T17:17:43.475344287+00:00'
+last_edit_date: '2026-11-11T12:53:41.794126389+00:00'
 last_build_date_pdf: '2026-11-11T15:25:18.806094692+00:00'
 labels:
   - defn:norma-lp-debil

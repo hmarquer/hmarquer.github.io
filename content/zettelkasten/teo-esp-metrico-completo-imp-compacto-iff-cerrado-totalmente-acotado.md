@@ -2,7 +2,7 @@
 title: 'En un espacio métrico completo, compacidad equivale a ser cerrado y totalmente acotado'
 filename: 'teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado'
 created: '2026-10-26T18:55:41.095725460+00:00'
-last_edit_date: '2026-10-26T18:59:31.439037285+00:00'
+last_edit_date: '2026-10-27T09:03:14.612727683+00:00'
 last_build_date_pdf: '2026-10-27T09:29:56.936636374+00:00'
 labels:
   - teo:esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado

@@ -2,7 +2,7 @@
 title: 'Todo sistema ortogonal es linealmente independiente'
 filename: 'prop-sistema-ortogonal-indep-lineal'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
+last_edit_date: '2026-09-03T09:44:22.707425413+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.417081948+00:00'
 labels:
   - prop:sistema-ortogonal-indep-lineal

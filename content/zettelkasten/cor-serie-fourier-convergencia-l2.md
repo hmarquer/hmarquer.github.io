@@ -2,7 +2,7 @@
 title: 'Cor serie fourier convergencia l2'
 filename: 'cor-serie-fourier-convergencia-l2'
 created: '2026-01-12 19:18:53.585823'
-last_edit_date: '2026-09-06T15:26:21.216658777+00:00'
+last_edit_date: '2026-09-03T09:44:22.562072585+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.131625323+00:00'
 labels:
   - cor:serie-fourier-convergencia-l2
