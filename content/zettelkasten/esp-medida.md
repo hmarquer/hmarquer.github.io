@@ -74,6 +74,7 @@ backlinks:
   - teo-esp-lp-debil-esp-cuasinormado
   - teo-fubini
   - teo-inclusion-lp-lp-debil
+  - teo-interpolacion-marcinkiewicz
   - teo-metrica-lp-0-1
 projects:
   - 3.2-probabilidad-ii

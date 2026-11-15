@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-15T08:28:44.986952359+00:00'
-last_build_date_pdf: '2026-11-15T15:06:26.588277474+00:00'
+last_edit_date: '2026-11-15T20:29:55.813611877+00:00'
+last_build_date_pdf: '2026-11-15T21:13:04.720215392+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -112,6 +112,7 @@ inclusions:
   - teo-esp-lp-banach
   - teo-esp-lp-debil-esp-cuasinormado
   - teo-inclusion-lp-lp-debil
+  - teo-interpolacion-marcinkiewicz
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-radon-nikodym
 tags:
@@ -242,6 +243,7 @@ tags:
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 - [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
+- [teo-interpolacion-marcinkiewicz](./teo-interpolacion-marcinkiewicz.md)
 
 ### tema3
 - [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
@@ -287,4 +289,3 @@ tags:
 #COMPLETAR con foto
 #COMPLETAR 
 #COMPLETAR : añadir definición de función sublineal
-#COMPLETAR : ver que la constante se puede tomar como $C_0^{1-\theta} C_1^\theta$.

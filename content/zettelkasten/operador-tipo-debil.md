@@ -14,6 +14,7 @@ references:
   - norma-lp-debil
 backlinks:
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
+  - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

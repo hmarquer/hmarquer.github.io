@@ -11,6 +11,8 @@ references:
   - esp-medida
   - fn-medible
   - norma-lp
+backlinks:
+  - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

@@ -81,6 +81,7 @@ backlinks:
   - teo-fn-suave-soporte-compacto-denso-lp
   - teo-hardy-littlewood
   - teo-inclusion-lp-lp-debil
+  - teo-interpolacion-marcinkiewicz
   - teo-inversion-transformada-fourier
   - teo-l2-unico-esp-hilbert
   - teo-radon-nikodym

@@ -18,6 +18,7 @@ references:
 backlinks:
   - lem-desigualdad-integral-norma-lp-debil
   - teo-acotacion-operador-maximal-bolas
+  - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
