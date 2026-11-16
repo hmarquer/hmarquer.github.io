@@ -2,7 +2,7 @@
 title: 'Con ceros polinomios pnts racionales esp afin'
 filename: 'con-ceros-polinomios-pnts-racionales-esp-afin'
 created: '2026-10-29T10:55:51.660997116+00:00'
-last_edit_date: '2026-10-29T10:59:43.441139880+00:00'
+last_edit_date: '2026-10-30T09:20:47.088527827+00:00'
 last_build_date_pdf: '2026-10-30T21:27:52.955052561+00:00'
 labels:
   - defn:con-ceros-polinomios-pnts-racionales-esp-afin

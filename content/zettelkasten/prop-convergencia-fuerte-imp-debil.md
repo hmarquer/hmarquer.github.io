@@ -2,7 +2,7 @@
 title: 'Convergencia fuerte implica débil'
 filename: 'prop-convergencia-fuerte-imp-debil'
 created: '2025-12-20 23:33:02.533993'
-last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
+last_edit_date: '2026-09-03T09:44:22.688164840+00:00'
 last_build_date_pdf: '2026-09-15T23:12:47.309051615+00:00'
 labels:
   - prop:convergencia-fuerte-imp-debil

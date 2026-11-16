@@ -2,7 +2,7 @@
 title: 'Conjunto cerrado implica secuencialmente cerrado'
 filename: 'prop-con-cerrado-imp-secuencialmente-cerrado'
 created: '2026-01-09 10:16:02.942284'
-last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
+last_edit_date: '2026-09-03T09:44:22.686678649+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.716497067+00:00'
 labels:
   - prop:con-cerrado-imp-secuencialmente-cerrado
