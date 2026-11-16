@@ -2,7 +2,7 @@
 title: 'Curva diferenciable'
 filename: 'curva-diferenciable'
 created: '2025-02-25 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.859322563+00:00'
+last_edit_date: '2026-11-03T17:30:26.159786842+00:00'
 last_build_date_pdf: '2026-11-05T04:09:42.810740185+00:00'
 labels:
   - defn:curva-diferenciable

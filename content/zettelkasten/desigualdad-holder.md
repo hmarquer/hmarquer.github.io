@@ -2,7 +2,7 @@
 title: 'Desigualdad de Hölder'
 filename: 'desigualdad-holder'
 created: '2025-02-27 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.860033748+00:00'
+last_edit_date: '2026-11-03T18:08:16.210051357+00:00'
 last_build_date_pdf: '2026-11-05T04:09:35.733868751+00:00'
 labels:
   - teo:desigualdad-holder
@@ -13,6 +13,7 @@ references:
   - norma-lp
 backlinks:
   - desigualdad-minkowski
+  - m.1-fda-e2
   - prop-convolucion-exp-conjugados
   - prop-inclusion-lp-esp-finito
   - prop-inclusion-lp-general

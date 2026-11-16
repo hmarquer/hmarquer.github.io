@@ -3,7 +3,7 @@ title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
 last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
-last_build_date_pdf: '2026-11-12T17:32:04.899629551+00:00'
+last_build_date_pdf: '2026-11-16T12:14:28.768435567+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -90,15 +90,15 @@ tags:
 #REVISAR : está escrito por IA.
 #ORDENAR :puede que convenga escribir cada apartado como un lema independiente
 #ORDENAR : demostrar resultados similares para funciones convexas y aplicarlos aquí referenciandolos.
-#REVISAR : mirar fotos para simplificar y completar
-#ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
-#REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
-#REVISAR 
-#ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
-#COMPLETAR 
 #COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
 #ORDENAR : hacer nota
 #REVISAR : Creo que está mal
 #ORDENAR : escribir demostrar y referenciar
 #REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
 #REVISAR : lo ha escrito la IA
+#REVISAR : mirar fotos para simplificar y completar
+#ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
+#REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
+#REVISAR 
+#ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
+#COMPLETAR 

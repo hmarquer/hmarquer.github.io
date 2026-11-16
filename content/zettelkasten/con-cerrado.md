@@ -14,6 +14,7 @@ backlinks:
   - esp-topologico-noetheriano
   - esp-topologico-secuencial
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
+  - m.1-fda-e2
   - m.1-pe-e4
   - medida-regular
   - obs-cerrado-imp-compacto-iff-precompacto

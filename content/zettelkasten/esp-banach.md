@@ -18,6 +18,7 @@ backlinks:
   - esp-hilbert
   - lem-acotado-dual-imp-acotado
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
+  - m.1-fda-e2
   - obs-carac-continuidad-operador-lineal-esp-banach-dual
   - prop-carac-esp-banach-convergencia-series
   - prop-convergencia-debil-dual-imp-convergencia-evaluacion

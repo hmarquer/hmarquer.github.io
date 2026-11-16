@@ -3,7 +3,7 @@ title: 'Teorema de inclusión de $L^p$ en $L^{p, \infty}$'
 filename: 'teo-inclusion-lp-lp-debil'
 created: '2026-10-12T23:00:24.923318254+00:00'
 last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
-last_build_date_pdf: '2026-11-12T17:31:33.681909920+00:00'
+last_build_date_pdf: '2026-11-16T12:14:15.893439240+00:00'
 labels:
   - teo:inclusion-lp-lp-debil
 references:

@@ -14,6 +14,7 @@ backlinks:
   - ejer-desigualdad-aritmetico-geometrica-jensen
   - ejer-homogeneidad-imp-subaditividad-iff-convexidad
   - fn-young
+  - m.1-fda-e2
   - prop-carac-fn-convexa
   - prop-fn-convexa
   - prop-inclusion-lp-esp-finito

@@ -2,7 +2,7 @@
 title: 'Espacio \texorpdfstring{$\mathcal{L}^p$}{Lp}'
 filename: 'esp-lp'
 created: '2025-02-20 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.861227665+00:00'
+last_edit_date: '2026-11-03T17:30:26.165786846+00:00'
 last_build_date_pdf: '2026-11-05T04:09:11.493111415+00:00'
 labels:
   - defn:esp-lp
@@ -47,6 +47,7 @@ backlinks:
   - lem-transformada-fourier-gaussiana
   - lem-unicidad-series-fourier
   - ley-debil-grandes-numeros
+  - m.1-fda-e2
   - obs-propiedades-dilatacion-isotropica
   - obs-propiedades-transformada-fourier-l1
   - obs-sumas-parciales-serie-fourier-convolucion-nucleo-dirichlet
@@ -80,6 +81,7 @@ backlinks:
   - teo-fn-suave-soporte-compacto-denso-lp
   - teo-hardy-littlewood
   - teo-inclusion-lp-lp-debil
+  - teo-interpolacion-marcinkiewicz
   - teo-inversion-transformada-fourier
   - teo-l2-unico-esp-hilbert
   - teo-radon-nikodym

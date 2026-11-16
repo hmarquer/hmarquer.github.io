@@ -2,7 +2,7 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.863585001+00:00'
+last_edit_date: '2026-11-03T17:30:26.174786853+00:00'
 last_build_date_pdf: '2026-11-05T04:08:21.127933268+00:00'
 labels:
   - defn:fn-medible
@@ -33,6 +33,7 @@ backlinks:
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
   - lem-sigma-algebra-parada-esperanza-condicionada
+  - m.1-fda-e2
   - m.1-pe-e1
   - media-integral
   - norma-lp

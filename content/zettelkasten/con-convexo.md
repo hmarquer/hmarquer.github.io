@@ -13,6 +13,7 @@ backlinks:
   - envolvente-convexa
   - lem-funcional-minkowski-conjunto-convexo
   - lem-separacion-punto-conjunto-convexo-abierto
+  - m.1-fda-e2
   - prop-carac-proyeccion-ortogonal-convexo-cerrado
   - prop-hilbert-imp-bola-estrict-convexa
   - prop-proyeccion-ortogonal-convexo-cerrado

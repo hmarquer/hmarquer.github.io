@@ -2,7 +2,7 @@
 title: 'Norma'
 filename: 'norma'
 created: '2025-01-23 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.866081409+00:00'
+last_edit_date: '2026-11-03T17:16:24.142460102+00:00'
 last_build_date_pdf: '2026-11-05T04:07:25.517958882+00:00'
 labels:
   - defn:norma
@@ -42,6 +42,7 @@ backlinks:
   - lem-normas-kn-equivalentes
   - lem-riesz
   - lem-separacion-punto-conjunto-convexo-abierto
+  - m.1-fda-e2
   - metrica-inducida
   - norma-inducida
   - norma-uniformemente-convexa
