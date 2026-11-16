@@ -37,6 +37,8 @@ backlinks:
   - m.1-pe-e1
   - media-integral
   - norma-lp
+  - nucleo-transicion
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - operador-maximal
   - operador-tipo-debil
   - operador-tipo-fuerte

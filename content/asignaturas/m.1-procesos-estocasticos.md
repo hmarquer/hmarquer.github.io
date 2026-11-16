@@ -2,10 +2,13 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-12T17:30:34.536670124+00:00'
-last_build_date_pdf: '2026-11-15T00:24:34.440551012+00:00'
+last_edit_date: '2026-11-16T18:04:26.020366866+00:00'
+last_build_date_pdf: '2026-11-16T18:04:34.297989072+00:00'
 inclusions:
+  - cadena-markov
+  - cadena-markov-homogenea
   - desigualdad-jensen-condicional
+  - ejem-nucleo-transcicion-esp-finito
   - esp-polaco
   - esperanza-condicionada-sigma-algebra
   - filtracion
@@ -14,12 +17,16 @@ inclusions:
   - lem-carac-tiempo-parada
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
+  - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - lem-norma-lp-integral-fn-distribucion
   - m.1-pe-e1
   - m.1-pe-e2
   - m.1-pe-e3
   - m.1-pe-e4
   - martingala
+  - medida-interiormente-regular
+  - nucleo-transicion
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - pi-sistema
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
@@ -63,8 +70,15 @@ tags:
 - [tiempo-parada](./tiempo-parada.md)
 
 ### tema2
+- [cadena-markov](./cadena-markov.md)
+- [cadena-markov-homogenea](./cadena-markov-homogenea.md)
+- [ejem-nucleo-transcicion-esp-finito](./ejem-nucleo-transcicion-esp-finito.md)
 - [esp-polaco](./esp-polaco.md)
 - [lambda-sistema](./lambda-sistema.md)
+- [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
+- [medida-interiormente-regular](./medida-interiormente-regular.md)
+- [nucleo-transicion](./nucleo-transicion.md)
+- [obs-nucleo-transicion-accion-fn-medible-medida-probabilidad](./obs-nucleo-transicion-accion-fn-medible-medida-probabilidad.md)
 - [pi-sistema](./pi-sistema.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
 
@@ -94,7 +108,6 @@ tags:
 #EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
 #EJERCICIO :
 #COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
-#ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
 #EJERCICIO : terminar demostración
 #COMPLETAR el argumento por densidad
 #DEMOSTRACIÓN : completar esta parte

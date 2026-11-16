@@ -9,8 +9,11 @@ labels:
 references:
   - sigma-algebra
 backlinks:
+  - cadena-markov
   - continuidad-absoluta
+  - ejem-nucleo-transcicion-esp-finito
   - esp-medida
+  - esp-probabilidad
   - fn-continua-soporte-compacto
   - fn-medible
   - fn-simple
@@ -18,7 +21,11 @@ backlinks:
   - lem-aprox-fn-simple
   - lem-descomposicion-jordan-continuidad-absoluta
   - m.1-pe-e4
+  - medida
   - medida-inducida
+  - medida-probabilidad
+  - nucleo-transicion
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - prop-suma-fn-medibles
   - sigma-algebra-producto
   - singularidad-mutua

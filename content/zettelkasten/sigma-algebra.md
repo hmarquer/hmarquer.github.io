@@ -21,7 +21,6 @@ backlinks:
   - lem-esperanza-condicionada-mejor-aprox
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - m.1-pe-e1
-  - medida
   - medida-signo
   - mindependencia-sigma-algebras
   - prop-esperanza-condicionada-sigma-algebra-indep

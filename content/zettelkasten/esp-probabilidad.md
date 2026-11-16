@@ -2,13 +2,15 @@
 title: 'Espacio de probabilidad'
 filename: 'esp-probabilidad'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.219659204+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.391801019+00:00'
+last_edit_date: '2026-11-16T16:45:46.693465113+00:00'
+last_build_date_pdf: '2026-11-16T16:46:09.885283201+00:00'
 labels:
   - defn:esp-probabilidad
 references:
+  - esp-medible
   - esp-medida
   - esp-medida-finito
+  - medida-probabilidad
 backlinks:
   - desigualdad-jensen
   - desigualdad-jensen-condicional
@@ -63,6 +65,8 @@ tags:
 ![[esp-probabilidad.pdf]]
 
 ## Referencias
+- [esp-medible](./esp-medible.md)
 - [esp-medida](./esp-medida.md)
 - [esp-medida-finito](./esp-medida-finito.md)
+- [medida-probabilidad](./medida-probabilidad.md)
 

@@ -2,17 +2,20 @@
 title: 'Cadena de Markov homogénea'
 filename: 'cadena-markov-homogenea'
 created: '2025-03-20 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.209657782+00:00'
-last_build_date_pdf: '2026-09-15T23:12:53.580178216+00:00'
+last_edit_date: '2026-11-16T17:57:52.728119027+00:00'
+last_build_date_pdf: '2026-11-16T17:57:57.719924717+00:00'
 labels:
   - defn:cadena-markov-homogenea
 references:
   - cadena-markov
+  - nucleo-transicion
 backlinks:
   - grafo-asociado-cadena-markov-homogenea
 projects:
   - 3.2-modelizacion
+  - m.1-procesos-estocasticos
 tags:
+  - m.1-procesos-estocasticos/tema2
   - modelizacion/tema2
 ---
 
@@ -21,4 +24,5 @@ tags:
 
 ## Referencias
 - [cadena-markov](./cadena-markov.md)
+- [nucleo-transicion](./nucleo-transicion.md)
 

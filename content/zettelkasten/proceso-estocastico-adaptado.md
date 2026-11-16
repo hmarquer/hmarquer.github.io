@@ -12,6 +12,7 @@ references:
   - fn-medible
   - proceso-estocastico
 backlinks:
+  - cadena-markov
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala
   - submartingala
