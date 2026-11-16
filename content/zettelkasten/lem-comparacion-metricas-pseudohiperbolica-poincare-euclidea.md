@@ -2,7 +2,7 @@
 title: 'Lem comparacion metricas pseudohiperbolica poincare euclidea'
 filename: 'lem-comparacion-metricas-pseudohiperbolica-poincare-euclidea'
 created: '2026-03-20 18:04:00.567577'
-last_edit_date: '2026-09-03T09:44:22.624768015+00:00'
+last_edit_date: '2026-09-06T15:26:21.225660057+00:00'
 last_build_date_pdf: '2026-09-15T23:12:45.059214548+00:00'
 labels:
   - lem:comparacion-metricas-pseudohiperbolica-poincare-euclidea

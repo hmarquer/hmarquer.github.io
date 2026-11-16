@@ -2,7 +2,7 @@
 title: 'Teo esp hausdorff imp compacto imp cerrado'
 filename: 'teo-esp-hausdorff-imp-compacto-imp-cerrado'
 created: '2026-10-22T17:58:10.016854983+00:00'
-last_edit_date: '2026-10-23T09:57:56.175939727+00:00'
+last_edit_date: '2026-10-22T17:58:10.025923932+00:00'
 last_build_date_pdf: '2026-10-23T10:00:10.897664062+00:00'
 labels:
   - teo:esp-hausdorff-imp-compacto-imp-cerrado

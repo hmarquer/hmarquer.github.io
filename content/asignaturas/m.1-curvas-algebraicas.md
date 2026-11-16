@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-03T17:30:26.191786865+00:00'
-last_build_date_pdf: '2026-11-05T04:13:00.919144642+00:00'
+last_edit_date: '2026-11-16T14:48:42.819123628+00:00'
+last_build_date_pdf: '2026-11-16T15:51:31.331917180+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -272,12 +272,12 @@ tags:
 - [dim-krull](./dim-krull.md)
 
 ## Etiquetas
-#EJERCICIO 
-#REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
-#REVISAR 
 #REVISAR : esto no lo entiendo
-#DEMOSTRACIÓN :
 #ORDENAR : revisar y hacer nota
 #COMPLETAR con las curvas de Fermat y Weierstrass
-#ORDENAR : lo he metido antes (creo)
+#DEMOSTRACIÓN :
+#REVISAR 
 #ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano
+#ORDENAR : lo he metido antes (creo)
+#EJERCICIO 
+#REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)

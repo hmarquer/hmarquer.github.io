@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-16T11:27:21.880149295+00:00'
-last_build_date_pdf: '2026-11-16T11:27:49.933288111+00:00'
+last_edit_date: '2026-11-16T14:17:34.794807839+00:00'
+last_build_date_pdf: '2026-11-16T14:44:58.506776623+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -73,6 +73,7 @@ inclusions:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-fuerte
   - operador-tipo-debil
   - operador-tipo-fuerte
   - premedida
@@ -224,6 +225,7 @@ tags:
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
+- [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [operador-tipo-debil](./operador-tipo-debil.md)
 - [operador-tipo-fuerte](./operador-tipo-fuerte.md)
 - [prod-escalar](./prod-escalar.md)
@@ -251,9 +253,9 @@ tags:
 - [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
 
 ## Etiquetas
-#EJERCICIO 
 #REVISAR 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
+#EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
 #DEMOSTRACIÓN : escribir bien
 #EJERCICIO : escribirlo bien
@@ -291,3 +293,7 @@ tags:
 #COMPLETAR : añadir definición de función sublineal
 #FALTA : hubo huelga de estudiantes
 #FALTA : hubo huelga general
+#REVISAR : hace falta que $\mathcal{D}$ sea un espacio vectorial?? las convergencias que se escriben son en medida?? no son en norma o en c.t.p.??
+#COMPLETAR : Este resultado luego implica un teorema de diferenciación de Lebesgue, uno para cada función $\varphi$ que cumpla las hipótesis.
+#COMPLETAR : con resultados sobre el operador maximal fuerte sacándolos del TFM o del artículo de De Guzmán
+#COMPLETAR con la regla de barrow y tratar de generalizarla a f continua en [a, b] tal que f' existe en casi todo punto y f' es integrable. Ver que con esto no basta: f(x) = x^2 \sin (1/x^2) para x \neq 0 y f(0) = 0 define f continua hasta el borde con derivada bien definida pero no integrable. La escalera del diablo muestra que tampoco basta con exigir que además f' sea integrable
