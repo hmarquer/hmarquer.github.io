@@ -24,6 +24,7 @@ backlinks:
   - integrabilidad-uniforme
   - integral
   - lem-aprox-fn-simple
+  - lem-carac-cadena-markov
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-convolucion
   - lem-desigualdad-integral-norma-lp-debil

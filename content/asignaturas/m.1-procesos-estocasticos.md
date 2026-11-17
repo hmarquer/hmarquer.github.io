@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-16T18:04:26.020366866+00:00'
-last_build_date_pdf: '2026-11-16T18:04:34.297989072+00:00'
+last_edit_date: '2026-11-17T15:48:30.340523532+00:00'
+last_build_date_pdf: '2026-11-17T15:49:51.625768654+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea
@@ -14,10 +14,16 @@ inclusions:
   - filtracion
   - integrabilidad-uniforme
   - lambda-sistema
+  - lem-carac-cadena-markov
   - lem-carac-tiempo-parada
+  - lem-convergencia-monotona-esperanza-condicionada
+  - lem-esperanza-condicionada-var-medible
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
   - lem-norma-lp-integral-fn-distribucion
   - m.1-pe-e1
   - m.1-pe-e2
@@ -53,6 +59,11 @@ tags:
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [lem-convergencia-monotona-esperanza-condicionada](./lem-convergencia-monotona-esperanza-condicionada.md)
+- [lem-esperanza-condicionada-var-medible](./lem-esperanza-condicionada-var-medible.md)
+- [lem-ley-esperanza-total](./lem-ley-esperanza-total.md)
+- [lem-linealidad-esperanza-condicional](./lem-linealidad-esperanza-condicional.md)
+- [lem-monotonia-esperanza-condicional](./lem-monotonia-esperanza-condicional.md)
 - [prop-esperanza-condicionada-sigma-algebra-indep](./prop-esperanza-condicionada-sigma-algebra-indep.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
@@ -75,6 +86,7 @@ tags:
 - [ejem-nucleo-transcicion-esp-finito](./ejem-nucleo-transcicion-esp-finito.md)
 - [esp-polaco](./esp-polaco.md)
 - [lambda-sistema](./lambda-sistema.md)
+- [lem-carac-cadena-markov](./lem-carac-cadena-markov.md)
 - [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
 - [medida-interiormente-regular](./medida-interiormente-regular.md)
 - [nucleo-transicion](./nucleo-transicion.md)
@@ -101,6 +113,7 @@ tags:
 #COMPLETAR : incluir gráfica de la función
 #ORDENAR : referenciar
 #DEMOSTRACIÓN 
+#ORDENAR : quitar, es irrelevante
 #COMPLETAR y REVISAR
 #EJERCICIO : comprobarlo.
 #COMPLETAR con la foto, no he entendido nada.

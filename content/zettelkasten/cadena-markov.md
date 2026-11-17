@@ -18,6 +18,7 @@ backlinks:
   - cadena-markov-irreducible
   - cadena-markov-recurrencia
   - cadena-markov-transitoriedad
+  - lem-carac-cadena-markov
 projects:
   - 3.2-modelizacion
   - m.1-procesos-estocasticos

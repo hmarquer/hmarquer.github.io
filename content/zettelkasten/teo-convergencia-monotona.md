@@ -13,6 +13,7 @@ references:
   - medida
 backlinks:
   - lem-borel-cantelli-i
+  - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada
   - lem-fatou
   - m.1-pe-e4

@@ -15,7 +15,12 @@ backlinks:
   - desigualdad-jensen-condicional
   - esperanza
   - fn-densidad
+  - lem-convergencia-monotona-esperanza-condicionada
+  - lem-esperanza-condicionada-var-medible
   - lem-fn-integrable-iff-lim-colas-0
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-transformada-fourier-convolucion
   - ley-debil-grandes-numeros

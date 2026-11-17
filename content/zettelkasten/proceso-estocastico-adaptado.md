@@ -13,6 +13,7 @@ references:
   - proceso-estocastico
 backlinks:
   - cadena-markov
+  - lem-carac-cadena-markov
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala
   - submartingala

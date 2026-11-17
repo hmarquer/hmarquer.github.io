@@ -17,8 +17,14 @@ references:
   - teo-radon-nikodym
 backlinks:
   - desigualdad-jensen-condicional
+  - lem-carac-cadena-markov
+  - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-esperanza-condicionada-var-medible
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1
   - martingala

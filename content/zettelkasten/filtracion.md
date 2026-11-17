@@ -12,6 +12,7 @@ references:
   - sigma-algebra
 backlinks:
   - cadena-markov
+  - lem-carac-cadena-markov
   - lem-carac-tiempo-parada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala

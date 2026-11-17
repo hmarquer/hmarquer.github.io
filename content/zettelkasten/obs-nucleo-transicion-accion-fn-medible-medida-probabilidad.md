@@ -14,6 +14,7 @@ references:
   - nucleo-transicion
 backlinks:
   - ejem-nucleo-transcicion-esp-finito
+  - lem-carac-cadena-markov
 projects:
   - m.1-procesos-estocasticos
 tags:
