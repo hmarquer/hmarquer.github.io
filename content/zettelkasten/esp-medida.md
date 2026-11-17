@@ -10,6 +10,7 @@ references:
   - esp-medible
   - medida
 backlinks:
+  - base-diferenciacion
   - con-negativo
   - con-nulo
   - con-positivo

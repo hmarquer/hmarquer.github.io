@@ -33,6 +33,7 @@ backlinks:
   - teo-fubini
   - teo-fundamental-calculo
   - teo-medida-inducida-integral-fn-medible
+  - teo-operador-maximal-bolas-tipo-debil-1-1
   - varianza
 projects:
   - 3.2-probabilidad-ii

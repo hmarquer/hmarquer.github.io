@@ -42,6 +42,7 @@ backlinks:
   - teo-esp-lp-banach
   - teo-hardy-littlewood
   - teo-inclusion-lp-lp-debil
+  - teo-operador-maximal-bolas-tipo-debil-1-1
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-probabilidad-ii

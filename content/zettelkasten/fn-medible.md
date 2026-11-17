@@ -33,6 +33,7 @@ backlinks:
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
+  - lem-operador-maximal-bolas-medible
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-fda-e2
   - m.1-pe-e1

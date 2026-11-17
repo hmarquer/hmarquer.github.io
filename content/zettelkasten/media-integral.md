@@ -11,6 +11,8 @@ references:
   - fn-integrable
   - fn-medible
   - integral
+backlinks:
+  - operador-maximal
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

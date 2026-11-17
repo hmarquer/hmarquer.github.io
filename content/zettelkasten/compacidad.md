@@ -38,6 +38,7 @@ backlinks:
   - teo-esp-metrico-completo-imp-compacto-iff-cerrado-totalmente-acotado
   - teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta
   - teo-heine-borel
+  - teo-operador-maximal-bolas-tipo-debil-1-1
   - teo-separacion-estricta-convexos-cerrado-compacto
 projects:
   - 3.1-topologia

@@ -15,6 +15,7 @@ references:
 backlinks:
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - teo-interpolacion-marcinkiewicz
+  - teo-operador-maximal-bolas-tipo-debil-1-1
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

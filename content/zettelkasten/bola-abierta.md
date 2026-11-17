@@ -20,10 +20,12 @@ backlinks:
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-carac-densidad-esp-metrizable
   - lem-cubrimiento-vitali
+  - lem-operador-maximal-bolas-medible
   - m.1-pe-e4
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa
+  - teo-acotacion-operador-maximal-bolas
   - teo-cubrimiento-bloch
   - teo-cubrimiento-landau
   - teo-esp-normado-imp-bola-abierta-convexa

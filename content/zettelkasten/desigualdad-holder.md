@@ -13,6 +13,7 @@ references:
   - norma-lp
 backlinks:
   - desigualdad-minkowski
+  - lem-operador-maximal-bolas-medible
   - m.1-fda-e2
   - prop-convolucion-exp-conjugados
   - prop-inclusion-lp-esp-finito

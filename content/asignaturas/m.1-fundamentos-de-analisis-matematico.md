@@ -2,11 +2,12 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-17T14:57:42.699638399+00:00'
-last_build_date_pdf: '2026-11-17T15:49:59.650886028+00:00'
+last_edit_date: '2026-11-17T19:22:28.498469606+00:00'
+last_build_date_pdf: '2026-11-17T19:22:57.624070149+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
+  - base-diferenciacion
   - con-autosemejante
   - con-cantor
   - con-caratheodory-medible
@@ -59,6 +60,7 @@ inclusions:
   - lem-medida-hausdorff-invariante-isometrias
   - lem-monotonia-dim-hausdorff
   - lem-norma-lp-integral-fn-distribucion
+  - lem-operador-maximal-bolas-medible
   - m.1-fda-e1
   - m.1-fda-e2
   - m.1-fda-h1-e19
@@ -115,6 +117,7 @@ inclusions:
   - teo-inclusion-lp-lp-debil
   - teo-interpolacion-marcinkiewicz
   - teo-medibilidad-borel-medida-exterior-metrica
+  - teo-operador-maximal-bolas-tipo-debil-1-1
   - teo-radon-nikodym
 tags:
   - m.1-fundamentos-de-analisis-matematico
@@ -248,12 +251,17 @@ tags:
 - [teo-interpolacion-marcinkiewicz](./teo-interpolacion-marcinkiewicz.md)
 
 ### tema3
+- [base-diferenciacion](./base-diferenciacion.md)
 - [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
+- [lem-operador-maximal-bolas-medible](./lem-operador-maximal-bolas-medible.md)
 - [operador-maximal](./operador-maximal.md)
 - [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
+- [teo-operador-maximal-bolas-tipo-debil-1-1](./teo-operador-maximal-bolas-tipo-debil-1-1.md)
 
 ## Etiquetas
 #REVISAR 
+#COMPLETAR : ver que la constante $3^d$ es óptima
+#ORDENAR : destruir
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,

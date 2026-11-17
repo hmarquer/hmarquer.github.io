@@ -23,7 +23,6 @@ backlinks:
   - longitud-camino
   - media-integral
   - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
-  - operador-maximal
   - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral
 projects:
