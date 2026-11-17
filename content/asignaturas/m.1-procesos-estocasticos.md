@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-17T15:48:30.340523532+00:00'
-last_build_date_pdf: '2026-11-17T15:49:51.625768654+00:00'
+last_edit_date: '2026-11-17T17:28:41.094821678+00:00'
+last_build_date_pdf: '2026-11-17T17:28:47.919736621+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea
@@ -29,6 +29,7 @@ inclusions:
   - m.1-pe-e2
   - m.1-pe-e3
   - m.1-pe-e4
+  - m.1-pe-e5
   - martingala
   - medida-interiormente-regular
   - nucleo-transicion
@@ -55,6 +56,7 @@ tags:
 - [m.1-pe-e2](./m.1-pe-e2.md)
 - [m.1-pe-e3](./m.1-pe-e3.md)
 - [m.1-pe-e4](./m.1-pe-e4.md)
+- [m.1-pe-e5](./m.1-pe-e5.md)
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
@@ -121,6 +123,7 @@ tags:
 #EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
 #EJERCICIO :
 #COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
+#REVISAR : al parecer estaba mal, esta es la corrección:
 #EJERCICIO : terminar demostración
 #COMPLETAR el argumento por densidad
 #DEMOSTRACIÓN : completar esta parte
@@ -134,3 +137,5 @@ tags:
 #ORDENAR : referenciar caracterización del principio de la clase que me falta
 #COMPLETAR 
 #COMPLETAR con ejemplo de cadena 2 periódica de dos estados donde no se tiene convergencia, sino oscilación
+#DEMOSTRACIÓN : se sigue de la identidad de Bézout
+#REVISAR : incluir figura
