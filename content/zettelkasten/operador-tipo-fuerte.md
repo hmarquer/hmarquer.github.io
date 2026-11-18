@@ -12,6 +12,7 @@ references:
   - fn-medible
   - norma-lp
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master

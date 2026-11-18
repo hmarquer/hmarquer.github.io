@@ -14,6 +14,7 @@ backlinks:
   - con-acotado
   - con-totalmente-acotado
   - cor-cubrimiento-landau-debil
+  - cor-operador-maximal-bolas-tipo-fuerte
   - cor-principio-subordinacion-invariante
   - cor-subordinacion-dominio-simplemente-conexo
   - ejem-propiedad-vq-bolas
@@ -25,7 +26,6 @@ backlinks:
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa
-  - teo-acotacion-operador-maximal-bolas
   - teo-cubrimiento-bloch
   - teo-cubrimiento-landau
   - teo-esp-normado-imp-bola-abierta-convexa

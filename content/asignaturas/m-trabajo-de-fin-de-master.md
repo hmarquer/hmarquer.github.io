@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-17T19:22:28.498469606+00:00'
-last_build_date_pdf: '2026-11-17T19:22:52.255512525+00:00'
+last_edit_date: '2026-11-18T11:56:10.973589644+00:00'
+last_build_date_pdf: '2026-11-18T11:56:24.962142012+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general

@@ -12,10 +12,10 @@ references:
   - media-integral
   - relacion-orden
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - lem-operador-maximal-bolas-medible
   - operador-maximal-fuerte
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
-  - teo-acotacion-operador-maximal-bolas
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico

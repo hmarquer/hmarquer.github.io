@@ -13,6 +13,7 @@ references:
   - operador-tipo-debil
   - operador-tipo-fuerte
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - m.1-fda-h2-e19
 projects:
   - m.1-fundamentos-de-analisis-matematico

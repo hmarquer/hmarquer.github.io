@@ -10,8 +10,8 @@ references:
   - bola-abierta
   - esp-metrico
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - ejem-propiedad-vq-bolas
-  - teo-acotacion-operador-maximal-bolas
   - teo-operador-maximal-bolas-tipo-debil-1-1
 projects:
   - m-trabajo-de-fin-de-master

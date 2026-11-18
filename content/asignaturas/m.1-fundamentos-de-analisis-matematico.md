@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-17T19:22:28.498469606+00:00'
-last_build_date_pdf: '2026-11-17T19:22:57.624070149+00:00'
+last_edit_date: '2026-11-18T11:52:50.368008748+00:00'
+last_build_date_pdf: '2026-11-18T11:53:03.581444741+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -15,6 +15,7 @@ inclusions:
   - continuidad-absoluta
   - cor-dim-hausdorff
   - cor-dimension-hausdorff-fn-gamma-holder
+  - cor-operador-maximal-bolas-tipo-fuerte
   - cuasinorma
   - desigualdad-holder
   - desigualdad-minkowski
@@ -105,7 +106,6 @@ inclusions:
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
-  - teo-acotacion-operador-maximal-bolas
   - teo-carac-continuidad-apl-lineal
   - teo-caratheodory-i
   - teo-caratheodory-ii
@@ -228,7 +228,6 @@ tags:
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
-- [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [operador-tipo-debil](./operador-tipo-debil.md)
 - [operador-tipo-fuerte](./operador-tipo-fuerte.md)
 - [prod-escalar](./prod-escalar.md)
@@ -252,16 +251,24 @@ tags:
 
 ### tema3
 - [base-diferenciacion](./base-diferenciacion.md)
+- [cor-operador-maximal-bolas-tipo-fuerte](./cor-operador-maximal-bolas-tipo-fuerte.md)
 - [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
 - [lem-operador-maximal-bolas-medible](./lem-operador-maximal-bolas-medible.md)
 - [operador-maximal](./operador-maximal.md)
-- [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
+- [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [teo-operador-maximal-bolas-tipo-debil-1-1](./teo-operador-maximal-bolas-tipo-debil-1-1.md)
 
 ## Etiquetas
 #REVISAR 
 #COMPLETAR : ver que la constante $3^d$ es óptima
-#ORDENAR : destruir
+#FALTA : hubo huelga de estudiantes
+#COMPLETAR 
+#FALTA : hubo huelga general
+#REVISAR : hace falta que $\mathcal{D}$ sea un espacio vectorial?? las convergencias que se escriben son en medida?? no son en norma o en c.t.p.??
+#COMPLETAR : Este resultado luego implica un teorema de diferenciación de Lebesgue, uno para cada función $\varphi$ que cumpla las hipótesis.
+#COMPLETAR : con resultados sobre el operador maximal fuerte sacándolos del TFM o del artículo de De Guzmán
+#COMPLETAR con la regla de barrow y tratar de generalizarla a f continua en [a, b] tal que f' existe en casi todo punto y f' es integrable. Ver que con esto no basta: f(x) = x^2 \sin (1/x^2) para x \neq 0 y f(0) = 0 define f continua hasta el borde con derivada bien definida pero no integrable. La escalera del diablo muestra que tampoco basta con exigir que además f' sea integrable
+#DEMOSTRACIÓN 
 #COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
 #EJERCICIO 
 #REVISAR : Aquí el profe ha escrito un factor de 2 extra,
@@ -273,7 +280,6 @@ tags:
 #EJERCICIO : probar detenidamente
 #EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
 #DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
-#DEMOSTRACIÓN 
 #REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
 #COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
 #COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
@@ -297,11 +303,4 @@ tags:
 #ORDENAR : esta proposición puede ir antes, creo que se podría usar en otras demostraciones
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
-#COMPLETAR 
 #COMPLETAR : añadir definición de función sublineal
-#FALTA : hubo huelga de estudiantes
-#FALTA : hubo huelga general
-#REVISAR : hace falta que $\mathcal{D}$ sea un espacio vectorial?? las convergencias que se escriben son en medida?? no son en norma o en c.t.p.??
-#COMPLETAR : Este resultado luego implica un teorema de diferenciación de Lebesgue, uno para cada función $\varphi$ que cumpla las hipótesis.
-#COMPLETAR : con resultados sobre el operador maximal fuerte sacándolos del TFM o del artículo de De Guzmán
-#COMPLETAR con la regla de barrow y tratar de generalizarla a f continua en [a, b] tal que f' existe en casi todo punto y f' es integrable. Ver que con esto no basta: f(x) = x^2 \sin (1/x^2) para x \neq 0 y f(0) = 0 define f continua hasta el borde con derivada bien definida pero no integrable. La escalera del diablo muestra que tampoco basta con exigir que además f' sea integrable

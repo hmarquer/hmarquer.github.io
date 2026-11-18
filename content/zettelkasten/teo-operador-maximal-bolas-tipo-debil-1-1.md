@@ -14,6 +14,8 @@ references:
   - lem-cubrimiento-vitali
   - norma-lp
   - operador-tipo-debil
+backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
