@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-18T14:22:42.763065197+00:00'
-last_build_date_pdf: '2026-11-18T14:22:54.335338816+00:00'
+last_edit_date: '2026-11-18T18:56:46.503523347+00:00'
+last_build_date_pdf: '2026-11-18T19:12:35.931562786+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -13,6 +13,7 @@ inclusions:
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
+  - cor-acotacion-operador-maximal-centrado
   - cor-dim-hausdorff
   - cor-dimension-hausdorff-fn-gamma-holder
   - cor-operador-maximal-bolas-tipo-fuerte
@@ -47,6 +48,7 @@ inclusions:
   - fn-simple
   - integral
   - lem-carac-linfty-esp-sigma-finito
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
@@ -76,6 +78,7 @@ inclusions:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-centrado
   - operador-maximal-fuerte
   - operador-tipo-debil
   - operador-tipo-fuerte
@@ -251,18 +254,21 @@ tags:
 
 ### tema3
 - [base-diferenciacion](./base-diferenciacion.md)
+- [cor-acotacion-operador-maximal-centrado](./cor-acotacion-operador-maximal-centrado.md)
 - [cor-operador-maximal-bolas-tipo-fuerte](./cor-operador-maximal-bolas-tipo-fuerte.md)
+- [lem-comparacion-operador-maximal-bolas-centrado](./lem-comparacion-operador-maximal-bolas-centrado.md)
 - [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
 - [lem-operador-maximal-bolas-medible](./lem-operador-maximal-bolas-medible.md)
 - [operador-maximal](./operador-maximal.md)
+- [operador-maximal-centrado](./operador-maximal-centrado.md)
 - [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [teo-operador-maximal-bolas-tipo-debil-1-1](./teo-operador-maximal-bolas-tipo-debil-1-1.md)
 
 ## Etiquetas
-#REVISAR 
 #COMPLETAR : ver que la constante $3^d$ es óptima
 #FALTA : hubo huelga de estudiantes
-#COMPLETAR 
+#REVISAR 
+#ORDENAR : referenciar
 #FALTA : hubo huelga general
 #REVISAR : hace falta que $\mathcal{D}$ sea un espacio vectorial?? las convergencias que se escriben son en medida?? no son en norma o en c.t.p.??
 #COMPLETAR : Este resultado luego implica un teorema de diferenciación de Lebesgue, uno para cada función $\varphi$ que cumpla las hipótesis.
@@ -294,7 +300,6 @@ tags:
 #ORDENAR : escribir bien todo esto
 #ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
 #REVISAR y referenciar lemas anteriores
-#ORDENAR : referenciar
 #COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio cuasi normado.
 #COMPLETAR : ver el caso $p >1$ (es igual)
 #COMPLETAR : no he entendido nada
@@ -304,4 +309,5 @@ tags:
 #ORDENAR : esta proposición puede ir antes, creo que se podría usar en otras demostraciones
 #REVISAR : no entiendo la definición
 #COMPLETAR con foto
+#COMPLETAR 
 #COMPLETAR : añadir definición de función sublineal

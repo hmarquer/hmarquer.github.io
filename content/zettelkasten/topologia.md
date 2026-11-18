@@ -15,6 +15,7 @@ backlinks:
   - ejem-topologia-metrica
   - esp-metrizable
   - esp-topologico
+  - fn-localmente-integrable
   - lem-esp-topologico-metrizable-con-abierto-imp-union-numerable-cerrados
   - lem-relacion-equivalencia-abierta-hausdorff
   - lem-relacion-equivalencia-abierta-segundo-numerable

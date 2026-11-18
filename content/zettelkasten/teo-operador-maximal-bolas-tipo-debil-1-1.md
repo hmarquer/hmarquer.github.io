@@ -15,6 +15,7 @@ references:
   - norma-lp
   - operador-tipo-debil
 backlinks:
+  - cor-acotacion-operador-maximal-centrado
   - cor-operador-maximal-bolas-tipo-fuerte
 projects:
   - m.1-fundamentos-de-analisis-matematico

@@ -15,6 +15,7 @@ backlinks:
   - desigualdad-jensen-condicional
   - esperanza
   - fn-densidad
+  - fn-localmente-integrable
   - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada-var-medible
   - lem-fn-integrable-iff-lim-colas-0

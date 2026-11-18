@@ -21,10 +21,12 @@ backlinks:
   - esp-lp-debil
   - fn-distribucion
   - fn-integrable
+  - fn-localmente-integrable
   - integrabilidad-uniforme
   - integral
   - lem-aprox-fn-simple
   - lem-carac-cadena-markov
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-convolucion
   - lem-desigualdad-integral-norma-lp-debil
@@ -42,6 +44,7 @@ backlinks:
   - nucleo-transicion
   - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - operador-maximal
+  - operador-maximal-centrado
   - operador-tipo-debil
   - operador-tipo-fuerte
   - proceso-estocastico-adaptado

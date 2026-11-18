@@ -15,6 +15,8 @@ references:
   - operador-tipo-fuerte
   - teo-interpolacion-marcinkiewicz
   - teo-operador-maximal-bolas-tipo-debil-1-1
+backlinks:
+  - cor-acotacion-operador-maximal-centrado
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

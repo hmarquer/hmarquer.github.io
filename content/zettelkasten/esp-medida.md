@@ -30,6 +30,7 @@ backlinks:
   - esp-probabilidad
   - fn-distribucion
   - fn-integrable
+  - fn-localmente-integrable
   - integrabilidad-uniforme
   - integral
   - lem-carac-linfty-esp-sigma-finito
@@ -55,6 +56,7 @@ backlinks:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-centrado
   - operador-tipo-debil
   - operador-tipo-fuerte
   - principio-inclusion-exclusion

@@ -25,6 +25,7 @@ backlinks:
   - limite-fn
   - metrica-cordal
   - metrica-inducida
+  - operador-maximal-centrado
   - prop-convergencia-imp-cauchy
   - prop-convergencia-uniforme-continuidad-uniforme
   - prop-desigualdad-triangular-inversa-norma

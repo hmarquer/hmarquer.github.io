@@ -13,6 +13,7 @@ references:
   - integral
 backlinks:
   - operador-maximal
+  - operador-maximal-centrado
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

@@ -12,6 +12,7 @@ references:
   - fn-medible
   - norma-lp
 backlinks:
+  - cor-acotacion-operador-maximal-centrado
   - cor-operador-maximal-bolas-tipo-fuerte
   - teo-interpolacion-marcinkiewicz
 projects:

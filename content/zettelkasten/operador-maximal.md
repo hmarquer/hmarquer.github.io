@@ -13,6 +13,7 @@ references:
   - relacion-orden
 backlinks:
   - cor-operador-maximal-bolas-tipo-fuerte
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-operador-maximal-bolas-medible
   - operador-maximal-fuerte
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq

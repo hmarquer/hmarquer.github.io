@@ -20,10 +20,12 @@ backlinks:
   - ejem-propiedad-vq-bolas
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-carac-densidad-esp-metrizable
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-cubrimiento-vitali
   - lem-operador-maximal-bolas-medible
   - m.1-pe-e4
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
+  - operador-maximal-centrado
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa
   - teo-cubrimiento-bloch

@@ -27,6 +27,7 @@ backlinks:
   - norma-lp-debil
   - obs-consecuencia-semantica-orden-parcial
   - operador-maximal
+  - operador-maximal-centrado
   - prop-carac-anillo-noetheriano
   - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-precision
