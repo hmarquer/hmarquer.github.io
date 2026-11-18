@@ -18,7 +18,7 @@ backlinks:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[obs-nucleo-transicion-accion-fn-medible-medida-probabilidad.pdf]]

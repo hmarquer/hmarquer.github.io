@@ -11,7 +11,7 @@ backlinks:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[cubo-n-adico-grado-k.pdf]]

@@ -17,7 +17,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[media-integral.pdf]]

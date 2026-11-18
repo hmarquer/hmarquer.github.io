@@ -22,7 +22,6 @@ projects:
   - m.1-geometria-diferencial
 tags:
   - geometria-diferencial/tema1
-  - m.1-geometria-diferencial/tema1
 ---
 
 [[c-infty-compatibilidad.pdf]]

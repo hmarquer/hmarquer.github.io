@@ -39,9 +39,9 @@ projects:
   - 4-teoria-descriptiva-de-conjuntos
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
   - teoria-descriptiva-de-conjuntos/tema1
   - topologia/tema1-1
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[bola-abierta.pdf]]

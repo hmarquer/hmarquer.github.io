@@ -121,7 +121,7 @@ inclusions:
   - teo-unicidad-descomposicion-con-algebraico-afin-irreducibles
   - teo-universal-anillo-cociente
 tags:
-  - m.1-curvas-algebraicas
+  - curvas-algebraicas
 ---
 
 [[m.1-curvas-algebraicas.pdf]]

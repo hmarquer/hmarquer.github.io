@@ -15,7 +15,7 @@ backlinks:
 projects:
   - m.1-curvas-algebraicas
 tags:
-  - m.1-curvas-algebraicas/tema0-ZK-1
+  - curvas-algebraicas/tema0-ZK-1
 ---
 
 [[elemento-primo.pdf]]

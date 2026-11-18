@@ -11,7 +11,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/hoja1
+  - fundamentos-de-analisis-matematico/hoja1
 ---
 
 [[ejer-medida-hausdorff-dim-0-contar.pdf]]

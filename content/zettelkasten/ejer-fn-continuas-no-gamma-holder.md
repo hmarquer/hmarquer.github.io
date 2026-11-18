@@ -12,7 +12,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema1
+  - fundamentos-de-analisis-matematico/tema1
 ---
 
 [[ejer-fn-continuas-no-gamma-holder.pdf]]

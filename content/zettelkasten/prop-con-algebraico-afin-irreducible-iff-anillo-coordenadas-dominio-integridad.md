@@ -20,7 +20,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
-  - m.1-curvas-algebraicas/tema1-ZK-5
+  - curvas-algebraicas/tema1-ZK-5
 ---
 
 [[prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad.pdf]]

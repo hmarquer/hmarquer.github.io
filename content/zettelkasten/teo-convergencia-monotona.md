@@ -27,7 +27,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

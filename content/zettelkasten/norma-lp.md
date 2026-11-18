@@ -50,7 +50,7 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

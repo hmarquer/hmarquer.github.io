@@ -14,7 +14,7 @@ backlinks:
 projects:
   - m.1-curvas-algebraicas
 tags:
-  - m.1-curvas-algebraicas/tema0-ZK-2
+  - curvas-algebraicas/tema0-ZK-2
 ---
 
 [[anillo-local.pdf]]

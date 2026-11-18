@@ -19,7 +19,7 @@ references:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[lem-carac-cadena-markov.pdf]]

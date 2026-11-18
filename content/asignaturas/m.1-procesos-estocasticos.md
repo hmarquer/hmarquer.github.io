@@ -43,7 +43,7 @@ inclusions:
   - teo-radon-nikodym
   - tiempo-parada
 tags:
-  - m.1-procesos-estocasticos
+  - procesos-estocasticos
 ---
 
 [[m.1-procesos-estocasticos.pdf]]

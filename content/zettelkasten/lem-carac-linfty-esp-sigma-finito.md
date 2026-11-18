@@ -14,7 +14,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[lem-carac-linfty-esp-sigma-finito.pdf]]

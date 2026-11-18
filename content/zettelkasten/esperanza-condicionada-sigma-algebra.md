@@ -39,8 +39,8 @@ projects:
   - m.1-procesos-estocasticos
 tags:
   - aprendizaje-automatico/apendice
-  - m.1-procesos-estocasticos/tema0
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema0
 ---
 
 [[esperanza-condicionada-sigma-algebra.pdf]]

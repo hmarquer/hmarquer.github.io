@@ -23,7 +23,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1-ZK-2
+  - curvas-algebraicas/tema1-ZK-2
 ---
 
 [[prop-con-algebraico-afin-ideal.pdf]]

@@ -17,8 +17,8 @@ projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
-  - m.1-fundamentos-de-analisis-matematico/tema3
+  - fundamentos-de-analisis-matematico/tema3
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[lem-cubrimiento-vitali.pdf]]

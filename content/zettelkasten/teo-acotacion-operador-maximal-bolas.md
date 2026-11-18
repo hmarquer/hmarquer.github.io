@@ -7,7 +7,7 @@ last_build_date_pdf: '2026-11-18T11:56:18.475466688+00:00'
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[teo-acotacion-operador-maximal-bolas.pdf]]

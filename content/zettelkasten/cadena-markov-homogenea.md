@@ -15,8 +15,8 @@ projects:
   - 3.2-modelizacion
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
   - modelizacion/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[cadena-markov-homogenea.pdf]]

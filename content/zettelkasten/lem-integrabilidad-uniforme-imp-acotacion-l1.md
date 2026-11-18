@@ -17,7 +17,7 @@ references:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema1
+  - procesos-estocasticos/tema1
 ---
 
 [[lem-integrabilidad-uniforme-imp-acotacion-l1.pdf]]

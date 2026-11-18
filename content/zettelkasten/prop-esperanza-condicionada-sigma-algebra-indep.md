@@ -19,8 +19,8 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema0
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema0
 ---
 
 [[prop-esperanza-condicionada-sigma-algebra-indep.pdf]]

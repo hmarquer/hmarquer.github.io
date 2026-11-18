@@ -20,7 +20,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema3
+  - fundamentos-de-analisis-matematico/tema3
 ---
 
 [[cor-operador-maximal-bolas-tipo-fuerte.pdf]]

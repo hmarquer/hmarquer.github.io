@@ -15,8 +15,8 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/hoja1
-  - m.1-fundamentos-de-analisis-matematico/tema1
+  - fundamentos-de-analisis-matematico/hoja1
+  - fundamentos-de-analisis-matematico/tema1
 ---
 
 [[prop-medida-exterior-hausdorff-metrica.pdf]]

@@ -39,7 +39,7 @@ inclusions:
   - teo-inclusion-lp-lp-debil
   - transformada-legendre
 tags:
-  - m-trabajo-de-fin-de-master
+  - trabajo-de-fin-de-master
 ---
 
 [[m-trabajo-de-fin-de-master.pdf]]

@@ -7,7 +7,7 @@ last_build_date_pdf: '2026-11-16T18:09:58.427570384+00:00'
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/m.1-procesos-estocasticos
+  - procesos-estocasticos/m.1-procesos-estocasticos
 ---
 
 [[m.1-pe-e5.pdf]]

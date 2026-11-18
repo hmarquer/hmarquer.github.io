@@ -19,7 +19,7 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
 ---
 

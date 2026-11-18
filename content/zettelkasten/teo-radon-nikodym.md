@@ -22,9 +22,9 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
   - m.1-procesos-estocasticos
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
-  - m.1-procesos-estocasticos/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
+  - procesos-estocasticos/tema0
 ---
 
 [[teo-radon-nikodym.pdf]]

@@ -12,7 +12,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema3
+  - fundamentos-de-analisis-matematico/tema3
 ---
 
 [[base-diferenciacion.pdf]]

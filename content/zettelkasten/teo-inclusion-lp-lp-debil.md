@@ -17,8 +17,8 @@ projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[teo-inclusion-lp-lp-debil.pdf]]

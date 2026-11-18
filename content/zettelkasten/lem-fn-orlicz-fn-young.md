@@ -12,7 +12,7 @@ references:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[lem-fn-orlicz-fn-young.pdf]]

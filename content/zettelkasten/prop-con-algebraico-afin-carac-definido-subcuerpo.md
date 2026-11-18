@@ -17,7 +17,7 @@ references:
 projects:
   - m.1-curvas-algebraicas
 tags:
-  - m.1-curvas-algebraicas/tema1-ZK-2
+  - curvas-algebraicas/tema1-ZK-2
 ---
 
 [[prop-con-algebraico-afin-carac-definido-subcuerpo.pdf]]

@@ -20,7 +20,7 @@ backlinks:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/fn-young-transformada-legendre
+  - trabajo-de-fin-de-master/fn-young-transformada-legendre
 ---
 
 [[fn-young.pdf]]

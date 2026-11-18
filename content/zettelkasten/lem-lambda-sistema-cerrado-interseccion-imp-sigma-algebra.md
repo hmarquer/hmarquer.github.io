@@ -15,8 +15,8 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
   - probabilidad-ii/tema1
+  - procesos-estocasticos/tema2
 ---
 
 [[lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.pdf]]

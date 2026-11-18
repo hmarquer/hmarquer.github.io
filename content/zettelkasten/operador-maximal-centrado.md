@@ -19,7 +19,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema3
+  - fundamentos-de-analisis-matematico/tema3
 ---
 
 [[operador-maximal-centrado.pdf]]

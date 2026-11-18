@@ -18,7 +18,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema0-ZK-5
+  - curvas-algebraicas/tema0-ZK-5
 ---
 
 [[teo-extension-entero-modulo-finitamente-generado.pdf]]

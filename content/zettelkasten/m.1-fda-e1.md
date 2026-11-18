@@ -13,7 +13,7 @@ labels:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
+  - fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
 ---
 
 [[m.1-fda-e1.pdf]]

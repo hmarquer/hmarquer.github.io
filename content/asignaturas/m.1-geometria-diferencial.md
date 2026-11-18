@@ -22,7 +22,7 @@ inclusions:
   - variedad-diferenciable
   - variedad-topologica
 tags:
-  - m.1-geometria-diferencial
+  - geometria-diferencial
 ---
 
 [[m.1-geometria-diferencial.pdf]]

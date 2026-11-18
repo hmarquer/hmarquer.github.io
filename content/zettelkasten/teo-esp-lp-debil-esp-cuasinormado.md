@@ -22,7 +22,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[teo-esp-lp-debil-esp-cuasinormado.pdf]]

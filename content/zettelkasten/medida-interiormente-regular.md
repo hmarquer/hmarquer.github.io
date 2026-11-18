@@ -16,7 +16,7 @@ backlinks:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[medida-interiormente-regular.pdf]]

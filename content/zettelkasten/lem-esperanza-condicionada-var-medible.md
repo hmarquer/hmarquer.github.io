@@ -12,7 +12,7 @@ references:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema0
+  - procesos-estocasticos/tema0
 ---
 
 [[lem-esperanza-condicionada-var-medible.pdf]]
