@@ -39,6 +39,7 @@ backlinks:
   - mindependencia-sigma-algebras
   - mindependencia-sucesos
   - mindependencia-var-aleatorias
+  - probabilidad-condicionada-sigma-algebra
   - probabilidad-total
   - proceso-estocastico
   - proceso-estocastico-adaptado

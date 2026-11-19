@@ -12,6 +12,7 @@ references:
 backlinks:
   - desigualdad-holder
   - desigualdad-minkowski
+  - lem-carac-cadena-markov
   - lem-esp-lp-vectorial
   - lem-esperanza-condicionada
   - obs-linealidad-esperanza

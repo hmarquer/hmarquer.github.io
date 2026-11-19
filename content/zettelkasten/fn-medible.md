@@ -2,8 +2,8 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.174786853+00:00'
-last_build_date_pdf: '2026-11-05T04:08:21.127933268+00:00'
+last_edit_date: '2026-11-19T21:30:12.608712209+00:00'
+last_build_date_pdf: '2026-11-19T21:30:19.591339593+00:00'
 labels:
   - defn:fn-medible
 references:
@@ -22,6 +22,7 @@ backlinks:
   - fn-distribucion
   - fn-integrable
   - fn-localmente-integrable
+  - fn-medible-acotada
   - integrabilidad-uniforme
   - integral
   - lem-aprox-fn-simple

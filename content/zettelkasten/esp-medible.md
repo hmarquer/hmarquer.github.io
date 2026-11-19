@@ -16,6 +16,7 @@ backlinks:
   - esp-probabilidad
   - fn-continua-soporte-compacto
   - fn-medible
+  - fn-medible-acotada
   - fn-simple
   - fn-suave-soporte-compacto
   - lem-aprox-fn-simple

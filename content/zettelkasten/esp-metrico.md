@@ -27,6 +27,7 @@ backlinks:
   - distancia-pnt-con
   - ejem-topologia-metrica
   - esp-isometricos
+  - fn-acotada
   - fn-gamma-holder
   - fn-lipschitz
   - fn-lipschitz-local

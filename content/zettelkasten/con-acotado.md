@@ -11,6 +11,7 @@ references:
   - metrica
 backlinks:
   - acotacion-uniforme-compactos
+  - fn-acotada
   - interior-curva
   - lem-acotado-dual-imp-acotado
   - lem-integrabilidad-uniforme-imp-acotacion-l1

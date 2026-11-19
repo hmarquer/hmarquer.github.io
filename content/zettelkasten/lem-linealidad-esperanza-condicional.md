@@ -10,6 +10,8 @@ references:
   - esperanza-condicionada-sigma-algebra
   - fn-integrable
   - obs-linealidad-esperanza
+backlinks:
+  - lem-carac-cadena-markov
 projects:
   - m.1-procesos-estocasticos
 tags:

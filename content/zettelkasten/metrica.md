@@ -22,6 +22,7 @@ backlinks:
   - esp-metrico
   - esp-metrizable
   - esp-topologico-metrizable
+  - fn-medible-acotada
   - limite-fn
   - metrica-cordal
   - metrica-inducida

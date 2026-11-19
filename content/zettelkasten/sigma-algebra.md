@@ -23,6 +23,7 @@ backlinks:
   - m.1-pe-e1
   - medida-signo
   - mindependencia-sigma-algebras
+  - probabilidad-condicionada-sigma-algebra
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-esperanza-condicionada-sigma-algebras-anidadas
   - prop-interseccion-sigma-algebra
