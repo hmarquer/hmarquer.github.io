@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-17T17:28:41.094821678+00:00'
-last_build_date_pdf: '2026-11-17T17:28:47.919736621+00:00'
+last_edit_date: '2026-11-19T17:57:23.027699787+00:00'
+last_build_date_pdf: '2026-11-19T17:57:31.393117771+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea
@@ -31,12 +31,14 @@ inclusions:
   - m.1-pe-e4
   - m.1-pe-e5
   - martingala
+  - medida-completa
   - medida-interiormente-regular
   - nucleo-transicion
   - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - pi-sistema
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
+  - sigma-algebra-tiempo-parada
   - submartingala
   - supermartingala
   - teo-pi-sistema-subset-lambda-sistema
@@ -95,4 +97,8 @@ tags:
 - [obs-nucleo-transicion-accion-fn-medible-medida-probabilidad](./obs-nucleo-transicion-accion-fn-medible-medida-probabilidad.md)
 - [pi-sistema](./pi-sistema.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
+
+### tema3
+- [medida-completa](./medida-completa.md)
+- [sigma-algebra-tiempo-parada](./sigma-algebra-tiempo-parada.md)
 

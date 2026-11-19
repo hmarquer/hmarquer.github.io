@@ -12,6 +12,10 @@ backlinks:
   - medida-lebesgue
   - teo-caratheodory-i
   - teo-caratheodory-ii
+projects:
+  - m.1-procesos-estocasticos
+tags:
+  - procesos-estocasticos/tema3
 ---
 
 [[medida-completa.pdf]]
