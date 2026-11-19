@@ -2,15 +2,19 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-19T17:57:23.027699787+00:00'
-last_build_date_pdf: '2026-11-19T17:57:31.393117771+00:00'
+last_edit_date: '2026-11-19T19:25:16.344245554+00:00'
+last_build_date_pdf: '2026-11-19T19:26:45.232618660+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea
+  - cadena-markov-irreducible
   - desigualdad-jensen-condicional
   - ejem-nucleo-transcicion-esp-finito
   - esp-polaco
   - esperanza-condicionada-sigma-algebra
+  - estado-accesible-cadena-markov
+  - estado-recurrente-cadena-markov
+  - estado-transitorio-cadena-markov
   - filtracion
   - integrabilidad-uniforme
   - lambda-sistema
@@ -34,6 +38,7 @@ inclusions:
   - medida-completa
   - medida-interiormente-regular
   - nucleo-transicion
+  - num-visitas-cadena-markov
   - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - pi-sistema
   - proceso-estocastico-adaptado
@@ -44,6 +49,7 @@ inclusions:
   - teo-pi-sistema-subset-lambda-sistema
   - teo-radon-nikodym
   - tiempo-parada
+  - tiempo-retorno-cadena-markov
 tags:
   - procesos-estocasticos
 ---
@@ -87,16 +93,22 @@ tags:
 ### tema2
 - [cadena-markov](./cadena-markov.md)
 - [cadena-markov-homogenea](./cadena-markov-homogenea.md)
+- [cadena-markov-irreducible](./cadena-markov-irreducible.md)
 - [ejem-nucleo-transcicion-esp-finito](./ejem-nucleo-transcicion-esp-finito.md)
 - [esp-polaco](./esp-polaco.md)
+- [estado-accesible-cadena-markov](./estado-accesible-cadena-markov.md)
+- [estado-recurrente-cadena-markov](./estado-recurrente-cadena-markov.md)
+- [estado-transitorio-cadena-markov](./estado-transitorio-cadena-markov.md)
 - [lambda-sistema](./lambda-sistema.md)
 - [lem-carac-cadena-markov](./lem-carac-cadena-markov.md)
 - [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
 - [medida-interiormente-regular](./medida-interiormente-regular.md)
 - [nucleo-transicion](./nucleo-transicion.md)
+- [num-visitas-cadena-markov](./num-visitas-cadena-markov.md)
 - [obs-nucleo-transicion-accion-fn-medible-medida-probabilidad](./obs-nucleo-transicion-accion-fn-medible-medida-probabilidad.md)
 - [pi-sistema](./pi-sistema.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
+- [tiempo-retorno-cadena-markov](./tiempo-retorno-cadena-markov.md)
 
 ### tema3
 - [medida-completa](./medida-completa.md)

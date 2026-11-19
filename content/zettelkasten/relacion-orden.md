@@ -35,6 +35,7 @@ backlinks:
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas
   - teo-descomposicion-con-algebraico-afin-irreducibles
+  - tiempo-retorno-cadena-markov
   - transformada-legendre
 ---
 

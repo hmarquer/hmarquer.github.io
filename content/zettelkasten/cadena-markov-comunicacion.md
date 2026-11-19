@@ -9,8 +9,6 @@ labels:
 references:
   - cadena-markov
   - cadena-markov-accesibilidad
-backlinks:
-  - cadena-markov-irreducible
 projects:
   - 3.2-modelizacion
 tags:

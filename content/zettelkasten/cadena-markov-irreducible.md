@@ -2,17 +2,19 @@
 title: 'Cadena de Markov irreducible'
 filename: 'cadena-markov-irreducible'
 created: '2025-03-20 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.210657924+00:00'
-last_build_date_pdf: '2026-09-15T23:12:57.817445208+00:00'
+last_edit_date: '2026-11-19T19:19:51.512969417+00:00'
+last_build_date_pdf: '2026-11-19T19:20:01.975460472+00:00'
 labels:
   - defn:cadena-markov-irreducible
 references:
   - cadena-markov
-  - cadena-markov-comunicacion
+  - estado-accesible-cadena-markov
 projects:
   - 3.2-modelizacion
+  - m.1-procesos-estocasticos
 tags:
   - modelizacion/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[cadena-markov-irreducible.pdf]]
@@ -20,5 +22,5 @@ tags:
 
 ## Referencias
 - [cadena-markov](./cadena-markov.md)
-- [cadena-markov-comunicacion](./cadena-markov-comunicacion.md)
+- [estado-accesible-cadena-markov](./estado-accesible-cadena-markov.md)
 

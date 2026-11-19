@@ -19,6 +19,8 @@ backlinks:
   - cadena-markov-recurrencia
   - cadena-markov-transitoriedad
   - lem-carac-cadena-markov
+  - num-visitas-cadena-markov
+  - tiempo-retorno-cadena-markov
 projects:
   - 3.2-modelizacion
   - m.1-procesos-estocasticos
