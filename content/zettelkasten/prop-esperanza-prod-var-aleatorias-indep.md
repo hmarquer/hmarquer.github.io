@@ -27,6 +27,3 @@ tags:
 - [fn-integrable](./fn-integrable.md)
 - [independencia-var-aleatorias](./independencia-var-aleatorias.md)
 
-## Etiquetas
-#EJERCICIO 
-#DEMOSTRACIÓN se hace tomando indicatrices, simples, prositivas, etc.

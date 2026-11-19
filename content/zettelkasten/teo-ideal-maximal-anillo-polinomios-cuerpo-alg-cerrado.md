@@ -32,8 +32,3 @@ tags:
 - [ideal-maximal](./ideal-maximal.md)
 - [lem-normalizacion-noether](./lem-normalizacion-noether.md)
 
-## Etiquetas
-#REVISAR : esto ¿por qué?
-#ORDENAR : referenciar
-#ORDENAR : referenciar A cuerpo \iff B cuerpo
-#COMPLETAR de la foto del día 29/10/2025 que me manda Jacobo

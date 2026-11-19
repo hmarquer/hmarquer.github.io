@@ -35,5 +35,3 @@ tags:
 - [medida-inducida](./medida-inducida.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#EJERCICIO demostrar que $X \overset{d}{=} Y$.

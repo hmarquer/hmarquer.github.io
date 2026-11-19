@@ -26,5 +26,3 @@ tags:
 - [extension-anillos-algebraica](./extension-anillos-algebraica.md)
 - [ideal-maximal](./ideal-maximal.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -26,5 +26,3 @@ tags:
 - [con-algebraico-afin-irreducible](./con-algebraico-afin-irreducible.md)
 - [teo-descomposicion-con-algebraico-afin-irreducibles](./teo-descomposicion-con-algebraico-afin-irreducibles.md)
 
-## Etiquetas
-#DEMOSTRACIÓN mirar foto de la idea del día 22/10/2025

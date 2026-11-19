@@ -24,5 +24,3 @@ tags:
 - [fn-recursiva-primitiva](./fn-recursiva-primitiva.md)
 - [lem-minimizacion-acotada-recursiva-primitiva](./lem-minimizacion-acotada-recursiva-primitiva.md)
 
-## Etiquetas
-#COMPLETAR : incluir diagramas de la función de emparejamiento de Cantor y su inversa.

@@ -30,5 +30,3 @@ tags:
 - [lenguaje-primer-orden](./lenguaje-primer-orden.md)
 - [satisfaccion](./satisfaccion.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

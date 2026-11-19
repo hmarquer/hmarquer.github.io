@@ -22,5 +22,3 @@ tags:
 - [comparacion-topologias](./comparacion-topologias.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

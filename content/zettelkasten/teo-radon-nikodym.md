@@ -39,5 +39,3 @@ tags:
 - [singularidad-mutua](./singularidad-mutua.md)
 - [teo-descomposicion-hahn-jordan](./teo-descomposicion-hahn-jordan.md)
 
-## Etiquetas
-#DEMOSTRACIÓN terminarla y revisarla

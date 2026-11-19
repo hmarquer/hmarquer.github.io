@@ -48,9 +48,3 @@ tags:
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedad-topologica](./variedad-topologica.md)
 
-## Etiquetas
-#COMPLETAR : con ejemplos de la foto y variedades con borde
-#COMPLETAR : Demostrar que es un isomorfismo
-#COMPLETAR con rant sobre el uso de categorías y functores en geometría diferencial. Mirar sus apuntes en https://guillegran.github.io/geodif/geodif_notas.pdf
-#COMPLETAR con dibujo de subvariedad regular de dim 1 en variedad de dim 2 dentro de R^2
-#COMPLETAR con los apuntes de moodle

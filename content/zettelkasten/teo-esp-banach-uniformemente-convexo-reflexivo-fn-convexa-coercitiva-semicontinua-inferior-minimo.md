@@ -34,5 +34,3 @@ tags:
 - [teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta](./teo-esp-reflexivo-iff-bola-unidad-cerrada-debilmente-compacta.md)
 - [teo-fn-convexa-semicontinua-fuerte-imp-debil](./teo-fn-convexa-semicontinua-fuerte-imp-debil.md)
 
-## Etiquetas
-#ORDENAR : referenciar algunos resultados

@@ -56,6 +56,3 @@ tags:
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
-## Etiquetas
-#EJERCICIO ver que $\nu$ es una medida con signo
-#EJERCICIO ver que si $Z$ es simple, se tiene por linealidad de la integral

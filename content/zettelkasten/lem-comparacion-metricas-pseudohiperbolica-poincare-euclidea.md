@@ -24,5 +24,3 @@ tags:
 - [prop-metrica-poincare](./prop-metrica-poincare.md)
 - [prop-metrica-pseudohiperbolica-disco-unidad](./prop-metrica-pseudohiperbolica-disco-unidad.md)
 
-## Etiquetas
-#COMPLETAR : justificar la última igualdad

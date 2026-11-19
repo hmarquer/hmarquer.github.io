@@ -24,6 +24,3 @@ tags:
 - [dim-krull](./dim-krull.md)
 - [extension-anillos-entera](./extension-anillos-entera.md)
 
-## Etiquetas
-#DEMOSTRACIÓN : EJERCICIO
-#EJERCICIO 

@@ -22,5 +22,3 @@ tags:
 ## Referencias
 - [fn-cubrimiento-landau](./fn-cubrimiento-landau.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

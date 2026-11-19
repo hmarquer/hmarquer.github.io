@@ -28,5 +28,3 @@ tags:
 - [ideal](./ideal.md)
 - [ideal-principal](./ideal-principal.md)
 
-## Etiquetas
-#ORDENAR : referenciar algoritmo de la división euclídea

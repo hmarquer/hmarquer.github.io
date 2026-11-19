@@ -26,5 +26,3 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [topologia-inicial](./topologia-inicial.md)
 
-## Etiquetas
-#DEMOSTRACIÓN :

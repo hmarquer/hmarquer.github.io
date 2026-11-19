@@ -38,5 +38,3 @@ tags:
 - [ideal](./ideal.md)
 - [lem-con-ceros-ideal-generado](./lem-con-ceros-ideal-generado.md)
 
-## Etiquetas
-#ORDENAR : referenciar al teorema de los ceros de Hilbert

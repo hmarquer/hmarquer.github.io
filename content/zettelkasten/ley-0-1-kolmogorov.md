@@ -34,5 +34,3 @@ tags:
 - [sigma-algebra-cola](./sigma-algebra-cola.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#ORDENAR referenciar

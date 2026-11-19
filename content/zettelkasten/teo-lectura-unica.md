@@ -33,5 +33,3 @@ tags:
 - [termino](./termino.md)
 - [variables](./variables.md)
 
-## Etiquetas
-#REVISAR 

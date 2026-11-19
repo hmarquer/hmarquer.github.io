@@ -33,5 +33,3 @@ tags:
 - [prop-con-denso-ninguna-parte-carac](./prop-con-denso-ninguna-parte-carac.md)
 - [teo-baire](./teo-baire.md)
 
-## Etiquetas
-#ORDENAR : referenciar interior

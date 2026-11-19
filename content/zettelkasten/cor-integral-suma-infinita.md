@@ -22,5 +22,3 @@ tags:
 - [esp-medida](./esp-medida.md)
 - [fn-medible](./fn-medible.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

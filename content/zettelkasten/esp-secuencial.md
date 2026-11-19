@@ -23,5 +23,3 @@ backlinks:
 - [cuerpo](./cuerpo.md)
 - [esp-vectorial](./esp-vectorial.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -31,5 +31,3 @@ tags:
 - [variable-simple-formula-libre-ligada](./variable-simple-formula-libre-ligada.md)
 - [variables](./variables.md)
 
-## Etiquetas
-#ORDENAR : arreglar el formato y las referencias

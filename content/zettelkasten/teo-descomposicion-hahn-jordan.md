@@ -27,5 +27,3 @@ backlinks:
 - [medida](./medida.md)
 - [medida-signo](./medida-signo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

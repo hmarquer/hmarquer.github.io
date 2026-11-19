@@ -30,6 +30,3 @@ tags:
 - [formula-horn](./formula-horn.md)
 - [satisfaccion](./satisfaccion.md)
 
-## Etiquetas
-#DEMOSTRACIÓN ORDENAR: incluir referencias y arreglar formato
-#ORDENAR : incluir referencias y arreglar formato

@@ -40,5 +40,3 @@ tags:
 - [operador-tipo-debil](./operador-tipo-debil.md)
 - [propiedad-cubridora-vq](./propiedad-cubridora-vq.md)
 
-## Etiquetas
-#ORDENAR : referenciar demostración de que en un espacio métrico, separable \iff lindelöf

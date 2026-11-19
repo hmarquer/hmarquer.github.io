@@ -28,5 +28,3 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [nucleo-sumabilidad](./nucleo-sumabilidad.md)
 
-## Etiquetas
-#DEMOSTRACIÓN mirar teorema 2.10 de la sección 2.3 (se puede hacer más fácil usando Minkowski)

@@ -36,5 +36,3 @@ tags:
 - [prop-anillo-z-dominio-ideales-principales](./prop-anillo-z-dominio-ideales-principales.md)
 - [teo-cuerpo-imp-polinomios-dip](./teo-cuerpo-imp-polinomios-dip.md)
 
-## Etiquetas
-#ORDENAR referenciar resultado que lo implique

@@ -22,5 +22,3 @@ backlinks:
 - [esp-topologico-metrizable](./esp-topologico-metrizable.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#ORDENAR : referenciar exactamente de dónde viene esta equivalencia

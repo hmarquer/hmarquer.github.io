@@ -26,5 +26,3 @@ tags:
 - [relacion-equivalencia](./relacion-equivalencia.md)
 - [relacion-equivalencia-abierta](./relacion-equivalencia-abierta.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

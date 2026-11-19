@@ -26,5 +26,3 @@ tags:
 - [involucion-disco-unidad](./involucion-disco-unidad.md)
 - [producto-finito-blaschke](./producto-finito-blaschke.md)
 
-## Etiquetas
-#ORDENAR : referencia a derivada de involucion-disco-unidad

@@ -28,5 +28,3 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

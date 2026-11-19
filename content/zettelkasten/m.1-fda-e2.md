@@ -61,7 +61,3 @@ tags:
 - [norma-lp-debil](./norma-lp-debil.md)
 - [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 
-## Etiquetas
-#ORDENAR : referenciar el resultado
-#ORDENAR : meter figura con dibujo de E, p_0 y la sucesión p_n y q y p_N
-#COMPLETAR : mirar solución de Miguel

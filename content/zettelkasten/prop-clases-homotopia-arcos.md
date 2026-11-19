@@ -28,5 +28,3 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

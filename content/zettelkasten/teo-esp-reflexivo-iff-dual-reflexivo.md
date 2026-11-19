@@ -34,5 +34,3 @@ tags:
 - [teo-isometria-biyectiva-reflexividad](./teo-isometria-biyectiva-reflexividad.md)
 - [teo-subespacio-reflexivo](./teo-subespacio-reflexivo.md)
 
-## Etiquetas
-#ORDENAR : referenciar

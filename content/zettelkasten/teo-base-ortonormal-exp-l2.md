@@ -24,5 +24,3 @@ tags:
 - [esp-hilbert](./esp-hilbert.md)
 - [esp-lp](./esp-lp.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

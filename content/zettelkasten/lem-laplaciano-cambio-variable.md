@@ -30,5 +30,3 @@ tags:
 - [prop-fn-holomorfa-iff-wirtinger](./prop-fn-holomorfa-iff-wirtinger.md)
 - [prop-regla-cadena-wirtinger](./prop-regla-cadena-wirtinger.md)
 
-## Etiquetas
-#ORDENAR crear nota y referenciar

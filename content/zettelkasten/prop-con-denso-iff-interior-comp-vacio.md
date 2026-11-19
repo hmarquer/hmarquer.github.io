@@ -26,5 +26,3 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [prop-con-denso](./prop-con-denso.md)
 
-## Etiquetas
-#ORDENAR : crear nota y referenciar interior

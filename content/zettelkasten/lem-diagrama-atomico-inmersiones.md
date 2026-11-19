@@ -30,5 +30,3 @@ tags:
 - [modelo](./modelo.md)
 - [reducto-expansion](./reducto-expansion.md)
 
-## Etiquetas
-#COMPLETAR 

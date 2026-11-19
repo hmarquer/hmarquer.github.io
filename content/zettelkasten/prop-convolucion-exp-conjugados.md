@@ -34,6 +34,3 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [traslacion](./traslacion.md)
 
-## Etiquetas
-#COMPLETAR con el caso $p = \infty$ EJERCICIO
-#EJERCICIO 

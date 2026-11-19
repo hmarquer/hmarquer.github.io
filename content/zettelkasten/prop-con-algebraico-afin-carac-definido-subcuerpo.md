@@ -32,5 +32,3 @@ tags:
 - [ideal-anulacion-subcuerpo](./ideal-anulacion-subcuerpo.md)
 - [subcuerpo](./subcuerpo.md)
 
-## Etiquetas
-#REVISAR 

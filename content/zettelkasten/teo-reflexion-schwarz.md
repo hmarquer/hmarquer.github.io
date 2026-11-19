@@ -20,5 +20,3 @@ references:
 - [fn-entera](./fn-entera.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

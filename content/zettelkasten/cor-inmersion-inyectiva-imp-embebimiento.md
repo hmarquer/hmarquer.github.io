@@ -40,5 +40,3 @@ tags:
 - [inmersion](./inmersion.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 
-## Etiquetas
-#EJERCICIO demostrarlo

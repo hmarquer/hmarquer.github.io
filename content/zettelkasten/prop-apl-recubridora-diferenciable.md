@@ -26,5 +26,3 @@ tags:
 - [difeomorfismo-local](./difeomorfismo-local.md)
 - [submersion](./submersion.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

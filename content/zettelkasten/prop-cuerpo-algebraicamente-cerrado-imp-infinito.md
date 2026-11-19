@@ -22,5 +22,3 @@ tags:
 - [cuerpo](./cuerpo.md)
 - [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

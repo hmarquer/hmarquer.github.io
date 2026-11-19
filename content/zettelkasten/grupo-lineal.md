@@ -25,5 +25,3 @@ backlinks:
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [isomorfismo-grupos](./isomorfismo-grupos.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

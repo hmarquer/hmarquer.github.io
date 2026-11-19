@@ -26,5 +26,3 @@ tags:
 - [anillo-polinomios](./anillo-polinomios.md)
 - [teo-base-hilbert](./teo-base-hilbert.md)
 
-## Etiquetas
-#ORDENAR referenciar que R[x_1, \ldots, x_{n-1}] \cong R[x_1, \ldots, x_{n-1}][x_n]

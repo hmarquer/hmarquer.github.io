@@ -24,5 +24,3 @@ tags:
 - [exponente-conjugado](./exponente-conjugado.md)
 - [norma-var-aleatoria](./norma-var-aleatoria.md)
 
-## Etiquetas
-#DEMOSTRACIÓN mirar quiz de moodle

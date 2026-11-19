@@ -37,5 +37,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [teo-formula-integral-cauchy-disco](./teo-formula-integral-cauchy-disco.md)
 
-## Etiquetas
-#ORDENAR referenciar ejercicio 38 hoja 2 de variable compleja I

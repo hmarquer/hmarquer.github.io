@@ -24,5 +24,3 @@ tags:
 - [nucleo-fejer](./nucleo-fejer.md)
 - [nucleo-sumabilidad](./nucleo-sumabilidad.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -28,5 +28,3 @@ tags:
 - [prop-cuerpo-fracciones-racionales](./prop-cuerpo-fracciones-racionales.md)
 - [subanillo](./subanillo.md)
 
-## Etiquetas
-#COMPLETAR : mirar álgebra conmutativa para otro ejemplo más exótico

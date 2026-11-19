@@ -28,5 +28,3 @@ tags:
 - [exponente-conjugado](./exponente-conjugado.md)
 - [norma-lp](./norma-lp.md)
 
-## Etiquetas
-#EJERCICIO 

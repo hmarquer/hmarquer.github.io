@@ -27,5 +27,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [prop-metrica-poincare](./prop-metrica-poincare.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

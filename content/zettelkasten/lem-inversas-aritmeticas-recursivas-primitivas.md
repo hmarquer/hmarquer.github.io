@@ -22,5 +22,3 @@ tags:
 - [fn-recursiva-primitiva](./fn-recursiva-primitiva.md)
 - [lem-minimizacion-acotada-recursiva-primitiva](./lem-minimizacion-acotada-recursiva-primitiva.md)
 
-## Etiquetas
-#COMPLETAR : incluir demostraciones de los otros casos.

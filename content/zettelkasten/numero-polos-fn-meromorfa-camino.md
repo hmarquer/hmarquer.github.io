@@ -13,5 +13,3 @@ backlinks:
 [[numero-polos-fn-meromorfa-camino.pdf]]
 ![[numero-polos-fn-meromorfa-camino.pdf]]
 
-## Etiquetas
-#FALTA 

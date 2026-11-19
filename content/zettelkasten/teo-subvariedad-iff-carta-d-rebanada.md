@@ -26,5 +26,3 @@ tags:
 - [subvariedad-diferenciable](./subvariedad-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

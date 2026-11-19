@@ -24,5 +24,3 @@ tags:
 - [esp-prehilbert](./esp-prehilbert.md)
 - [subesp-vectorial](./subesp-vectorial.md)
 
-## Etiquetas
-#ORDENAR : crear nota y referenciarla

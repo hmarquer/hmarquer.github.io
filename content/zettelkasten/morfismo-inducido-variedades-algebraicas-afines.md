@@ -35,5 +35,3 @@ tags:
 - [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-ralgebras](./morfismo-ralgebras.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

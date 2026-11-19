@@ -24,5 +24,3 @@ tags:
 - [esp-normado-reflexivo](./esp-normado-reflexivo.md)
 - [norma-uniformemente-convexa](./norma-uniformemente-convexa.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

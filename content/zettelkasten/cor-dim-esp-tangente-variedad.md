@@ -34,5 +34,3 @@ tags:
 - [teo-esp-tangente-rn-isomorfo-rn](./teo-esp-tangente-rn-isomorfo-rn.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 
-## Etiquetas
-#ORDENAR referenciar dimensión de un espacio vectorial

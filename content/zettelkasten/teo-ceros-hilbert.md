@@ -34,5 +34,3 @@ tags:
 - [ideal-anulacion](./ideal-anulacion.md)
 - [radical-ideal](./radical-ideal.md)
 
-## Etiquetas
-#ORDENAR : referenciar

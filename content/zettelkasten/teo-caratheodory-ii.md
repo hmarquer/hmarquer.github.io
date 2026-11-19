@@ -40,5 +40,3 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [teo-caratheodory-i](./teo-caratheodory-i.md)
 
-## Etiquetas
-#REVISAR : la demostración está escrita por IA

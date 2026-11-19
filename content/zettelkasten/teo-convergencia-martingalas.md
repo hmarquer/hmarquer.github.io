@@ -34,8 +34,3 @@ tags:
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [teo-esp-lp-banach](./teo-esp-lp-banach.md)
 
-## Etiquetas
-#ORDENAR referenciar
-#COMPLETAR hay foto
-#COMPLETAR no hay foto
-#COMPLETAR hay fotos

@@ -22,5 +22,3 @@ tags:
 - [bola-abierta](./bola-abierta.md)
 - [fn-holomorfa](./fn-holomorfa.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

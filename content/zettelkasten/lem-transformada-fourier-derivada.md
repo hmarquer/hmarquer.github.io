@@ -26,6 +26,3 @@ tags:
 - [fn-derivable](./fn-derivable.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 
-## Etiquetas
-#ORDENAR referenciar C_0
-#ORDENAR referenciar integración por partes

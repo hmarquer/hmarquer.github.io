@@ -20,5 +20,3 @@ backlinks:
 - [grupo](./grupo.md)
 - [subgrupo-normal](./subgrupo-normal.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

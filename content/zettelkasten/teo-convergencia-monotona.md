@@ -40,6 +40,3 @@ tags:
 - [fn-medible](./fn-medible.md)
 - [medida](./medida.md)
 
-## Etiquetas
-#ORDENAR referenciar de donde sacamos esto
-#DEMOSTRACIÓN 

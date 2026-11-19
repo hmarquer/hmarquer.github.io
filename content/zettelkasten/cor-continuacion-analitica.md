@@ -26,5 +26,3 @@ tags:
 ## Referencias
 - [dominio](./dominio.md)
 
-## Etiquetas
-#DEMOSTRACIÓN por el principio de los ceros aislados

@@ -29,5 +29,3 @@ tags:
 ## Referencias
 - [anillo](./anillo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

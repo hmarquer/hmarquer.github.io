@@ -30,5 +30,3 @@ tags:
 - [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
 - [ideal](./ideal.md)
 
-## Etiquetas
-#ORDENAR : referenciar

@@ -28,5 +28,3 @@ backlinks:
 - [esp-medida](./esp-medida.md)
 - [fn-integrable](./fn-integrable.md)
 
-## Etiquetas
-#ORDENAR : referenciar

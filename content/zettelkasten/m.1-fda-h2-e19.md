@@ -28,5 +28,3 @@ references:
 ## Referencias
 - [teo-interpolacion-marcinkiewicz](./teo-interpolacion-marcinkiewicz.md)
 
-## Etiquetas
-#COMPLETAR : añadir figura con gráficas en el mismo eje de coordenadas

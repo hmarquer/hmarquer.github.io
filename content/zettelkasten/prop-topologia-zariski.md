@@ -35,6 +35,3 @@ tags:
 - [suma-ideales](./suma-ideales.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#ORDENAR referenciar estas propiedades
-#EJERCICIO demostrar esto con detalle y demostrar que también sirve con la intersección ¿por qué no funciona con intersecciones infinitas?

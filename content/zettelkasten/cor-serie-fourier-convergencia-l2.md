@@ -24,5 +24,3 @@ tags:
 - [esp-lp](./esp-lp.md)
 - [serie-fourier-l1](./serie-fourier-l1.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

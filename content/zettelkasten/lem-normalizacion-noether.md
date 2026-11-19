@@ -34,8 +34,3 @@ tags:
 - [extension-anillos-entera](./extension-anillos-entera.md)
 - [independencia-algebraica](./independencia-algebraica.md)
 
-## Etiquetas
-#REVISAR no entiendo nada
-#ORDENAR : referenciar
-#ORDENAR : referciar
-#REVISAR 

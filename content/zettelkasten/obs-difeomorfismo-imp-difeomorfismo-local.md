@@ -22,5 +22,3 @@ tags:
 - [difeomorfismo](./difeomorfismo.md)
 - [difeomorfismo-local](./difeomorfismo-local.md)
 
-## Etiquetas
-#EJERCICIO demostrarlo

@@ -30,5 +30,3 @@ tags:
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

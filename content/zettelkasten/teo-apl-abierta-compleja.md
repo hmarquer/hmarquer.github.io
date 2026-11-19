@@ -32,6 +32,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [teo-ceros-aislados](./teo-ceros-aislados.md)
 
-## Etiquetas
-#ORDENAR : referenciar
-#COMPLETAR se ha liado y no le ha salido

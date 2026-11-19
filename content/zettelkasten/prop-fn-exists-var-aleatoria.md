@@ -24,6 +24,3 @@ tags:
 - [prop-fn-distribucion-var-aleatoria](./prop-fn-distribucion-var-aleatoria.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#EJERCICIO hacer usando Lebesgue-Stieltjes
-#ORDENAR añadir nota de Lebesgue-Stieltjes

@@ -26,5 +26,3 @@ tags:
 - [norma](./norma.md)
 - [norma-uniformemente-convexa](./norma-uniformemente-convexa.md)
 
-## Etiquetas
-#EJERCICIO probarlo

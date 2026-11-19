@@ -24,6 +24,3 @@ tags:
 - [ideal](./ideal.md)
 - [nilpotencia-anillos](./nilpotencia-anillos.md)
 
-## Etiquetas
-#DEMOSTRACIÓN de las fotos y en parte EJERCICIO
-#EJERCICIO 

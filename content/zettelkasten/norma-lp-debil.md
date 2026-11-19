@@ -34,5 +34,3 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [relacion-orden](./relacion-orden.md)
 
-## Etiquetas
-#COMPLETAR : la igualdad requiere prueba

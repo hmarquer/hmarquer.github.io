@@ -30,5 +30,3 @@ tags:
 - [ideal](./ideal.md)
 - [ideal-primo](./ideal-primo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

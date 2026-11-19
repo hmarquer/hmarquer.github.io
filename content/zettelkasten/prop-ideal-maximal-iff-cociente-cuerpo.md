@@ -35,5 +35,3 @@ tags:
 - [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)
 - [teo-correspondencia-ideales-cociente](./teo-correspondencia-ideales-cociente.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

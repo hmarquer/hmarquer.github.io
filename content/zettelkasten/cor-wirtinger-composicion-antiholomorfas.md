@@ -24,5 +24,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -33,5 +33,3 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [operador-hardy-littlewood](./operador-hardy-littlewood.md)
 
-## Etiquetas
-#REVISAR 

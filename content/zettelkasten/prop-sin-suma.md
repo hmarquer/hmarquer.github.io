@@ -11,5 +11,3 @@ labels:
 [[prop-sin-suma.pdf]]
 ![[prop-sin-suma.pdf]]
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -31,5 +31,3 @@ tags:
 - [identidad-polarizacion](./identidad-polarizacion.md)
 - [prop-proyeccion-ortogonal-convexo-cerrado](./prop-proyeccion-ortogonal-convexo-cerrado.md)
 
-## Etiquetas
-#DEMOSTRACIÓN de la foto del 30/09/2025

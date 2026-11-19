@@ -54,5 +54,3 @@ tags:
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 
-## Etiquetas
-#ORDENAR referenciar ejercicio de variable real

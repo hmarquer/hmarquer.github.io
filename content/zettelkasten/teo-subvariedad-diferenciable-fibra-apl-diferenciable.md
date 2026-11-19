@@ -38,6 +38,3 @@ tags:
 - [val-regular-apl-diferenciable](./val-regular-apl-diferenciable.md)
 - [variedad-diferenciable](./variedad-diferenciable.md)
 
-## Etiquetas
-#REVISAR 
-#DEMOSTRACIÓN 

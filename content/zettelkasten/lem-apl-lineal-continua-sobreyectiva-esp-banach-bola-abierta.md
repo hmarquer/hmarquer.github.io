@@ -30,5 +30,3 @@ tags:
 - [esp-apl-lineales-continuas](./esp-apl-lineales-continuas.md)
 - [esp-banach](./esp-banach.md)
 
-## Etiquetas
-#COMPLETAR de los apuntes de moodle hojas 7-9 del tema 4.

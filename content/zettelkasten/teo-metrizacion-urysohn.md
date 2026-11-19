@@ -26,5 +26,3 @@ tags:
 - [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [frechet-topologia](./frechet-topologia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

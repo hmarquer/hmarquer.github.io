@@ -22,5 +22,3 @@ backlinks:
 - [medida-inducida](./medida-inducida.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -22,5 +22,3 @@ backlinks:
 - [fn-clase-ck](./fn-clase-ck.md)
 - [fn-medible](./fn-medible.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

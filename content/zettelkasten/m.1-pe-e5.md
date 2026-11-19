@@ -13,5 +13,3 @@ tags:
 [[m.1-pe-e5.pdf]]
 ![[m.1-pe-e5.pdf]]
 
-## Etiquetas
-#EJERCICIO 

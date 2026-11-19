@@ -30,5 +30,3 @@ tags:
 - [obs-aut-disco-unidad-fija-origen-imp-rotacion](./obs-aut-disco-unidad-fija-origen-imp-rotacion.md)
 - [teo-schwarz-pick](./teo-schwarz-pick.md)
 
-## Etiquetas
-#REVISAR a lo mejor se está asumiendo que $f \colon \mathbb{D} \to \bar{\mathbb{D}}$ porque

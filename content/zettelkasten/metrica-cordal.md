@@ -22,5 +22,3 @@ tags:
 - [metrica](./metrica.md)
 - [plano-complejo-extendido](./plano-complejo-extendido.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

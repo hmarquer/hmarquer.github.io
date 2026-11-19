@@ -32,6 +32,3 @@ tags:
 - [fn-integrable](./fn-integrable.md)
 - [sigma-algebra](./sigma-algebra.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 
-#EJERCICIO Si $\mathcal{F} = \sigma (A_1, \dots, A_n)$ es fácil, en el caso general es difícil.

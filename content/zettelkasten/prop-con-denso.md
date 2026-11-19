@@ -29,5 +29,3 @@ tags:
 - [con-denso](./con-denso.md)
 - [esp-topologico](./esp-topologico.md)
 
-## Etiquetas
-#ORDENAR : a lo mejor referenciar que $D \subset \bar{D}$

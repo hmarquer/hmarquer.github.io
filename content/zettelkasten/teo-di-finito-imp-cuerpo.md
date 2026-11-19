@@ -18,5 +18,3 @@ references:
 - [cuerpo](./cuerpo.md)
 - [dominio-integridad](./dominio-integridad.md)
 
-## Etiquetas
-#DEMOSTRACIÓN mirar ej 1 hoja 0 algebra conmutativa

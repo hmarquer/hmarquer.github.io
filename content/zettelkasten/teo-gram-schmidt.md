@@ -28,5 +28,3 @@ tags:
 - [sistema-ortonormal](./sistema-ortonormal.md)
 - [subesp-vectorial-generado](./subesp-vectorial-generado.md)
 
-## Etiquetas
-#COMPLETAR de las fotos

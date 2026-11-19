@@ -26,5 +26,3 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 - [varianza](./varianza.md)
 
-## Etiquetas
-#EJERCICIO 

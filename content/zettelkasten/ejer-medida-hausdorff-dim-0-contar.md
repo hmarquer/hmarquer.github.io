@@ -20,5 +20,3 @@ tags:
 ## Referencias
 - [medida-hausdorff](./medida-hausdorff.md)
 
-## Etiquetas
-#ORDENAR : añadir nota para la medida de contar

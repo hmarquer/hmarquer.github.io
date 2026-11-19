@@ -11,5 +11,3 @@ labels:
 [[cor-reflexion-schwarz-disco-unidad.pdf]]
 ![[cor-reflexion-schwarz-disco-unidad.pdf]]
 
-## Etiquetas
-#DEMOSTRACIÓN 

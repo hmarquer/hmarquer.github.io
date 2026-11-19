@@ -28,5 +28,3 @@ tags:
 - [lem-aprox-indicatriz-continua-norma-lp](./lem-aprox-indicatriz-continua-norma-lp.md)
 - [teo-fn-continua-soporte-compacto-denso-lp](./teo-fn-continua-soporte-compacto-denso-lp.md)
 
-## Etiquetas
-#COMPLETAR procede el dibujo de la foto

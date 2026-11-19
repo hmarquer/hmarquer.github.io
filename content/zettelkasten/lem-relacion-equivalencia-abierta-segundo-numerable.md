@@ -28,5 +28,3 @@ tags:
 - [topologia](./topologia.md)
 - [topologia-cociente](./topologia-cociente.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

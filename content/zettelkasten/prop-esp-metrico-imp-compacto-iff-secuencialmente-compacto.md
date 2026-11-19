@@ -20,5 +20,3 @@ references:
 - [con-secuencialmente-compacto](./con-secuencialmente-compacto.md)
 - [esp-metrico](./esp-metrico.md)
 
-## Etiquetas
-#DEMOSTRACIÓN : falta

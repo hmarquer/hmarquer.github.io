@@ -22,5 +22,3 @@ tags:
 - [fn-orlicz](./fn-orlicz.md)
 - [transformada-legendre](./transformada-legendre.md)
 
-## Etiquetas
-#COMPLETAR : justificar esto más

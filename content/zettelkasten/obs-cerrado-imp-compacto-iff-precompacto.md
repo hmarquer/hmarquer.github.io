@@ -26,5 +26,3 @@ tags:
 - [con-cerrado](./con-cerrado.md)
 - [precompacidad](./precompacidad.md)
 
-## Etiquetas
-#ORDENAR : referenciar $A$ cerrado $\implies \bar{A} = A$

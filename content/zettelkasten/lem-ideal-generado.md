@@ -28,5 +28,3 @@ tags:
 - [anillo](./anillo.md)
 - [ideal-generado](./ideal-generado.md)
 
-## Etiquetas
-#EJERCICIO 
