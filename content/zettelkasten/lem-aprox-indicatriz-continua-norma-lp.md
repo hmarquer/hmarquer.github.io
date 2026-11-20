@@ -29,5 +29,3 @@ tags:
 - [norma-lp](./norma-lp.md)
 - [sigma-algebra-borel](./sigma-algebra-borel.md)
 
-## Etiquetas
-#ORDENAR crear nota de medida regular y referenciar

@@ -12,6 +12,7 @@ references:
 backlinks:
   - convergencia-casi-segura-imp-probabilidad
   - convergencia-probabilidad-imp-subsucesion-casi-segura
+  - lem-convergencia-monotona-esperanza-condicionada
   - ley-fuerte-grandes-numeros
   - obs-convergencia-casi-segura-carac
   - prop-borel-cantelli-iii

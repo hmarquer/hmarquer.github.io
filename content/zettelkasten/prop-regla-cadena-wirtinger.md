@@ -26,5 +26,3 @@ tags:
 - [lem-derivadas-parciales-wirtinger](./lem-derivadas-parciales-wirtinger.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 
-## Etiquetas
-#ORDENAR referenciar

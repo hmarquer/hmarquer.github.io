@@ -20,5 +20,3 @@ references:
 - [grupo](./grupo.md)
 - [grupo-lineal](./grupo-lineal.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

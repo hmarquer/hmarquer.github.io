@@ -2,8 +2,8 @@
 title: 'Teorema de interpolación de Marcinkiewicz'
 filename: 'teo-interpolacion-marcinkiewicz'
 created: '2026-11-15T18:46:47.945359771+00:00'
-last_edit_date: '2026-11-15T20:29:55.813611877+00:00'
-last_build_date_pdf: '2026-11-15T21:12:49.283219684+00:00'
+last_edit_date: '2026-11-20T17:05:07.030609897+00:00'
+last_build_date_pdf: '2026-11-20T18:55:31.259877386+00:00'
 labels:
   - teo:interpolacion-marcinkiewicz
 references:
@@ -13,11 +13,12 @@ references:
   - operador-tipo-debil
   - operador-tipo-fuerte
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - m.1-fda-h2-e19
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[teo-interpolacion-marcinkiewicz.pdf]]

@@ -46,7 +46,3 @@ tags:
 - [prop-varianza-sum-var-aleatorias-indep](./prop-varianza-sum-var-aleatorias-indep.md)
 - [teo-fubini](./teo-fubini.md)
 
-## Etiquetas
-#EJERCICIO se hace estimando la serie por la integral
-#EJERCICIO hacerlo
-#EJERCICIO hacerlo de forma rigurosa

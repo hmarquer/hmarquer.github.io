@@ -22,7 +22,7 @@ backlinks:
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - longitud-camino
   - media-integral
-  - operador-maximal
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - prop-desigualdad-chebyshev-general
   - teo-derivacion-bajo-el-signo-integral
 projects:
@@ -30,7 +30,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

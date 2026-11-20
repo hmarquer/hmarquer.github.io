@@ -30,5 +30,3 @@ tags:
 - [integral](./integral.md)
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 
-## Etiquetas
-#ORDENAR referenciar TVM

@@ -28,6 +28,3 @@ tags:
 - [subestructura-generada](./subestructura-generada.md)
 - [termino](./termino.md)
 
-## Etiquetas
-#ORDENAR : arreglar formato y referencias
-#REVISAR y ORDENAR: arreglar formato y referencias

@@ -28,5 +28,3 @@ tags:
 - [dominio-ideales-principales](./dominio-ideales-principales.md)
 - [ideal](./ideal.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

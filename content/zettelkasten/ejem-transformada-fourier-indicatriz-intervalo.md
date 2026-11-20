@@ -24,5 +24,3 @@ tags:
 - [soporte-cerrado](./soporte-cerrado.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 
-## Etiquetas
-#REVISAR : $f^{\wedge} \in \mathcal{L}^1(\R)$?

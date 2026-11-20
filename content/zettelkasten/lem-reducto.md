@@ -34,5 +34,3 @@ tags:
 - [satisfaccion](./satisfaccion.md)
 - [termino](./termino.md)
 
-## Etiquetas
-#DEMOSTRACIÓN ejercicio 11 de la hoja 1 de logica matematica

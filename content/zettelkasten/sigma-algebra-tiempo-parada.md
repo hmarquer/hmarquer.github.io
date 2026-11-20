@@ -19,8 +19,10 @@ backlinks:
   - teo-parada-opcional
 projects:
   - 3.2-probabilidad-ii
+  - m.1-procesos-estocasticos
 tags:
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema3
 ---
 
 [[sigma-algebra-tiempo-parada.pdf]]

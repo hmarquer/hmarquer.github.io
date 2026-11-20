@@ -22,5 +22,3 @@ backlinks:
 - [con-secuencialmente-cerrado](./con-secuencialmente-cerrado.md)
 - [esp-topologico](./esp-topologico.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

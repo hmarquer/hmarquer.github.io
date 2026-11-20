@@ -29,5 +29,3 @@ tags:
 - [lem-convergencia-lp-traslacion](./lem-convergencia-lp-traslacion.md)
 - [serie-fourier-l1](./serie-fourier-l1.md)
 
-## Etiquetas
-#ORDENAR : referenciar identidad de Euler

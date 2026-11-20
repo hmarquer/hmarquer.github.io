@@ -15,7 +15,7 @@ references:
 projects:
   - m.1-curvas-algebraicas
 tags:
-  - m.1-curvas-algebraicas/tema1-ZK-1
+  - curvas-algebraicas/tema1-ZK-1
 ---
 
 [[ejer-anillo-noetheriano-subanillo-no-noetheriano.pdf]]
@@ -28,5 +28,3 @@ tags:
 - [prop-cuerpo-fracciones-racionales](./prop-cuerpo-fracciones-racionales.md)
 - [subanillo](./subanillo.md)
 
-## Etiquetas
-#COMPLETAR : mirar álgebra conmutativa para otro ejemplo más exótico

@@ -24,5 +24,3 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

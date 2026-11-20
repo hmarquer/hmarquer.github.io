@@ -38,6 +38,3 @@ tags:
 - [variable-simple-termino-real-ficticia](./variable-simple-termino-real-ficticia.md)
 - [variables](./variables.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 
-#REVISAR DEMOSTRACIÓN

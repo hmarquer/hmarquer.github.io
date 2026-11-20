@@ -26,5 +26,3 @@ backlinks:
 - [con-totalmente-acotado](./con-totalmente-acotado.md)
 - [esp-metrico](./esp-metrico.md)
 
-## Etiquetas
-#ORDENAR : referenciar

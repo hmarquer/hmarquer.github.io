@@ -20,7 +20,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
-  - m.1-curvas-algebraicas/tema1-ZK-1
+  - curvas-algebraicas/tema1-ZK-1
 ---
 
 [[ejems-anillos-noetherianos.pdf]]
@@ -36,5 +36,3 @@ tags:
 - [prop-anillo-z-dominio-ideales-principales](./prop-anillo-z-dominio-ideales-principales.md)
 - [teo-cuerpo-imp-polinomios-dip](./teo-cuerpo-imp-polinomios-dip.md)
 
-## Etiquetas
-#ORDENAR referenciar resultado que lo implique

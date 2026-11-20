@@ -21,7 +21,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1-ZK-2
+  - curvas-algebraicas/tema1-ZK-2
 ---
 
 [[prop-topologia-zariski.pdf]]
@@ -35,6 +35,3 @@ tags:
 - [suma-ideales](./suma-ideales.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#ORDENAR referenciar estas propiedades
-#EJERCICIO demostrar esto con detalle y demostrar que también sirve con la intersección ¿por qué no funciona con intersecciones infinitas?

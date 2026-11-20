@@ -3,7 +3,7 @@ title: 'Fundamentos de análisis: Entrega 2'
 filename: 'm.1-fda-e2'
 created: '2026-11-01T13:06:16.553653223+00:00'
 last_edit_date: '2026-11-15T04:30:55.361286504+00:00'
-last_build_date_pdf: '2026-11-15T15:06:11.208861919+00:00'
+last_build_date_pdf: '2026-11-16T12:14:22.313465045+00:00'
 labels:
   - h2e10
   - h2e12
@@ -36,7 +36,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
+  - fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
 ---
 
 [[m.1-fda-e2.pdf]]
@@ -61,7 +61,3 @@ tags:
 - [norma-lp-debil](./norma-lp-debil.md)
 - [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 
-## Etiquetas
-#ORDENAR : referenciar el resultado
-#ORDENAR : meter figura con dibujo de E, p_0 y la sucesión p_n y q y p_N
-#COMPLETAR : mirar solución de Miguel

@@ -14,14 +14,18 @@ backlinks:
   - con-acotado
   - con-totalmente-acotado
   - cor-cubrimiento-landau-debil
+  - cor-operador-maximal-bolas-tipo-fuerte
   - cor-principio-subordinacion-invariante
   - cor-subordinacion-dominio-simplemente-conexo
   - ejem-propiedad-vq-bolas
   - lem-apl-lineal-continua-sobreyectiva-esp-banach-bola-abierta
   - lem-carac-densidad-esp-metrizable
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-cubrimiento-vitali
+  - lem-operador-maximal-bolas-medible
   - m.1-pe-e4
   - obs-metrica-pseudohiperbolica-induce-topologia-usual
+  - operador-maximal-centrado
   - prop-carac-con-abiertos-esp-metrico
   - prop-hilbert-imp-bola-estrict-convexa
   - teo-cubrimiento-bloch
@@ -35,9 +39,9 @@ projects:
   - 4-teoria-descriptiva-de-conjuntos
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
   - teoria-descriptiva-de-conjuntos/tema1
   - topologia/tema1-1
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[bola-abierta.pdf]]

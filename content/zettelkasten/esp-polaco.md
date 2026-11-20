@@ -16,7 +16,7 @@ projects:
   - 4-teoria-descriptiva-de-conjuntos
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema2
+  - procesos-estocasticos/tema2
   - teoria-descriptiva-de-conjuntos/tema1
 ---
 

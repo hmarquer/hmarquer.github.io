@@ -12,6 +12,8 @@ references:
   - fn-medible
   - proceso-estocastico
 backlinks:
+  - cadena-markov
+  - lem-carac-cadena-markov
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala
   - submartingala
@@ -20,8 +22,8 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema1
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema1
 ---
 
 [[proceso-estocastico-adaptado.pdf]]

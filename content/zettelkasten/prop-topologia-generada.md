@@ -22,5 +22,3 @@ tags:
 - [subbase-topologia](./subbase-topologia.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

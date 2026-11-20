@@ -30,6 +30,3 @@ tags:
 - [regla-barrow-compleja](./regla-barrow-compleja.md)
 - [teo-fn-holomorfa-imp-exists-primitiva](./teo-fn-holomorfa-imp-exists-primitiva.md)
 
-## Etiquetas
-#TODO estudiar la relación con el teorema de Green
-#REVISAR esta demostración

@@ -28,5 +28,3 @@ tags:
 - [base-topologia](./base-topologia.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#TODO conviene ver alguna cosa más de esto: dos topologías con la misma base son iguales.

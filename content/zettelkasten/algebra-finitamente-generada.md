@@ -16,7 +16,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
-  - m.1-curvas-algebraicas/tema0-ZK-3
+  - curvas-algebraicas/tema0-ZK-3
 ---
 
 [[algebra-finitamente-generada.pdf]]

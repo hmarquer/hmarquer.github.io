@@ -24,5 +24,3 @@ tags:
 - [con-abierto-esp-metrico](./con-abierto-esp-metrico.md)
 - [esp-metrico](./esp-metrico.md)
 
-## Etiquetas
-#TODO Añadir demostración.

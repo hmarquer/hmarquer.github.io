@@ -23,7 +23,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema3
-  - m.1-curvas-algebraicas/tema1-ZK-2
+  - curvas-algebraicas/tema1-ZK-2
 ---
 
 [[prop-con-algebraico-afin-ideal.pdf]]
@@ -38,5 +38,3 @@ tags:
 - [ideal](./ideal.md)
 - [lem-con-ceros-ideal-generado](./lem-con-ceros-ideal-generado.md)
 
-## Etiquetas
-#ORDENAR : referenciar al teorema de los ceros de Hilbert

@@ -21,5 +21,3 @@ tags:
 [[teo-recursion.pdf]]
 ![[teo-recursion.pdf]]
 
-## Etiquetas
-#REVISAR 

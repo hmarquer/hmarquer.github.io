@@ -3,7 +3,7 @@ title: 'Teo esp lp debil esp cuasinormado'
 filename: 'teo-esp-lp-debil-esp-cuasinormado'
 created: '2026-11-10T18:19:46.531189229+00:00'
 last_edit_date: '2026-11-11T15:21:49.398169999+00:00'
-last_build_date_pdf: '2026-11-11T15:21:56.110479148+00:00'
+last_build_date_pdf: '2026-11-16T12:14:15.874140577+00:00'
 labels:
   - dem:esp-lp-debil-esp-cuasinormado:i
   - dem:esp-lp-debil-esp-cuasinormado:ii
@@ -22,7 +22,7 @@ backlinks:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[teo-esp-lp-debil-esp-cuasinormado.pdf]]

@@ -27,5 +27,3 @@ tags:
 - [norma](./norma.md)
 - [normas-equivalentes](./normas-equivalentes.md)
 
-## Etiquetas
-#ORDENAR : referenciar

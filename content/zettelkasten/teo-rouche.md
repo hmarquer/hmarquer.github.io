@@ -16,6 +16,3 @@ references:
 ## Referencias
 - [fn-holomorfa](./fn-holomorfa.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 
-#ORDENAR : referenciar las definiciones

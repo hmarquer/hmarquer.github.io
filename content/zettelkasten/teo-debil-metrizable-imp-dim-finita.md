@@ -32,5 +32,3 @@ tags:
 - [topologia-debil](./topologia-debil.md)
 - [topologia-metrica](./topologia-metrica.md)
 
-## Etiquetas
-#ORDENAR referenciar

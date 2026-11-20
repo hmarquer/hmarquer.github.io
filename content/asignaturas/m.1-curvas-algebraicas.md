@@ -2,8 +2,8 @@
 title: 'Curvas algebraicas'
 name: 'm.1-curvas-algebraicas'
 created: '2026-08-31T09:38:45.402249047+00:00'
-last_edit_date: '2026-11-04T11:31:16.865266199+00:00'
-last_build_date_pdf: '2026-11-05T04:13:00.919144642+00:00'
+last_edit_date: '2026-11-20T17:05:07.031161044+00:00'
+last_build_date_pdf: '2026-11-20T18:56:53.037804385+00:00'
 inclusions:
   - algebra
   - algebra-finitamente-generada
@@ -121,7 +121,7 @@ inclusions:
   - teo-unicidad-descomposicion-con-algebraico-afin-irreducibles
   - teo-universal-anillo-cociente
 tags:
-  - m.1-curvas-algebraicas
+  - curvas-algebraicas
 ---
 
 [[m.1-curvas-algebraicas.pdf]]
@@ -271,13 +271,3 @@ tags:
 - [dim-con-algebraico-afin](./dim-con-algebraico-afin.md)
 - [dim-krull](./dim-krull.md)
 
-## Etiquetas
-#EJERCICIO 
-#REVISAR : no sé qué significa que un espacio topológico sea irreducible (solo una componente conexa quizás?)
-#REVISAR 
-#REVISAR : esto no lo entiendo
-#DEMOSTRACIÓN :
-#ORDENAR : revisar y hacer nota
-#COMPLETAR con las curvas de Fermat y Weierstrass
-#ORDENAR : lo he metido antes (creo)
-#ORDENAR : escribir como corolario de la prop:anillo-noetheriano-imp-cociente-noetheriano

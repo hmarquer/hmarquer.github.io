@@ -24,5 +24,3 @@ tags:
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [var-aleatoria-centrada](./var-aleatoria-centrada.md)
 
-## Etiquetas
-#ORDENAR referenciar

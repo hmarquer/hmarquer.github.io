@@ -24,5 +24,3 @@ tags:
 - [ideal-generado](./ideal-generado.md)
 - [producto-ideales](./producto-ideales.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

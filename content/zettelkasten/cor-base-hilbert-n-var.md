@@ -15,7 +15,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema2
-  - m.1-curvas-algebraicas/tema1-ZK-1
+  - curvas-algebraicas/tema1-ZK-1
 ---
 
 [[cor-base-hilbert-n-var.pdf]]
@@ -26,5 +26,3 @@ tags:
 - [anillo-polinomios](./anillo-polinomios.md)
 - [teo-base-hilbert](./teo-base-hilbert.md)
 
-## Etiquetas
-#ORDENAR referenciar que R[x_1, \ldots, x_{n-1}] \cong R[x_1, \ldots, x_{n-1}][x_n]

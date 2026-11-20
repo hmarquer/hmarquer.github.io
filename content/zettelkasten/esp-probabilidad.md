@@ -2,13 +2,15 @@
 title: 'Espacio de probabilidad'
 filename: 'esp-probabilidad'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.586736652+00:00'
-last_build_date_pdf: '2026-09-15T23:12:54.391801019+00:00'
+last_edit_date: '2026-11-20T17:05:07.027754725+00:00'
+last_build_date_pdf: '2026-11-20T18:56:27.015096989+00:00'
 labels:
   - defn:esp-probabilidad
 references:
+  - esp-medible
   - esp-medida
   - esp-medida-finito
+  - medida-probabilidad
 backlinks:
   - desigualdad-jensen
   - desigualdad-jensen-condicional
@@ -28,7 +30,11 @@ backlinks:
   - lem-borel-cantelli-ii
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fatou-probabilidades
+  - lem-norma-lp-esperanza-condicionada
+  - lem-propiedad-torre-esperanza-condicionada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-var-aleatorias-indep-iff-sigma-algebras-indep
   - m.1-pe-e1
@@ -37,6 +43,7 @@ backlinks:
   - mindependencia-sigma-algebras
   - mindependencia-sucesos
   - mindependencia-var-aleatorias
+  - probabilidad-condicionada-sigma-algebra
   - probabilidad-total
   - proceso-estocastico
   - proceso-estocastico-adaptado
@@ -63,6 +70,8 @@ tags:
 ![[esp-probabilidad.pdf]]
 
 ## Referencias
+- [esp-medible](./esp-medible.md)
 - [esp-medida](./esp-medida.md)
 - [esp-medida-finito](./esp-medida-finito.md)
+- [medida-probabilidad](./medida-probabilidad.md)
 

@@ -17,8 +17,18 @@ references:
   - teo-radon-nikodym
 backlinks:
   - desigualdad-jensen-condicional
+  - lem-carac-cadena-markov
+  - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
+  - lem-propiedad-torre-esperanza-condicionada
+  - lem-propiedades-cadena-markov
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1
   - martingala
@@ -33,8 +43,8 @@ projects:
   - m.1-procesos-estocasticos
 tags:
   - aprendizaje-automatico/apendice
-  - m.1-procesos-estocasticos/tema0
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema0
 ---
 
 [[esperanza-condicionada-sigma-algebra.pdf]]
@@ -50,6 +60,3 @@ tags:
 - [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
-## Etiquetas
-#EJERCICIO ver que $\nu$ es una medida con signo
-#EJERCICIO ver que si $Z$ es simple, se tiene por linealidad de la integral

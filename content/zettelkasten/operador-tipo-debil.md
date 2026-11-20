@@ -13,14 +13,17 @@ references:
   - norma-lp
   - norma-lp-debil
 backlinks:
+  - cor-acotacion-operador-maximal-centrado
+  - cor-operador-maximal-bolas-tipo-fuerte
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
   - teo-interpolacion-marcinkiewicz
+  - teo-operador-maximal-bolas-tipo-debil-1-1
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
+  - trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[operador-tipo-debil.pdf]]

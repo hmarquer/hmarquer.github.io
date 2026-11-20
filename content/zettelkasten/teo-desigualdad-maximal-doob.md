@@ -20,5 +20,3 @@ tags:
 ## Referencias
 - [submartingala](./submartingala.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

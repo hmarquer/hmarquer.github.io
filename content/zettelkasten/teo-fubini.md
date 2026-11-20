@@ -29,5 +29,3 @@ backlinks:
 - [fn-integrable](./fn-integrable.md)
 - [medida-sigma-finita](./medida-sigma-finita.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

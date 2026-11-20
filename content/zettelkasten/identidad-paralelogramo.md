@@ -31,5 +31,3 @@ tags:
 - [norma-inducida](./norma-inducida.md)
 - [prod-interno](./prod-interno.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

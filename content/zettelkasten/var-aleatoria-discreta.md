@@ -10,7 +10,6 @@ references:
   - esp-probabilidad
   - var-aleatoria
 backlinks:
-  - cadena-markov
   - fn-generatriz-probabilidad
   - fn-masa
 projects:

@@ -32,5 +32,3 @@ references:
 - [polo](./polo.md)
 - [residuo](./residuo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

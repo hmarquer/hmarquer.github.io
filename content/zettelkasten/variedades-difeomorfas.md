@@ -29,5 +29,3 @@ tags:
 - [variedad-diferenciable](./variedad-diferenciable.md)
 - [variedades-difeomorfas](./variedades-difeomorfas.md)
 
-## Etiquetas
-#EJERCICIO 

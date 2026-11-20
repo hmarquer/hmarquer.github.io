@@ -24,5 +24,3 @@ tags:
 - [morfismo-grupos](./morfismo-grupos.md)
 - [primer-grupo-fundamental](./primer-grupo-fundamental.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

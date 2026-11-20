@@ -9,5 +9,3 @@ last_build_date_pdf: '2026-09-15T23:12:54.584202243+00:00'
 [[seno-topologo.pdf]]
 ![[seno-topologo.pdf]]
 
-## Etiquetas
-#FALTA : Definición de seno topólogo

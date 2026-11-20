@@ -16,7 +16,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema0-ZK-6
+  - curvas-algebraicas/tema0-ZK-6
 ---
 
 [[elemento-algebraico-sobre-anillo.pdf]]

@@ -15,6 +15,7 @@ backlinks:
   - esperanza-condicionada-sigma-algebra
   - fn-caracteristica-var-aleatoria
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-ley-esperanza-total
   - ley-debil-grandes-numeros
   - ley-fuerte-grandes-numeros
   - m.1-pe-e1

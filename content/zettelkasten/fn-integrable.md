@@ -15,7 +15,16 @@ backlinks:
   - desigualdad-jensen-condicional
   - esperanza
   - fn-densidad
+  - fn-localmente-integrable
+  - lem-convergencia-monotona-esperanza-condicionada
+  - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fn-integrable-iff-lim-colas-0
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
+  - lem-propiedad-torre-esperanza-condicionada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-transformada-fourier-convolucion
   - ley-debil-grandes-numeros
@@ -28,6 +37,7 @@ backlinks:
   - teo-fubini
   - teo-fundamental-calculo
   - teo-medida-inducida-integral-fn-medible
+  - teo-operador-maximal-bolas-tipo-debil-1-1
   - varianza
 projects:
   - 3.2-probabilidad-ii

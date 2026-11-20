@@ -26,6 +26,3 @@ tags:
 - [lem-transformada-fourier-derivada](./lem-transformada-fourier-derivada.md)
 - [transformada-fourier-l1](./transformada-fourier-l1.md)
 
-## Etiquetas
-#ORDENAR referenciar C_0
-#EJERCICIO 

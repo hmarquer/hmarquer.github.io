@@ -33,5 +33,3 @@ tags:
 ## Referencias
 - [metrica](./metrica.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

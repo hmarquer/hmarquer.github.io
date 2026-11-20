@@ -14,7 +14,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema1
+  - fundamentos-de-analisis-matematico/tema1
 ---
 
 [[prop-con-borel-imp-medible-hausdorff.pdf]]

@@ -13,7 +13,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema1
+  - fundamentos-de-analisis-matematico/tema1
 ---
 
 [[cor-dimension-hausdorff-fn-gamma-holder.pdf]]

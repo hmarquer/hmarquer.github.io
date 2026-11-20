@@ -9,5 +9,3 @@ last_build_date_pdf: '2026-09-15T23:12:44.867056315+00:00'
 [[lemniscata.pdf]]
 ![[lemniscata.pdf]]
 
-## Etiquetas
-#FALTA 

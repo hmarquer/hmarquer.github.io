@@ -27,6 +27,7 @@ backlinks:
   - norma-lp-debil
   - obs-consecuencia-semantica-orden-parcial
   - operador-maximal
+  - operador-maximal-centrado
   - prop-carac-anillo-noetheriano
   - prop-medida-exterior-hausdorff
   - prop-medida-exterior-hausdorff-precision
@@ -34,6 +35,7 @@ backlinks:
   - prop-subordinacion-relacion-orden-parcial
   - teo-carac-teorias-semanticas-completas
   - teo-descomposicion-con-algebraico-afin-irreducibles
+  - tiempo-retorno-cadena-markov
   - transformada-legendre
 ---
 

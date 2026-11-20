@@ -11,6 +11,8 @@ references:
   - fn-medible
   - fn-simple
 backlinks:
+  - lem-carac-cadena-markov
+  - lem-factores-medibles-esperanza-condicional
   - prop-fn-simples-denso-lp
   - teo-medida-inducida-integral-fn-medible
 projects:

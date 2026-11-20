@@ -3,7 +3,7 @@ title: 'Teorema de inclusión de $L^p$ en $L^{p, \infty}$'
 filename: 'teo-inclusion-lp-lp-debil'
 created: '2026-10-12T23:00:24.923318254+00:00'
 last_edit_date: '2026-11-11T12:57:46.254578419+00:00'
-last_build_date_pdf: '2026-11-11T12:57:48.579424868+00:00'
+last_build_date_pdf: '2026-11-16T12:14:15.893439240+00:00'
 labels:
   - teo:inclusion-lp-lp-debil
 references:
@@ -17,8 +17,8 @@ projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[teo-inclusion-lp-lp-debil.pdf]]

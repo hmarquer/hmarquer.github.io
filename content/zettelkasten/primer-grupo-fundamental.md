@@ -32,5 +32,3 @@ tags:
 - [lazo](./lazo.md)
 - [prop-clases-homotopia-arcos](./prop-clases-homotopia-arcos.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

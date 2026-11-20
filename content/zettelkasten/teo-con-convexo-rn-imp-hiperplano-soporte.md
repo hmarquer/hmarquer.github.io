@@ -22,5 +22,3 @@ backlinks:
 - [con-convexo](./con-convexo.md)
 - [frontera](./frontera.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

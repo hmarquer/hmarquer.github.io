@@ -20,7 +20,7 @@ backlinks:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/fn-young-transformada-legendre
+  - trabajo-de-fin-de-master/fn-young-transformada-legendre
 ---
 
 [[fn-young.pdf]]
@@ -30,5 +30,3 @@ tags:
 - [convergencia](./convergencia.md)
 - [fn-convexa](./fn-convexa.md)
 
-## Etiquetas
-#REVISAR : a lo mejor alguna se deduce de las demás y, por tanto, sobra

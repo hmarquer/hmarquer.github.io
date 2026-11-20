@@ -43,6 +43,7 @@ backlinks:
   - lem-convergencia-uniforme-compactos-subsubsucesiones
   - lem-dubois-reymond
   - lem-integral-cauchy
+  - lem-operador-maximal-bolas-medible
   - lem-precompacidad-imp-acotacion-uniforme-compactos
   - lem-primer-grupo-fundamental-morfismo-inducido
   - lem-transformada-fourier-continua

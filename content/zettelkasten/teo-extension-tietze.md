@@ -22,5 +22,3 @@ tags:
 - [continuidad](./continuidad.md)
 - [esp-metrizable](./esp-metrizable.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

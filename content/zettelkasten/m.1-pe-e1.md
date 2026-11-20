@@ -22,7 +22,7 @@ references:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/m.1-procesos-estocasticos
+  - procesos-estocasticos/m.1-procesos-estocasticos
 ---
 
 [[m.1-pe-e1.pdf]]

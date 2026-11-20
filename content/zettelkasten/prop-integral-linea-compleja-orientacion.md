@@ -24,5 +24,3 @@ tags:
 - [camino](./camino.md)
 - [camino-opuesto](./camino-opuesto.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

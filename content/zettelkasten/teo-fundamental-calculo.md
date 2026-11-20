@@ -2,8 +2,8 @@
 title: 'Teorema fundamental del Cálculo'
 filename: 'teo-fundamental-calculo'
 created: '2025-02-13 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.870487218+00:00'
-last_build_date_pdf: '2026-11-05T04:06:04.294013890+00:00'
+last_edit_date: '2026-11-20T17:05:07.030440960+00:00'
+last_build_date_pdf: '2026-11-20T18:55:38.116379457+00:00'
 labels:
   - teo:fundamental-calculo
 references:

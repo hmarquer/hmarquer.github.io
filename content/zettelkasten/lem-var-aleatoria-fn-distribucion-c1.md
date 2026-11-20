@@ -32,5 +32,3 @@ tags:
 - [var-aleatoria](./var-aleatoria.md)
 - [var-aleatoria-continua](./var-aleatoria-continua.md)
 
-## Etiquetas
-#ORDENAR referenciar este resultado

@@ -28,6 +28,3 @@ tags:
 - [norma](./norma.md)
 - [prop-apl-lineales-continuas-norma](./prop-apl-lineales-continuas-norma.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 
-#COMPLETAR DEMOSTRACIÓN

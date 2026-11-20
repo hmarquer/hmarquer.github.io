@@ -36,5 +36,3 @@ tags:
 - [teo-isomorfismos-banach](./teo-isomorfismos-banach.md)
 - [topologia-producto](./topologia-producto.md)
 
-## Etiquetas
-#ORDENAR : referenciar que todo espacio normado es de Hausdorff

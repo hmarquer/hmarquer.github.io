@@ -22,5 +22,3 @@ references:
 - [curva-jordan](./curva-jordan.md)
 - [frontera](./frontera.md)
 
-## Etiquetas
-#DEMOSTRACIÓN falta hacerla

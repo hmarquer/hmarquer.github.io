@@ -24,5 +24,3 @@ tags:
 - [convergencia-probabilidad](./convergencia-probabilidad.md)
 - [desigualdad-chebyshev](./desigualdad-chebyshev.md)
 
-## Etiquetas
-#EJERCICIO 

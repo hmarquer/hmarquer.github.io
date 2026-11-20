@@ -34,7 +34,7 @@ projects:
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
   - variable-real/tema1
 ---
 
@@ -54,5 +54,3 @@ tags:
 - [sucesion-cauchy](./sucesion-cauchy.md)
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 
-## Etiquetas
-#ORDENAR referenciar ejercicio de variable real

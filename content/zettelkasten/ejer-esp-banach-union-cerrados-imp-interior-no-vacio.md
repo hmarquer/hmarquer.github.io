@@ -30,5 +30,3 @@ tags:
 - [prop-con-denso-ninguna-parte-carac](./prop-con-denso-ninguna-parte-carac.md)
 - [teo-baire](./teo-baire.md)
 
-## Etiquetas
-#REVISAR : creo que no es cierto

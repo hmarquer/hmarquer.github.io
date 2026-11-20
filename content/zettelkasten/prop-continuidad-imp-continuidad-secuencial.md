@@ -20,5 +20,3 @@ references:
 - [continuidad-secuencial](./continuidad-secuencial.md)
 - [esp-topologico](./esp-topologico.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

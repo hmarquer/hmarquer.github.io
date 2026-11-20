@@ -17,7 +17,7 @@ backlinks:
 projects:
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema1
+  - procesos-estocasticos/tema1
 ---
 
 [[integrabilidad-uniforme.pdf]]

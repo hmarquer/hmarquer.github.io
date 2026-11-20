@@ -24,5 +24,3 @@ tags:
 - [esp-topologico-segundo-numerable](./esp-topologico-segundo-numerable.md)
 - [esp-topologico-separable](./esp-topologico-separable.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

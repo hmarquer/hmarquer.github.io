@@ -26,5 +26,3 @@ tags:
 - [isomorfismo-esp-vec](./isomorfismo-esp-vec.md)
 - [lem-derivacion](./lem-derivacion.md)
 
-## Etiquetas
-#ORDENAR referenciar el teorema de Taylor

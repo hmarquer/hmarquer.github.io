@@ -30,6 +30,3 @@ tags:
 - [prop-abs-integral-linea-compleja-leq-longitud](./prop-abs-integral-linea-compleja-leq-longitud.md)
 - [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
 
-## Etiquetas
-#COMPLETAR hacer el dibujo
-#COMPLETAR con otro dibujo

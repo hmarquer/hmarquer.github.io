@@ -9,5 +9,3 @@ last_build_date_pdf: '2026-09-15T23:12:46.243318864+00:00'
 [[num-reales.pdf]]
 ![[num-reales.pdf]]
 
-## Etiquetas
-#FALTA 

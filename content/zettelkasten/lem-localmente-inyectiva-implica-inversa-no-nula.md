@@ -24,5 +24,3 @@ tags:
 - [dominio](./dominio.md)
 - [inyectividad-local](./inyectividad-local.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

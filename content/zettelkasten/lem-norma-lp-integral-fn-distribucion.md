@@ -16,17 +16,17 @@ references:
   - teo-fubini
   - teo-fundamental-calculo
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
   - lem-desigualdad-integral-norma-lp-debil
-  - teo-acotacion-operador-maximal-bolas
   - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
   - m.1-procesos-estocasticos
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
-  - m.1-fundamentos-de-analisis-matematico/tema2
-  - m.1-procesos-estocasticos/tema1
+  - fundamentos-de-analisis-matematico/tema2
+  - procesos-estocasticos/tema1
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[lem-norma-lp-integral-fn-distribucion.pdf]]

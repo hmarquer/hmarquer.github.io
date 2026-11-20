@@ -2,8 +2,8 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.863585001+00:00'
-last_build_date_pdf: '2026-11-05T04:08:21.127933268+00:00'
+last_edit_date: '2026-11-20T17:05:07.027754725+00:00'
+last_build_date_pdf: '2026-11-20T18:56:20.095142287+00:00'
 labels:
   - defn:fn-medible
 references:
@@ -21,23 +21,33 @@ backlinks:
   - esp-lp-debil
   - fn-distribucion
   - fn-integrable
+  - fn-localmente-integrable
+  - fn-medible-acotada
   - integrabilidad-uniforme
   - integral
   - lem-aprox-fn-simple
+  - lem-carac-cadena-markov
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-convergencia-uniforme-esp-finito-imp-lp
   - lem-convolucion
   - lem-desigualdad-integral-norma-lp-debil
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fatou
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-norma-lp-integral-fn-distribucion
+  - lem-operador-maximal-bolas-medible
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-fda-e2
   - m.1-pe-e1
   - media-integral
   - norma-lp
+  - nucleo-transicion
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - operador-maximal
+  - operador-maximal-centrado
   - operador-tipo-debil
   - operador-tipo-fuerte
   - proceso-estocastico-adaptado
@@ -60,7 +70,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

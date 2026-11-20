@@ -41,5 +41,3 @@ tags:
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#ORDENAR referenciar el lema técnico (y hacer la nota primero)

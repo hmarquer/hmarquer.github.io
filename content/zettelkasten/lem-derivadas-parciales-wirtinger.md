@@ -24,5 +24,3 @@ tags:
 - [fn-clase-ck](./fn-clase-ck.md)
 - [operadores-wirtinger](./operadores-wirtinger.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

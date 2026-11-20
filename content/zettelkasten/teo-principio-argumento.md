@@ -24,6 +24,3 @@ references:
 - [numero-ceros-fn-holomorfa-camino](./numero-ceros-fn-holomorfa-camino.md)
 - [numero-polos-fn-meromorfa-camino](./numero-polos-fn-meromorfa-camino.md)
 
-## Etiquetas
-#REVISAR 
-#DEMOSTRACIÓN 

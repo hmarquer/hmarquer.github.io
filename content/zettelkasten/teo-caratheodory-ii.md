@@ -21,7 +21,7 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
 ---
 
@@ -40,5 +40,3 @@ tags:
 - [sigma-algebra](./sigma-algebra.md)
 - [teo-caratheodory-i](./teo-caratheodory-i.md)
 
-## Etiquetas
-#REVISAR : la demostración está escrita por IA

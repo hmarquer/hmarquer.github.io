@@ -20,7 +20,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema1-ZK-3
+  - curvas-algebraicas/tema1-ZK-3
 ---
 
 [[lem-normalizacion-noether.pdf]]
@@ -34,8 +34,3 @@ tags:
 - [extension-anillos-entera](./extension-anillos-entera.md)
 - [independencia-algebraica](./independencia-algebraica.md)
 
-## Etiquetas
-#REVISAR no entiendo nada
-#ORDENAR : referenciar
-#ORDENAR : referciar
-#REVISAR 

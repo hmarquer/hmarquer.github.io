@@ -11,6 +11,8 @@ references:
   - esp-probabilidad
   - sigma-algebra
 backlinks:
+  - cadena-markov
+  - lem-carac-cadena-markov
   - lem-carac-tiempo-parada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - martingala
@@ -25,8 +27,8 @@ projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema1
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema1
 ---
 
 [[filtracion.pdf]]

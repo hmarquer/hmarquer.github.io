@@ -32,5 +32,3 @@ tags:
 - [mindependencia-var-aleatorias](./mindependencia-var-aleatorias.md)
 - [varianza](./varianza.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

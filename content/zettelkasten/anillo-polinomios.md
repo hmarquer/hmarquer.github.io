@@ -47,7 +47,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema0-ZK-1
+  - curvas-algebraicas/tema0-ZK-1
   - teoria-de-galois/tema1
 ---
 
@@ -57,5 +57,3 @@ tags:
 ## Referencias
 - [anillo](./anillo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

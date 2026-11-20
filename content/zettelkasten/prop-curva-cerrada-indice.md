@@ -28,5 +28,3 @@ tags:
 - [curva-simple](./curva-simple.md)
 - [fn-analitica](./fn-analitica.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

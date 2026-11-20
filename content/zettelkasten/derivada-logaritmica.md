@@ -19,6 +19,3 @@ tags:
 [[derivada-logaritmica.pdf]]
 ![[derivada-logaritmica.pdf]]
 
-## Etiquetas
-#ORDENAR 
-#REVISAR y ORDENAR

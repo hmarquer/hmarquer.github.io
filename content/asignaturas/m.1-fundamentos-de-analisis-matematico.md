@@ -2,18 +2,21 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-15T20:29:55.813611877+00:00'
-last_build_date_pdf: '2026-11-15T21:13:04.720215392+00:00'
+last_edit_date: '2026-11-20T17:05:07.031835924+00:00'
+last_build_date_pdf: '2026-11-20T18:56:57.594893084+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
+  - base-diferenciacion
   - con-autosemejante
   - con-cantor
   - con-caratheodory-medible
   - con-nulo
   - continuidad-absoluta
+  - cor-acotacion-operador-maximal-centrado
   - cor-dim-hausdorff
   - cor-dimension-hausdorff-fn-gamma-holder
+  - cor-operador-maximal-bolas-tipo-fuerte
   - cuasinorma
   - desigualdad-holder
   - desigualdad-minkowski
@@ -45,6 +48,7 @@ inclusions:
   - fn-simple
   - integral
   - lem-carac-linfty-esp-sigma-finito
+  - lem-comparacion-operador-maximal-bolas-centrado
   - lem-continuidad-creciente-medida-exterior-metrica
   - lem-cubrimiento-vitali
   - lem-dim-hausdorff-con-cantor-cota-superior
@@ -59,6 +63,7 @@ inclusions:
   - lem-medida-hausdorff-invariante-isometrias
   - lem-monotonia-dim-hausdorff
   - lem-norma-lp-integral-fn-distribucion
+  - lem-operador-maximal-bolas-medible
   - m.1-fda-e1
   - m.1-fda-e2
   - m.1-fda-h1-e19
@@ -73,6 +78,8 @@ inclusions:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-centrado
+  - operador-maximal-fuerte
   - operador-tipo-debil
   - operador-tipo-fuerte
   - premedida
@@ -102,7 +109,6 @@ inclusions:
   - sigma-algebra
   - sigma-algebra-generada
   - singularidad-mutua
-  - teo-acotacion-operador-maximal-bolas
   - teo-carac-continuidad-apl-lineal
   - teo-caratheodory-i
   - teo-caratheodory-ii
@@ -114,9 +120,10 @@ inclusions:
   - teo-inclusion-lp-lp-debil
   - teo-interpolacion-marcinkiewicz
   - teo-medibilidad-borel-medida-exterior-metrica
+  - teo-operador-maximal-bolas-tipo-debil-1-1
   - teo-radon-nikodym
 tags:
-  - m.1-fundamentos-de-analisis-matematico
+  - fundamentos-de-analisis-matematico
 ---
 
 [[m.1-fundamentos-de-analisis-matematico.pdf]]
@@ -246,46 +253,14 @@ tags:
 - [teo-interpolacion-marcinkiewicz](./teo-interpolacion-marcinkiewicz.md)
 
 ### tema3
+- [base-diferenciacion](./base-diferenciacion.md)
+- [cor-acotacion-operador-maximal-centrado](./cor-acotacion-operador-maximal-centrado.md)
+- [cor-operador-maximal-bolas-tipo-fuerte](./cor-operador-maximal-bolas-tipo-fuerte.md)
+- [lem-comparacion-operador-maximal-bolas-centrado](./lem-comparacion-operador-maximal-bolas-centrado.md)
 - [lem-cubrimiento-vitali](./lem-cubrimiento-vitali.md)
+- [lem-operador-maximal-bolas-medible](./lem-operador-maximal-bolas-medible.md)
 - [operador-maximal](./operador-maximal.md)
-- [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
+- [operador-maximal-centrado](./operador-maximal-centrado.md)
+- [operador-maximal-fuerte](./operador-maximal-fuerte.md)
+- [teo-operador-maximal-bolas-tipo-debil-1-1](./teo-operador-maximal-bolas-tipo-debil-1-1.md)
 
-## Etiquetas
-#EJERCICIO 
-#REVISAR 
-#COMPLETAR : añadir comentario sobre por qué es difícil probar que $H^{\alpha, *}(C) > 0$ y que vamos a necesitar más maquinaria
-#REVISAR : Aquí el profe ha escrito un factor de 2 extra,
-#DEMOSTRACIÓN : escribir bien
-#EJERCICIO : escribirlo bien
-#REVISAR : ¿qué pasaría si permitiésemos razones distintas?
-#COMPLETAR : añadir ejemplos de la curva de Koch y del polvo de Cantor.
-#REVISAR : parece que todavía no hemos usado que la razón sea común entre las semejanzas
-#EJERCICIO : probar detenidamente
-#EJERCICIO : probar, se necesita la propiedad de la intersección finita de los conjuntos compactos.
-#DEMOSTRACIÓN : Hay que usar el próximo teorema y el lema siguiente.
-#DEMOSTRACIÓN 
-#REVISAR : mirar el libro de Stein, Real Analysis: Measure Theory, Integration, and Hilbert Spaces, Theorem 2.12
-#COMPLETAR : se acabó, no entiendo nada, mirar TFG de jacobo whatsapp página 13
-#COMPLETAR : escribir la construcción de la curva de Peano explícitamente.
-#DEMOSTRACIÓN : Ver que la curva de Peano satisface las propiedades del teorema.
-#DEMOSTRACIÓN : es aplicar la proposición anterior
-#DEMOSTRACIÓN : por contradicción
-#REVISAR : está mal
-#COMPLETAR incluir ejemplos de variable real para ver que $\mathcal{L}^p \not\subset \mathcal{L}^q$ y $\mathcal{L}^q \not\subset \mathcal{L}^p$ para $p < q$ en un espacio de medida no finito.
-#DEMOSTRACIÓN :
-#REVISAR : no entiendo nada
-#ORDENAR : escribir bien todo esto
-#ORDENAR : las definiciones de $T_A$ y $T_B$ están en el teorema siguiente, mierdon. Creo que este lema se usa en el siguiente teorema, pero no sé
-#REVISAR y referenciar lemas anteriores
-#ORDENAR : referenciar
-#COMPLETAR : ver que este espacio es vectorial y, al tomar clases de equivalencia según la norma, es un espacio cuasi normado.
-#COMPLETAR : ver el caso $p >1$ (es igual)
-#COMPLETAR : no he entendido nada
-#REVISAR : no sé qué se ejemplifica aquí
-#COMPLETAR : no me entero
-#EJERCICIO :
-#ORDENAR : esta proposición puede ir antes, creo que se podría usar en otras demostraciones
-#REVISAR : no entiendo la definición
-#COMPLETAR con foto
-#COMPLETAR 
-#COMPLETAR : añadir definición de función sublineal

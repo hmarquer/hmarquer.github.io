@@ -2,8 +2,8 @@
 title: 'Trabajo de fin de master'
 name: 'm-trabajo-de-fin-de-master'
 created: '2026-09-22T12:43:05.206548277+00:00'
-last_edit_date: '2026-11-11T12:57:46.254578419+00:00'
-last_build_date_pdf: '2026-11-11T15:25:27.339960014+00:00'
+last_edit_date: '2026-11-20T17:05:07.029936681+00:00'
+last_build_date_pdf: '2026-11-20T18:56:49.833187302+00:00'
 inclusions:
   - bola-abierta
   - cor-desigualdad-markov-general
@@ -39,7 +39,7 @@ inclusions:
   - teo-inclusion-lp-lp-debil
   - transformada-legendre
 tags:
-  - m-trabajo-de-fin-de-master
+  - trabajo-de-fin-de-master
 ---
 
 [[m-trabajo-de-fin-de-master.pdf]]
@@ -86,19 +86,3 @@ tags:
 - [teo-acotacion-operador-maximal-bolas](./teo-acotacion-operador-maximal-bolas.md)
 - [teo-inclusion-lp-lp-debil](./teo-inclusion-lp-lp-debil.md)
 
-## Etiquetas
-#REVISAR : está escrito por IA.
-#ORDENAR :puede que convenga escribir cada apartado como un lema independiente
-#ORDENAR : demostrar resultados similares para funciones convexas y aplicarlos aquí referenciandolos.
-#REVISAR : mirar fotos para simplificar y completar
-#ORDENAR : esto claramente requiere prueba, hacerla y referenciarla.
-#REVISAR y ORDENAR: esto claramente requiere prueba, hacerla y referenciarla.
-#REVISAR 
-#ORDENAR : esto puede que merezca prueba, hacerla y referenciarla.
-#COMPLETAR 
-#COMPLETAR : elaborar en esta idea, cuando sí son equivalentes y cuando no
-#ORDENAR : hacer nota
-#REVISAR : Creo que está mal
-#ORDENAR : escribir demostrar y referenciar
-#REVISAR : lo ha escrito la IA, comparar con los apuntes de Variable Real
-#REVISAR : lo ha escrito la IA

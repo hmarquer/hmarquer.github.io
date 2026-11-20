@@ -2,24 +2,27 @@
 title: 'Operador maximal'
 filename: 'operador-maximal'
 created: '2026-10-23T10:52:28.217414315+00:00'
-last_edit_date: '2026-10-23T10:52:29.952957081+00:00'
-last_build_date_pdf: '2026-10-26T15:59:08.885896013+00:00'
+last_edit_date: '2026-11-20T17:05:07.029936681+00:00'
+last_build_date_pdf: '2026-11-20T18:55:44.986380424+00:00'
 labels:
   - defn:operador-maximal
 references:
   - esp-medida
   - fn-medible
-  - integral
+  - media-integral
   - relacion-orden
 backlinks:
+  - cor-operador-maximal-bolas-tipo-fuerte
+  - lem-comparacion-operador-maximal-bolas-centrado
+  - lem-operador-maximal-bolas-medible
   - operador-maximal-fuerte
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
-  - m.1-fundamentos-de-analisis-matematico/tema3
+  - fundamentos-de-analisis-matematico/tema3
+  - trabajo-de-fin-de-master/operador-maximal-cubos-n-adicos-bolas
 ---
 
 [[operador-maximal.pdf]]
@@ -28,6 +31,6 @@ tags:
 ## Referencias
 - [esp-medida](./esp-medida.md)
 - [fn-medible](./fn-medible.md)
-- [integral](./integral.md)
+- [media-integral](./media-integral.md)
 - [relacion-orden](./relacion-orden.md)
 

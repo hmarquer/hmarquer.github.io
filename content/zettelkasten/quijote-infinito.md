@@ -33,5 +33,3 @@ tags:
 - [teo-convergencia-monotona](./teo-convergencia-monotona.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#REVISAR 

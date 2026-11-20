@@ -22,5 +22,3 @@ tags:
 - [apl-recubridora-diferenciable](./apl-recubridora-diferenciable.md)
 - [curva-diferenciable](./curva-diferenciable.md)
 
-## Etiquetas
-#REVISAR demostración

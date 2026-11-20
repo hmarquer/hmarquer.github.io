@@ -31,5 +31,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [singularidad-evitable](./singularidad-evitable.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

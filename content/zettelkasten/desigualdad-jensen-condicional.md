@@ -14,12 +14,13 @@ references:
   - sigma-algebra
 backlinks:
   - cor-fn-convexa-martingala-submartingala
+  - lem-norma-lp-esperanza-condicionada
 projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos
 tags:
-  - m.1-procesos-estocasticos/tema0
   - probabilidad-ii/tema4
+  - procesos-estocasticos/tema0
 ---
 
 [[desigualdad-jensen-condicional.pdf]]
@@ -32,6 +33,3 @@ tags:
 - [fn-integrable](./fn-integrable.md)
 - [sigma-algebra](./sigma-algebra.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 
-#EJERCICIO Si $\mathcal{F} = \sigma (A_1, \dots, A_n)$ es fácil, en el caso general es difícil.

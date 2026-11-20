@@ -26,5 +26,3 @@ tags:
 - [esp-topologico](./esp-topologico.md)
 - [homotopia](./homotopia.md)
 
-## Etiquetas
-#COMPLETAR convendría un bonito dibujo

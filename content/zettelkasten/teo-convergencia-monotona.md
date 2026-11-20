@@ -13,6 +13,8 @@ references:
   - medida
 backlinks:
   - lem-borel-cantelli-i
+  - lem-carac-cadena-markov
+  - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada
   - lem-fatou
   - m.1-pe-e4
@@ -26,7 +28,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---
@@ -39,6 +41,3 @@ tags:
 - [fn-medible](./fn-medible.md)
 - [medida](./medida.md)
 
-## Etiquetas
-#ORDENAR referenciar de donde sacamos esto
-#DEMOSTRACIÓN 

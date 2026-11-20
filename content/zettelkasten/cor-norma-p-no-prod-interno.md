@@ -28,5 +28,3 @@ tags:
 - [prod-interno](./prod-interno.md)
 - [teo-prod-interno-iff-identidad-paralelogramo](./teo-prod-interno-iff-identidad-paralelogramo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN en las notas

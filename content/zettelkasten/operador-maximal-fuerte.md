@@ -12,8 +12,10 @@ references:
   - operador-maximal
 projects:
   - m-trabajo-de-fin-de-master
+  - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - fundamentos-de-analisis-matematico/tema3
+  - trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[operador-maximal-fuerte.pdf]]

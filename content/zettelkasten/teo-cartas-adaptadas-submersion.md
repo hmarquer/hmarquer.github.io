@@ -27,5 +27,3 @@ tags:
 - [carta](./carta.md)
 - [submersion](./submersion.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

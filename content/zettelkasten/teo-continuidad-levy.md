@@ -24,5 +24,3 @@ tags:
 - [fn-caracteristica-var-aleatoria](./fn-caracteristica-var-aleatoria.md)
 - [var-aleatoria](./var-aleatoria.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

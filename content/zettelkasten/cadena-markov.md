@@ -2,12 +2,16 @@
 title: 'Cadena de Markov'
 filename: 'cadena-markov'
 created: '2025-03-11 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.858421229+00:00'
-last_build_date_pdf: '2026-11-05T04:10:07.361825698+00:00'
+last_edit_date: '2026-11-20T17:05:07.027316249+00:00'
+last_build_date_pdf: '2026-11-20T18:56:40.274348489+00:00'
 labels:
   - defn:cadena-markov
 references:
-  - var-aleatoria-discreta
+  - esp-medible
+  - filtracion
+  - nucleo-transicion
+  - probabilidad-condicionada-sigma-algebra
+  - proceso-estocastico-adaptado
 backlinks:
   - cadena-markov-accesibilidad
   - cadena-markov-comunicacion
@@ -15,15 +19,25 @@ backlinks:
   - cadena-markov-irreducible
   - cadena-markov-recurrencia
   - cadena-markov-transitoriedad
+  - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
+  - num-visitas-cadena-markov
+  - tiempo-retorno-cadena-markov
 projects:
   - 3.2-modelizacion
+  - m.1-procesos-estocasticos
 tags:
   - modelizacion/tema2
+  - procesos-estocasticos/tema2
 ---
 
 [[cadena-markov.pdf]]
 ![[cadena-markov.pdf]]
 
 ## Referencias
-- [var-aleatoria-discreta](./var-aleatoria-discreta.md)
+- [esp-medible](./esp-medible.md)
+- [filtracion](./filtracion.md)
+- [nucleo-transicion](./nucleo-transicion.md)
+- [probabilidad-condicionada-sigma-algebra](./probabilidad-condicionada-sigma-algebra.md)
+- [proceso-estocastico-adaptado](./proceso-estocastico-adaptado.md)
 

@@ -12,6 +12,7 @@ references:
 backlinks:
   - desigualdad-holder
   - desigualdad-minkowski
+  - lem-carac-cadena-markov
   - lem-esp-lp-vectorial
   - lem-esperanza-condicionada
   - obs-linealidad-esperanza
@@ -28,5 +29,3 @@ backlinks:
 - [esp-medida](./esp-medida.md)
 - [fn-integrable](./fn-integrable.md)
 
-## Etiquetas
-#ORDENAR : referenciar

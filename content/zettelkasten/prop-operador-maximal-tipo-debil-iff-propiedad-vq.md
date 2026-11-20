@@ -21,7 +21,7 @@ references:
 projects:
   - m-trabajo-de-fin-de-master
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
+  - trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[prop-operador-maximal-tipo-debil-iff-propiedad-vq.pdf]]
@@ -40,5 +40,3 @@ tags:
 - [operador-tipo-debil](./operador-tipo-debil.md)
 - [propiedad-cubridora-vq](./propiedad-cubridora-vq.md)
 
-## Etiquetas
-#ORDENAR : referenciar demostración de que en un espacio métrico, separable \iff lindelöf

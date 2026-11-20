@@ -24,5 +24,3 @@ tags:
 - [fn-clase-ck](./fn-clase-ck.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -36,5 +36,3 @@ tags:
 - [teoria-semantica-completa](./teoria-semantica-completa.md)
 - [teoria-semantica-generada-estructura](./teoria-semantica-generada-estructura.md)
 
-## Etiquetas
-#REVISAR :

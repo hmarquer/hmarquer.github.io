@@ -22,5 +22,3 @@ tags:
 - [compacidad](./compacidad.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -43,7 +43,7 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema2
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[apl-lineal.pdf]]

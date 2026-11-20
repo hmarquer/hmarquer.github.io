@@ -12,7 +12,7 @@ references:
 projects:
   - m.1-curvas-algebraicas
 tags:
-  - m.1-curvas-algebraicas/tema0-ZK-6
+  - curvas-algebraicas/tema0-ZK-6
 ---
 
 [[prop-cuerpo-algebraicamente-cerrado-imp-infinito.pdf]]
@@ -22,5 +22,3 @@ tags:
 - [cuerpo](./cuerpo.md)
 - [cuerpo-algebraicamente-cerrado](./cuerpo-algebraicamente-cerrado.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

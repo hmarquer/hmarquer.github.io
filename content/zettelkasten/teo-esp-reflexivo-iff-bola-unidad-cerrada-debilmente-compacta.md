@@ -32,5 +32,3 @@ tags:
 - [teo-esp-reflexivo-iff-dual-reflexivo](./teo-esp-reflexivo-iff-dual-reflexivo.md)
 - [topologia-debil](./topologia-debil.md)
 
-## Etiquetas
-#REVISAR : yo creo que está mal

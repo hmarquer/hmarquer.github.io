@@ -22,5 +22,3 @@ tags:
 - [anillo](./anillo.md)
 - [subanillo-generado](./subanillo-generado.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

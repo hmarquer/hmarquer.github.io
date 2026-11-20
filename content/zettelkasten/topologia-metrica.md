@@ -29,5 +29,3 @@ tags:
 - [esp-metrico](./esp-metrico.md)
 - [topologia](./topologia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

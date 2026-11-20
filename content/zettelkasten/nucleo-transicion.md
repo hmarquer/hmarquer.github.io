@@ -1,0 +1,33 @@
+---
+title: 'Núcleo de transición'
+filename: 'nucleo-transicion'
+created: '2026-11-16T17:40:45.544829134+00:00'
+last_edit_date: '2026-11-20T17:05:07.029576844+00:00'
+last_build_date_pdf: '2026-11-20T18:55:51.036994418+00:00'
+labels:
+  - defn:nucleo-transicion
+references:
+  - esp-medible
+  - fn-medible
+  - medida-probabilidad
+backlinks:
+  - cadena-markov
+  - cadena-markov-homogenea
+  - ejem-nucleo-transcicion-esp-finito
+  - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
+projects:
+  - m.1-procesos-estocasticos
+tags:
+  - procesos-estocasticos/tema2
+---
+
+[[nucleo-transicion.pdf]]
+![[nucleo-transicion.pdf]]
+
+## Referencias
+- [esp-medible](./esp-medible.md)
+- [fn-medible](./fn-medible.md)
+- [medida-probabilidad](./medida-probabilidad.md)
+

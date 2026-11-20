@@ -19,7 +19,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema0-ZK-2
+  - curvas-algebraicas/tema0-ZK-2
 ---
 
 [[teo-correspondencia-ideales-cociente.pdf]]
@@ -31,5 +31,3 @@ tags:
 - [ideal](./ideal.md)
 - [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)
 
-## Etiquetas
-#REVISAR demostración

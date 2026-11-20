@@ -25,5 +25,3 @@ tags:
 - [continuidad](./continuidad.md)
 - [fn-compleja-derivable-pnt](./fn-compleja-derivable-pnt.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

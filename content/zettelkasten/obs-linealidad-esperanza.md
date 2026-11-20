@@ -11,6 +11,7 @@ references:
   - linealidad-integral
   - prop-esperanza-fn
 backlinks:
+  - lem-linealidad-esperanza-condicional
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-formula-varianza
   - prop-varianza-sum-var-aleatorias-indep

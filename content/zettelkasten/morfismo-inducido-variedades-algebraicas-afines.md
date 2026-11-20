@@ -24,7 +24,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema5
-  - m.1-curvas-algebraicas/tema1-ZK-5
+  - curvas-algebraicas/tema1-ZK-5
 ---
 
 [[morfismo-inducido-variedades-algebraicas-afines.pdf]]
@@ -35,5 +35,3 @@ tags:
 - [morfismo-con-algebraicos-afines](./morfismo-con-algebraicos-afines.md)
 - [morfismo-ralgebras](./morfismo-ralgebras.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

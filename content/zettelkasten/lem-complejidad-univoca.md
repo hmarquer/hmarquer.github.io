@@ -28,5 +28,3 @@ tags:
 - [palabra](./palabra.md)
 - [termino](./termino.md)
 
-## Etiquetas
-#REVISAR 

@@ -38,6 +38,7 @@ backlinks:
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
   - lem-integrabilidad-uniforme-imp-acotacion-l1
+  - lem-norma-lp-esperanza-condicionada
   - lem-riemann-lebesgue-l1
   - lem-riemann-lebesgue-r
   - lem-transformada-fourier-conmutativa-integral
@@ -95,7 +96,7 @@ projects:
 tags:
   - analisis-funcional/tema2
   - ecuaciones-en-derivadas-parciales/tema4
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

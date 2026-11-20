@@ -29,5 +29,3 @@ tags:
 - [integral-linea-compleja-longitud](./integral-linea-compleja-longitud.md)
 - [longitud-camino](./longitud-camino.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

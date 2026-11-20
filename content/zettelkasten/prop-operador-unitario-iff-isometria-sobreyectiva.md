@@ -26,5 +26,3 @@ tags:
 - [isometria](./isometria.md)
 - [operador-unitario](./operador-unitario.md)
 
-## Etiquetas
-#DEMOSTRACIÓN :

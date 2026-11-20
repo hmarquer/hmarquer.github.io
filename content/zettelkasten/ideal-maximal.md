@@ -27,7 +27,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema0-ZK-2
+  - curvas-algebraicas/tema0-ZK-2
   - teoria-de-galois/tema1
 ---
 

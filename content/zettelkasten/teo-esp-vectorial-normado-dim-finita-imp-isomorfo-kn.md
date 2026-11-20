@@ -33,5 +33,3 @@ tags:
 - [lem-normas-kn-equivalentes](./lem-normas-kn-equivalentes.md)
 - [norma](./norma.md)
 
-## Etiquetas
-#ORDENAR . referenciar nota para dimensión de un espacio vectorial

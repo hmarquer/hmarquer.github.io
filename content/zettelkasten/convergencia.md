@@ -9,6 +9,7 @@ labels:
 references:
   - esp-topologico
 backlinks:
+  - base-diferenciacion
   - completitud-metrica
   - con-secuencialmente-cerrado
   - con-secuencialmente-compacto

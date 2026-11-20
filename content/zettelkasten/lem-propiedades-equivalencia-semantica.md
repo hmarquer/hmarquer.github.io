@@ -26,5 +26,3 @@ tags:
 - [formula](./formula.md)
 - [relacion-equivalencia](./relacion-equivalencia.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

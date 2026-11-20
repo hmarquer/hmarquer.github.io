@@ -24,6 +24,7 @@ backlinks:
   - lem-aprox-indicatriz-continua-norma-lp
   - lem-carac-linfty-esp-sigma-finito
   - lem-esp-lp-normado
+  - lem-norma-lp-esperanza-condicionada
   - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e2
   - norma-lp-debil
@@ -42,6 +43,7 @@ backlinks:
   - teo-esp-lp-banach
   - teo-hardy-littlewood
   - teo-inclusion-lp-lp-debil
+  - teo-operador-maximal-bolas-tipo-debil-1-1
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 3.2-probabilidad-ii
@@ -49,7 +51,7 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
   - ecuaciones-en-derivadas-parciales/tema4
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
   - probabilidad-ii/tema2
   - variable-real/tema1
 ---

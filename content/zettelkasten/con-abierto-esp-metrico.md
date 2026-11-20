@@ -11,6 +11,7 @@ references:
   - esp-metrico
 backlinks:
   - ejem-topologia-metrica
+  - lem-operador-maximal-bolas-medible
   - prop-carac-con-abiertos-esp-metrico
   - prop-con-abiertos-esp-metrico
   - prop-operador-maximal-tipo-debil-iff-propiedad-vq

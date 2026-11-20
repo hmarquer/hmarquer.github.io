@@ -10,6 +10,7 @@ references:
   - esp-medible
   - medida
 backlinks:
+  - base-diferenciacion
   - con-negativo
   - con-nulo
   - con-positivo
@@ -29,6 +30,7 @@ backlinks:
   - esp-probabilidad
   - fn-distribucion
   - fn-integrable
+  - fn-localmente-integrable
   - integrabilidad-uniforme
   - integral
   - lem-carac-linfty-esp-sigma-finito
@@ -54,6 +56,7 @@ backlinks:
   - norma-lp
   - norma-lp-debil
   - operador-maximal
+  - operador-maximal-centrado
   - operador-tipo-debil
   - operador-tipo-fuerte
   - principio-inclusion-exclusion
@@ -81,7 +84,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

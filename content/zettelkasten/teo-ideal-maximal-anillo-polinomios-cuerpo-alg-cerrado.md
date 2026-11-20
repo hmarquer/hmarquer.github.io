@@ -18,7 +18,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema1-ZK-3
+  - curvas-algebraicas/tema1-ZK-3
 ---
 
 [[teo-ideal-maximal-anillo-polinomios-cuerpo-alg-cerrado.pdf]]
@@ -32,8 +32,3 @@ tags:
 - [ideal-maximal](./ideal-maximal.md)
 - [lem-normalizacion-noether](./lem-normalizacion-noether.md)
 
-## Etiquetas
-#REVISAR : esto ¿por qué?
-#ORDENAR : referenciar
-#ORDENAR : referenciar A cuerpo \iff B cuerpo
-#COMPLETAR de la foto del día 29/10/2025 que me manda Jacobo

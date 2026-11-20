@@ -12,13 +12,15 @@ references:
   - fn-medible
   - norma-lp
 backlinks:
+  - cor-acotacion-operador-maximal-centrado
+  - cor-operador-maximal-bolas-tipo-fuerte
   - teo-interpolacion-marcinkiewicz
 projects:
   - m-trabajo-de-fin-de-master
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m-trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
+  - trabajo-de-fin-de-master/m-trabajo-de-fin-de-master
 ---
 
 [[operador-tipo-fuerte.pdf]]

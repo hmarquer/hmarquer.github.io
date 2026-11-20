@@ -2,8 +2,8 @@
 title: 'Teorema de Radon-Nikodym'
 filename: 'teo-radon-nikodym'
 created: '2025-05-04 00:00:00'
-last_edit_date: '2026-09-20T15:23:19.059057896+00:00'
-last_build_date_pdf: '2026-09-20T16:32:42.123663639+00:00'
+last_edit_date: '2026-11-20T17:05:07.030830072+00:00'
+last_build_date_pdf: '2026-11-20T18:55:31.249284891+00:00'
 labels:
   - teo:radon-nikodym
 references:
@@ -22,9 +22,9 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
   - m.1-procesos-estocasticos
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
-  - m.1-procesos-estocasticos/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
+  - procesos-estocasticos/tema0
 ---
 
 [[teo-radon-nikodym.pdf]]
@@ -39,5 +39,3 @@ tags:
 - [singularidad-mutua](./singularidad-mutua.md)
 - [teo-descomposicion-hahn-jordan](./teo-descomposicion-hahn-jordan.md)
 
-## Etiquetas
-#DEMOSTRACIÓN terminarla y revisarla

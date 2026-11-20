@@ -26,5 +26,3 @@ backlinks:
 - [dominio](./dominio.md)
 - [fn-clase-ck](./fn-clase-ck.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

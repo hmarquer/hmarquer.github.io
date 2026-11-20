@@ -29,5 +29,3 @@ tags:
 - [num-complejos](./num-complejos.md)
 - [proyeccion-estereografica](./proyeccion-estereografica.md)
 
-## Etiquetas
-#EJERCICIO 

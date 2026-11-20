@@ -2,34 +2,61 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-15T00:21:31.748297988+00:00'
-last_build_date_pdf: '2026-11-15T00:24:34.440551012+00:00'
+last_edit_date: '2026-11-20T19:45:58.198618543+00:00'
+last_build_date_pdf: '2026-11-20T20:33:03.855544946+00:00'
 inclusions:
+  - cadena-markov
+  - cadena-markov-homogenea
+  - cadena-markov-irreducible
   - desigualdad-jensen-condicional
+  - ejem-nucleo-transcicion-esp-finito
   - esp-polaco
   - esperanza-condicionada-sigma-algebra
+  - estado-accesible-cadena-markov
+  - estado-recurrente-cadena-markov
+  - estado-transitorio-cadena-markov
   - filtracion
   - integrabilidad-uniforme
   - lambda-sistema
+  - lem-carac-cadena-markov
   - lem-carac-tiempo-parada
+  - lem-convergencia-monotona-esperanza-condicionada
+  - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
+  - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
+  - lem-ley-esperanza-total
+  - lem-linealidad-esperanza-condicional
+  - lem-monotonia-esperanza-condicional
+  - lem-norma-lp-esperanza-condicionada
   - lem-norma-lp-integral-fn-distribucion
+  - lem-propiedad-torre-esperanza-condicionada
+  - lem-propiedades-cadena-markov
   - m.1-pe-e1
   - m.1-pe-e2
   - m.1-pe-e3
   - m.1-pe-e4
+  - m.1-pe-e5
   - martingala
+  - medida-completa
+  - medida-interiormente-regular
+  - nucleo-transicion
+  - num-visitas-cadena-markov
+  - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
   - pi-sistema
   - proceso-estocastico-adaptado
   - prop-esperanza-condicionada-sigma-algebra-indep
+  - sigma-algebra-tiempo-parada
   - submartingala
   - supermartingala
   - teo-pi-sistema-subset-lambda-sistema
   - teo-radon-nikodym
   - tiempo-parada
+  - tiempo-retorno-cadena-markov
 tags:
-  - m.1-procesos-estocasticos
+  - procesos-estocasticos
 ---
 
 [[m.1-procesos-estocasticos.pdf]]
@@ -42,10 +69,20 @@ tags:
 - [m.1-pe-e2](./m.1-pe-e2.md)
 - [m.1-pe-e3](./m.1-pe-e3.md)
 - [m.1-pe-e4](./m.1-pe-e4.md)
+- [m.1-pe-e5](./m.1-pe-e5.md)
 
 ### tema0
 - [desigualdad-jensen-condicional](./desigualdad-jensen-condicional.md)
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
+- [lem-convergencia-monotona-esperanza-condicionada](./lem-convergencia-monotona-esperanza-condicionada.md)
+- [lem-esperanza-condicionada-var-medible](./lem-esperanza-condicionada-var-medible.md)
+- [lem-estabilidad-esperanza-condicional](./lem-estabilidad-esperanza-condicional.md)
+- [lem-factores-medibles-esperanza-condicional](./lem-factores-medibles-esperanza-condicional.md)
+- [lem-ley-esperanza-total](./lem-ley-esperanza-total.md)
+- [lem-linealidad-esperanza-condicional](./lem-linealidad-esperanza-condicional.md)
+- [lem-monotonia-esperanza-condicional](./lem-monotonia-esperanza-condicional.md)
+- [lem-norma-lp-esperanza-condicionada](./lem-norma-lp-esperanza-condicionada.md)
+- [lem-propiedad-torre-esperanza-condicionada](./lem-propiedad-torre-esperanza-condicionada.md)
 - [prop-esperanza-condicionada-sigma-algebra-indep](./prop-esperanza-condicionada-sigma-algebra-indep.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
@@ -63,48 +100,27 @@ tags:
 - [tiempo-parada](./tiempo-parada.md)
 
 ### tema2
+- [cadena-markov](./cadena-markov.md)
+- [cadena-markov-homogenea](./cadena-markov-homogenea.md)
+- [cadena-markov-irreducible](./cadena-markov-irreducible.md)
+- [ejem-nucleo-transcicion-esp-finito](./ejem-nucleo-transcicion-esp-finito.md)
 - [esp-polaco](./esp-polaco.md)
+- [estado-accesible-cadena-markov](./estado-accesible-cadena-markov.md)
+- [estado-recurrente-cadena-markov](./estado-recurrente-cadena-markov.md)
+- [estado-transitorio-cadena-markov](./estado-transitorio-cadena-markov.md)
 - [lambda-sistema](./lambda-sistema.md)
+- [lem-carac-cadena-markov](./lem-carac-cadena-markov.md)
+- [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
+- [lem-propiedades-cadena-markov](./lem-propiedades-cadena-markov.md)
+- [medida-interiormente-regular](./medida-interiormente-regular.md)
+- [nucleo-transicion](./nucleo-transicion.md)
+- [num-visitas-cadena-markov](./num-visitas-cadena-markov.md)
+- [obs-nucleo-transicion-accion-fn-medible-medida-probabilidad](./obs-nucleo-transicion-accion-fn-medible-medida-probabilidad.md)
 - [pi-sistema](./pi-sistema.md)
 - [teo-pi-sistema-subset-lambda-sistema](./teo-pi-sistema-subset-lambda-sistema.md)
+- [tiempo-retorno-cadena-markov](./tiempo-retorno-cadena-markov.md)
 
-## Etiquetas
-#REVISAR 
-#COMPLETAR y REVISAR
-#EJERCICIO : comprobarlo.
-#COMPLETAR con la foto, no he entendido nada.
-#REVISAR y COMPLETAR con la foto, no he entendido nada.
-#EJERCICIO : es igual que el de Fatou para la integral, usando el teorema de convergencia monótona
-#EJERCICIO :
-#REVISAR : Él lo ha escrito justo al reves: supermartingala es un juego desfavorable, y submartingala es un juego favorable.
-#REVISAR : Además, él exige que cada X_n esté en L^1, y yo no.
-#EJERCICIO : Aplicar la proposición anterior con $\varphi(x) = \abs{x}^p$.
-#COMPLETAR : añadir observación sobre el significado de esta definición: que el valor de $X_n$ se puede determinar a partir de la información disponible hasta el tiempo $n-1$.
-#ORDENAR : esta es la estrategia de martingala
-#ORDENAR : referenciar teorema anterior
-#REVISAR : No lo ha escrito igual, lo ha hecho así:
-#COMPLETAR : falta ver que se cumplen las condiciones
-#REVISAR : no sé si es un "ya que" o qué coño es
-#REVISAR : no entiendo
-#ORDENAR : es el ejercicio semanal 3, referenciar cuando se haga el ejercicio
-#ORDENAR 
-#REVISAR y ORDENAR
-#FALTA 
-#COMPLETAR : incluir gráfica de la función
-#ORDENAR : referenciar
-#DEMOSTRACIÓN 
-#COMPLETAR : caso $\beta = 1$ (camino con saltos \mathcal{N}(\alpha, \gamma^2)) y posibilidad de elección de \alpha, \beta, \gamma$ para aproximación de EDOs estocásticas (no le he entendido)
-#ORDENAR : escribir esto un poco mejor, para que se vea claro, a lo mejor considerar $M$ finito desde el principio lo hace más claro.
-#EJERCICIO : terminar demostración
-#COMPLETAR el argumento por densidad
-#DEMOSTRACIÓN : completar esta parte
-#REVISAR : no entiendo nada
-#EJERCICIO : demostrar esto
-#REVISAR : yo creo que está mal
-#REVISAR : esto no se si es cierto
-#REVISAR : y esto por qué? no entiendo nada
-#COMPLETAR la prueba aplicando el ejercicio 5 de la hoja 2
-#COMPLETAR : he llegado tarde, pedir a jacobo
-#ORDENAR : referenciar caracterización del principio de la clase que me falta
-#COMPLETAR 
-#COMPLETAR con ejemplo de cadena 2 periódica de dos estados donde no se tiene convergencia, sino oscilación
+### tema3
+- [medida-completa](./medida-completa.md)
+- [sigma-algebra-tiempo-parada](./sigma-algebra-tiempo-parada.md)
+

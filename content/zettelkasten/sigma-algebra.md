@@ -19,11 +19,15 @@ backlinks:
   - independencia-sigma-algebras
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
+  - lem-norma-lp-esperanza-condicionada
+  - lem-propiedad-torre-esperanza-condicionada
   - m.1-pe-e1
-  - medida
   - medida-signo
   - mindependencia-sigma-algebras
+  - probabilidad-condicionada-sigma-algebra
   - prop-esperanza-condicionada-sigma-algebra-indep
   - prop-esperanza-condicionada-sigma-algebras-anidadas
   - prop-interseccion-sigma-algebra
@@ -42,7 +46,7 @@ projects:
   - 4.1-variable-real
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - m.1-fundamentos-de-analisis-matematico/tema0
+  - fundamentos-de-analisis-matematico/tema0
   - probabilidad-ii/hoja0
   - variable-real/tema1
 ---

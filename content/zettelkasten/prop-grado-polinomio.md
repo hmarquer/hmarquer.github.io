@@ -30,5 +30,3 @@ tags:
 - [dominio-integridad](./dominio-integridad.md)
 - [grado-polinomio](./grado-polinomio.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

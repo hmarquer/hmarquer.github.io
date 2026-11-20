@@ -21,7 +21,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema1
-  - m.1-curvas-algebraicas/tema0-ZK-2
+  - curvas-algebraicas/tema0-ZK-2
 ---
 
 [[prop-ideal-maximal-iff-cociente-cuerpo.pdf]]
@@ -35,5 +35,3 @@ tags:
 - [obs-anillo-cociente-morfismo-canonico](./obs-anillo-cociente-morfismo-canonico.md)
 - [teo-correspondencia-ideales-cociente](./teo-correspondencia-ideales-cociente.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

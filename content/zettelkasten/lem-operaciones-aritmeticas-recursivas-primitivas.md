@@ -22,5 +22,3 @@ tags:
 ## Referencias
 - [fn-recursiva-primitiva](./fn-recursiva-primitiva.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

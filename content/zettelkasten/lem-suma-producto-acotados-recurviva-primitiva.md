@@ -24,5 +24,3 @@ tags:
 - [fn-recursiva-primitiva](./fn-recursiva-primitiva.md)
 - [teo-recursion](./teo-recursion.md)
 
-## Etiquetas
-#REVISAR 

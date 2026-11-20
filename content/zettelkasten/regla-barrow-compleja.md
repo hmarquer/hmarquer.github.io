@@ -32,5 +32,3 @@ tags:
 - [fn-holomorfa](./fn-holomorfa.md)
 - [integral-linea-compleja](./integral-linea-compleja.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

@@ -26,5 +26,3 @@ tags:
 - [esp-metrico](./esp-metrico.md)
 - [precompacidad](./precompacidad.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

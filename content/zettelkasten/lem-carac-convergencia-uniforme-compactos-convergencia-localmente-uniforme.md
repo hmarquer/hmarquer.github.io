@@ -26,5 +26,3 @@ tags:
 - [convergencia](./convergencia.md)
 - [convergencia-uniforme-compactos](./convergencia-uniforme-compactos.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

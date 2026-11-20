@@ -24,5 +24,3 @@ tags:
 - [dual-topologico](./dual-topologico.md)
 - [norma](./norma.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

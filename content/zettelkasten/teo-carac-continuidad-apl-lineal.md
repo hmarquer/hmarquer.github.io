@@ -24,7 +24,7 @@ projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
   - analisis-funcional/tema2
-  - m.1-fundamentos-de-analisis-matematico/tema2
+  - fundamentos-de-analisis-matematico/tema2
 ---
 
 [[teo-carac-continuidad-apl-lineal.pdf]]
@@ -37,5 +37,3 @@ tags:
 - [esp-vectorial](./esp-vectorial.md)
 - [norma](./norma.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

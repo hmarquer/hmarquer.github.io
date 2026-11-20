@@ -36,5 +36,3 @@ tags:
 - [teo-cauchy-goursat-rectangulo](./teo-cauchy-goursat-rectangulo.md)
 - [teo-cauchy-riemann](./teo-cauchy-riemann.md)
 
-## Etiquetas
-#COMPLETAR con el dibujo

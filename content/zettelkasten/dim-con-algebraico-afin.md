@@ -16,7 +16,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema6
-  - m.1-curvas-algebraicas/tema1-ZK-6
+  - curvas-algebraicas/tema1-ZK-6
 ---
 
 [[dim-con-algebraico-afin.pdf]]

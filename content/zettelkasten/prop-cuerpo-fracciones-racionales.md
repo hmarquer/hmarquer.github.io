@@ -22,5 +22,3 @@ tags:
 ## Referencias
 - [cuerpo](./cuerpo.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

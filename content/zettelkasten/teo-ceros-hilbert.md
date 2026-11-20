@@ -19,7 +19,7 @@ projects:
   - m.1-curvas-algebraicas
 tags:
   - algebra-conmutativa/tema4
-  - m.1-curvas-algebraicas/tema1-ZK-3
+  - curvas-algebraicas/tema1-ZK-3
 ---
 
 [[teo-ceros-hilbert.pdf]]
@@ -34,5 +34,3 @@ tags:
 - [ideal-anulacion](./ideal-anulacion.md)
 - [radical-ideal](./radical-ideal.md)
 
-## Etiquetas
-#ORDENAR : referenciar

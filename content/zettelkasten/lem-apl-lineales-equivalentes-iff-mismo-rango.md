@@ -24,5 +24,3 @@ tags:
 - [apl-lineales-equivalentes](./apl-lineales-equivalentes.md)
 - [rango](./rango.md)
 
-## Etiquetas
-#DEMOSTRACIÓN 

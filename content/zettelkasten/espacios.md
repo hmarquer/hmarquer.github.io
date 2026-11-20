@@ -9,5 +9,3 @@ last_build_date_pdf: '2026-09-15T23:12:56.959887407+00:00'
 [[espacios.pdf]]
 ![[espacios.pdf]]
 
-## Etiquetas
-#REVISAR : arreglar el diagrama

@@ -30,5 +30,3 @@ tags:
 - [fibra](./fibra.md)
 - [val-regular-apl-diferenciable](./val-regular-apl-diferenciable.md)
 
-## Etiquetas
-#REVISAR 

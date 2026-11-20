@@ -27,6 +27,3 @@ tags:
 - [ideal-generado](./ideal-generado.md)
 - [parte-multiplicativa-anillo](./parte-multiplicativa-anillo.md)
 
-## Etiquetas
-#ORDENAR : añadir referencias
-#EJERCICIO 
