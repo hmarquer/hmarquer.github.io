@@ -13,6 +13,7 @@ references:
 backlinks:
   - cadena-markov
   - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
   - probabilidad-condicionada-sigma-algebra
 ---
 

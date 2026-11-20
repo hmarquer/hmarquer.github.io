@@ -12,6 +12,7 @@ references:
   - obs-linealidad-esperanza
 backlinks:
   - lem-carac-cadena-markov
+  - lem-factores-medibles-esperanza-condicional
 projects:
   - m.1-procesos-estocasticos
 tags:

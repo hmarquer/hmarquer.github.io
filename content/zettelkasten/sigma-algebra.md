@@ -19,7 +19,11 @@ backlinks:
   - independencia-sigma-algebras
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
+  - lem-norma-lp-esperanza-condicionada
+  - lem-propiedad-torre-esperanza-condicionada
   - m.1-pe-e1
   - medida-signo
   - mindependencia-sigma-algebras

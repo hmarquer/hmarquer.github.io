@@ -18,10 +18,13 @@ backlinks:
   - fn-localmente-integrable
   - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fn-integrable-iff-lim-colas-0
   - lem-ley-esperanza-total
   - lem-linealidad-esperanza-condicional
   - lem-monotonia-esperanza-condicional
+  - lem-propiedad-torre-esperanza-condicionada
   - lem-sigma-algebra-parada-esperanza-condicionada
   - lem-transformada-fourier-convolucion
   - ley-debil-grandes-numeros

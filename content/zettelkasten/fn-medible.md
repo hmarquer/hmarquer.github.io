@@ -32,6 +32,8 @@ backlinks:
   - lem-convolucion
   - lem-desigualdad-integral-norma-lp-debil
   - lem-esperanza-condicionada-mejor-aprox
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fatou
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1

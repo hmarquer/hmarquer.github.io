@@ -10,6 +10,8 @@ references:
   - esperanza
   - esperanza-condicionada-sigma-algebra
   - fn-integrable
+backlinks:
+  - lem-norma-lp-esperanza-condicionada
 projects:
   - m.1-procesos-estocasticos
 tags:

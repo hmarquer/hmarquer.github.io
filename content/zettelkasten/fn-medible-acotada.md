@@ -13,6 +13,7 @@ references:
   - metrica
 backlinks:
   - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
 ---
 
 [[fn-medible-acotada.pdf]]

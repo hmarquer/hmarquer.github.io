@@ -2,8 +2,8 @@
 title: 'Caracterización de una cadena de Markov'
 filename: 'lem-carac-cadena-markov'
 created: '2026-11-17T15:48:14.222096108+00:00'
-last_edit_date: '2026-11-19T23:41:46.950163160+00:00'
-last_build_date_pdf: '2026-11-19T23:42:55.724530454+00:00'
+last_edit_date: '2026-11-19T23:51:06.139224072+00:00'
+last_build_date_pdf: '2026-11-19T23:51:13.923620134+00:00'
 labels:
   - dem:carac-cadena-markov:positiva
   - dem:carac-cadena-markov:simple
@@ -24,6 +24,8 @@ references:
   - probabilidad-condicionada-sigma-algebra
   - proceso-estocastico-adaptado
   - teo-convergencia-monotona
+backlinks:
+  - lem-propiedades-cadena-markov
 projects:
   - m.1-procesos-estocasticos
 tags:

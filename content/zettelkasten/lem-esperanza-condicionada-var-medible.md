@@ -9,6 +9,9 @@ labels:
 references:
   - esperanza-condicionada-sigma-algebra
   - fn-integrable
+backlinks:
+  - lem-estabilidad-esperanza-condicional
+  - lem-propiedades-cadena-markov
 projects:
   - m.1-procesos-estocasticos
 tags:

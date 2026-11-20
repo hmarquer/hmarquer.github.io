@@ -24,6 +24,7 @@ backlinks:
   - lem-aprox-indicatriz-continua-norma-lp
   - lem-carac-linfty-esp-sigma-finito
   - lem-esp-lp-normado
+  - lem-norma-lp-esperanza-condicionada
   - lem-norma-lp-integral-fn-distribucion
   - m.1-fda-e2
   - norma-lp-debil

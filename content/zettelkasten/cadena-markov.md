@@ -20,6 +20,7 @@ backlinks:
   - cadena-markov-recurrencia
   - cadena-markov-transitoriedad
   - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
   - num-visitas-cadena-markov
   - tiempo-retorno-cadena-markov
 projects:

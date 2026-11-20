@@ -21,6 +21,7 @@ backlinks:
   - fn-suave-soporte-compacto
   - lem-aprox-fn-simple
   - lem-descomposicion-jordan-continuidad-absoluta
+  - lem-propiedades-cadena-markov
   - m.1-pe-e4
   - medida
   - medida-inducida

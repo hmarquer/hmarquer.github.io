@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-19T23:41:46.950163160+00:00'
-last_build_date_pdf: '2026-11-19T23:43:54.916600816+00:00'
+last_edit_date: '2026-11-20T01:56:21.565543604+00:00'
+last_build_date_pdf: '2026-11-20T01:56:31.414787065+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea
@@ -22,13 +22,18 @@ inclusions:
   - lem-carac-tiempo-parada
   - lem-convergencia-monotona-esperanza-condicionada
   - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-fn-integrable-iff-lim-colas-0
   - lem-integrabilidad-uniforme-imp-acotacion-l1
   - lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra
   - lem-ley-esperanza-total
   - lem-linealidad-esperanza-condicional
   - lem-monotonia-esperanza-condicional
+  - lem-norma-lp-esperanza-condicionada
   - lem-norma-lp-integral-fn-distribucion
+  - lem-propiedad-torre-esperanza-condicionada
+  - lem-propiedades-cadena-markov
   - m.1-pe-e1
   - m.1-pe-e2
   - m.1-pe-e3
@@ -71,9 +76,13 @@ tags:
 - [esperanza-condicionada-sigma-algebra](./esperanza-condicionada-sigma-algebra.md)
 - [lem-convergencia-monotona-esperanza-condicionada](./lem-convergencia-monotona-esperanza-condicionada.md)
 - [lem-esperanza-condicionada-var-medible](./lem-esperanza-condicionada-var-medible.md)
+- [lem-estabilidad-esperanza-condicional](./lem-estabilidad-esperanza-condicional.md)
+- [lem-factores-medibles-esperanza-condicional](./lem-factores-medibles-esperanza-condicional.md)
 - [lem-ley-esperanza-total](./lem-ley-esperanza-total.md)
 - [lem-linealidad-esperanza-condicional](./lem-linealidad-esperanza-condicional.md)
 - [lem-monotonia-esperanza-condicional](./lem-monotonia-esperanza-condicional.md)
+- [lem-norma-lp-esperanza-condicionada](./lem-norma-lp-esperanza-condicionada.md)
+- [lem-propiedad-torre-esperanza-condicionada](./lem-propiedad-torre-esperanza-condicionada.md)
 - [prop-esperanza-condicionada-sigma-algebra-indep](./prop-esperanza-condicionada-sigma-algebra-indep.md)
 - [teo-radon-nikodym](./teo-radon-nikodym.md)
 
@@ -102,6 +111,7 @@ tags:
 - [lambda-sistema](./lambda-sistema.md)
 - [lem-carac-cadena-markov](./lem-carac-cadena-markov.md)
 - [lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra](./lem-lambda-sistema-cerrado-interseccion-imp-sigma-algebra.md)
+- [lem-propiedades-cadena-markov](./lem-propiedades-cadena-markov.md)
 - [medida-interiormente-regular](./medida-interiormente-regular.md)
 - [nucleo-transicion](./nucleo-transicion.md)
 - [num-visitas-cadena-markov](./num-visitas-cadena-markov.md)

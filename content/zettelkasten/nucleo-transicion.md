@@ -15,6 +15,7 @@ backlinks:
   - cadena-markov-homogenea
   - ejem-nucleo-transcicion-esp-finito
   - lem-carac-cadena-markov
+  - lem-propiedades-cadena-markov
   - obs-nucleo-transicion-accion-fn-medible-medida-probabilidad
 projects:
   - m.1-procesos-estocasticos

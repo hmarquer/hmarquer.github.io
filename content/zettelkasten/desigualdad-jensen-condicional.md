@@ -14,6 +14,7 @@ references:
   - sigma-algebra
 backlinks:
   - cor-fn-convexa-martingala-submartingala
+  - lem-norma-lp-esperanza-condicionada
 projects:
   - 3.2-probabilidad-ii
   - m.1-procesos-estocasticos

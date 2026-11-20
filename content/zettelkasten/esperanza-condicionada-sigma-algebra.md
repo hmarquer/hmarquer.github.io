@@ -22,9 +22,13 @@ backlinks:
   - lem-esperanza-condicionada
   - lem-esperanza-condicionada-mejor-aprox
   - lem-esperanza-condicionada-var-medible
+  - lem-estabilidad-esperanza-condicional
+  - lem-factores-medibles-esperanza-condicional
   - lem-ley-esperanza-total
   - lem-linealidad-esperanza-condicional
   - lem-monotonia-esperanza-condicional
+  - lem-propiedad-torre-esperanza-condicionada
+  - lem-propiedades-cadena-markov
   - lem-sigma-algebra-parada-esperanza-condicionada
   - m.1-pe-e1
   - martingala
