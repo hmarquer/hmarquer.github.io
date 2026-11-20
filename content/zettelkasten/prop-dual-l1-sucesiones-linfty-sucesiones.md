@@ -2,7 +2,7 @@
 title: 'El dual de $\ell^1$ es $\ell^\infty$'
 filename: 'prop-dual-l1-sucesiones-linfty-sucesiones'
 created: '2026-01-07 20:25:25.060913'
-last_edit_date: '2026-09-03T09:44:22.692553601+00:00'
+last_edit_date: '2026-09-06T15:26:21.235661479+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.943150423+00:00'
 labels:
   - dem:dual-l1-sucesiones-linfty-sucesiones-continua

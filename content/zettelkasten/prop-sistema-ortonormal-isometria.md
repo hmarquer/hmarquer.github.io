@@ -2,7 +2,7 @@
 title: 'Isometría de un sistema ortonormal finito a $\mathbb{K}^n$'
 filename: 'prop-sistema-ortonormal-isometria'
 created: '2025-10-28 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.707645502+00:00'
+last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
 last_build_date_pdf: '2026-09-15T23:12:49.701080861+00:00'
 labels:
   - prop:sistema-ortonormal-isometria

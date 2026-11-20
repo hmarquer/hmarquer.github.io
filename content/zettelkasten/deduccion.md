@@ -2,7 +2,7 @@
 title: 'Deducción'
 filename: 'deduccion'
 created: '2026-04-16T16:02:09.940411790+00:00'
-last_edit_date: '2026-09-03T09:44:22.566653522+00:00'
+last_edit_date: '2026-09-06T15:26:21.217658919+00:00'
 last_build_date_pdf: '2026-09-15T23:12:51.693439680+00:00'
 labels:
   - defn:deduccion
