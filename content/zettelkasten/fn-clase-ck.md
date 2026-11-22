@@ -2,7 +2,7 @@
 title: 'Función de clase $\mathcal{C}^k$'
 filename: 'fn-clase-ck'
 created: '2025-02-04 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.170786850+00:00'
+last_edit_date: '2026-11-04T11:31:16.862033778+00:00'
 last_build_date_pdf: '2026-11-05T04:08:52.156753900+00:00'
 labels:
   - defn:fn-clase-ck

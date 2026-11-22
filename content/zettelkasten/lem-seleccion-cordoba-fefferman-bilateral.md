@@ -2,7 +2,7 @@
 title: 'Lem seleccion cordoba fefferman bilateral'
 filename: 'lem-seleccion-cordoba-fefferman-bilateral'
 created: '2026-11-06T12:21:18.064700264+00:00'
-last_edit_date: '2026-11-10T11:35:37.545079190+00:00'
+last_edit_date: '2026-11-06T15:16:13.522594026+00:00'
 last_build_date_pdf: '2026-11-10T19:08:48.309358528+00:00'
 labels:
   - dem:seleccion-cordoba-fefferman-bilateral:inv-p1

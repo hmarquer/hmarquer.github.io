@@ -2,7 +2,7 @@
 title: 'Variedad topológica'
 filename: 'variedad-topologica'
 created: '2025-02-03 00:00:00'
-last_edit_date: '2026-11-10T11:35:37.548079190+00:00'
+last_edit_date: '2026-11-04T21:12:22.809535643+00:00'
 last_build_date_pdf: '2026-11-10T19:08:11.407767759+00:00'
 labels:
   - defn:variedad-topologica

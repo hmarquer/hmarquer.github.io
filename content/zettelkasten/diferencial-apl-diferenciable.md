@@ -2,7 +2,7 @@
 title: 'Diferencial de una aplicación diferenciable'
 filename: 'diferencial-apl-diferenciable'
 created: '2025-03-05 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.162786844+00:00'
+last_edit_date: '2026-11-04T11:31:16.860367118+00:00'
 last_build_date_pdf: '2026-11-05T04:09:29.516227432+00:00'
 labels:
   - defn:diferencial-apl-diferenciable

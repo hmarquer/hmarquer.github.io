@@ -2,7 +2,7 @@
 title: 'El espacio tangente de un abierto es isomorfo al espacio tangente de la variedad'
 filename: 'prop-esp-tangente-abierto-isomorfismo'
 created: '2025-06-05 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.198786869+00:00'
+last_edit_date: '2026-11-04T11:31:16.867124151+00:00'
 last_build_date_pdf: '2026-11-05T04:07:00.702859440+00:00'
 labels:
   - prop:esp-tangente-abierto-isomorfismo
