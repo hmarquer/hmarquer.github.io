@@ -2,7 +2,7 @@
 title: 'Base hamel'
 filename: 'base-hamel'
 created: '2025-10-01 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.203656928+00:00'
+last_edit_date: '2026-09-03T09:44:22.536717773+00:00'
 last_build_date_pdf: '2026-09-15T23:12:48.142804704+00:00'
 labels:
   - defn:base-hamel

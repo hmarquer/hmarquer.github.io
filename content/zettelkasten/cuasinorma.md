@@ -2,7 +2,7 @@
 title: 'Cuasinorma'
 filename: 'cuasinorma'
 created: '2026-10-28T13:35:00.483074535+00:00'
-last_edit_date: '2026-11-10T11:35:37.543079190+00:00'
+last_edit_date: '2026-11-04T17:16:30.406970206+00:00'
 last_build_date_pdf: '2026-11-10T19:09:22.591759689+00:00'
 labels:
   - defn:cuasinorma

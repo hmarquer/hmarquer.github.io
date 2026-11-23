@@ -2,7 +2,7 @@
 title: 'Lem subvariedad estructura diferenciable unica'
 filename: 'lem-subvariedad-estructura-diferenciable-unica'
 created: '2025-06-16 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.230660768+00:00'
+last_edit_date: '2026-09-03T09:44:22.649977280+00:00'
 last_build_date_pdf: '2026-09-15T23:12:54.575474388+00:00'
 labels:
   - lem:subvariedad-estructura-diferenciable-unica

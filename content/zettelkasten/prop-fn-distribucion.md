@@ -2,7 +2,7 @@
 title: 'Prop fn distribucion'
 filename: 'prop-fn-distribucion'
 created: '2026-11-11T13:25:12.641046708+00:00'
-last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
+last_edit_date: '2026-11-11T13:31:45.765220290+00:00'
 last_build_date_pdf: '2026-11-16T12:14:15.871040123+00:00'
 labels:
   - prop:fn-distribucion
