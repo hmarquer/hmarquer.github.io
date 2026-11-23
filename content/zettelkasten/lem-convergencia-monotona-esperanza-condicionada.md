@@ -3,7 +3,7 @@ title: 'Convergencia monótona para la esperanza condicionada'
 filename: 'lem-convergencia-monotona-esperanza-condicionada'
 created: '2026-11-17T15:37:53.799252223+00:00'
 last_edit_date: '2026-11-17T15:38:12.122703282+00:00'
-last_build_date_pdf: '2026-11-17T15:38:18.140985055+00:00'
+last_build_date_pdf: '2026-11-20T18:56:12.708904611+00:00'
 labels:
   - lem:convergencia-monotona-esperanza-condicionada
 references:

@@ -3,7 +3,7 @@ title: 'Teorema de Radon-Nikodym'
 filename: 'teo-radon-nikodym'
 created: '2025-05-04 00:00:00'
 last_edit_date: '2026-11-17T14:57:42.699638399+00:00'
-last_build_date_pdf: '2026-11-17T14:57:50.854237183+00:00'
+last_build_date_pdf: '2026-11-20T18:55:31.249284891+00:00'
 labels:
   - teo:radon-nikodym
 references:

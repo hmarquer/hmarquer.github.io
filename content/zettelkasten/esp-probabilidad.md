@@ -3,7 +3,7 @@ title: 'Espacio de probabilidad'
 filename: 'esp-probabilidad'
 created: '2025-01-25 00:00:00'
 last_edit_date: '2026-11-16T16:45:46.693465113+00:00'
-last_build_date_pdf: '2026-11-16T16:46:09.885283201+00:00'
+last_build_date_pdf: '2026-11-20T18:56:27.015096989+00:00'
 labels:
   - defn:esp-probabilidad
 references:

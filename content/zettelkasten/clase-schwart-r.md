@@ -1,11 +1,11 @@
 ---
 title: 'Clase schwartz'
-filename: 'clase-schwartz'
+filename: 'clase-schwart-r'
 created: '2026-01-13 12:14:49.151865'
-last_edit_date: '2026-09-06T15:26:21.211658066+00:00'
-last_build_date_pdf: '2026-09-15T23:12:50.555627006+00:00'
+last_edit_date: '2026-11-23T13:33:49.466988050+00:00'
+last_build_date_pdf: '2026-11-23T15:57:20.873252492+00:00'
 labels:
-  - defn:clase-schwartz
+  - defn:clase-schwartz-r
 references:
   - fn-clase-ck
   - fn-derivable
@@ -17,8 +17,8 @@ tags:
   - variable-real/tema5
 ---
 
-[[clase-schwartz.pdf]]
-![[clase-schwartz.pdf]]
+[[clase-schwart-r.pdf]]
+![[clase-schwart-r.pdf]]
 
 ## Referencias
 - [fn-clase-ck](./fn-clase-ck.md)

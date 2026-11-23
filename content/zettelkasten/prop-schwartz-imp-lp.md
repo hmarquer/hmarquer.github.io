@@ -2,12 +2,12 @@
 title: 'Prop schwartz imp lp'
 filename: 'prop-schwartz-imp-lp'
 created: '2026-01-13 12:45:29.959343'
-last_edit_date: '2026-09-06T15:26:21.237661763+00:00'
-last_build_date_pdf: '2026-09-15T23:12:49.691687385+00:00'
+last_edit_date: '2026-11-23T13:33:49.473988052+00:00'
+last_build_date_pdf: '2026-11-23T15:57:20.819382155+00:00'
 labels:
   - prop:schwartz-imp-lp
 references:
-  - clase-schwartz
+  - clase-schwart-r
   - esp-lp
   - esp-vectorial
 projects:
@@ -20,7 +20,7 @@ tags:
 ![[prop-schwartz-imp-lp.pdf]]
 
 ## Referencias
-- [clase-schwartz](./clase-schwartz.md)
+- [clase-schwart-r](./clase-schwart-r.md)
 - [esp-lp](./esp-lp.md)
 - [esp-vectorial](./esp-vectorial.md)
 

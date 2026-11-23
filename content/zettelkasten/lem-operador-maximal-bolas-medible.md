@@ -3,7 +3,7 @@ title: 'Medibilidad del operador maximal en bolas'
 filename: 'lem-operador-maximal-bolas-medible'
 created: '2026-11-17T18:57:05.865439623+00:00'
 last_edit_date: '2026-11-17T19:21:30.303929544+00:00'
-last_build_date_pdf: '2026-11-17T19:21:38.252068729+00:00'
+last_build_date_pdf: '2026-11-20T18:55:58.433473634+00:00'
 labels:
   - lem:operador-maximal-bolas-medible
 references:

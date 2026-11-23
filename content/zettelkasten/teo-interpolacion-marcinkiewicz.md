@@ -3,7 +3,7 @@ title: 'Teorema de interpolación de Marcinkiewicz'
 filename: 'teo-interpolacion-marcinkiewicz'
 created: '2026-11-15T18:46:47.945359771+00:00'
 last_edit_date: '2026-11-16T11:23:26.136715996+00:00'
-last_build_date_pdf: '2026-11-16T11:23:32.845839864+00:00'
+last_build_date_pdf: '2026-11-20T18:55:31.259877386+00:00'
 labels:
   - teo:interpolacion-marcinkiewicz
 references:

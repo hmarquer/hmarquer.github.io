@@ -3,7 +3,7 @@ title: 'Lem norma lp esperanza condicionada'
 filename: 'lem-norma-lp-esperanza-condicionada'
 created: '2026-11-20T00:50:40.327650715+00:00'
 last_edit_date: '2026-11-20T00:50:40.349620264+00:00'
-last_build_date_pdf: '2026-11-20T01:59:42.275440169+00:00'
+last_build_date_pdf: '2026-11-20T18:56:05.169697851+00:00'
 labels:
   - lem:norma-lp-esperanza-condicionada
 references:

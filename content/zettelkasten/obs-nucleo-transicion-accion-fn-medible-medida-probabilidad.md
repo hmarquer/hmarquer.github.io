@@ -3,7 +3,7 @@ title: 'Acción de un núcleo de transición sobre funciones medibles y medidas 
 filename: 'obs-nucleo-transicion-accion-fn-medible-medida-probabilidad'
 created: '2026-11-16T17:41:04.651182483+00:00'
 last_edit_date: '2026-11-16T17:41:16.508261957+00:00'
-last_build_date_pdf: '2026-11-16T17:41:25.027783228+00:00'
+last_build_date_pdf: '2026-11-20T18:55:45.221056027+00:00'
 labels:
   - obs:nucleo-transicion-accion-fn-medible-medida-probabilidad
 references:
