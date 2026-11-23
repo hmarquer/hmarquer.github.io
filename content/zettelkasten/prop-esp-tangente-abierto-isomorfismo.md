@@ -12,6 +12,8 @@ references:
   - variedad-diferenciable
 backlinks:
   - cor-dim-esp-tangente-variedad
+citations:
+  - leeIntroductionSmoothManifolds2013
 projects:
   - 3.2-geometria-diferencial
 tags:
