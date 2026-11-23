@@ -2,8 +2,8 @@
 title: 'Transformada de Fourier en $\mathcal{L}^1$'
 filename: 'transformada-fourier-l1'
 created: '2026-01-13 10:26:13.971639'
-last_edit_date: '2026-09-03T09:44:22.772349347+00:00'
-last_build_date_pdf: '2026-09-15T23:12:47.614674216+00:00'
+last_edit_date: '2026-11-23T18:07:46.411439066+00:00'
+last_build_date_pdf: '2026-11-23T19:12:00.717982334+00:00'
 labels:
   - defn:transformada-fourier-l1
 references:
@@ -22,7 +22,9 @@ backlinks:
   - teo-inversion-transformada-fourier
 projects:
   - 4.1-variable-real
+  - m.1-fundamentos-de-analisis-matematico
 tags:
+  - fundamentos-de-analisis-matematico/tema4
   - variable-real/tema5
 ---
 

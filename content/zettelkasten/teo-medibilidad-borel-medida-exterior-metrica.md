@@ -16,6 +16,7 @@ references:
   - sigma-algebra-generada
 backlinks:
   - ejer-medida-hausdorff-sigma-finita
+  - prop-con-borel-imp-medible-hausdorff
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:

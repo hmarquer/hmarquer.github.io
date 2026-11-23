@@ -12,7 +12,7 @@ backlinks:
   - apl-diferenciable
   - c-infty-compatibilidad
   - camino
-  - clase-schwartz
+  - clase-schwart-r
   - conjugada-armonica
   - cor-convolucion-regularidad
   - cor-wirtinger-composicion-holomorfas

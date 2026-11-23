@@ -10,7 +10,7 @@ labels:
 references:
   - limite-fn
 backlinks:
-  - clase-schwartz
+  - clase-schwart-r
   - lem-transformada-fourier-derivada
   - prop-criterio-dirichlet
   - teo-fundamental-calculo

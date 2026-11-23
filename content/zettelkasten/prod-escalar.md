@@ -11,7 +11,6 @@ references:
   - forma-bilineal
 backlinks:
   - esp-euclideo
-  - obs-propiedades-transformada-fourier-l1
   - prod-interno
   - variedad-riemanniana
 projects:

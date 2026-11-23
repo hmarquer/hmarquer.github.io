@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-20T17:05:07.031835924+00:00'
-last_build_date_pdf: '2026-11-20T18:56:57.594893084+00:00'
+last_edit_date: '2026-11-23T18:09:30.232620943+00:00'
+last_build_date_pdf: '2026-11-23T19:12:33.085778191+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -77,6 +77,7 @@ inclusions:
   - norma
   - norma-lp
   - norma-lp-debil
+  - obs-propiedades-transformada-fourier-l1
   - operador-maximal
   - operador-maximal-centrado
   - operador-maximal-fuerte
@@ -122,6 +123,7 @@ inclusions:
   - teo-medibilidad-borel-medida-exterior-metrica
   - teo-operador-maximal-bolas-tipo-debil-1-1
   - teo-radon-nikodym
+  - transformada-fourier-l1
 tags:
   - fundamentos-de-analisis-matematico
 ---
@@ -263,4 +265,8 @@ tags:
 - [operador-maximal-centrado](./operador-maximal-centrado.md)
 - [operador-maximal-fuerte](./operador-maximal-fuerte.md)
 - [teo-operador-maximal-bolas-tipo-debil-1-1](./teo-operador-maximal-bolas-tipo-debil-1-1.md)
+
+### tema4
+- [obs-propiedades-transformada-fourier-l1](./obs-propiedades-transformada-fourier-l1.md)
+- [transformada-fourier-l1](./transformada-fourier-l1.md)
 
