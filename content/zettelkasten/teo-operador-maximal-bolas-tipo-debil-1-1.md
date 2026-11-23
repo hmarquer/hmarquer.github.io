@@ -2,7 +2,7 @@
 title: 'Teo operador maximal bolas tipo debil 1 1'
 filename: 'teo-operador-maximal-bolas-tipo-debil-1-1'
 created: '2026-11-17T19:19:50.850636539+00:00'
-last_edit_date: '2026-11-17T19:19:50.869667554+00:00'
+last_edit_date: '2026-11-20T17:05:07.030697051+00:00'
 last_build_date_pdf: '2026-11-20T18:55:31.657403334+00:00'
 labels:
   - dem:operador-maximal-bolas-tipo-debil-1-1:desigualdad-lambda

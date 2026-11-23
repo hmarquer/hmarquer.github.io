@@ -36,7 +36,7 @@ references:
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
+  - fundamentos-de-analisis-matematico/entrega2
 ---
 
 [[m.1-fda-e2.pdf]]

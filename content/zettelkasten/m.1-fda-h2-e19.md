@@ -21,6 +21,10 @@ labels:
 references:
   - lem-fatou
   - teo-interpolacion-marcinkiewicz
+projects:
+  - m.1-fundamentos-de-analisis-matematico
+tags:
+  - fundamentos-de-analisis-matematico/entrega2
 ---
 
 [[m.1-fda-h2-e19.pdf]]
