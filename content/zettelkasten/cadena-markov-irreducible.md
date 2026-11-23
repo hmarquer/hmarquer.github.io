@@ -2,7 +2,7 @@
 title: 'Cadena de Markov irreducible'
 filename: 'cadena-markov-irreducible'
 created: '2025-03-20 00:00:00'
-last_edit_date: '2026-11-20T17:05:07.026996337+00:00'
+last_edit_date: '2026-11-19T19:19:51.512969417+00:00'
 last_build_date_pdf: '2026-11-20T18:56:33.944070706+00:00'
 labels:
   - defn:cadena-markov-irreducible
