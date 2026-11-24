@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis matemático'
 name: 'm.1-fundamentos-de-analisis-matematico'
 created: '2026-08-31T09:32:53.115056869+00:00'
-last_edit_date: '2026-11-23T14:35:55.775861913+00:00'
-last_build_date_pdf: '2026-11-23T14:36:09.176134345+00:00'
+last_edit_date: '2026-11-24T13:02:48.145968682+00:00'
+last_build_date_pdf: '2026-11-24T13:03:10.299996338+00:00'
 inclusions:
   - algebra-conjuntos
   - apl-lineal
@@ -67,6 +67,7 @@ inclusions:
   - m.1-fda-e1
   - m.1-fda-e2
   - m.1-fda-h1-e19
+  - m.1-fda-h2-e19
   - media-integral
   - medida
   - medida-exterior
@@ -133,17 +134,22 @@ tags:
 
 ## Notas incluidas
 
+### entrega1
+- [m.1-fda-e1](./m.1-fda-e1.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
+- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
+
+### entrega2
+- [m.1-fda-e2](./m.1-fda-e2.md)
+- [m.1-fda-h2-e19](./m.1-fda-h2-e19.md)
+- [m.1-fda-h2-e19](./m.1-fda-h2-e19.md)
+- [m.1-fda-h2-e19](./m.1-fda-h2-e19.md)
+
 ### hoja1
 - [ejer-medida-hausdorff-dim-0-contar](./ejer-medida-hausdorff-dim-0-contar.md)
 - [lem-medida-exterior-hausdorff-anulacion](./lem-medida-exterior-hausdorff-anulacion.md)
 - [prop-medida-exterior-hausdorff-metrica](./prop-medida-exterior-hausdorff-metrica.md)
-
-### m.1-fundamentos-de-analisis-matematico
-- [m.1-fda-e1](./m.1-fda-e1.md)
-- [m.1-fda-e2](./m.1-fda-e2.md)
-- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
-- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
-- [m.1-fda-h1-e19](./m.1-fda-h1-e19.md)
 
 ### tema0
 - [algebra-conjuntos](./algebra-conjuntos.md)

@@ -2,7 +2,7 @@
 title: 'Cor extension entera anillos transitiva'
 filename: 'cor-extension-entera-anillos-transitiva'
 created: '2026-01-04 07:44:05.112978'
-last_edit_date: '2026-11-02T14:32:48.813948557+00:00'
+last_edit_date: '2026-11-02T15:39:50.686647250+00:00'
 last_build_date_pdf: '2026-11-02T19:35:51.275885579+00:00'
 labels:
   - cor:extension-entera-anillos-transitiva

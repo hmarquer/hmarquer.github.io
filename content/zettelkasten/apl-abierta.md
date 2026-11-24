@@ -2,7 +2,7 @@
 title: 'Aplicación abierta'
 filename: 'apl-abierta'
 created: '2025-02-11 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.857033703+00:00'
+last_edit_date: '2026-11-03T17:30:26.148786834+00:00'
 last_build_date_pdf: '2026-11-05T04:10:18.899606195+00:00'
 labels:
   - defn:apl-abierta

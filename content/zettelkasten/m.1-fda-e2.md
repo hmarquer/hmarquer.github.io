@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis: Entrega 2'
 filename: 'm.1-fda-e2'
 created: '2026-11-01T13:06:16.553653223+00:00'
-last_edit_date: '2026-11-15T04:30:55.361286504+00:00'
-last_build_date_pdf: '2026-11-16T12:14:22.313465045+00:00'
+last_edit_date: '2026-11-24T13:01:56.736787002+00:00'
+last_build_date_pdf: '2026-11-24T13:02:35.366360521+00:00'
 labels:
   - h2e10
   - h2e12
@@ -32,11 +32,12 @@ references:
   - norma
   - norma-lp
   - norma-lp-debil
+  - prop-desigualdad-chebyshev-general
   - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - m.1-fundamentos-de-analisis-matematico
 tags:
-  - fundamentos-de-analisis-matematico/m.1-fundamentos-de-analisis-matematico
+  - fundamentos-de-analisis-matematico/entrega2
 ---
 
 [[m.1-fda-e2.pdf]]
@@ -59,5 +60,6 @@ tags:
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
+- [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
 - [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 

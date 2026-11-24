@@ -2,7 +2,7 @@
 title: 'Lema de Fatou'
 filename: 'lem-fatou'
 created: '2025-12-11 19:31:56.709059'
-last_edit_date: '2026-09-03T09:44:22.633543412+00:00'
+last_edit_date: '2026-09-06T15:26:21.228660483+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.407729631+00:00'
 labels:
   - lem:fatou
@@ -12,6 +12,7 @@ references:
   - teo-convergencia-monotona
 backlinks:
   - lem-fatou-probabilidades
+  - m.1-fda-h2-e19
   - teo-convergencia-dominada
   - teo-esp-lp-banach
 projects:

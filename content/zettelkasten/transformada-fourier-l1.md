@@ -3,7 +3,7 @@ title: 'Transformada de Fourier en $\mathcal{L}^1$'
 filename: 'transformada-fourier-l1'
 created: '2026-01-13 10:26:13.971639'
 last_edit_date: '2026-11-23T13:28:32.707922900+00:00'
-last_build_date_pdf: '2026-11-23T13:28:40.287672616+00:00'
+last_build_date_pdf: '2026-11-23T19:12:00.717982334+00:00'
 labels:
   - defn:transformada-fourier-l1
 references:
