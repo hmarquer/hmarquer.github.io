@@ -2,7 +2,7 @@
 title: 'Cor operador maximal bolas tipo fuerte'
 filename: 'cor-operador-maximal-bolas-tipo-fuerte'
 created: '2026-11-18T10:50:35.353294907+00:00'
-last_edit_date: '2026-11-18T10:51:39.883690686+00:00'
+last_edit_date: '2026-11-20T17:05:07.027531515+00:00'
 last_build_date_pdf: '2026-11-20T18:56:33.798222191+00:00'
 labels:
   - cor:operador-maximal-bolas-tipo-fuerte
