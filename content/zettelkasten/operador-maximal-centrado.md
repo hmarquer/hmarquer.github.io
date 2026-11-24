@@ -2,7 +2,7 @@
 title: 'Operador maximal centrado'
 filename: 'operador-maximal-centrado'
 created: '2026-11-18T18:12:44.028353145+00:00'
-last_edit_date: '2026-11-20T17:05:07.029829960+00:00'
+last_edit_date: '2026-11-18T18:12:44.041911751+00:00'
 last_build_date_pdf: '2026-11-20T18:55:44.820405041+00:00'
 labels:
   - defn:operador-maximal-centrado

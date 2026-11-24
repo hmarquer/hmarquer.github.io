@@ -17,6 +17,7 @@ backlinks:
   - m.1-fda-e2
   - prop-carac-fn-convexa
   - prop-fn-convexa
+  - prop-fn-convexa-imp-continua-interior
   - prop-inclusion-lp-esp-finito
   - teo-esp-banach-uniformemente-convexo-reflexivo-fn-convexa-coercitiva-semicontinua-inferior-minimo
   - teo-fn-convexa-semicontinua-fuerte-imp-debil

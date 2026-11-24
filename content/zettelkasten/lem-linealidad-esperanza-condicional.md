@@ -2,7 +2,7 @@
 title: 'Linealidad de la esperanza condicional'
 filename: 'lem-linealidad-esperanza-condicional'
 created: '2026-11-17T15:26:46.528540147+00:00'
-last_edit_date: '2026-11-20T17:05:07.028863461+00:00'
+last_edit_date: '2026-11-17T15:26:57.676411931+00:00'
 last_build_date_pdf: '2026-11-20T18:56:05.840803649+00:00'
 labels:
   - lem:linealidad-esperanza-condicional

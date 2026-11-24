@@ -2,7 +2,7 @@
 title: 'Función medible'
 filename: 'fn-medible'
 created: '2025-01-25 00:00:00'
-last_edit_date: '2026-11-20T17:05:07.027754725+00:00'
+last_edit_date: '2026-11-19T21:30:12.608712209+00:00'
 last_build_date_pdf: '2026-11-20T18:56:20.095142287+00:00'
 labels:
   - defn:fn-medible

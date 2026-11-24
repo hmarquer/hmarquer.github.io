@@ -62,6 +62,7 @@ backlinks:
   - homeomorfismo
   - homotopia
   - homotopia-arcos
+  - interior-con
   - kolmogorov-topologia
   - lazo
   - lem-apl-continua-esp-topologico-hausdorff-imp-grafica-cerrada
