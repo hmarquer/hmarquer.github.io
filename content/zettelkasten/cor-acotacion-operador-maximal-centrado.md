@@ -2,7 +2,7 @@
 title: 'Corolario de acotación del operador maximal centrado en el espacio de Lebesgue'
 filename: 'cor-acotacion-operador-maximal-centrado'
 created: '2026-11-18T18:29:31.075566706+00:00'
-last_edit_date: '2026-11-20T17:05:07.027316249+00:00'
+last_edit_date: '2026-11-18T18:30:06.624947237+00:00'
 last_build_date_pdf: '2026-11-20T18:56:33.604174350+00:00'
 labels:
   - cor:acotacion-operador-maximal-centrado

@@ -2,7 +2,7 @@
 title: 'Prop schwartz imp lp'
 filename: 'prop-schwartz-imp-lp'
 created: '2026-01-13 12:45:29.959343'
-last_edit_date: '2026-11-23T18:07:46.411317327+00:00'
+last_edit_date: '2026-11-23T13:33:49.473988052+00:00'
 last_build_date_pdf: '2026-11-23T19:12:00.664469137+00:00'
 labels:
   - prop:schwartz-imp-lp

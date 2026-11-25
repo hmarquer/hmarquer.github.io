@@ -2,7 +2,7 @@
 title: 'Operadores de Wirtinger'
 filename: 'operadores-wirtinger'
 created: '2025-03-15 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.866685962+00:00'
+last_edit_date: '2026-11-03T17:30:26.194786867+00:00'
 last_build_date_pdf: '2026-11-05T04:07:13.131089165+00:00'
 labels:
   - defn:operadores-wirtinger

@@ -2,7 +2,7 @@
 title: 'Monotonía de la esperanza condicional'
 filename: 'lem-monotonia-esperanza-condicional'
 created: '2026-11-17T15:35:35.651439197+00:00'
-last_edit_date: '2026-11-20T17:05:07.028863461+00:00'
+last_edit_date: '2026-11-17T15:35:51.274723867+00:00'
 last_build_date_pdf: '2026-11-20T18:56:05.426038588+00:00'
 labels:
   - lem:monotonia-esperanza-condicional

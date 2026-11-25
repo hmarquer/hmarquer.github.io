@@ -2,7 +2,7 @@
 title: 'Funciones medibles de variables aleatorias independientes'
 filename: 'cor-indep-var-aleatorias-fn-medibles'
 created: '2025-06-18 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.859033733+00:00'
+last_edit_date: '2026-11-03T17:30:26.156786840+00:00'
 last_build_date_pdf: '2026-11-05T04:09:55.289196779+00:00'
 labels:
   - cor:indep-var-aleatorias-fn-medibles

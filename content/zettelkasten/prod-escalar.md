@@ -2,7 +2,7 @@
 title: 'Producto escalar'
 filename: 'prod-escalar'
 created: '2025-02-08 00:00:00'
-last_edit_date: '2026-11-04T11:31:16.866685962+00:00'
+last_edit_date: '2026-11-03T17:19:13.943195059+00:00'
 last_build_date_pdf: '2026-11-05T04:07:12.646189447+00:00'
 labels:
   - defn:prod-escalar

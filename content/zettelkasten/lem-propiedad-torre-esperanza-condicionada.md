@@ -2,7 +2,7 @@
 title: 'Lem propiedad torre esperanza condicionada'
 filename: 'lem-propiedad-torre-esperanza-condicionada'
 created: '2026-11-20T00:30:02.498714263+00:00'
-last_edit_date: '2026-11-20T17:05:07.029146313+00:00'
+last_edit_date: '2026-11-20T00:30:02.512981088+00:00'
 last_build_date_pdf: '2026-11-20T18:55:58.339990869+00:00'
 labels:
   - lem:propiedad-torre-esperanza-condicionada

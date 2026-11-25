@@ -2,7 +2,7 @@
 title: 'Una variedad algebraica afín es irreducible si y solo si su anillo de coordenadas es un dominio de integridad'
 filename: 'prop-con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad'
 created: '2026-01-05 09:44:10.528593'
-last_edit_date: '2026-10-30T09:20:47.089692170+00:00'
+last_edit_date: '2026-10-29T15:42:29.534855724+00:00'
 last_build_date_pdf: '2026-10-30T21:27:20.962411332+00:00'
 labels:
   - prop:con-algebraico-afin-irreducible-iff-anillo-coordenadas-dominio-integridad
