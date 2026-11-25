@@ -2,8 +2,8 @@
 title: 'Todo espacio $\mathcal{L}^p$ es un espacio vectorial'
 filename: 'lem-esp-lp-vectorial'
 created: '2025-03-14 00:00:00'
-last_edit_date: '2026-11-04T11:17:11.995480951+00:00'
-last_build_date_pdf: '2026-11-05T04:07:50.522586361+00:00'
+last_edit_date: '2026-11-25T11:51:21.970674341+00:00'
+last_build_date_pdf: '2026-11-25T17:50:42.294362982+00:00'
 labels:
   - lem:esp-lp-vectorial
 references:
@@ -15,7 +15,6 @@ references:
 backlinks:
   - lem-esp-lp-debil-esp-vectorial
   - lem-esp-lp-normado
-  - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 4.1-variable-real

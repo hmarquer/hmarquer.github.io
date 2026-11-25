@@ -2,8 +2,8 @@
 title: 'Caracterizaciones de una función convexa'
 filename: 'prop-carac-fn-convexa'
 created: '2025-11-01 00:00:00'
-last_edit_date: '2026-11-24T15:48:14.614528691+00:00'
-last_build_date_pdf: '2026-11-24T20:17:55.129217310+00:00'
+last_edit_date: '2026-11-25T11:51:21.972636914+00:00'
+last_build_date_pdf: '2026-11-25T17:50:37.317445158+00:00'
 labels:
   - prop:carac-fn-convexa
   - prop:carac-fn-convexa:a

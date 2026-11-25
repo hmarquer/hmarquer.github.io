@@ -2,8 +2,8 @@
 title: 'Teo esp lp debil esp cuasinormado'
 filename: 'teo-esp-lp-debil-esp-cuasinormado'
 created: '2026-11-10T18:19:46.531189229+00:00'
-last_edit_date: '2026-11-24T11:34:50.596950019+00:00'
-last_build_date_pdf: '2026-11-24T11:35:03.297261419+00:00'
+last_edit_date: '2026-11-25T11:51:21.974599486+00:00'
+last_build_date_pdf: '2026-11-25T17:50:37.354400307+00:00'
 labels:
   - dem:esp-lp-debil-esp-cuasinormado:i
   - dem:esp-lp-debil-esp-cuasinormado:ii
@@ -15,7 +15,7 @@ references:
   - esp-medida
   - fn-distribucion
   - lem-esp-lp-debil-esp-vectorial
-  - lem-esp-lp-vectorial
+  - lem-esp-lp-normado
   - prop-fn-distribucion
 backlinks:
   - ejem-esp-lp-debil-esp-no-normado
@@ -35,6 +35,6 @@ tags:
 - [esp-medida](./esp-medida.md)
 - [fn-distribucion](./fn-distribucion.md)
 - [lem-esp-lp-debil-esp-vectorial](./lem-esp-lp-debil-esp-vectorial.md)
-- [lem-esp-lp-vectorial](./lem-esp-lp-vectorial.md)
+- [lem-esp-lp-normado](./lem-esp-lp-normado.md)
 - [prop-fn-distribucion](./prop-fn-distribucion.md)
 

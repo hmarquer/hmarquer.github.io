@@ -2,8 +2,8 @@
 title: 'Todo espacio $\mathcal{L}^{p, \infty}$ es un espacio vectorial'
 filename: 'lem-esp-lp-debil-esp-vectorial'
 created: '2026-11-10T17:16:16.123928515+00:00'
-last_edit_date: '2026-11-12T16:18:03.843377267+00:00'
-last_build_date_pdf: '2026-11-16T12:14:22.202442690+00:00'
+last_edit_date: '2026-11-25T11:51:21.970674341+00:00'
+last_build_date_pdf: '2026-11-25T17:50:42.272961999+00:00'
 labels:
   - lem:esp-lp-debil-esp-vectorial
 references:

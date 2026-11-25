@@ -2,8 +2,8 @@
 title: 'Procesos estocásticos'
 name: 'm.1-procesos-estocasticos'
 created: '2026-08-31T09:38:58.706542990+00:00'
-last_edit_date: '2026-11-24T17:18:58.371977690+00:00'
-last_build_date_pdf: '2026-11-24T20:18:11.760514138+00:00'
+last_edit_date: '2026-11-25T11:45:15.954002073+00:00'
+last_build_date_pdf: '2026-11-25T17:51:09.427608765+00:00'
 inclusions:
   - cadena-markov
   - cadena-markov-homogenea

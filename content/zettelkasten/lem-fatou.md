@@ -12,7 +12,6 @@ references:
   - teo-convergencia-monotona
 backlinks:
   - lem-fatou-probabilidades
-  - m.1-fda-h2-e19
   - teo-convergencia-dominada
   - teo-esp-lp-banach
 projects:

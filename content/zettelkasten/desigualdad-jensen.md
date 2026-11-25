@@ -18,6 +18,7 @@ references:
 backlinks:
   - cor-orden-normas-lp
   - ejer-desigualdad-aritmetico-geometrica-jensen
+  - m.1-fda-e2
   - prop-inclusion-lp-esp-finito
 projects:
   - 3.2-probabilidad-ii

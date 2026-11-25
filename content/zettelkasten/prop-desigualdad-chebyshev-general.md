@@ -2,8 +2,8 @@
 title: 'Desigualdad de Chebyshev general'
 filename: 'prop-desigualdad-chebyshev-general'
 created: '2026-10-12T22:34:26.365075182+00:00'
-last_edit_date: '2026-10-13T10:08:08.644840198+00:00'
-last_build_date_pdf: '2026-10-13T16:52:33.417530480+00:00'
+last_edit_date: '2026-11-25T11:51:21.973618200+00:00'
+last_build_date_pdf: '2026-11-25T17:50:37.114387654+00:00'
 labels:
   - prop:desigualdad-chebyshev-general
 references:

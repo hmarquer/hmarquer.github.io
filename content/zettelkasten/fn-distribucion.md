@@ -2,8 +2,8 @@
 title: 'Fn distribucion'
 filename: 'fn-distribucion'
 created: '2026-09-27T07:06:41.479788751+00:00'
-last_edit_date: '2026-09-27T18:01:48.030000890+00:00'
-last_build_date_pdf: '2026-09-27T19:17:02.021510345+00:00'
+last_edit_date: '2026-11-25T11:51:21.970674341+00:00'
+last_build_date_pdf: '2026-11-25T17:50:46.605862187+00:00'
 labels:
   - defn:fn-distribucion
 references:
