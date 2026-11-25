@@ -2,7 +2,7 @@
 title: 'Todo conjunto de Borel es medible para la medida exterior de Hausdorff'
 filename: 'prop-con-borel-imp-medible-hausdorff'
 created: '2026-09-12T21:12:43.147557828+00:00'
-last_edit_date: '2026-11-24T11:18:59.481991999+00:00'
+last_edit_date: '2026-11-23T18:09:30.232620943+00:00'
 last_build_date_pdf: '2026-11-24T13:00:01.489952531+00:00'
 labels:
   - prop:con-borel-imp-medible-hausdorff

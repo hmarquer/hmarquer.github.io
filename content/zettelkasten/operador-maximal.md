@@ -2,7 +2,7 @@
 title: 'Operador maximal'
 filename: 'operador-maximal'
 created: '2026-10-23T10:52:28.217414315+00:00'
-last_edit_date: '2026-11-17T19:03:02.812056360+00:00'
+last_edit_date: '2026-11-20T17:05:07.029936681+00:00'
 last_build_date_pdf: '2026-11-20T18:55:44.986380424+00:00'
 labels:
   - defn:operador-maximal

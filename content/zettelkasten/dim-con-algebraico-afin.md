@@ -2,7 +2,7 @@
 title: 'Dimensión de una variedad algebraica afín'
 filename: 'dim-con-algebraico-afin'
 created: '2026-01-10 13:25:33.748667'
-last_edit_date: '2026-09-17T17:54:30.906319645+00:00'
+last_edit_date: '2026-09-20T15:23:19.054432388+00:00'
 last_build_date_pdf: '2026-09-20T16:34:35.344030229+00:00'
 labels:
   - defn:dim-con-algebraico-afin

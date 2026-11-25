@@ -2,7 +2,7 @@
 title: 'Propiedad cubridora $V_q$'
 filename: 'propiedad-cubridora-vq'
 created: '2026-10-27T18:20:25.802360745+00:00'
-last_edit_date: '2026-11-10T11:35:37.547079190+00:00'
+last_edit_date: '2026-11-05T01:05:39.173042146+00:00'
 last_build_date_pdf: '2026-11-10T19:08:26.322996857+00:00'
 labels:
   - defn:propiedad-cubridora-vq

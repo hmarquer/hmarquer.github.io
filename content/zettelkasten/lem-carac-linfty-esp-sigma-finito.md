@@ -2,7 +2,7 @@
 title: 'Lem carac linfty esp sigma finito'
 filename: 'lem-carac-linfty-esp-sigma-finito'
 created: '2026-11-04T14:09:49.111086548+00:00'
-last_edit_date: '2026-11-10T11:35:37.545079190+00:00'
+last_edit_date: '2026-11-04T14:09:52.659797966+00:00'
 last_build_date_pdf: '2026-11-10T19:08:56.264649273+00:00'
 labels:
   - lem:carac-linfty-esp-sigma-finito

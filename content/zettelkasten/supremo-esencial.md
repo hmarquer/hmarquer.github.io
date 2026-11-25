@@ -2,7 +2,7 @@
 title: 'Supremo esencial'
 filename: 'supremo-esencial'
 created: '2025-03-14 00:00:00'
-last_edit_date: '2026-11-03T17:30:26.208786877+00:00'
+last_edit_date: '2026-11-04T11:31:16.869046284+00:00'
 last_build_date_pdf: '2026-11-05T04:06:23.288164348+00:00'
 labels:
   - defn:supremo-esencial

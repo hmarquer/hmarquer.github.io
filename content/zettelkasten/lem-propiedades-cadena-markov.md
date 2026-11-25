@@ -2,7 +2,7 @@
 title: 'Lem propiedades cadena markov'
 filename: 'lem-propiedades-cadena-markov'
 created: '2026-11-20T01:56:03.178569958+00:00'
-last_edit_date: '2026-11-20T01:56:03.190679589+00:00'
+last_edit_date: '2026-11-20T17:05:07.029222266+00:00'
 last_build_date_pdf: '2026-11-20T18:55:58.269144677+00:00'
 labels:
   - lem:propiedades-cadena-markov
