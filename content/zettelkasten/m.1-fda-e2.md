@@ -2,8 +2,8 @@
 title: 'Fundamentos de análisis: Entrega 2'
 filename: 'm.1-fda-e2'
 created: '2026-11-01T13:06:16.553653223+00:00'
-last_edit_date: '2026-11-15T04:30:55.361286504+00:00'
-last_build_date_pdf: '2026-11-16T12:14:22.313465045+00:00'
+last_edit_date: '2026-11-25T03:46:56.096306756+00:00'
+last_build_date_pdf: '2026-11-25T03:47:06.368123790+00:00'
 labels:
   - h2e10
   - h2e12
@@ -23,6 +23,8 @@ references:
   - convergencia-serie
   - cuasinorma
   - desigualdad-holder
+  - desigualdad-jensen
+  - desigualdad-young
   - esp-banach
   - esp-lp
   - fn-convexa
@@ -32,6 +34,9 @@ references:
   - norma
   - norma-lp
   - norma-lp-debil
+  - prop-desigualdad-chebyshev-general
+  - prop-fn-convexa-imp-continua-interior
+  - teo-convergencia-dominada
   - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - m.1-fundamentos-de-analisis-matematico
@@ -50,6 +55,8 @@ tags:
 - [convergencia-serie](./convergencia-serie.md)
 - [cuasinorma](./cuasinorma.md)
 - [desigualdad-holder](./desigualdad-holder.md)
+- [desigualdad-jensen](./desigualdad-jensen.md)
+- [desigualdad-young](./desigualdad-young.md)
 - [esp-banach](./esp-banach.md)
 - [esp-lp](./esp-lp.md)
 - [fn-convexa](./fn-convexa.md)
@@ -59,5 +66,8 @@ tags:
 - [norma](./norma.md)
 - [norma-lp](./norma-lp.md)
 - [norma-lp-debil](./norma-lp-debil.md)
+- [prop-desigualdad-chebyshev-general](./prop-desigualdad-chebyshev-general.md)
+- [prop-fn-convexa-imp-continua-interior](./prop-fn-convexa-imp-continua-interior.md)
+- [teo-convergencia-dominada](./teo-convergencia-dominada.md)
 - [teo-esp-lp-debil-esp-cuasinormado](./teo-esp-lp-debil-esp-cuasinormado.md)
 

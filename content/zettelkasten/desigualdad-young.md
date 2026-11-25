@@ -10,6 +10,7 @@ references:
   - exponente-conjugado
 backlinks:
   - desigualdad-holder
+  - m.1-fda-e2
 projects:
   - 3.2-probabilidad-ii
   - 4.1-variable-real

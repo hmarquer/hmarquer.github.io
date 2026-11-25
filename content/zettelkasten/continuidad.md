@@ -59,6 +59,7 @@ backlinks:
   - prop-fn-compleja-derivable
   - prop-fn-continua-cociente-iff-composicion-continua
   - prop-fn-convexa
+  - prop-fn-convexa-imp-continua-interior
   - prop-fn-exp-compleja-igualdad-fn-continuas
   - prop-funcional-lineal-continuo-prod-interno
   - prop-norma-continua

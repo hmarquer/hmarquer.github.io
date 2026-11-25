@@ -16,6 +16,7 @@ references:
 backlinks:
   - m.1-fda-e2
   - teo-esp-lp-banach
+  - teo-esp-lp-debil-esp-cuasinormado
 projects:
   - 3.2-ecuaciones-en-derivadas-parciales
   - 4.1-variable-real

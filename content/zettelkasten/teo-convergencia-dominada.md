@@ -19,6 +19,7 @@ backlinks:
   - lem-fn-integrable-iff-lim-colas-0
   - lem-transformada-fourier-continua
   - ley-debil-grandes-numeros
+  - m.1-fda-e2
   - obs-propiedades-dilatacion-isotropica
   - prop-convergencia-puntual-dominada-imp-lp
   - prop-fn-distribucion-var-aleatoria
