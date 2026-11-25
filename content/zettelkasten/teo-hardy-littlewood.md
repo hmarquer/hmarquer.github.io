@@ -2,7 +2,7 @@
 title: 'Teorema de Hardy-Littlewood'
 filename: 'teo-hardy-littlewood'
 created: '2026-01-12 10:26:08.762242'
-last_edit_date: '2026-10-27T17:45:45.063186352+00:00'
+last_edit_date: '2026-10-30T09:20:47.089921871+00:00'
 last_build_date_pdf: '2026-10-30T21:27:21.110181682+00:00'
 labels:
   - dem:teo-hardy-littlewood:intervalo

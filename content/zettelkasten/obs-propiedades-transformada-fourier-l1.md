@@ -2,7 +2,7 @@
 title: 'Obs propiedades transformada fourier l1'
 filename: 'obs-propiedades-transformada-fourier-l1'
 created: '2026-01-13 10:43:14.098770'
-last_edit_date: '2026-11-23T13:29:11.928928292+00:00'
+last_edit_date: '2026-11-23T18:07:46.411201789+00:00'
 last_build_date_pdf: '2026-11-23T19:12:00.672683018+00:00'
 labels:
   - obs:propiedades-transformada-fourier-l1

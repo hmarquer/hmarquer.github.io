@@ -2,7 +2,7 @@
 title: 'Teorema de Baire'
 filename: 'teo-baire'
 created: '2025-12-03 00:00:00'
-last_edit_date: '2026-09-06T15:26:21.240662190+00:00'
+last_edit_date: '2026-09-03T09:44:22.731791843+00:00'
 last_build_date_pdf: '2026-09-15T23:12:53.225721695+00:00'
 labels:
   - teo:baire

@@ -2,7 +2,7 @@
 title: 'Lem esp hausdorff imp separacion compacto pnt'
 filename: 'lem-esp-hausdorff-imp-separacion-compacto-pnt'
 created: '2026-10-22T17:50:10.484904082+00:00'
-last_edit_date: '2026-10-22T17:50:34.342165297+00:00'
+last_edit_date: '2026-10-23T09:57:56.175348288+00:00'
 last_build_date_pdf: '2026-10-23T10:00:24.283688192+00:00'
 labels:
   - lem:esp-hausdorff-imp-separacion-compacto-pnt
