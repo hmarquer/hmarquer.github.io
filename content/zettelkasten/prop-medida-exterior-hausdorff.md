@@ -2,7 +2,7 @@
 title: 'Medida exterior de Hausdorff'
 filename: 'prop-medida-exterior-hausdorff'
 created: '2026-09-12T13:01:23.253391502+00:00'
-last_edit_date: '2026-10-06T01:26:01.012845688+00:00'
+last_edit_date: '2026-10-03T22:35:55.650047456+00:00'
 last_build_date_pdf: '2026-10-10T04:37:11.424711534+00:00'
 labels:
   - prop:medida-exterior-hausdorff

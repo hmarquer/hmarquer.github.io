@@ -2,7 +2,7 @@
 title: 'Teorema de diferenciación de Lebesgue en $\mathcal{L}^1$ para casi todo punto'
 filename: 'lem-diferenciacion-lebesgue-l1-imp-casi-toda-parte'
 created: '2026-01-12 10:30:49.717248'
-last_edit_date: '2026-09-03T09:44:22.629354252+00:00'
+last_edit_date: '2026-09-06T15:26:21.227660341+00:00'
 last_build_date_pdf: '2026-09-15T23:12:46.581703152+00:00'
 labels:
   - dem:diferenciacion-lebesgue-l1-imp-casi-toda-parte:eq1

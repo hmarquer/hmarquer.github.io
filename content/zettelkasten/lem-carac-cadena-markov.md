@@ -2,7 +2,7 @@
 title: 'Caracterización de una cadena de Markov'
 filename: 'lem-carac-cadena-markov'
 created: '2026-11-17T15:48:14.222096108+00:00'
-last_edit_date: '2026-11-20T17:05:07.027754725+00:00'
+last_edit_date: '2026-11-19T23:51:06.139224072+00:00'
 last_build_date_pdf: '2026-11-20T18:56:19.758947556+00:00'
 labels:
   - dem:carac-cadena-markov:positiva

@@ -2,7 +2,7 @@
 title: 'Prop complemento ortogonal subespacio cerrado'
 filename: 'prop-complemento-ortogonal-subesp-cerrado'
 created: '2025-11-12 00:00:00'
-last_edit_date: '2026-09-03T09:44:22.686300659+00:00'
+last_edit_date: '2026-09-06T15:26:21.234661336+00:00'
 last_build_date_pdf: '2026-09-15T23:12:56.836694913+00:00'
 labels:
   - prop:complemento-ortogonal-subesp-cerrado

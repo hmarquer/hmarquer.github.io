@@ -2,7 +2,7 @@
 title: 'Lem factores medibles esperanza condicional'
 filename: 'lem-factores-medibles-esperanza-condicional'
 created: '2026-11-20T01:40:53.946027790+00:00'
-last_edit_date: '2026-11-20T17:05:07.028629160+00:00'
+last_edit_date: '2026-11-20T01:40:53.959428537+00:00'
 last_build_date_pdf: '2026-11-20T18:56:12.388612885+00:00'
 labels:
   - dem:factores-medibles-esperanza-condicional:general
